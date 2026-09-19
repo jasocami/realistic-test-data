@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "manufacturer_id": 7,
+    "name": "Belmonte Corso",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2011,
+    "year_to": 2014,
+    "base_price": 59100.0
+  },
+  {
+    "id": 2,
+    "manufacturer_id": 10,
+    "name": "Ondara Mistral",
+    "segment": "A",
+    "body_type": "hatchback",
+    "year_from": 2013,
+    "year_to": 2018,
+    "base_price": 14900.0
+  },
+  {
+    "id": 3,
+    "manufacturer_id": 2,
+    "name": "Velmar Espiga",
+    "segment": "MPV",
+    "body_type": "MPV",
+    "year_from": 2014,
+    "year_to": 2021,
+    "base_price": 24700.0
+  },
+  {
+    "id": 4,
+    "manufacturer_id": 10,
+    "name": "Ondara Tramonte",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2015,
+    "year_to": 2023,
+    "base_price": 35800.0
+  },
+  {
+    "id": 5,
+    "manufacturer_id": 6,
+    "name": "Aurion Lumen",
+    "segment": "A",
+    "body_type": "hatchback",
+    "year_from": 2010,
+    "year_to": 2017,
+    "base_price": 13500.0
+  },
+  {
+    "id": 6,
+    "manufacturer_id": 3,
+    "name": "Corvera Duna",
+    "segment": "C",
+    "body_type": "saloon",
+    "year_from": 2010,
+    "year_to": null,
+    "base_price": 26600.0
+  },
+  {
+    "id": 7,
+    "manufacturer_id": 7,
+    "name": "Belmonte Cielo",
+    "segment": "B",
+    "body_type": "hatchback",
+    "year_from": 2022,
+    "year_to": 2025,
+    "base_price": 15000.0
+  },
+  {
+    "id": 8,
+    "manufacturer_id": 2,
+    "name": "Velmar Astro",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2010,
+    "year_to": 2014,
+    "base_price": 47600.0
+  },
+  {
+    "id": 9,
+    "manufacturer_id": 12,
+    "name": "Solane Tramonte",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2022,
+    "year_to": 2025,
+    "base_price": 47600.0
+  },
+  {
+    "id": 10,
+    "manufacturer_id": 4,
+    "name": "Nordika Sierra",
+    "segment": "C",
+    "body_type": "estate",
+    "year_from": 2019,
+    "year_to": 2023,
+    "base_price": 26100.0
+  },
+  {
+    "id": 11,
+    "manufacturer_id": 7,
+    "name": "Belmonte Aria",
+    "segment": "C",
+    "body_type": "saloon",
+    "year_from": 2011,
+    "year_to": 2016,
+    "base_price": 23300.0
+  },
+  {
+    "id": 12,
+    "manufacturer_id": 3,
+    "name": "Corvera Lince",
+    "segment": "B",
+    "body_type": "hatchback",
+    "year_from": 2012,
+    "year_to": null,
+    "base_price": 19800.0
+  },
+  {
+    "id": 13,
+    "manufacturer_id": 1,
+    "name": "Altaria Aria",
+    "segment": "C",
+    "body_type": "saloon",
+    "year_from": 2015,
+    "year_to": null,
+    "base_price": 24000.0
+  },
+  {
+    "id": 14,
+    "manufacturer_id": 8,
+    "name": "Kestrel Aria",
+    "segment": "E",
+    "body_type": "coupe",
+    "year_from": 2022,
+    "year_to": 2025,
+    "base_price": 81800.0
+  },
+  {
+    "id": 15,
+    "manufacturer_id": 8,
+    "name": "Kestrel Verde",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2012,
+    "year_to": 2021,
+    "base_price": 51000.0
+  },
+  {
+    "id": 16,
+    "manufacturer_id": 6,
+    "name": "Aurion Aria",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2022,
+    "year_to": 2025,
+    "base_price": 49000.0
+  },
+  {
+    "id": 17,
+    "manufacturer_id": 7,
+    "name": "Belmonte Lince",
+    "segment": "A",
+    "body_type": "hatchback",
+    "year_from": 2022,
+    "year_to": 2025,
+    "base_price": 14700.0
+  },
+  {
+    "id": 18,
+    "manufacturer_id": 12,
+    "name": "Solane Bruma",
+    "segment": "C",
+    "body_type": "saloon",
+    "year_from": 2017,
+    "year_to": 2021,
+    "base_price": 26900.0
+  },
+  {
+    "id": 19,
+    "manufacturer_id": 2,
+    "name": "Velmar Vento",
+    "segment": "C",
+    "body_type": "saloon",
+    "year_from": 2016,
+    "year_to": 2020,
+    "base_price": 23100.0
+  },
+  {
+    "id": 20,
+    "manufacturer_id": 4,
+    "name": "Nordika Grava",
+    "segment": "B",
+    "body_type": "hatchback",
+    "year_from": 2017,
+    "year_to": 2025,
+    "base_price": 22800.0
+  },
+  {
+    "id": 21,
+    "manufacturer_id": 12,
+    "name": "Solane Astro",
+    "segment": "C",
+    "body_type": "estate",
+    "year_from": 2011,
+    "year_to": 2017,
+    "base_price": 21100.0
+  },
+  {
+    "id": 22,
+    "manufacturer_id": 10,
+    "name": "Ondara Bruma",
+    "segment": "D",
+    "body_type": "estate",
+    "year_from": 2014,
+    "year_to": null,
+    "base_price": 45900.0
+  },
+  {
+    "id": 23,
+    "manufacturer_id": 8,
+    "name": "Kestrel Nevada",
+    "segment": "B",
+    "body_type": "estate",
+    "year_from": 2018,
+    "year_to": 2025,
+    "base_price": 17800.0
+  },
+  {
+    "id": 24,
+    "manufacturer_id": 2,
+    "name": "Velmar Ribera",
+    "segment": "B",
+    "body_type": "estate",
+    "year_from": 2020,
+    "year_to": 2023,
+    "base_price": 15900.0
+  },
+  {
+    "id": 25,
+    "manufacturer_id": 7,
+    "name": "Belmonte Nevada 3",
+    "segment": "A",
+    "body_type": "hatchback",
+    "year_from": 2016,
+    "year_to": null,
+    "base_price": 13100.0
+  },
+  {
+    "id": 26,
+    "manufacturer_id": 9,
+    "name": "Marova Duna",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2013,
+    "year_to": 2022,
+    "base_price": 49300.0
+  },
+  {
+    "id": 27,
+    "manufacturer_id": 3,
+    "name": "Corvera Cielo 8",
+    "segment": "B",
+    "body_type": "estate",
+    "year_from": 2011,
+    "year_to": null,
+    "base_price": 22000.0
+  },
+  {
+    "id": 28,
+    "manufacturer_id": 8,
+    "name": "Kestrel Cobalto",
+    "segment": "MPV",
+    "body_type": "MPV",
+    "year_from": 2014,
+    "year_to": 2021,
+    "base_price": 35700.0
+  },
+  {
+    "id": 29,
+    "manufacturer_id": 12,
+    "name": "Solane Grava 4",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2012,
+    "year_to": null,
+    "base_price": 25100.0
+  },
+  {
+    "id": 30,
+    "manufacturer_id": 6,
+    "name": "Aurion Corso",
+    "segment": "B",
+    "body_type": "estate",
+    "year_from": 2022,
+    "year_to": 2025,
+    "base_price": 19700.0
+  },
+  {
+    "id": 31,
+    "manufacturer_id": 5,
+    "name": "Tessera Alba",
+    "segment": "E",
+    "body_type": "saloon",
+    "year_from": 2020,
+    "year_to": null,
+    "base_price": 79500.0
+  },
+  {
+    "id": 32,
+    "manufacturer_id": 7,
+    "name": "Belmonte Delta 3",
+    "segment": "E",
+    "body_type": "coupe",
+    "year_from": 2014,
+    "year_to": null,
+    "base_price": 58500.0
+  },
+  {
+    "id": 33,
+    "manufacturer_id": 5,
+    "name": "Tessera Corso",
+    "segment": "Van",
+    "body_type": "van",
+    "year_from": 2014,
+    "year_to": null,
+    "base_price": 22600.0
+  },
+  {
+    "id": 34,
+    "manufacturer_id": 11,
+    "name": "Rivenna Marea",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2013,
+    "year_to": 2016,
+    "base_price": 33500.0
+  },
+  {
+    "id": 35,
+    "manufacturer_id": 6,
+    "name": "Aurion Bruma",
+    "segment": "D",
+    "body_type": "estate",
+    "year_from": 2021,
+    "year_to": 2025,
+    "base_price": 45900.0
+  },
+  {
+    "id": 36,
+    "manufacturer_id": 3,
+    "name": "Corvera Horizonte",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2019,
+    "year_to": 2024,
+    "base_price": 25000.0
+  },
+  {
+    "id": 37,
+    "manufacturer_id": 11,
+    "name": "Rivenna Grava",
+    "segment": "C",
+    "body_type": "hatchback",
+    "year_from": 2017,
+    "year_to": 2022,
+    "base_price": 27900.0
+  },
+  {
+    "id": 38,
+    "manufacturer_id": 7,
+    "name": "Belmonte Zenit 2",
+    "segment": "C",
+    "body_type": "hatchback",
+    "year_from": 2021,
+    "year_to": null,
+    "base_price": 30100.0
+  },
+  {
+    "id": 39,
+    "manufacturer_id": 12,
+    "name": "Solane Sierra",
+    "segment": "A",
+    "body_type": "hatchback",
+    "year_from": 2016,
+    "year_to": 2025,
+    "base_price": 11000.0
+  },
+  {
+    "id": 40,
+    "manufacturer_id": 2,
+    "name": "Velmar Nevada",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2017,
+    "year_to": null,
+    "base_price": 57500.0
+  },
+  {
+    "id": 41,
+    "manufacturer_id": 3,
+    "name": "Corvera Orion",
+    "segment": "B",
+    "body_type": "estate",
+    "year_from": 2022,
+    "year_to": null,
+    "base_price": 18200.0
+  },
+  {
+    "id": 42,
+    "manufacturer_id": 2,
+    "name": "Velmar Zenit",
+    "segment": "B",
+    "body_type": "estate",
+    "year_from": 2010,
+    "year_to": 2013,
+    "base_price": 16400.0
+  },
+  {
+    "id": 43,
+    "manufacturer_id": 1,
+    "name": "Altaria Horizonte",
+    "segment": "A",
+    "body_type": "hatchback",
+    "year_from": 2015,
+    "year_to": 2020,
+    "base_price": 12100.0
+  },
+  {
+    "id": 44,
+    "manufacturer_id": 5,
+    "name": "Tessera Espiga",
+    "segment": "C",
+    "body_type": "estate",
+    "year_from": 2011,
+    "year_to": 2015,
+    "base_price": 23400.0
+  },
+  {
+    "id": 45,
+    "manufacturer_id": 11,
+    "name": "Rivenna Cielo",
+    "segment": "C",
+    "body_type": "saloon",
+    "year_from": 2022,
+    "year_to": 2025,
+    "base_price": 29300.0
+  },
+  {
+    "id": 46,
+    "manufacturer_id": 12,
+    "name": "Solane Aria",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2022,
+    "year_to": null,
+    "base_price": 50800.0
+  },
+  {
+    "id": 47,
+    "manufacturer_id": 4,
+    "name": "Nordika Marea",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2013,
+    "year_to": null,
+    "base_price": 49100.0
+  },
+  {
+    "id": 48,
+    "manufacturer_id": 6,
+    "name": "Aurion Delta",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2018,
+    "year_to": 2025,
+    "base_price": 46000.0
+  },
+  {
+    "id": 49,
+    "manufacturer_id": 5,
+    "name": "Tessera Cobalto",
+    "segment": "C",
+    "body_type": "estate",
+    "year_from": 2015,
+    "year_to": 2021,
+    "base_price": 31700.0
+  },
+  {
+    "id": 50,
+    "manufacturer_id": 7,
+    "name": "Belmonte Nevada",
+    "segment": "B",
+    "body_type": "estate",
+    "year_from": 2012,
+    "year_to": null,
+    "base_price": 16200.0
+  },
+  {
+    "id": 51,
+    "manufacturer_id": 9,
+    "name": "Marova Sierra",
+    "segment": "C",
+    "body_type": "saloon",
+    "year_from": 2021,
+    "year_to": 2025,
+    "base_price": 21300.0
+  },
+  {
+    "id": 52,
+    "manufacturer_id": 7,
+    "name": "Belmonte Cobalto 4",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2022,
+    "year_to": 2025,
+    "base_price": 55900.0
+  },
+  {
+    "id": 53,
+    "manufacturer_id": 11,
+    "name": "Rivenna Faro",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2021,
+    "year_to": null,
+    "base_price": 49800.0
+  },
+  {
+    "id": 54,
+    "manufacturer_id": 2,
+    "name": "Velmar Fuego",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2014,
+    "year_to": 2018,
+    "base_price": 30100.0
+  },
+  {
+    "id": 55,
+    "manufacturer_id": 1,
+    "name": "Altaria Cobalto",
+    "segment": "B",
+    "body_type": "hatchback",
+    "year_from": 2014,
+    "year_to": 2022,
+    "base_price": 18200.0
+  },
+  {
+    "id": 56,
+    "manufacturer_id": 11,
+    "name": "Rivenna Orion",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2017,
+    "year_to": null,
+    "base_price": 51700.0
+  },
+  {
+    "id": 57,
+    "manufacturer_id": 3,
+    "name": "Corvera Mistral",
+    "segment": "C",
+    "body_type": "hatchback",
+    "year_from": 2020,
+    "year_to": null,
+    "base_price": 21700.0
+  },
+  {
+    "id": 58,
+    "manufacturer_id": 11,
+    "name": "Rivenna Zenit",
+    "segment": "B",
+    "body_type": "estate",
+    "year_from": 2010,
+    "year_to": null,
+    "base_price": 19200.0
+  },
+  {
+    "id": 59,
+    "manufacturer_id": 2,
+    "name": "Velmar Duna",
+    "segment": "B",
+    "body_type": "estate",
+    "year_from": 2019,
+    "year_to": 2025,
+    "base_price": 17500.0
+  },
+  {
+    "id": 60,
+    "manufacturer_id": 10,
+    "name": "Ondara Ribera",
+    "segment": "B",
+    "body_type": "estate",
+    "year_from": 2012,
+    "year_to": null,
+    "base_price": 20400.0
+  },
+  {
+    "id": 61,
+    "manufacturer_id": 2,
+    "name": "Velmar Ribera 3",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2021,
+    "year_to": 2025,
+    "base_price": 56800.0
+  },
+  {
+    "id": 62,
+    "manufacturer_id": 4,
+    "name": "Nordika Horizonte 8",
+    "segment": "Van",
+    "body_type": "van",
+    "year_from": 2016,
+    "year_to": 2025,
+    "base_price": 29400.0
+  },
+  {
+    "id": 63,
+    "manufacturer_id": 12,
+    "name": "Solane Delta",
+    "segment": "C",
+    "body_type": "hatchback",
+    "year_from": 2012,
+    "year_to": 2021,
+    "base_price": 31800.0
+  },
+  {
+    "id": 64,
+    "manufacturer_id": 6,
+    "name": "Aurion Sendero",
+    "segment": "D",
+    "body_type": "estate",
+    "year_from": 2010,
+    "year_to": null,
+    "base_price": 44500.0
+  },
+  {
+    "id": 65,
+    "manufacturer_id": 10,
+    "name": "Ondara Sendero",
+    "segment": "A",
+    "body_type": "hatchback",
+    "year_from": 2020,
+    "year_to": 2024,
+    "base_price": 11900.0
+  },
+  {
+    "id": 66,
+    "manufacturer_id": 3,
+    "name": "Corvera Bruma",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2020,
+    "year_to": null,
+    "base_price": 32900.0
+  },
+  {
+    "id": 67,
+    "manufacturer_id": 3,
+    "name": "Corvera Lumen",
+    "segment": "B",
+    "body_type": "estate",
+    "year_from": 2019,
+    "year_to": null,
+    "base_price": 22100.0
+  },
+  {
+    "id": 68,
+    "manufacturer_id": 9,
+    "name": "Marova Faro",
+    "segment": "B",
+    "body_type": "estate",
+    "year_from": 2014,
+    "year_to": 2019,
+    "base_price": 21100.0
+  },
+  {
+    "id": 69,
+    "manufacturer_id": 3,
+    "name": "Corvera Tramonte",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2017,
+    "year_to": 2022,
+    "base_price": 25500.0
+  },
+  {
+    "id": 70,
+    "manufacturer_id": 7,
+    "name": "Belmonte Duna",
+    "segment": "SUV",
+    "body_type": "SUV",
+    "year_from": 2011,
+    "year_to": null,
+    "base_price": 47100.0
+  }
+]

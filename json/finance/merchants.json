@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 1,
+    "name": "Electro Buenavista",
+    "mcc": "4111",
+    "category": "Local Commuter Transport",
+    "city": "Ciudad Real",
+    "country": "IT"
+  },
+  {
+    "id": 2,
+    "name": "Casa Central",
+    "mcc": "5912",
+    "category": "Drug Stores and Pharmacies",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 3,
+    "name": "Supermercado del Sol",
+    "mcc": "5732",
+    "category": "Electronics Stores",
+    "city": "Málaga",
+    "country": "FR"
+  },
+  {
+    "id": 4,
+    "name": "Librería Los Arcos",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Jerez de la Frontera",
+    "country": "ES"
+  },
+  {
+    "id": 5,
+    "name": "Electro Nuevo",
+    "mcc": "5661",
+    "category": "Shoe Stores",
+    "city": "Zaragoza",
+    "country": "ES"
+  },
+  {
+    "id": 6,
+    "name": "El Rincón de San Marcos",
+    "mcc": "7230",
+    "category": "Beauty and Barber Shops",
+    "city": "Bilbao",
+    "country": "ES"
+  },
+  {
+    "id": 7,
+    "name": "Peluquería Los Arcos",
+    "mcc": "6011",
+    "category": "Automated Cash Disbursements",
+    "city": "Vigo",
+    "country": "ES"
+  },
+  {
+    "id": 8,
+    "name": "Supermercado Moderno",
+    "mcc": "4900",
+    "category": "Utilities: Electric, Gas, Water",
+    "city": "Bilbao",
+    "country": "ES"
+  },
+  {
+    "id": 9,
+    "name": "Peluquería del Puerto",
+    "mcc": "5999",
+    "category": "Miscellaneous and Specialty Retail",
+    "city": "Málaga",
+    "country": "PT"
+  },
+  {
+    "id": 10,
+    "name": "Panadería La Estrella",
+    "mcc": "5921",
+    "category": "Package Stores, Beer, Wine, Liquor",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 11,
+    "name": "La Tienda de Moderno",
+    "mcc": "7011",
+    "category": "Hotels, Motels, Resorts",
+    "city": "Murcia",
+    "country": "ES"
+  },
+  {
+    "id": 12,
+    "name": "Muebles La Esquina",
+    "mcc": "5999",
+    "category": "Miscellaneous and Specialty Retail",
+    "city": "Santa Cruz de Tenerife",
+    "country": "ES"
+  },
+  {
+    "id": 13,
+    "name": "Restaurante San Marcos",
+    "mcc": "4814",
+    "category": "Telecommunication Services",
+    "city": "Jaén",
+    "country": "ES"
+  },
+  {
+    "id": 14,
+    "name": "Óptica Moderno",
+    "mcc": "5999",
+    "category": "Miscellaneous and Specialty Retail",
+    "city": "Getafe",
+    "country": "PT"
+  },
+  {
+    "id": 15,
+    "name": "Electro Los Arcos",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Zaragoza",
+    "country": "ES"
+  },
+  {
+    "id": 16,
+    "name": "La Tienda de Los Arcos",
+    "mcc": "5691",
+    "category": "Men's and Women's Clothing Stores",
+    "city": "Sevilla",
+    "country": "ES"
+  },
+  {
+    "id": 17,
+    "name": "Casa Real",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 18,
+    "name": "Supermercado La Plaza",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 19,
+    "name": "Taller Los Arcos",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Cartagena",
+    "country": "DE"
+  },
+  {
+    "id": 20,
+    "name": "La Tienda de Buenavista",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Terrassa",
+    "country": "ES"
+  },
+  {
+    "id": 21,
+    "name": "Restaurante Moderno",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "León",
+    "country": "ES"
+  },
+  {
+    "id": 22,
+    "name": "Peluquería del Carmen",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Valladolid",
+    "country": "ES"
+  },
+  {
+    "id": 23,
+    "name": "Cafetería Gran Vía",
+    "mcc": "4121",
+    "category": "Taxicabs and Limousines",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 24,
+    "name": "Electro del Puerto",
+    "mcc": "5921",
+    "category": "Package Stores, Beer, Wine, Liquor",
+    "city": "Valencia",
+    "country": "ES"
+  },
+  {
+    "id": 25,
+    "name": "Supermercado Los Arcos",
+    "mcc": "6011",
+    "category": "Automated Cash Disbursements",
+    "city": "Almería",
+    "country": "ES"
+  },
+  {
+    "id": 26,
+    "name": "La Tienda de Gran Vía",
+    "mcc": "4111",
+    "category": "Local Commuter Transport",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 27,
+    "name": "La Tienda de San Marcos",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 28,
+    "name": "Panadería Nuevo",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Ciudad Real",
+    "country": "ES"
+  },
+  {
+    "id": 29,
+    "name": "Casa Nuevo",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 30,
+    "name": "La Tienda de Buenavista",
+    "mcc": "4121",
+    "category": "Taxicabs and Limousines",
+    "city": "Pamplona",
+    "country": "ES"
+  },
+  {
+    "id": 31,
+    "name": "Muebles La Plaza",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 32,
+    "name": "Casa Nuevo",
+    "mcc": "7011",
+    "category": "Hotels, Motels, Resorts",
+    "city": "Madrid",
+    "country": "DE"
+  },
+  {
+    "id": 33,
+    "name": "Librería del Puerto",
+    "mcc": "5921",
+    "category": "Package Stores, Beer, Wine, Liquor",
+    "city": "L'Hospitalet de Llobregat",
+    "country": "PT"
+  },
+  {
+    "id": 34,
+    "name": "Cafetería del Sol",
+    "mcc": "6011",
+    "category": "Automated Cash Disbursements",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 35,
+    "name": "Cafetería Real",
+    "mcc": "5942",
+    "category": "Book Stores",
+    "city": "Alicante",
+    "country": "ES"
+  },
+  {
+    "id": 36,
+    "name": "Peluquería Gran Vía",
+    "mcc": "4121",
+    "category": "Taxicabs and Limousines",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "ES"
+  },
+  {
+    "id": 37,
+    "name": "Bar del Sol",
+    "mcc": "5499",
+    "category": "Miscellaneous Food Stores",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 38,
+    "name": "Óptica del Puerto",
+    "mcc": "5499",
+    "category": "Miscellaneous Food Stores",
+    "city": "Valencia",
+    "country": "ES"
+  },
+  {
+    "id": 39,
+    "name": "La Tienda de Real",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Murcia",
+    "country": "ES"
+  },
+  {
+    "id": 40,
+    "name": "El Rincón de Real",
+    "mcc": "5912",
+    "category": "Drug Stores and Pharmacies",
+    "city": "Vitoria-Gasteiz",
+    "country": "PT"
+  },
+  {
+    "id": 41,
+    "name": "Supermercado El Faro",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Córdoba",
+    "country": "ES"
+  },
+  {
+    "id": 42,
+    "name": "El Rincón de Los Arcos",
+    "mcc": "8011",
+    "category": "Doctors and Physicians",
+    "city": "Valencia",
+    "country": "ES"
+  },
+  {
+    "id": 43,
+    "name": "Cafetería El Faro",
+    "mcc": "5661",
+    "category": "Shoe Stores",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "GB"
+  },
+  {
+    "id": 44,
+    "name": "Librería San Marcos",
+    "mcc": "5661",
+    "category": "Shoe Stores",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 45,
+    "name": "La Tienda de del Sol",
+    "mcc": "5499",
+    "category": "Miscellaneous Food Stores",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 46,
+    "name": "El Rincón de La Estrella",
+    "mcc": "4111",
+    "category": "Local Commuter Transport",
+    "city": "Córdoba",
+    "country": "ES"
+  },
+  {
+    "id": 47,
+    "name": "Bar Nuevo",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Zaragoza",
+    "country": "ES"
+  },
+  {
+    "id": 48,
+    "name": "Cafetería del Carmen",
+    "mcc": "4121",
+    "category": "Taxicabs and Limousines",
+    "city": "Sevilla",
+    "country": "ES"
+  },
+  {
+    "id": 49,
+    "name": "La Tienda de Los Arcos",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "ES"
+  },
+  {
+    "id": 50,
+    "name": "Óptica del Sol",
+    "mcc": "5691",
+    "category": "Men's and Women's Clothing Stores",
+    "city": "Pamplona",
+    "country": "ES"
+  },
+  {
+    "id": 51,
+    "name": "Muebles Los Arcos",
+    "mcc": "5999",
+    "category": "Miscellaneous and Specialty Retail",
+    "city": "Murcia",
+    "country": "ES"
+  },
+  {
+    "id": 52,
+    "name": "Restaurante Nuevo",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Lleida",
+    "country": "ES"
+  },
+  {
+    "id": 53,
+    "name": "Librería del Carmen",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Salamanca",
+    "country": "IT"
+  },
+  {
+    "id": 54,
+    "name": "Electro del Puerto",
+    "mcc": "5912",
+    "category": "Drug Stores and Pharmacies",
+    "city": "Valencia",
+    "country": "ES"
+  },
+  {
+    "id": 55,
+    "name": "Cafetería Real",
+    "mcc": "5999",
+    "category": "Miscellaneous and Specialty Retail",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 56,
+    "name": "Bar Real",
+    "mcc": "7994",
+    "category": "Video Game Arcades",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 57,
+    "name": "Óptica El Faro",
+    "mcc": "5691",
+    "category": "Men's and Women's Clothing Stores",
+    "city": "Alicante",
+    "country": "ES"
+  },
+  {
+    "id": 58,
+    "name": "Óptica Moderno",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Badalona",
+    "country": "ES"
+  },
+  {
+    "id": 59,
+    "name": "La Tienda de La Estrella",
+    "mcc": "4900",
+    "category": "Utilities: Electric, Gas, Water",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 60,
+    "name": "Farmacia El Faro",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 61,
+    "name": "Panadería La Plaza",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Lleida",
+    "country": "ES"
+  },
+  {
+    "id": 62,
+    "name": "Peluquería del Puerto",
+    "mcc": "4111",
+    "category": "Local Commuter Transport",
+    "city": "Logroño",
+    "country": "ES"
+  },
+  {
+    "id": 63,
+    "name": "Farmacia Los Arcos",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 64,
+    "name": "La Tienda de San Marcos",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "L'Hospitalet de Llobregat",
+    "country": "ES"
+  },
+  {
+    "id": 65,
+    "name": "Librería El Faro",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Vigo",
+    "country": "ES"
+  },
+  {
+    "id": 66,
+    "name": "Óptica La Esquina",
+    "mcc": "5661",
+    "category": "Shoe Stores",
+    "city": "Sevilla",
+    "country": "ES"
+  },
+  {
+    "id": 67,
+    "name": "Peluquería Buenavista",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Ciudad Real",
+    "country": "ES"
+  },
+  {
+    "id": 68,
+    "name": "El Rincón de Gran Vía",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Segovia",
+    "country": "ES"
+  },
+  {
+    "id": 69,
+    "name": "Peluquería La Esquina",
+    "mcc": "7011",
+    "category": "Hotels, Motels, Resorts",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 70,
+    "name": "El Rincón de La Estrella",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Sevilla",
+    "country": "ES"
+  },
+  {
+    "id": 71,
+    "name": "Óptica Nuevo",
+    "mcc": "5691",
+    "category": "Men's and Women's Clothing Stores",
+    "city": "Valencia",
+    "country": "ES"
+  },
+  {
+    "id": 72,
+    "name": "Óptica La Plaza",
+    "mcc": "4900",
+    "category": "Utilities: Electric, Gas, Water",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "ES"
+  },
+  {
+    "id": 73,
+    "name": "Muebles Moderno",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 74,
+    "name": "Electro Los Arcos",
+    "mcc": "6011",
+    "category": "Automated Cash Disbursements",
+    "city": "Cartagena",
+    "country": "ES"
+  },
+  {
+    "id": 75,
+    "name": "Taller La Esquina",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 76,
+    "name": "Librería San Marcos",
+    "mcc": "8011",
+    "category": "Doctors and Physicians",
+    "city": "Burgos",
+    "country": "ES"
+  },
+  {
+    "id": 77,
+    "name": "Bar La Estrella",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Almería",
+    "country": "ES"
+  },
+  {
+    "id": 78,
+    "name": "La Tienda de El Faro",
+    "mcc": "5732",
+    "category": "Electronics Stores",
+    "city": "Soria",
+    "country": "ES"
+  },
+  {
+    "id": 79,
+    "name": "Casa Central",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Guadalajara",
+    "country": "ES"
+  },
+  {
+    "id": 80,
+    "name": "La Tienda de La Plaza",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 81,
+    "name": "Casa Los Arcos",
+    "mcc": "7011",
+    "category": "Hotels, Motels, Resorts",
+    "city": "Santander",
+    "country": "PT"
+  },
+  {
+    "id": 82,
+    "name": "Electro Moderno",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 83,
+    "name": "Peluquería Los Arcos",
+    "mcc": "6011",
+    "category": "Automated Cash Disbursements",
+    "city": "Cuenca",
+    "country": "ES"
+  },
+  {
+    "id": 84,
+    "name": "Cafetería Los Arcos",
+    "mcc": "5732",
+    "category": "Electronics Stores",
+    "city": "San Sebastián",
+    "country": "PT"
+  },
+  {
+    "id": 85,
+    "name": "Electro Central",
+    "mcc": "4900",
+    "category": "Utilities: Electric, Gas, Water",
+    "city": "Palma",
+    "country": "ES"
+  },
+  {
+    "id": 86,
+    "name": "Panadería El Faro",
+    "mcc": "4900",
+    "category": "Utilities: Electric, Gas, Water",
+    "city": "Salamanca",
+    "country": "PT"
+  },
+  {
+    "id": 87,
+    "name": "La Tienda de La Esquina",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Sabadell",
+    "country": "ES"
+  },
+  {
+    "id": 88,
+    "name": "Taller San Marcos",
+    "mcc": "7832",
+    "category": "Motion Picture Theaters",
+    "city": "Cáceres",
+    "country": "ES"
+  },
+  {
+    "id": 89,
+    "name": "Restaurante del Sol",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Elche",
+    "country": "ES"
+  },
+  {
+    "id": 90,
+    "name": "La Tienda de Los Arcos",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Badalona",
+    "country": "ES"
+  },
+  {
+    "id": 91,
+    "name": "Muebles Moderno",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Sabadell",
+    "country": "ES"
+  },
+  {
+    "id": 92,
+    "name": "Cafetería El Faro",
+    "mcc": "5661",
+    "category": "Shoe Stores",
+    "city": "Santander",
+    "country": "ES"
+  },
+  {
+    "id": 93,
+    "name": "Electro Los Arcos",
+    "mcc": "5921",
+    "category": "Package Stores, Beer, Wine, Liquor",
+    "city": "Málaga",
+    "country": "ES"
+  },
+  {
+    "id": 94,
+    "name": "Bar Central",
+    "mcc": "5999",
+    "category": "Miscellaneous and Specialty Retail",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 95,
+    "name": "El Rincón de San Marcos",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Badalona",
+    "country": "ES"
+  },
+  {
+    "id": 96,
+    "name": "Librería Buenavista",
+    "mcc": "4121",
+    "category": "Taxicabs and Limousines",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 97,
+    "name": "Electro La Esquina",
+    "mcc": "6011",
+    "category": "Automated Cash Disbursements",
+    "city": "Salamanca",
+    "country": "ES"
+  },
+  {
+    "id": 98,
+    "name": "Supermercado El Faro",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 99,
+    "name": "Farmacia La Plaza",
+    "mcc": "7994",
+    "category": "Video Game Arcades",
+    "city": "Madrid",
+    "country": "FR"
+  },
+  {
+    "id": 100,
+    "name": "Óptica Nuevo",
+    "mcc": "5732",
+    "category": "Electronics Stores",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "ES"
+  },
+  {
+    "id": 101,
+    "name": "Óptica Buenavista",
+    "mcc": "6011",
+    "category": "Automated Cash Disbursements",
+    "city": "Burgos",
+    "country": "ES"
+  },
+  {
+    "id": 102,
+    "name": "Librería Los Arcos",
+    "mcc": "4814",
+    "category": "Telecommunication Services",
+    "city": "Jerez de la Frontera",
+    "country": "GB"
+  },
+  {
+    "id": 103,
+    "name": "Muebles El Faro",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Logroño",
+    "country": "ES"
+  },
+  {
+    "id": 104,
+    "name": "Bar Nuevo",
+    "mcc": "5942",
+    "category": "Book Stores",
+    "city": "Vigo",
+    "country": "ES"
+  },
+  {
+    "id": 105,
+    "name": "Óptica Buenavista",
+    "mcc": "6011",
+    "category": "Automated Cash Disbursements",
+    "city": "Toledo",
+    "country": "ES"
+  },
+  {
+    "id": 106,
+    "name": "Librería El Faro",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Albacete",
+    "country": "ES"
+  },
+  {
+    "id": 107,
+    "name": "Peluquería San Marcos",
+    "mcc": "5732",
+    "category": "Electronics Stores",
+    "city": "Toledo",
+    "country": "ES"
+  },
+  {
+    "id": 108,
+    "name": "Taller La Estrella",
+    "mcc": "5691",
+    "category": "Men's and Women's Clothing Stores",
+    "city": "Madrid",
+    "country": "FR"
+  },
+  {
+    "id": 109,
+    "name": "El Rincón de Gran Vía",
+    "mcc": "4900",
+    "category": "Utilities: Electric, Gas, Water",
+    "city": "Ávila",
+    "country": "ES"
+  },
+  {
+    "id": 110,
+    "name": "Panadería El Faro",
+    "mcc": "5912",
+    "category": "Drug Stores and Pharmacies",
+    "city": "Santa Cruz de Tenerife",
+    "country": "ES"
+  },
+  {
+    "id": 111,
+    "name": "El Rincón de El Faro",
+    "mcc": "5499",
+    "category": "Miscellaneous Food Stores",
+    "city": "Soria",
+    "country": "ES"
+  },
+  {
+    "id": 112,
+    "name": "Cafetería del Puerto",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Soria",
+    "country": "ES"
+  },
+  {
+    "id": 113,
+    "name": "Farmacia Los Arcos",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 114,
+    "name": "Farmacia Buenavista",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 115,
+    "name": "Farmacia del Puerto",
+    "mcc": "5921",
+    "category": "Package Stores, Beer, Wine, Liquor",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 116,
+    "name": "Electro Moderno",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "León",
+    "country": "ES"
+  },
+  {
+    "id": 117,
+    "name": "Supermercado Real",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "A Coruña",
+    "country": "ES"
+  },
+  {
+    "id": 118,
+    "name": "Taller El Faro",
+    "mcc": "7994",
+    "category": "Video Game Arcades",
+    "city": "San Sebastián",
+    "country": "ES"
+  },
+  {
+    "id": 119,
+    "name": "Taller Nuevo",
+    "mcc": "4814",
+    "category": "Telecommunication Services",
+    "city": "Jerez de la Frontera",
+    "country": "ES"
+  },
+  {
+    "id": 120,
+    "name": "Bar El Faro",
+    "mcc": "5999",
+    "category": "Miscellaneous and Specialty Retail",
+    "city": "Sabadell",
+    "country": "GB"
+  },
+  {
+    "id": 121,
+    "name": "Muebles La Estrella",
+    "mcc": "5691",
+    "category": "Men's and Women's Clothing Stores",
+    "city": "Palma",
+    "country": "ES"
+  },
+  {
+    "id": 122,
+    "name": "Casa Nuevo",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Ciudad Real",
+    "country": "ES"
+  },
+  {
+    "id": 123,
+    "name": "Librería Los Arcos",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Palma",
+    "country": "ES"
+  },
+  {
+    "id": 124,
+    "name": "Electro El Faro",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Zaragoza",
+    "country": "ES"
+  },
+  {
+    "id": 125,
+    "name": "Electro San Marcos",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Almería",
+    "country": "ES"
+  },
+  {
+    "id": 126,
+    "name": "Muebles La Plaza",
+    "mcc": "5712",
+    "category": "Furniture and Home Furnishings",
+    "city": "Lleida",
+    "country": "ES"
+  },
+  {
+    "id": 127,
+    "name": "Óptica San Marcos",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Zaragoza",
+    "country": "ES"
+  },
+  {
+    "id": 128,
+    "name": "La Tienda de del Puerto",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Ourense",
+    "country": "ES"
+  },
+  {
+    "id": 129,
+    "name": "Electro del Puerto",
+    "mcc": "4111",
+    "category": "Local Commuter Transport",
+    "city": "Huelva",
+    "country": "ES"
+  },
+  {
+    "id": 130,
+    "name": "Peluquería El Faro",
+    "mcc": "7011",
+    "category": "Hotels, Motels, Resorts",
+    "city": "Madrid",
+    "country": "GB"
+  },
+  {
+    "id": 131,
+    "name": "Panadería Moderno",
+    "mcc": "4111",
+    "category": "Local Commuter Transport",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 132,
+    "name": "Cafetería La Estrella",
+    "mcc": "4814",
+    "category": "Telecommunication Services",
+    "city": "Pamplona",
+    "country": "ES"
+  },
+  {
+    "id": 133,
+    "name": "Electro Gran Vía",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Valladolid",
+    "country": "ES"
+  },
+  {
+    "id": 134,
+    "name": "Bar Real",
+    "mcc": "4900",
+    "category": "Utilities: Electric, Gas, Water",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 135,
+    "name": "Supermercado Gran Vía",
+    "mcc": "4814",
+    "category": "Telecommunication Services",
+    "city": "Valencia",
+    "country": "ES"
+  },
+  {
+    "id": 136,
+    "name": "Muebles La Estrella",
+    "mcc": "4121",
+    "category": "Taxicabs and Limousines",
+    "city": "Alicante",
+    "country": "ES"
+  },
+  {
+    "id": 137,
+    "name": "Óptica Central",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Oviedo",
+    "country": "ES"
+  },
+  {
+    "id": 138,
+    "name": "Restaurante Central",
+    "mcc": "5691",
+    "category": "Men's and Women's Clothing Stores",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 139,
+    "name": "Restaurante del Carmen",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Alcorcón",
+    "country": "FR"
+  },
+  {
+    "id": 140,
+    "name": "Casa del Puerto",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Palencia",
+    "country": "ES"
+  },
+  {
+    "id": 141,
+    "name": "La Tienda de San Marcos",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Albacete",
+    "country": "ES"
+  },
+  {
+    "id": 142,
+    "name": "Muebles El Faro",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 143,
+    "name": "Peluquería Los Arcos",
+    "mcc": "5921",
+    "category": "Package Stores, Beer, Wine, Liquor",
+    "city": "Huelva",
+    "country": "IT"
+  },
+  {
+    "id": 144,
+    "name": "Librería Real",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Bilbao",
+    "country": "FR"
+  },
+  {
+    "id": 145,
+    "name": "Librería del Sol",
+    "mcc": "5661",
+    "category": "Shoe Stores",
+    "city": "León",
+    "country": "ES"
+  },
+  {
+    "id": 146,
+    "name": "Peluquería Real",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Salamanca",
+    "country": "ES"
+  },
+  {
+    "id": 147,
+    "name": "Taller San Marcos",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 148,
+    "name": "Peluquería La Plaza",
+    "mcc": "4111",
+    "category": "Local Commuter Transport",
+    "city": "Valencia",
+    "country": "ES"
+  },
+  {
+    "id": 149,
+    "name": "Peluquería El Faro",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Palma",
+    "country": "ES"
+  },
+  {
+    "id": 150,
+    "name": "Panadería La Plaza",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Valladolid",
+    "country": "ES"
+  },
+  {
+    "id": 151,
+    "name": "Farmacia Moderno",
+    "mcc": "5814",
+    "category": "Fast Food Restaurants",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "ES"
+  },
+  {
+    "id": 152,
+    "name": "Librería del Carmen",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Huelva",
+    "country": "ES"
+  },
+  {
+    "id": 153,
+    "name": "Peluquería San Marcos",
+    "mcc": "7230",
+    "category": "Beauty and Barber Shops",
+    "city": "Gijón",
+    "country": "ES"
+  },
+  {
+    "id": 154,
+    "name": "Óptica del Sol",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 155,
+    "name": "Librería Los Arcos",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Castellón de la Plana",
+    "country": "ES"
+  },
+  {
+    "id": 156,
+    "name": "Farmacia del Carmen",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Ciudad Real",
+    "country": "IT"
+  },
+  {
+    "id": 157,
+    "name": "Electro San Marcos",
+    "mcc": "5541",
+    "category": "Service Stations",
+    "city": "Palma",
+    "country": "ES"
+  },
+  {
+    "id": 158,
+    "name": "Casa El Faro",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 159,
+    "name": "Óptica Central",
+    "mcc": "7230",
+    "category": "Beauty and Barber Shops",
+    "city": "Granada",
+    "country": "ES"
+  },
+  {
+    "id": 160,
+    "name": "Taller del Carmen",
+    "mcc": "5712",
+    "category": "Furniture and Home Furnishings",
+    "city": "Alicante",
+    "country": "ES"
+  },
+  {
+    "id": 161,
+    "name": "Electro Buenavista",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "León",
+    "country": "ES"
+  },
+  {
+    "id": 162,
+    "name": "Librería La Esquina",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Madrid",
+    "country": "FR"
+  },
+  {
+    "id": 163,
+    "name": "Electro San Marcos",
+    "mcc": "5999",
+    "category": "Miscellaneous and Specialty Retail",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 164,
+    "name": "Librería Real",
+    "mcc": "5691",
+    "category": "Men's and Women's Clothing Stores",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 165,
+    "name": "La Tienda de del Carmen",
+    "mcc": "5691",
+    "category": "Men's and Women's Clothing Stores",
+    "city": "Vitoria-Gasteiz",
+    "country": "ES"
+  },
+  {
+    "id": 166,
+    "name": "La Tienda de Buenavista",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Cádiz",
+    "country": "PT"
+  },
+  {
+    "id": 167,
+    "name": "Bar Nuevo",
+    "mcc": "4814",
+    "category": "Telecommunication Services",
+    "city": "Santa Cruz de Tenerife",
+    "country": "ES"
+  },
+  {
+    "id": 168,
+    "name": "Farmacia Real",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Alicante",
+    "country": "ES"
+  },
+  {
+    "id": 169,
+    "name": "Cafetería San Marcos",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Valladolid",
+    "country": "ES"
+  },
+  {
+    "id": 170,
+    "name": "Bar Moderno",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Badajoz",
+    "country": "ES"
+  },
+  {
+    "id": 171,
+    "name": "Farmacia La Estrella",
+    "mcc": "5411",
+    "category": "Grocery Stores, Supermarkets",
+    "city": "Santa Cruz de Tenerife",
+    "country": "ES"
+  },
+  {
+    "id": 172,
+    "name": "El Rincón de Moderno",
+    "mcc": "5912",
+    "category": "Drug Stores and Pharmacies",
+    "city": "Castellón de la Plana",
+    "country": "ES"
+  },
+  {
+    "id": 173,
+    "name": "Librería Nuevo",
+    "mcc": "5691",
+    "category": "Men's and Women's Clothing Stores",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 174,
+    "name": "El Rincón de Buenavista",
+    "mcc": "4814",
+    "category": "Telecommunication Services",
+    "city": "Valencia",
+    "country": "PT"
+  },
+  {
+    "id": 175,
+    "name": "La Tienda de Moderno",
+    "mcc": "4121",
+    "category": "Taxicabs and Limousines",
+    "city": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 176,
+    "name": "Restaurante Nuevo",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Córdoba",
+    "country": "ES"
+  },
+  {
+    "id": 177,
+    "name": "Bar Moderno",
+    "mcc": "6011",
+    "category": "Automated Cash Disbursements",
+    "city": "Valencia",
+    "country": "PT"
+  },
+  {
+    "id": 178,
+    "name": "Muebles del Puerto",
+    "mcc": "5812",
+    "category": "Eating Places, Restaurants",
+    "city": "Sevilla",
+    "country": "ES"
+  },
+  {
+    "id": 179,
+    "name": "Cafetería Real",
+    "mcc": "5499",
+    "category": "Miscellaneous Food Stores",
+    "city": "Zaragoza",
+    "country": "PT"
+  },
+  {
+    "id": 180,
+    "name": "Cafetería del Carmen",
+    "mcc": "6011",
+    "category": "Automated Cash Disbursements",
+    "city": "Huesca",
+    "country": "ES"
+  }
+]

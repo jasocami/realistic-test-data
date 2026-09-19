@@ -1,0 +1,7202 @@
+[
+  {
+    "id": 1,
+    "patient_id": 1,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000001",
+    "coverage_level": "Basic",
+    "annual_premium": 1501.97,
+    "valid_from": "2023-10-31",
+    "valid_until": "2026-10-31"
+  },
+  {
+    "id": 2,
+    "patient_id": 2,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000002",
+    "coverage_level": "Basic",
+    "annual_premium": 1106.46,
+    "valid_from": "2024-09-13",
+    "valid_until": "2025-09-13"
+  },
+  {
+    "id": 3,
+    "patient_id": 3,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000003",
+    "coverage_level": "Standard",
+    "annual_premium": 2251.88,
+    "valid_from": "2023-09-01",
+    "valid_until": "2025-09-01"
+  },
+  {
+    "id": 4,
+    "patient_id": 4,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000004",
+    "coverage_level": "Premium",
+    "annual_premium": 5090.68,
+    "valid_from": "2023-06-30",
+    "valid_until": "2024-06-30"
+  },
+  {
+    "id": 5,
+    "patient_id": 6,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000005",
+    "coverage_level": "Basic",
+    "annual_premium": 1123.4,
+    "valid_from": "2023-01-02",
+    "valid_until": "2024-01-02"
+  },
+  {
+    "id": 6,
+    "patient_id": 7,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000006",
+    "coverage_level": "Standard",
+    "annual_premium": 2205.32,
+    "valid_from": "2023-01-08",
+    "valid_until": "2024-01-08"
+  },
+  {
+    "id": 7,
+    "patient_id": 8,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000007",
+    "coverage_level": "Standard",
+    "annual_premium": 3499.6,
+    "valid_from": "2024-06-13",
+    "valid_until": "2027-06-13"
+  },
+  {
+    "id": 8,
+    "patient_id": 9,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000008",
+    "coverage_level": "Basic",
+    "annual_premium": 1204.55,
+    "valid_from": "2024-01-06",
+    "valid_until": "2026-01-06"
+  },
+  {
+    "id": 9,
+    "patient_id": 10,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000009",
+    "coverage_level": "Standard",
+    "annual_premium": 2851.7,
+    "valid_from": "2023-03-02",
+    "valid_until": "2025-03-02"
+  },
+  {
+    "id": 10,
+    "patient_id": 11,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000010",
+    "coverage_level": "Basic",
+    "annual_premium": 1044.3,
+    "valid_from": "2023-06-01",
+    "valid_until": "2024-06-01"
+  },
+  {
+    "id": 11,
+    "patient_id": 12,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000011",
+    "coverage_level": "Premium",
+    "annual_premium": 4373.82,
+    "valid_from": "2023-06-26",
+    "valid_until": "2026-06-26"
+  },
+  {
+    "id": 12,
+    "patient_id": 14,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000012",
+    "coverage_level": "Basic",
+    "annual_premium": 1119.59,
+    "valid_from": "2023-08-30",
+    "valid_until": "2026-08-30"
+  },
+  {
+    "id": 13,
+    "patient_id": 16,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000013",
+    "coverage_level": "Premium",
+    "annual_premium": 4012.03,
+    "valid_from": "2023-04-01",
+    "valid_until": "2026-04-01"
+  },
+  {
+    "id": 14,
+    "patient_id": 17,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000014",
+    "coverage_level": "Basic",
+    "annual_premium": 1183.78,
+    "valid_from": "2024-11-09",
+    "valid_until": "2026-11-09"
+  },
+  {
+    "id": 15,
+    "patient_id": 18,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000015",
+    "coverage_level": "Standard",
+    "annual_premium": 3144.28,
+    "valid_from": "2024-07-15",
+    "valid_until": "2025-07-15"
+  },
+  {
+    "id": 16,
+    "patient_id": 19,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000016",
+    "coverage_level": "Standard",
+    "annual_premium": 3490.99,
+    "valid_from": "2023-08-06",
+    "valid_until": "2026-08-06"
+  },
+  {
+    "id": 17,
+    "patient_id": 20,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000017",
+    "coverage_level": "Basic",
+    "annual_premium": 1234.86,
+    "valid_from": "2023-04-02",
+    "valid_until": "2026-04-02"
+  },
+  {
+    "id": 18,
+    "patient_id": 21,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000018",
+    "coverage_level": "Basic",
+    "annual_premium": 1409.67,
+    "valid_from": "2024-03-21",
+    "valid_until": "2026-03-21"
+  },
+  {
+    "id": 19,
+    "patient_id": 22,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000019",
+    "coverage_level": "Standard",
+    "annual_premium": 2684.01,
+    "valid_from": "2024-01-09",
+    "valid_until": "2027-01-09"
+  },
+  {
+    "id": 20,
+    "patient_id": 23,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000020",
+    "coverage_level": "Standard",
+    "annual_premium": 2255.63,
+    "valid_from": "2024-09-10",
+    "valid_until": "2025-09-10"
+  },
+  {
+    "id": 21,
+    "patient_id": 24,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000021",
+    "coverage_level": "Premium",
+    "annual_premium": 3456.56,
+    "valid_from": "2023-01-16",
+    "valid_until": "2025-01-16"
+  },
+  {
+    "id": 22,
+    "patient_id": 25,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000022",
+    "coverage_level": "Basic",
+    "annual_premium": 1639.6,
+    "valid_from": "2023-04-05",
+    "valid_until": "2026-04-05"
+  },
+  {
+    "id": 23,
+    "patient_id": 26,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000023",
+    "coverage_level": "Standard",
+    "annual_premium": 2351.22,
+    "valid_from": "2023-10-31",
+    "valid_until": "2024-10-31"
+  },
+  {
+    "id": 24,
+    "patient_id": 27,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000024",
+    "coverage_level": "Standard",
+    "annual_premium": 2714.46,
+    "valid_from": "2024-07-10",
+    "valid_until": "2027-07-10"
+  },
+  {
+    "id": 25,
+    "patient_id": 28,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000025",
+    "coverage_level": "Basic",
+    "annual_premium": 1083.76,
+    "valid_from": "2024-05-10",
+    "valid_until": "2026-05-10"
+  },
+  {
+    "id": 26,
+    "patient_id": 29,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000026",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5678.28,
+    "valid_from": "2023-07-15",
+    "valid_until": "2025-07-15"
+  },
+  {
+    "id": 27,
+    "patient_id": 30,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000027",
+    "coverage_level": "Premium",
+    "annual_premium": 5893.61,
+    "valid_from": "2023-09-07",
+    "valid_until": "2025-09-07"
+  },
+  {
+    "id": 28,
+    "patient_id": 31,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000028",
+    "coverage_level": "Basic",
+    "annual_premium": 1115.23,
+    "valid_from": "2023-12-15",
+    "valid_until": "2024-12-15"
+  },
+  {
+    "id": 29,
+    "patient_id": 32,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000029",
+    "coverage_level": "Standard",
+    "annual_premium": 2003.43,
+    "valid_from": "2023-02-09",
+    "valid_until": "2026-02-09"
+  },
+  {
+    "id": 30,
+    "patient_id": 33,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000030",
+    "coverage_level": "Premium",
+    "annual_premium": 3638.58,
+    "valid_from": "2023-02-26",
+    "valid_until": "2025-02-26"
+  },
+  {
+    "id": 31,
+    "patient_id": 34,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000031",
+    "coverage_level": "Standard",
+    "annual_premium": 2296.93,
+    "valid_from": "2024-08-06",
+    "valid_until": "2025-08-06"
+  },
+  {
+    "id": 32,
+    "patient_id": 35,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000032",
+    "coverage_level": "Standard",
+    "annual_premium": 2182.98,
+    "valid_from": "2024-08-17",
+    "valid_until": "2026-08-17"
+  },
+  {
+    "id": 33,
+    "patient_id": 36,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000033",
+    "coverage_level": "Basic",
+    "annual_premium": 1060.04,
+    "valid_from": "2024-01-09",
+    "valid_until": "2027-01-09"
+  },
+  {
+    "id": 34,
+    "patient_id": 37,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000034",
+    "coverage_level": "Premium",
+    "annual_premium": 4642.86,
+    "valid_from": "2023-12-15",
+    "valid_until": "2026-12-15"
+  },
+  {
+    "id": 35,
+    "patient_id": 38,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000035",
+    "coverage_level": "Basic",
+    "annual_premium": 1031.84,
+    "valid_from": "2024-08-03",
+    "valid_until": "2026-08-03"
+  },
+  {
+    "id": 36,
+    "patient_id": 39,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000036",
+    "coverage_level": "Basic",
+    "annual_premium": 1045.98,
+    "valid_from": "2024-05-07",
+    "valid_until": "2025-05-07"
+  },
+  {
+    "id": 37,
+    "patient_id": 40,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000037",
+    "coverage_level": "Premium",
+    "annual_premium": 3489.6,
+    "valid_from": "2024-07-14",
+    "valid_until": "2027-07-14"
+  },
+  {
+    "id": 38,
+    "patient_id": 41,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000038",
+    "coverage_level": "Basic",
+    "annual_premium": 1104.73,
+    "valid_from": "2023-07-06",
+    "valid_until": "2025-07-06"
+  },
+  {
+    "id": 39,
+    "patient_id": 42,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000039",
+    "coverage_level": "Standard",
+    "annual_premium": 3164.99,
+    "valid_from": "2024-09-05",
+    "valid_until": "2025-09-05"
+  },
+  {
+    "id": 40,
+    "patient_id": 43,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000040",
+    "coverage_level": "Basic",
+    "annual_premium": 1649.95,
+    "valid_from": "2024-03-26",
+    "valid_until": "2025-03-26"
+  },
+  {
+    "id": 41,
+    "patient_id": 44,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000041",
+    "coverage_level": "Basic",
+    "annual_premium": 1236.32,
+    "valid_from": "2023-05-19",
+    "valid_until": "2025-05-19"
+  },
+  {
+    "id": 42,
+    "patient_id": 46,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000042",
+    "coverage_level": "Basic",
+    "annual_premium": 998.5,
+    "valid_from": "2023-12-15",
+    "valid_until": "2025-12-15"
+  },
+  {
+    "id": 43,
+    "patient_id": 47,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000043",
+    "coverage_level": "Standard",
+    "annual_premium": 2000.68,
+    "valid_from": "2024-11-21",
+    "valid_until": "2025-11-21"
+  },
+  {
+    "id": 44,
+    "patient_id": 48,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000044",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5618.2,
+    "valid_from": "2023-10-20",
+    "valid_until": "2024-10-20"
+  },
+  {
+    "id": 45,
+    "patient_id": 49,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000045",
+    "coverage_level": "Basic",
+    "annual_premium": 1199.24,
+    "valid_from": "2023-10-29",
+    "valid_until": "2024-10-29"
+  },
+  {
+    "id": 46,
+    "patient_id": 50,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000046",
+    "coverage_level": "Basic",
+    "annual_premium": 1575.84,
+    "valid_from": "2023-02-16",
+    "valid_until": "2026-02-16"
+  },
+  {
+    "id": 47,
+    "patient_id": 51,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000047",
+    "coverage_level": "Premium",
+    "annual_premium": 3522.04,
+    "valid_from": "2024-04-15",
+    "valid_until": "2027-04-15"
+  },
+  {
+    "id": 48,
+    "patient_id": 52,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000048",
+    "coverage_level": "Basic",
+    "annual_premium": 1113.02,
+    "valid_from": "2024-01-20",
+    "valid_until": "2025-01-20"
+  },
+  {
+    "id": 49,
+    "patient_id": 53,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000049",
+    "coverage_level": "Premium",
+    "annual_premium": 3909.26,
+    "valid_from": "2023-03-17",
+    "valid_until": "2024-03-17"
+  },
+  {
+    "id": 50,
+    "patient_id": 55,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000050",
+    "coverage_level": "Standard",
+    "annual_premium": 2086.35,
+    "valid_from": "2023-03-18",
+    "valid_until": "2025-03-18"
+  },
+  {
+    "id": 51,
+    "patient_id": 56,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000051",
+    "coverage_level": "Basic",
+    "annual_premium": 1116.53,
+    "valid_from": "2024-02-02",
+    "valid_until": "2025-02-02"
+  },
+  {
+    "id": 52,
+    "patient_id": 57,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000052",
+    "coverage_level": "Premium",
+    "annual_premium": 4322.92,
+    "valid_from": "2024-06-01",
+    "valid_until": "2026-06-01"
+  },
+  {
+    "id": 53,
+    "patient_id": 58,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000053",
+    "coverage_level": "Standard",
+    "annual_premium": 2587.52,
+    "valid_from": "2024-10-03",
+    "valid_until": "2027-10-03"
+  },
+  {
+    "id": 54,
+    "patient_id": 59,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000054",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5537.86,
+    "valid_from": "2024-08-22",
+    "valid_until": "2025-08-22"
+  },
+  {
+    "id": 55,
+    "patient_id": 60,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000055",
+    "coverage_level": "Basic",
+    "annual_premium": 1037.26,
+    "valid_from": "2024-08-02",
+    "valid_until": "2026-08-02"
+  },
+  {
+    "id": 56,
+    "patient_id": 61,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000056",
+    "coverage_level": "Standard",
+    "annual_premium": 3265.13,
+    "valid_from": "2024-10-19",
+    "valid_until": "2027-10-19"
+  },
+  {
+    "id": 57,
+    "patient_id": 62,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000057",
+    "coverage_level": "Premium",
+    "annual_premium": 3819.4,
+    "valid_from": "2023-07-13",
+    "valid_until": "2026-07-13"
+  },
+  {
+    "id": 58,
+    "patient_id": 63,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000058",
+    "coverage_level": "Basic",
+    "annual_premium": 1706.74,
+    "valid_from": "2024-10-10",
+    "valid_until": "2027-10-10"
+  },
+  {
+    "id": 59,
+    "patient_id": 64,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000059",
+    "coverage_level": "Basic",
+    "annual_premium": 1142.2,
+    "valid_from": "2023-04-09",
+    "valid_until": "2025-04-09"
+  },
+  {
+    "id": 60,
+    "patient_id": 65,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000060",
+    "coverage_level": "Basic",
+    "annual_premium": 1087.67,
+    "valid_from": "2023-04-10",
+    "valid_until": "2025-04-10"
+  },
+  {
+    "id": 61,
+    "patient_id": 66,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000061",
+    "coverage_level": "Standard",
+    "annual_premium": 2833.92,
+    "valid_from": "2023-03-03",
+    "valid_until": "2024-03-03"
+  },
+  {
+    "id": 62,
+    "patient_id": 67,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000062",
+    "coverage_level": "Standard",
+    "annual_premium": 3249.86,
+    "valid_from": "2023-10-10",
+    "valid_until": "2025-10-10"
+  },
+  {
+    "id": 63,
+    "patient_id": 68,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000063",
+    "coverage_level": "Basic",
+    "annual_premium": 1293.15,
+    "valid_from": "2023-03-31",
+    "valid_until": "2024-03-31"
+  },
+  {
+    "id": 64,
+    "patient_id": 69,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000064",
+    "coverage_level": "Standard",
+    "annual_premium": 2296.36,
+    "valid_from": "2023-08-06",
+    "valid_until": "2026-08-06"
+  },
+  {
+    "id": 65,
+    "patient_id": 70,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000065",
+    "coverage_level": "Standard",
+    "annual_premium": 3478.21,
+    "valid_from": "2023-08-13",
+    "valid_until": "2025-08-13"
+  },
+  {
+    "id": 66,
+    "patient_id": 71,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000066",
+    "coverage_level": "Standard",
+    "annual_premium": 1848.33,
+    "valid_from": "2023-09-14",
+    "valid_until": "2025-09-14"
+  },
+  {
+    "id": 67,
+    "patient_id": 72,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000067",
+    "coverage_level": "Basic",
+    "annual_premium": 1119.47,
+    "valid_from": "2023-05-06",
+    "valid_until": "2025-05-06"
+  },
+  {
+    "id": 68,
+    "patient_id": 73,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000068",
+    "coverage_level": "Basic",
+    "annual_premium": 987.39,
+    "valid_from": "2023-12-07",
+    "valid_until": "2024-12-07"
+  },
+  {
+    "id": 69,
+    "patient_id": 74,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000069",
+    "coverage_level": "Premium",
+    "annual_premium": 4162.66,
+    "valid_from": "2024-12-01",
+    "valid_until": "2025-12-01"
+  },
+  {
+    "id": 70,
+    "patient_id": 75,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000070",
+    "coverage_level": "Standard",
+    "annual_premium": 2288.19,
+    "valid_from": "2024-12-27",
+    "valid_until": "2026-12-27"
+  },
+  {
+    "id": 71,
+    "patient_id": 76,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000071",
+    "coverage_level": "Premium",
+    "annual_premium": 3976.04,
+    "valid_from": "2024-10-02",
+    "valid_until": "2026-10-02"
+  },
+  {
+    "id": 72,
+    "patient_id": 77,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000072",
+    "coverage_level": "Standard",
+    "annual_premium": 3804.73,
+    "valid_from": "2024-08-30",
+    "valid_until": "2025-08-30"
+  },
+  {
+    "id": 73,
+    "patient_id": 78,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000073",
+    "coverage_level": "Premium",
+    "annual_premium": 4932.88,
+    "valid_from": "2023-01-22",
+    "valid_until": "2026-01-22"
+  },
+  {
+    "id": 74,
+    "patient_id": 79,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000074",
+    "coverage_level": "Standard",
+    "annual_premium": 3187.0,
+    "valid_from": "2024-12-10",
+    "valid_until": "2025-12-10"
+  },
+  {
+    "id": 75,
+    "patient_id": 80,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000075",
+    "coverage_level": "Standard",
+    "annual_premium": 2160.98,
+    "valid_from": "2023-09-01",
+    "valid_until": "2025-09-01"
+  },
+  {
+    "id": 76,
+    "patient_id": 81,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000076",
+    "coverage_level": "Standard",
+    "annual_premium": 2513.46,
+    "valid_from": "2024-09-02",
+    "valid_until": "2025-09-02"
+  },
+  {
+    "id": 77,
+    "patient_id": 82,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000077",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 8080.54,
+    "valid_from": "2023-05-29",
+    "valid_until": "2026-05-29"
+  },
+  {
+    "id": 78,
+    "patient_id": 83,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000078",
+    "coverage_level": "Standard",
+    "annual_premium": 3184.8,
+    "valid_from": "2023-07-09",
+    "valid_until": "2026-07-09"
+  },
+  {
+    "id": 79,
+    "patient_id": 84,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000079",
+    "coverage_level": "Basic",
+    "annual_premium": 1222.54,
+    "valid_from": "2023-11-08",
+    "valid_until": "2026-11-08"
+  },
+  {
+    "id": 80,
+    "patient_id": 85,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000080",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5315.21,
+    "valid_from": "2023-05-24",
+    "valid_until": "2024-05-24"
+  },
+  {
+    "id": 81,
+    "patient_id": 86,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000081",
+    "coverage_level": "Premium",
+    "annual_premium": 4683.14,
+    "valid_from": "2023-11-01",
+    "valid_until": "2025-11-01"
+  },
+  {
+    "id": 82,
+    "patient_id": 87,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000082",
+    "coverage_level": "Standard",
+    "annual_premium": 2587.28,
+    "valid_from": "2024-12-19",
+    "valid_until": "2025-12-19"
+  },
+  {
+    "id": 83,
+    "patient_id": 88,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000083",
+    "coverage_level": "Standard",
+    "annual_premium": 2665.69,
+    "valid_from": "2023-10-09",
+    "valid_until": "2025-10-09"
+  },
+  {
+    "id": 84,
+    "patient_id": 89,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000084",
+    "coverage_level": "Basic",
+    "annual_premium": 1182.98,
+    "valid_from": "2024-04-04",
+    "valid_until": "2027-04-04"
+  },
+  {
+    "id": 85,
+    "patient_id": 90,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000085",
+    "coverage_level": "Basic",
+    "annual_premium": 1401.44,
+    "valid_from": "2024-07-02",
+    "valid_until": "2025-07-02"
+  },
+  {
+    "id": 86,
+    "patient_id": 91,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000086",
+    "coverage_level": "Basic",
+    "annual_premium": 1908.51,
+    "valid_from": "2025-01-01",
+    "valid_until": "2026-01-01"
+  },
+  {
+    "id": 87,
+    "patient_id": 92,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000087",
+    "coverage_level": "Basic",
+    "annual_premium": 1616.51,
+    "valid_from": "2024-06-18",
+    "valid_until": "2026-06-18"
+  },
+  {
+    "id": 88,
+    "patient_id": 93,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000088",
+    "coverage_level": "Standard",
+    "annual_premium": 2403.97,
+    "valid_from": "2023-07-16",
+    "valid_until": "2026-07-16"
+  },
+  {
+    "id": 89,
+    "patient_id": 94,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000089",
+    "coverage_level": "Premium",
+    "annual_premium": 3900.87,
+    "valid_from": "2024-10-27",
+    "valid_until": "2026-10-27"
+  },
+  {
+    "id": 90,
+    "patient_id": 95,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000090",
+    "coverage_level": "Basic",
+    "annual_premium": 1187.09,
+    "valid_from": "2023-12-19",
+    "valid_until": "2026-12-19"
+  },
+  {
+    "id": 91,
+    "patient_id": 96,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000091",
+    "coverage_level": "Basic",
+    "annual_premium": 1110.89,
+    "valid_from": "2024-08-02",
+    "valid_until": "2025-08-02"
+  },
+  {
+    "id": 92,
+    "patient_id": 97,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000092",
+    "coverage_level": "Standard",
+    "annual_premium": 2248.59,
+    "valid_from": "2024-01-13",
+    "valid_until": "2026-01-13"
+  },
+  {
+    "id": 93,
+    "patient_id": 98,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000093",
+    "coverage_level": "Basic",
+    "annual_premium": 1236.88,
+    "valid_from": "2024-03-16",
+    "valid_until": "2025-03-16"
+  },
+  {
+    "id": 94,
+    "patient_id": 99,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000094",
+    "coverage_level": "Standard",
+    "annual_premium": 3498.37,
+    "valid_from": "2023-01-05",
+    "valid_until": "2026-01-05"
+  },
+  {
+    "id": 95,
+    "patient_id": 100,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000095",
+    "coverage_level": "Standard",
+    "annual_premium": 2954.24,
+    "valid_from": "2023-10-20",
+    "valid_until": "2024-10-20"
+  },
+  {
+    "id": 96,
+    "patient_id": 101,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000096",
+    "coverage_level": "Premium",
+    "annual_premium": 3390.93,
+    "valid_from": "2023-09-24",
+    "valid_until": "2026-09-24"
+  },
+  {
+    "id": 97,
+    "patient_id": 102,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000097",
+    "coverage_level": "Basic",
+    "annual_premium": 1478.37,
+    "valid_from": "2023-10-20",
+    "valid_until": "2026-10-20"
+  },
+  {
+    "id": 98,
+    "patient_id": 103,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000098",
+    "coverage_level": "Standard",
+    "annual_premium": 2220.9,
+    "valid_from": "2023-08-02",
+    "valid_until": "2026-08-02"
+  },
+  {
+    "id": 99,
+    "patient_id": 105,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000099",
+    "coverage_level": "Basic",
+    "annual_premium": 1310.36,
+    "valid_from": "2023-03-14",
+    "valid_until": "2026-03-14"
+  },
+  {
+    "id": 100,
+    "patient_id": 106,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000100",
+    "coverage_level": "Premium",
+    "annual_premium": 5829.62,
+    "valid_from": "2024-01-03",
+    "valid_until": "2025-01-03"
+  },
+  {
+    "id": 101,
+    "patient_id": 107,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000101",
+    "coverage_level": "Basic",
+    "annual_premium": 1398.0,
+    "valid_from": "2023-03-07",
+    "valid_until": "2026-03-07"
+  },
+  {
+    "id": 102,
+    "patient_id": 108,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000102",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 8704.09,
+    "valid_from": "2024-02-24",
+    "valid_until": "2026-02-24"
+  },
+  {
+    "id": 103,
+    "patient_id": 109,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000103",
+    "coverage_level": "Premium",
+    "annual_premium": 3876.14,
+    "valid_from": "2023-09-17",
+    "valid_until": "2025-09-17"
+  },
+  {
+    "id": 104,
+    "patient_id": 110,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000104",
+    "coverage_level": "Basic",
+    "annual_premium": 1070.22,
+    "valid_from": "2024-08-10",
+    "valid_until": "2027-08-10"
+  },
+  {
+    "id": 105,
+    "patient_id": 111,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000105",
+    "coverage_level": "Basic",
+    "annual_premium": 1138.49,
+    "valid_from": "2024-06-02",
+    "valid_until": "2026-06-02"
+  },
+  {
+    "id": 106,
+    "patient_id": 112,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000106",
+    "coverage_level": "Premium",
+    "annual_premium": 3070.94,
+    "valid_from": "2024-11-11",
+    "valid_until": "2027-11-11"
+  },
+  {
+    "id": 107,
+    "patient_id": 113,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000107",
+    "coverage_level": "Standard",
+    "annual_premium": 2462.66,
+    "valid_from": "2024-06-24",
+    "valid_until": "2027-06-24"
+  },
+  {
+    "id": 108,
+    "patient_id": 114,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000108",
+    "coverage_level": "Basic",
+    "annual_premium": 1501.51,
+    "valid_from": "2024-04-21",
+    "valid_until": "2026-04-21"
+  },
+  {
+    "id": 109,
+    "patient_id": 116,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000109",
+    "coverage_level": "Basic",
+    "annual_premium": 1021.3,
+    "valid_from": "2024-09-10",
+    "valid_until": "2027-09-10"
+  },
+  {
+    "id": 110,
+    "patient_id": 117,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000110",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 7582.65,
+    "valid_from": "2024-11-19",
+    "valid_until": "2025-11-19"
+  },
+  {
+    "id": 111,
+    "patient_id": 118,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000111",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5913.24,
+    "valid_from": "2023-03-07",
+    "valid_until": "2026-03-07"
+  },
+  {
+    "id": 112,
+    "patient_id": 119,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000112",
+    "coverage_level": "Standard",
+    "annual_premium": 2232.63,
+    "valid_from": "2024-06-15",
+    "valid_until": "2025-06-15"
+  },
+  {
+    "id": 113,
+    "patient_id": 120,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000113",
+    "coverage_level": "Basic",
+    "annual_premium": 1185.55,
+    "valid_from": "2024-03-14",
+    "valid_until": "2027-03-14"
+  },
+  {
+    "id": 114,
+    "patient_id": 121,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000114",
+    "coverage_level": "Standard",
+    "annual_premium": 2034.59,
+    "valid_from": "2024-08-01",
+    "valid_until": "2026-08-01"
+  },
+  {
+    "id": 115,
+    "patient_id": 122,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000115",
+    "coverage_level": "Standard",
+    "annual_premium": 3705.61,
+    "valid_from": "2024-05-28",
+    "valid_until": "2025-05-28"
+  },
+  {
+    "id": 116,
+    "patient_id": 123,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000116",
+    "coverage_level": "Basic",
+    "annual_premium": 1335.89,
+    "valid_from": "2023-11-18",
+    "valid_until": "2025-11-18"
+  },
+  {
+    "id": 117,
+    "patient_id": 124,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000117",
+    "coverage_level": "Basic",
+    "annual_premium": 1460.62,
+    "valid_from": "2024-07-14",
+    "valid_until": "2027-07-14"
+  },
+  {
+    "id": 118,
+    "patient_id": 125,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000118",
+    "coverage_level": "Standard",
+    "annual_premium": 2612.34,
+    "valid_from": "2024-07-21",
+    "valid_until": "2026-07-21"
+  },
+  {
+    "id": 119,
+    "patient_id": 126,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000119",
+    "coverage_level": "Standard",
+    "annual_premium": 3307.24,
+    "valid_from": "2023-10-17",
+    "valid_until": "2026-10-17"
+  },
+  {
+    "id": 120,
+    "patient_id": 127,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000120",
+    "coverage_level": "Basic",
+    "annual_premium": 1564.03,
+    "valid_from": "2024-12-10",
+    "valid_until": "2027-12-10"
+  },
+  {
+    "id": 121,
+    "patient_id": 128,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000121",
+    "coverage_level": "Basic",
+    "annual_premium": 1129.37,
+    "valid_from": "2023-11-02",
+    "valid_until": "2026-11-02"
+  },
+  {
+    "id": 122,
+    "patient_id": 130,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000122",
+    "coverage_level": "Basic",
+    "annual_premium": 991.64,
+    "valid_from": "2023-03-04",
+    "valid_until": "2025-03-04"
+  },
+  {
+    "id": 123,
+    "patient_id": 131,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000123",
+    "coverage_level": "Standard",
+    "annual_premium": 2246.94,
+    "valid_from": "2023-05-23",
+    "valid_until": "2025-05-23"
+  },
+  {
+    "id": 124,
+    "patient_id": 132,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000124",
+    "coverage_level": "Standard",
+    "annual_premium": 2253.74,
+    "valid_from": "2023-05-17",
+    "valid_until": "2025-05-17"
+  },
+  {
+    "id": 125,
+    "patient_id": 133,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000125",
+    "coverage_level": "Basic",
+    "annual_premium": 1173.46,
+    "valid_from": "2024-03-06",
+    "valid_until": "2027-03-06"
+  },
+  {
+    "id": 126,
+    "patient_id": 134,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000126",
+    "coverage_level": "Basic",
+    "annual_premium": 1286.36,
+    "valid_from": "2023-12-16",
+    "valid_until": "2026-12-16"
+  },
+  {
+    "id": 127,
+    "patient_id": 136,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000127",
+    "coverage_level": "Premium",
+    "annual_premium": 3625.58,
+    "valid_from": "2024-04-21",
+    "valid_until": "2027-04-21"
+  },
+  {
+    "id": 128,
+    "patient_id": 137,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000128",
+    "coverage_level": "Basic",
+    "annual_premium": 1438.9,
+    "valid_from": "2024-09-24",
+    "valid_until": "2026-09-24"
+  },
+  {
+    "id": 129,
+    "patient_id": 138,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000129",
+    "coverage_level": "Standard",
+    "annual_premium": 2395.62,
+    "valid_from": "2024-07-25",
+    "valid_until": "2025-07-25"
+  },
+  {
+    "id": 130,
+    "patient_id": 139,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000130",
+    "coverage_level": "Standard",
+    "annual_premium": 2613.5,
+    "valid_from": "2024-04-16",
+    "valid_until": "2025-04-16"
+  },
+  {
+    "id": 131,
+    "patient_id": 140,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000131",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5384.79,
+    "valid_from": "2024-08-16",
+    "valid_until": "2025-08-16"
+  },
+  {
+    "id": 132,
+    "patient_id": 142,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000132",
+    "coverage_level": "Premium",
+    "annual_premium": 3725.58,
+    "valid_from": "2024-07-11",
+    "valid_until": "2025-07-11"
+  },
+  {
+    "id": 133,
+    "patient_id": 143,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000133",
+    "coverage_level": "Standard",
+    "annual_premium": 2271.49,
+    "valid_from": "2024-08-09",
+    "valid_until": "2027-08-09"
+  },
+  {
+    "id": 134,
+    "patient_id": 144,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000134",
+    "coverage_level": "Standard",
+    "annual_premium": 2318.58,
+    "valid_from": "2024-09-12",
+    "valid_until": "2027-09-12"
+  },
+  {
+    "id": 135,
+    "patient_id": 145,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000135",
+    "coverage_level": "Basic",
+    "annual_premium": 1147.84,
+    "valid_from": "2024-11-02",
+    "valid_until": "2027-11-02"
+  },
+  {
+    "id": 136,
+    "patient_id": 146,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000136",
+    "coverage_level": "Standard",
+    "annual_premium": 2169.79,
+    "valid_from": "2024-10-21",
+    "valid_until": "2026-10-21"
+  },
+  {
+    "id": 137,
+    "patient_id": 147,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000137",
+    "coverage_level": "Standard",
+    "annual_premium": 2367.57,
+    "valid_from": "2024-12-07",
+    "valid_until": "2027-12-07"
+  },
+  {
+    "id": 138,
+    "patient_id": 148,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000138",
+    "coverage_level": "Premium",
+    "annual_premium": 5912.74,
+    "valid_from": "2023-06-14",
+    "valid_until": "2026-06-14"
+  },
+  {
+    "id": 139,
+    "patient_id": 149,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000139",
+    "coverage_level": "Basic",
+    "annual_premium": 1033.24,
+    "valid_from": "2024-04-30",
+    "valid_until": "2026-04-30"
+  },
+  {
+    "id": 140,
+    "patient_id": 150,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000140",
+    "coverage_level": "Premium",
+    "annual_premium": 4397.31,
+    "valid_from": "2024-08-02",
+    "valid_until": "2027-08-02"
+  },
+  {
+    "id": 141,
+    "patient_id": 151,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000141",
+    "coverage_level": "Premium",
+    "annual_premium": 3891.33,
+    "valid_from": "2023-09-05",
+    "valid_until": "2026-09-05"
+  },
+  {
+    "id": 142,
+    "patient_id": 152,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000142",
+    "coverage_level": "Standard",
+    "annual_premium": 2198.13,
+    "valid_from": "2023-03-23",
+    "valid_until": "2025-03-23"
+  },
+  {
+    "id": 143,
+    "patient_id": 153,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000143",
+    "coverage_level": "Standard",
+    "annual_premium": 3281.96,
+    "valid_from": "2023-03-04",
+    "valid_until": "2024-03-04"
+  },
+  {
+    "id": 144,
+    "patient_id": 156,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000144",
+    "coverage_level": "Standard",
+    "annual_premium": 2787.91,
+    "valid_from": "2023-04-29",
+    "valid_until": "2026-04-29"
+  },
+  {
+    "id": 145,
+    "patient_id": 158,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000145",
+    "coverage_level": "Standard",
+    "annual_premium": 3137.37,
+    "valid_from": "2024-04-20",
+    "valid_until": "2027-04-20"
+  },
+  {
+    "id": 146,
+    "patient_id": 160,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000146",
+    "coverage_level": "Basic",
+    "annual_premium": 1215.28,
+    "valid_from": "2023-07-29",
+    "valid_until": "2025-07-29"
+  },
+  {
+    "id": 147,
+    "patient_id": 161,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000147",
+    "coverage_level": "Standard",
+    "annual_premium": 2122.09,
+    "valid_from": "2024-02-09",
+    "valid_until": "2026-02-09"
+  },
+  {
+    "id": 148,
+    "patient_id": 163,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000148",
+    "coverage_level": "Standard",
+    "annual_premium": 2847.55,
+    "valid_from": "2023-03-20",
+    "valid_until": "2026-03-20"
+  },
+  {
+    "id": 149,
+    "patient_id": 164,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000149",
+    "coverage_level": "Standard",
+    "annual_premium": 2318.03,
+    "valid_from": "2024-01-10",
+    "valid_until": "2026-01-10"
+  },
+  {
+    "id": 150,
+    "patient_id": 165,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000150",
+    "coverage_level": "Basic",
+    "annual_premium": 1200.97,
+    "valid_from": "2024-07-14",
+    "valid_until": "2027-07-14"
+  },
+  {
+    "id": 151,
+    "patient_id": 166,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000151",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 7712.6,
+    "valid_from": "2023-02-16",
+    "valid_until": "2026-02-16"
+  },
+  {
+    "id": 152,
+    "patient_id": 167,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000152",
+    "coverage_level": "Standard",
+    "annual_premium": 3136.86,
+    "valid_from": "2023-06-26",
+    "valid_until": "2024-06-26"
+  },
+  {
+    "id": 153,
+    "patient_id": 168,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000153",
+    "coverage_level": "Standard",
+    "annual_premium": 2149.3,
+    "valid_from": "2024-02-10",
+    "valid_until": "2026-02-10"
+  },
+  {
+    "id": 154,
+    "patient_id": 169,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000154",
+    "coverage_level": "Premium",
+    "annual_premium": 4817.65,
+    "valid_from": "2024-07-16",
+    "valid_until": "2027-07-16"
+  },
+  {
+    "id": 155,
+    "patient_id": 170,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000155",
+    "coverage_level": "Premium",
+    "annual_premium": 4769.7,
+    "valid_from": "2023-06-15",
+    "valid_until": "2025-06-15"
+  },
+  {
+    "id": 156,
+    "patient_id": 171,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000156",
+    "coverage_level": "Standard",
+    "annual_premium": 2162.55,
+    "valid_from": "2024-04-03",
+    "valid_until": "2026-04-03"
+  },
+  {
+    "id": 157,
+    "patient_id": 172,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000157",
+    "coverage_level": "Premium",
+    "annual_premium": 4120.44,
+    "valid_from": "2024-11-13",
+    "valid_until": "2025-11-13"
+  },
+  {
+    "id": 158,
+    "patient_id": 173,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000158",
+    "coverage_level": "Basic",
+    "annual_premium": 1164.17,
+    "valid_from": "2024-06-18",
+    "valid_until": "2025-06-18"
+  },
+  {
+    "id": 159,
+    "patient_id": 174,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000159",
+    "coverage_level": "Premium",
+    "annual_premium": 3343.88,
+    "valid_from": "2023-09-15",
+    "valid_until": "2025-09-15"
+  },
+  {
+    "id": 160,
+    "patient_id": 175,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000160",
+    "coverage_level": "Standard",
+    "annual_premium": 2207.51,
+    "valid_from": "2023-09-20",
+    "valid_until": "2026-09-20"
+  },
+  {
+    "id": 161,
+    "patient_id": 177,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000161",
+    "coverage_level": "Premium",
+    "annual_premium": 4176.71,
+    "valid_from": "2023-07-21",
+    "valid_until": "2025-07-21"
+  },
+  {
+    "id": 162,
+    "patient_id": 179,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000162",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 8113.67,
+    "valid_from": "2023-11-06",
+    "valid_until": "2024-11-06"
+  },
+  {
+    "id": 163,
+    "patient_id": 180,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000163",
+    "coverage_level": "Basic",
+    "annual_premium": 1167.83,
+    "valid_from": "2023-01-14",
+    "valid_until": "2026-01-14"
+  },
+  {
+    "id": 164,
+    "patient_id": 181,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000164",
+    "coverage_level": "Standard",
+    "annual_premium": 2629.63,
+    "valid_from": "2024-12-27",
+    "valid_until": "2025-12-27"
+  },
+  {
+    "id": 165,
+    "patient_id": 183,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000165",
+    "coverage_level": "Premium",
+    "annual_premium": 3541.97,
+    "valid_from": "2023-08-19",
+    "valid_until": "2024-08-19"
+  },
+  {
+    "id": 166,
+    "patient_id": 184,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000166",
+    "coverage_level": "Basic",
+    "annual_premium": 1023.87,
+    "valid_from": "2024-02-23",
+    "valid_until": "2025-02-23"
+  },
+  {
+    "id": 167,
+    "patient_id": 185,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000167",
+    "coverage_level": "Standard",
+    "annual_premium": 2733.75,
+    "valid_from": "2024-03-15",
+    "valid_until": "2027-03-15"
+  },
+  {
+    "id": 168,
+    "patient_id": 186,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000168",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 8564.09,
+    "valid_from": "2024-01-29",
+    "valid_until": "2027-01-29"
+  },
+  {
+    "id": 169,
+    "patient_id": 187,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000169",
+    "coverage_level": "Standard",
+    "annual_premium": 2894.76,
+    "valid_from": "2023-04-06",
+    "valid_until": "2024-04-06"
+  },
+  {
+    "id": 170,
+    "patient_id": 188,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000170",
+    "coverage_level": "Basic",
+    "annual_premium": 1473.2,
+    "valid_from": "2024-02-11",
+    "valid_until": "2027-02-11"
+  },
+  {
+    "id": 171,
+    "patient_id": 189,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000171",
+    "coverage_level": "Basic",
+    "annual_premium": 1194.68,
+    "valid_from": "2023-06-13",
+    "valid_until": "2026-06-13"
+  },
+  {
+    "id": 172,
+    "patient_id": 190,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000172",
+    "coverage_level": "Standard",
+    "annual_premium": 3874.57,
+    "valid_from": "2023-09-13",
+    "valid_until": "2025-09-13"
+  },
+  {
+    "id": 173,
+    "patient_id": 191,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000173",
+    "coverage_level": "Premium",
+    "annual_premium": 3598.09,
+    "valid_from": "2024-02-20",
+    "valid_until": "2026-02-20"
+  },
+  {
+    "id": 174,
+    "patient_id": 192,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000174",
+    "coverage_level": "Standard",
+    "annual_premium": 2568.37,
+    "valid_from": "2023-07-26",
+    "valid_until": "2025-07-26"
+  },
+  {
+    "id": 175,
+    "patient_id": 193,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000175",
+    "coverage_level": "Basic",
+    "annual_premium": 1164.31,
+    "valid_from": "2023-05-27",
+    "valid_until": "2026-05-27"
+  },
+  {
+    "id": 176,
+    "patient_id": 194,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000176",
+    "coverage_level": "Basic",
+    "annual_premium": 1421.41,
+    "valid_from": "2023-12-31",
+    "valid_until": "2024-12-31"
+  },
+  {
+    "id": 177,
+    "patient_id": 195,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000177",
+    "coverage_level": "Premium",
+    "annual_premium": 3648.73,
+    "valid_from": "2023-11-21",
+    "valid_until": "2026-11-21"
+  },
+  {
+    "id": 178,
+    "patient_id": 196,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000178",
+    "coverage_level": "Standard",
+    "annual_premium": 2054.72,
+    "valid_from": "2024-01-11",
+    "valid_until": "2025-01-11"
+  },
+  {
+    "id": 179,
+    "patient_id": 197,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000179",
+    "coverage_level": "Basic",
+    "annual_premium": 1407.82,
+    "valid_from": "2023-05-13",
+    "valid_until": "2025-05-13"
+  },
+  {
+    "id": 180,
+    "patient_id": 198,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000180",
+    "coverage_level": "Standard",
+    "annual_premium": 2514.48,
+    "valid_from": "2024-04-09",
+    "valid_until": "2026-04-09"
+  },
+  {
+    "id": 181,
+    "patient_id": 199,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000181",
+    "coverage_level": "Standard",
+    "annual_premium": 2230.66,
+    "valid_from": "2024-04-08",
+    "valid_until": "2026-04-08"
+  },
+  {
+    "id": 182,
+    "patient_id": 201,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000182",
+    "coverage_level": "Standard",
+    "annual_premium": 2327.56,
+    "valid_from": "2023-06-06",
+    "valid_until": "2025-06-06"
+  },
+  {
+    "id": 183,
+    "patient_id": 202,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000183",
+    "coverage_level": "Standard",
+    "annual_premium": 4026.06,
+    "valid_from": "2024-01-07",
+    "valid_until": "2027-01-07"
+  },
+  {
+    "id": 184,
+    "patient_id": 203,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000184",
+    "coverage_level": "Premium",
+    "annual_premium": 3530.78,
+    "valid_from": "2024-11-18",
+    "valid_until": "2027-11-18"
+  },
+  {
+    "id": 185,
+    "patient_id": 204,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000185",
+    "coverage_level": "Basic",
+    "annual_premium": 1116.9,
+    "valid_from": "2023-04-27",
+    "valid_until": "2024-04-27"
+  },
+  {
+    "id": 186,
+    "patient_id": 206,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000186",
+    "coverage_level": "Basic",
+    "annual_premium": 1465.41,
+    "valid_from": "2023-06-26",
+    "valid_until": "2024-06-26"
+  },
+  {
+    "id": 187,
+    "patient_id": 207,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000187",
+    "coverage_level": "Basic",
+    "annual_premium": 1632.93,
+    "valid_from": "2023-06-28",
+    "valid_until": "2026-06-28"
+  },
+  {
+    "id": 188,
+    "patient_id": 208,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000188",
+    "coverage_level": "Basic",
+    "annual_premium": 1039.61,
+    "valid_from": "2024-01-27",
+    "valid_until": "2027-01-27"
+  },
+  {
+    "id": 189,
+    "patient_id": 209,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000189",
+    "coverage_level": "Basic",
+    "annual_premium": 1075.52,
+    "valid_from": "2024-06-03",
+    "valid_until": "2026-06-03"
+  },
+  {
+    "id": 190,
+    "patient_id": 210,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000190",
+    "coverage_level": "Premium",
+    "annual_premium": 4053.25,
+    "valid_from": "2024-02-18",
+    "valid_until": "2027-02-18"
+  },
+  {
+    "id": 191,
+    "patient_id": 211,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000191",
+    "coverage_level": "Standard",
+    "annual_premium": 3184.49,
+    "valid_from": "2024-01-11",
+    "valid_until": "2026-01-11"
+  },
+  {
+    "id": 192,
+    "patient_id": 212,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000192",
+    "coverage_level": "Standard",
+    "annual_premium": 3152.21,
+    "valid_from": "2023-11-08",
+    "valid_until": "2026-11-08"
+  },
+  {
+    "id": 193,
+    "patient_id": 213,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000193",
+    "coverage_level": "Standard",
+    "annual_premium": 3300.73,
+    "valid_from": "2023-07-10",
+    "valid_until": "2024-07-10"
+  },
+  {
+    "id": 194,
+    "patient_id": 214,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000194",
+    "coverage_level": "Standard",
+    "annual_premium": 2114.93,
+    "valid_from": "2023-06-08",
+    "valid_until": "2025-06-08"
+  },
+  {
+    "id": 195,
+    "patient_id": 216,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000195",
+    "coverage_level": "Premium",
+    "annual_premium": 3631.75,
+    "valid_from": "2023-08-17",
+    "valid_until": "2025-08-17"
+  },
+  {
+    "id": 196,
+    "patient_id": 217,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000196",
+    "coverage_level": "Basic",
+    "annual_premium": 1146.16,
+    "valid_from": "2023-07-10",
+    "valid_until": "2026-07-10"
+  },
+  {
+    "id": 197,
+    "patient_id": 218,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000197",
+    "coverage_level": "Standard",
+    "annual_premium": 2420.84,
+    "valid_from": "2023-10-27",
+    "valid_until": "2024-10-27"
+  },
+  {
+    "id": 198,
+    "patient_id": 219,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000198",
+    "coverage_level": "Standard",
+    "annual_premium": 2654.72,
+    "valid_from": "2023-12-11",
+    "valid_until": "2026-12-11"
+  },
+  {
+    "id": 199,
+    "patient_id": 220,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000199",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5222.81,
+    "valid_from": "2024-04-27",
+    "valid_until": "2025-04-27"
+  },
+  {
+    "id": 200,
+    "patient_id": 221,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000200",
+    "coverage_level": "Premium",
+    "annual_premium": 3726.63,
+    "valid_from": "2023-05-31",
+    "valid_until": "2026-05-31"
+  },
+  {
+    "id": 201,
+    "patient_id": 222,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000201",
+    "coverage_level": "Basic",
+    "annual_premium": 1356.71,
+    "valid_from": "2023-02-22",
+    "valid_until": "2024-02-22"
+  },
+  {
+    "id": 202,
+    "patient_id": 223,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000202",
+    "coverage_level": "Basic",
+    "annual_premium": 1542.33,
+    "valid_from": "2024-06-22",
+    "valid_until": "2027-06-22"
+  },
+  {
+    "id": 203,
+    "patient_id": 224,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000203",
+    "coverage_level": "Basic",
+    "annual_premium": 1537.77,
+    "valid_from": "2023-09-08",
+    "valid_until": "2024-09-08"
+  },
+  {
+    "id": 204,
+    "patient_id": 225,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000204",
+    "coverage_level": "Basic",
+    "annual_premium": 957.03,
+    "valid_from": "2023-12-30",
+    "valid_until": "2026-12-30"
+  },
+  {
+    "id": 205,
+    "patient_id": 226,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000205",
+    "coverage_level": "Basic",
+    "annual_premium": 1339.65,
+    "valid_from": "2023-10-02",
+    "valid_until": "2025-10-02"
+  },
+  {
+    "id": 206,
+    "patient_id": 227,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000206",
+    "coverage_level": "Standard",
+    "annual_premium": 2177.87,
+    "valid_from": "2023-06-07",
+    "valid_until": "2026-06-07"
+  },
+  {
+    "id": 207,
+    "patient_id": 228,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000207",
+    "coverage_level": "Basic",
+    "annual_premium": 1520.08,
+    "valid_from": "2024-10-01",
+    "valid_until": "2027-10-01"
+  },
+  {
+    "id": 208,
+    "patient_id": 229,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000208",
+    "coverage_level": "Standard",
+    "annual_premium": 2643.29,
+    "valid_from": "2024-10-14",
+    "valid_until": "2027-10-14"
+  },
+  {
+    "id": 209,
+    "patient_id": 230,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000209",
+    "coverage_level": "Basic",
+    "annual_premium": 1123.26,
+    "valid_from": "2023-10-20",
+    "valid_until": "2024-10-20"
+  },
+  {
+    "id": 210,
+    "patient_id": 231,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000210",
+    "coverage_level": "Premium",
+    "annual_premium": 3755.8,
+    "valid_from": "2024-10-09",
+    "valid_until": "2026-10-09"
+  },
+  {
+    "id": 211,
+    "patient_id": 232,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000211",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 6627.95,
+    "valid_from": "2024-06-16",
+    "valid_until": "2025-06-16"
+  },
+  {
+    "id": 212,
+    "patient_id": 233,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000212",
+    "coverage_level": "Standard",
+    "annual_premium": 2585.3,
+    "valid_from": "2023-02-28",
+    "valid_until": "2024-02-28"
+  },
+  {
+    "id": 213,
+    "patient_id": 234,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000213",
+    "coverage_level": "Basic",
+    "annual_premium": 1627.74,
+    "valid_from": "2023-09-16",
+    "valid_until": "2025-09-16"
+  },
+  {
+    "id": 214,
+    "patient_id": 235,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000214",
+    "coverage_level": "Standard",
+    "annual_premium": 2539.85,
+    "valid_from": "2023-08-20",
+    "valid_until": "2026-08-20"
+  },
+  {
+    "id": 215,
+    "patient_id": 236,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000215",
+    "coverage_level": "Basic",
+    "annual_premium": 1397.55,
+    "valid_from": "2024-01-08",
+    "valid_until": "2027-01-08"
+  },
+  {
+    "id": 216,
+    "patient_id": 237,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000216",
+    "coverage_level": "Basic",
+    "annual_premium": 1691.52,
+    "valid_from": "2023-07-09",
+    "valid_until": "2025-07-09"
+  },
+  {
+    "id": 217,
+    "patient_id": 238,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000217",
+    "coverage_level": "Standard",
+    "annual_premium": 3155.12,
+    "valid_from": "2023-12-16",
+    "valid_until": "2026-12-16"
+  },
+  {
+    "id": 218,
+    "patient_id": 239,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000218",
+    "coverage_level": "Premium",
+    "annual_premium": 4100.09,
+    "valid_from": "2024-09-30",
+    "valid_until": "2026-09-30"
+  },
+  {
+    "id": 219,
+    "patient_id": 240,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000219",
+    "coverage_level": "Standard",
+    "annual_premium": 2661.53,
+    "valid_from": "2023-08-08",
+    "valid_until": "2025-08-08"
+  },
+  {
+    "id": 220,
+    "patient_id": 241,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000220",
+    "coverage_level": "Basic",
+    "annual_premium": 1266.74,
+    "valid_from": "2023-03-22",
+    "valid_until": "2024-03-22"
+  },
+  {
+    "id": 221,
+    "patient_id": 242,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000221",
+    "coverage_level": "Premium",
+    "annual_premium": 3674.5,
+    "valid_from": "2023-07-01",
+    "valid_until": "2024-07-01"
+  },
+  {
+    "id": 222,
+    "patient_id": 243,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000222",
+    "coverage_level": "Basic",
+    "annual_premium": 1229.23,
+    "valid_from": "2024-01-24",
+    "valid_until": "2026-01-24"
+  },
+  {
+    "id": 223,
+    "patient_id": 244,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000223",
+    "coverage_level": "Standard",
+    "annual_premium": 2089.09,
+    "valid_from": "2024-04-14",
+    "valid_until": "2025-04-14"
+  },
+  {
+    "id": 224,
+    "patient_id": 245,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000224",
+    "coverage_level": "Basic",
+    "annual_premium": 1211.25,
+    "valid_from": "2023-10-19",
+    "valid_until": "2026-10-19"
+  },
+  {
+    "id": 225,
+    "patient_id": 246,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000225",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5137.23,
+    "valid_from": "2024-10-06",
+    "valid_until": "2025-10-06"
+  },
+  {
+    "id": 226,
+    "patient_id": 248,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000226",
+    "coverage_level": "Premium",
+    "annual_premium": 4595.96,
+    "valid_from": "2023-06-01",
+    "valid_until": "2024-06-01"
+  },
+  {
+    "id": 227,
+    "patient_id": 250,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000227",
+    "coverage_level": "Standard",
+    "annual_premium": 3106.18,
+    "valid_from": "2023-01-07",
+    "valid_until": "2026-01-07"
+  },
+  {
+    "id": 228,
+    "patient_id": 251,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000228",
+    "coverage_level": "Standard",
+    "annual_premium": 3255.2,
+    "valid_from": "2024-08-31",
+    "valid_until": "2025-08-31"
+  },
+  {
+    "id": 229,
+    "patient_id": 252,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000229",
+    "coverage_level": "Premium",
+    "annual_premium": 4220.26,
+    "valid_from": "2023-08-23",
+    "valid_until": "2024-08-23"
+  },
+  {
+    "id": 230,
+    "patient_id": 253,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000230",
+    "coverage_level": "Basic",
+    "annual_premium": 1109.25,
+    "valid_from": "2024-12-03",
+    "valid_until": "2027-12-03"
+  },
+  {
+    "id": 231,
+    "patient_id": 254,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000231",
+    "coverage_level": "Basic",
+    "annual_premium": 1102.64,
+    "valid_from": "2023-09-10",
+    "valid_until": "2026-09-10"
+  },
+  {
+    "id": 232,
+    "patient_id": 255,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000232",
+    "coverage_level": "Standard",
+    "annual_premium": 3348.24,
+    "valid_from": "2024-07-05",
+    "valid_until": "2027-07-05"
+  },
+  {
+    "id": 233,
+    "patient_id": 256,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000233",
+    "coverage_level": "Basic",
+    "annual_premium": 1203.28,
+    "valid_from": "2024-09-26",
+    "valid_until": "2027-09-26"
+  },
+  {
+    "id": 234,
+    "patient_id": 258,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000234",
+    "coverage_level": "Basic",
+    "annual_premium": 1687.45,
+    "valid_from": "2023-09-18",
+    "valid_until": "2026-09-18"
+  },
+  {
+    "id": 235,
+    "patient_id": 259,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000235",
+    "coverage_level": "Standard",
+    "annual_premium": 2793.05,
+    "valid_from": "2024-08-30",
+    "valid_until": "2026-08-30"
+  },
+  {
+    "id": 236,
+    "patient_id": 260,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000236",
+    "coverage_level": "Standard",
+    "annual_premium": 3302.07,
+    "valid_from": "2024-10-15",
+    "valid_until": "2026-10-15"
+  },
+  {
+    "id": 237,
+    "patient_id": 261,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000237",
+    "coverage_level": "Basic",
+    "annual_premium": 989.85,
+    "valid_from": "2024-10-25",
+    "valid_until": "2026-10-25"
+  },
+  {
+    "id": 238,
+    "patient_id": 262,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000238",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5624.27,
+    "valid_from": "2023-01-18",
+    "valid_until": "2026-01-18"
+  },
+  {
+    "id": 239,
+    "patient_id": 264,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000239",
+    "coverage_level": "Basic",
+    "annual_premium": 1193.25,
+    "valid_from": "2024-04-10",
+    "valid_until": "2025-04-10"
+  },
+  {
+    "id": 240,
+    "patient_id": 266,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000240",
+    "coverage_level": "Basic",
+    "annual_premium": 1069.05,
+    "valid_from": "2024-11-21",
+    "valid_until": "2026-11-21"
+  },
+  {
+    "id": 241,
+    "patient_id": 267,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000241",
+    "coverage_level": "Standard",
+    "annual_premium": 3524.05,
+    "valid_from": "2023-07-02",
+    "valid_until": "2025-07-02"
+  },
+  {
+    "id": 242,
+    "patient_id": 268,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000242",
+    "coverage_level": "Premium",
+    "annual_premium": 3229.77,
+    "valid_from": "2024-08-11",
+    "valid_until": "2026-08-11"
+  },
+  {
+    "id": 243,
+    "patient_id": 269,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000243",
+    "coverage_level": "Basic",
+    "annual_premium": 1475.84,
+    "valid_from": "2024-12-26",
+    "valid_until": "2027-12-26"
+  },
+  {
+    "id": 244,
+    "patient_id": 270,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000244",
+    "coverage_level": "Basic",
+    "annual_premium": 1130.46,
+    "valid_from": "2024-01-28",
+    "valid_until": "2027-01-28"
+  },
+  {
+    "id": 245,
+    "patient_id": 271,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000245",
+    "coverage_level": "Basic",
+    "annual_premium": 1425.81,
+    "valid_from": "2023-05-31",
+    "valid_until": "2024-05-31"
+  },
+  {
+    "id": 246,
+    "patient_id": 272,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000246",
+    "coverage_level": "Standard",
+    "annual_premium": 2257.6,
+    "valid_from": "2024-01-05",
+    "valid_until": "2025-01-05"
+  },
+  {
+    "id": 247,
+    "patient_id": 274,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000247",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5235.27,
+    "valid_from": "2023-06-01",
+    "valid_until": "2026-06-01"
+  },
+  {
+    "id": 248,
+    "patient_id": 275,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000248",
+    "coverage_level": "Standard",
+    "annual_premium": 2964.83,
+    "valid_from": "2023-07-12",
+    "valid_until": "2026-07-12"
+  },
+  {
+    "id": 249,
+    "patient_id": 276,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000249",
+    "coverage_level": "Premium",
+    "annual_premium": 3685.7,
+    "valid_from": "2024-01-27",
+    "valid_until": "2026-01-27"
+  },
+  {
+    "id": 250,
+    "patient_id": 277,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000250",
+    "coverage_level": "Premium",
+    "annual_premium": 4110.34,
+    "valid_from": "2024-05-24",
+    "valid_until": "2027-05-24"
+  },
+  {
+    "id": 251,
+    "patient_id": 278,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000251",
+    "coverage_level": "Standard",
+    "annual_premium": 2580.78,
+    "valid_from": "2024-09-03",
+    "valid_until": "2026-09-03"
+  },
+  {
+    "id": 252,
+    "patient_id": 279,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000252",
+    "coverage_level": "Standard",
+    "annual_premium": 2258.47,
+    "valid_from": "2023-06-26",
+    "valid_until": "2025-06-26"
+  },
+  {
+    "id": 253,
+    "patient_id": 280,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000253",
+    "coverage_level": "Standard",
+    "annual_premium": 2123.57,
+    "valid_from": "2023-07-22",
+    "valid_until": "2026-07-22"
+  },
+  {
+    "id": 254,
+    "patient_id": 281,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000254",
+    "coverage_level": "Basic",
+    "annual_premium": 1261.21,
+    "valid_from": "2024-06-28",
+    "valid_until": "2027-06-28"
+  },
+  {
+    "id": 255,
+    "patient_id": 282,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000255",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 6155.59,
+    "valid_from": "2023-06-14",
+    "valid_until": "2024-06-14"
+  },
+  {
+    "id": 256,
+    "patient_id": 283,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000256",
+    "coverage_level": "Basic",
+    "annual_premium": 1183.17,
+    "valid_from": "2024-09-13",
+    "valid_until": "2027-09-13"
+  },
+  {
+    "id": 257,
+    "patient_id": 285,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000257",
+    "coverage_level": "Standard",
+    "annual_premium": 3474.37,
+    "valid_from": "2024-05-10",
+    "valid_until": "2025-05-10"
+  },
+  {
+    "id": 258,
+    "patient_id": 286,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000258",
+    "coverage_level": "Basic",
+    "annual_premium": 1177.52,
+    "valid_from": "2024-03-15",
+    "valid_until": "2027-03-15"
+  },
+  {
+    "id": 259,
+    "patient_id": 287,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000259",
+    "coverage_level": "Premium",
+    "annual_premium": 3653.01,
+    "valid_from": "2024-03-06",
+    "valid_until": "2026-03-06"
+  },
+  {
+    "id": 260,
+    "patient_id": 288,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000260",
+    "coverage_level": "Standard",
+    "annual_premium": 2119.55,
+    "valid_from": "2023-03-27",
+    "valid_until": "2024-03-27"
+  },
+  {
+    "id": 261,
+    "patient_id": 289,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000261",
+    "coverage_level": "Standard",
+    "annual_premium": 3121.22,
+    "valid_from": "2023-11-26",
+    "valid_until": "2025-11-26"
+  },
+  {
+    "id": 262,
+    "patient_id": 290,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000262",
+    "coverage_level": "Standard",
+    "annual_premium": 2899.35,
+    "valid_from": "2024-06-21",
+    "valid_until": "2026-06-21"
+  },
+  {
+    "id": 263,
+    "patient_id": 291,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000263",
+    "coverage_level": "Standard",
+    "annual_premium": 2525.53,
+    "valid_from": "2023-03-05",
+    "valid_until": "2025-03-05"
+  },
+  {
+    "id": 264,
+    "patient_id": 292,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000264",
+    "coverage_level": "Standard",
+    "annual_premium": 3146.24,
+    "valid_from": "2024-12-16",
+    "valid_until": "2027-12-16"
+  },
+  {
+    "id": 265,
+    "patient_id": 293,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000265",
+    "coverage_level": "Standard",
+    "annual_premium": 2421.86,
+    "valid_from": "2023-06-11",
+    "valid_until": "2024-06-11"
+  },
+  {
+    "id": 266,
+    "patient_id": 294,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000266",
+    "coverage_level": "Standard",
+    "annual_premium": 2918.7,
+    "valid_from": "2024-01-18",
+    "valid_until": "2027-01-18"
+  },
+  {
+    "id": 267,
+    "patient_id": 295,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000267",
+    "coverage_level": "Standard",
+    "annual_premium": 3410.19,
+    "valid_from": "2023-09-11",
+    "valid_until": "2024-09-11"
+  },
+  {
+    "id": 268,
+    "patient_id": 296,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000268",
+    "coverage_level": "Standard",
+    "annual_premium": 2157.6,
+    "valid_from": "2024-11-23",
+    "valid_until": "2026-11-23"
+  },
+  {
+    "id": 269,
+    "patient_id": 297,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000269",
+    "coverage_level": "Basic",
+    "annual_premium": 1373.21,
+    "valid_from": "2023-01-20",
+    "valid_until": "2026-01-20"
+  },
+  {
+    "id": 270,
+    "patient_id": 298,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000270",
+    "coverage_level": "Basic",
+    "annual_premium": 1418.36,
+    "valid_from": "2024-03-11",
+    "valid_until": "2027-03-11"
+  },
+  {
+    "id": 271,
+    "patient_id": 300,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000271",
+    "coverage_level": "Standard",
+    "annual_premium": 3073.47,
+    "valid_from": "2023-05-11",
+    "valid_until": "2024-05-11"
+  },
+  {
+    "id": 272,
+    "patient_id": 301,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000272",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 6080.92,
+    "valid_from": "2023-02-28",
+    "valid_until": "2026-02-28"
+  },
+  {
+    "id": 273,
+    "patient_id": 302,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000273",
+    "coverage_level": "Standard",
+    "annual_premium": 3135.54,
+    "valid_from": "2024-01-21",
+    "valid_until": "2027-01-21"
+  },
+  {
+    "id": 274,
+    "patient_id": 305,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000274",
+    "coverage_level": "Basic",
+    "annual_premium": 1388.13,
+    "valid_from": "2023-08-07",
+    "valid_until": "2026-08-07"
+  },
+  {
+    "id": 275,
+    "patient_id": 306,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000275",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 6153.2,
+    "valid_from": "2024-09-04",
+    "valid_until": "2025-09-04"
+  },
+  {
+    "id": 276,
+    "patient_id": 307,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000276",
+    "coverage_level": "Basic",
+    "annual_premium": 997.95,
+    "valid_from": "2023-04-24",
+    "valid_until": "2026-04-24"
+  },
+  {
+    "id": 277,
+    "patient_id": 308,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000277",
+    "coverage_level": "Standard",
+    "annual_premium": 2126.45,
+    "valid_from": "2024-05-22",
+    "valid_until": "2026-05-22"
+  },
+  {
+    "id": 278,
+    "patient_id": 310,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000278",
+    "coverage_level": "Standard",
+    "annual_premium": 3038.02,
+    "valid_from": "2024-11-30",
+    "valid_until": "2027-11-30"
+  },
+  {
+    "id": 279,
+    "patient_id": 311,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000279",
+    "coverage_level": "Basic",
+    "annual_premium": 1020.75,
+    "valid_from": "2024-08-04",
+    "valid_until": "2027-08-04"
+  },
+  {
+    "id": 280,
+    "patient_id": 312,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000280",
+    "coverage_level": "Basic",
+    "annual_premium": 1337.72,
+    "valid_from": "2024-02-24",
+    "valid_until": "2025-02-24"
+  },
+  {
+    "id": 281,
+    "patient_id": 313,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000281",
+    "coverage_level": "Premium",
+    "annual_premium": 3855.26,
+    "valid_from": "2023-01-11",
+    "valid_until": "2025-01-11"
+  },
+  {
+    "id": 282,
+    "patient_id": 314,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000282",
+    "coverage_level": "Standard",
+    "annual_premium": 2499.46,
+    "valid_from": "2023-11-15",
+    "valid_until": "2025-11-15"
+  },
+  {
+    "id": 283,
+    "patient_id": 315,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000283",
+    "coverage_level": "Standard",
+    "annual_premium": 2274.16,
+    "valid_from": "2023-04-28",
+    "valid_until": "2024-04-28"
+  },
+  {
+    "id": 284,
+    "patient_id": 317,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000284",
+    "coverage_level": "Basic",
+    "annual_premium": 1253.73,
+    "valid_from": "2024-10-30",
+    "valid_until": "2027-10-30"
+  },
+  {
+    "id": 285,
+    "patient_id": 318,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000285",
+    "coverage_level": "Basic",
+    "annual_premium": 1403.63,
+    "valid_from": "2024-05-18",
+    "valid_until": "2025-05-18"
+  },
+  {
+    "id": 286,
+    "patient_id": 319,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000286",
+    "coverage_level": "Premium",
+    "annual_premium": 4248.85,
+    "valid_from": "2023-12-09",
+    "valid_until": "2024-12-09"
+  },
+  {
+    "id": 287,
+    "patient_id": 320,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000287",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5568.64,
+    "valid_from": "2023-06-06",
+    "valid_until": "2024-06-06"
+  },
+  {
+    "id": 288,
+    "patient_id": 322,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000288",
+    "coverage_level": "Standard",
+    "annual_premium": 2117.75,
+    "valid_from": "2023-07-30",
+    "valid_until": "2026-07-30"
+  },
+  {
+    "id": 289,
+    "patient_id": 323,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000289",
+    "coverage_level": "Standard",
+    "annual_premium": 3388.08,
+    "valid_from": "2024-02-09",
+    "valid_until": "2027-02-09"
+  },
+  {
+    "id": 290,
+    "patient_id": 324,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000290",
+    "coverage_level": "Standard",
+    "annual_premium": 2916.91,
+    "valid_from": "2024-08-28",
+    "valid_until": "2027-08-28"
+  },
+  {
+    "id": 291,
+    "patient_id": 325,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000291",
+    "coverage_level": "Premium",
+    "annual_premium": 5345.26,
+    "valid_from": "2023-10-03",
+    "valid_until": "2024-10-03"
+  },
+  {
+    "id": 292,
+    "patient_id": 326,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000292",
+    "coverage_level": "Premium",
+    "annual_premium": 4851.23,
+    "valid_from": "2023-10-30",
+    "valid_until": "2024-10-30"
+  },
+  {
+    "id": 293,
+    "patient_id": 327,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000293",
+    "coverage_level": "Basic",
+    "annual_premium": 1730.05,
+    "valid_from": "2024-05-26",
+    "valid_until": "2026-05-26"
+  },
+  {
+    "id": 294,
+    "patient_id": 328,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000294",
+    "coverage_level": "Premium",
+    "annual_premium": 4749.95,
+    "valid_from": "2024-06-10",
+    "valid_until": "2026-06-10"
+  },
+  {
+    "id": 295,
+    "patient_id": 329,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000295",
+    "coverage_level": "Standard",
+    "annual_premium": 2038.18,
+    "valid_from": "2023-09-03",
+    "valid_until": "2025-09-03"
+  },
+  {
+    "id": 296,
+    "patient_id": 330,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000296",
+    "coverage_level": "Standard",
+    "annual_premium": 2250.63,
+    "valid_from": "2024-03-23",
+    "valid_until": "2026-03-23"
+  },
+  {
+    "id": 297,
+    "patient_id": 332,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000297",
+    "coverage_level": "Standard",
+    "annual_premium": 2745.53,
+    "valid_from": "2024-05-18",
+    "valid_until": "2025-05-18"
+  },
+  {
+    "id": 298,
+    "patient_id": 333,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000298",
+    "coverage_level": "Standard",
+    "annual_premium": 2737.06,
+    "valid_from": "2024-05-04",
+    "valid_until": "2027-05-04"
+  },
+  {
+    "id": 299,
+    "patient_id": 334,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000299",
+    "coverage_level": "Premium",
+    "annual_premium": 3756.73,
+    "valid_from": "2023-02-04",
+    "valid_until": "2024-02-04"
+  },
+  {
+    "id": 300,
+    "patient_id": 335,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000300",
+    "coverage_level": "Basic",
+    "annual_premium": 1175.0,
+    "valid_from": "2024-05-27",
+    "valid_until": "2026-05-27"
+  },
+  {
+    "id": 301,
+    "patient_id": 336,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000301",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 8537.57,
+    "valid_from": "2023-09-08",
+    "valid_until": "2024-09-08"
+  },
+  {
+    "id": 302,
+    "patient_id": 337,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000302",
+    "coverage_level": "Basic",
+    "annual_premium": 1023.59,
+    "valid_from": "2024-02-15",
+    "valid_until": "2027-02-15"
+  },
+  {
+    "id": 303,
+    "patient_id": 338,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000303",
+    "coverage_level": "Standard",
+    "annual_premium": 2411.15,
+    "valid_from": "2024-06-20",
+    "valid_until": "2025-06-20"
+  },
+  {
+    "id": 304,
+    "patient_id": 340,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000304",
+    "coverage_level": "Standard",
+    "annual_premium": 2569.44,
+    "valid_from": "2024-12-22",
+    "valid_until": "2026-12-22"
+  },
+  {
+    "id": 305,
+    "patient_id": 341,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000305",
+    "coverage_level": "Basic",
+    "annual_premium": 1213.23,
+    "valid_from": "2023-11-14",
+    "valid_until": "2026-11-14"
+  },
+  {
+    "id": 306,
+    "patient_id": 342,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000306",
+    "coverage_level": "Standard",
+    "annual_premium": 2135.49,
+    "valid_from": "2024-10-15",
+    "valid_until": "2025-10-15"
+  },
+  {
+    "id": 307,
+    "patient_id": 343,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000307",
+    "coverage_level": "Premium",
+    "annual_premium": 5476.31,
+    "valid_from": "2023-05-10",
+    "valid_until": "2025-05-10"
+  },
+  {
+    "id": 308,
+    "patient_id": 344,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000308",
+    "coverage_level": "Basic",
+    "annual_premium": 1166.36,
+    "valid_from": "2023-01-23",
+    "valid_until": "2024-01-23"
+  },
+  {
+    "id": 309,
+    "patient_id": 345,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000309",
+    "coverage_level": "Premium",
+    "annual_premium": 3801.11,
+    "valid_from": "2023-01-01",
+    "valid_until": "2026-01-01"
+  },
+  {
+    "id": 310,
+    "patient_id": 346,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000310",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 6628.47,
+    "valid_from": "2023-10-30",
+    "valid_until": "2026-10-30"
+  },
+  {
+    "id": 311,
+    "patient_id": 347,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000311",
+    "coverage_level": "Premium",
+    "annual_premium": 3774.48,
+    "valid_from": "2024-09-26",
+    "valid_until": "2027-09-26"
+  },
+  {
+    "id": 312,
+    "patient_id": 348,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000312",
+    "coverage_level": "Basic",
+    "annual_premium": 1269.33,
+    "valid_from": "2023-11-16",
+    "valid_until": "2024-11-16"
+  },
+  {
+    "id": 313,
+    "patient_id": 349,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000313",
+    "coverage_level": "Basic",
+    "annual_premium": 1313.27,
+    "valid_from": "2023-09-27",
+    "valid_until": "2024-09-27"
+  },
+  {
+    "id": 314,
+    "patient_id": 350,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000314",
+    "coverage_level": "Basic",
+    "annual_premium": 1292.53,
+    "valid_from": "2024-08-13",
+    "valid_until": "2026-08-13"
+  },
+  {
+    "id": 315,
+    "patient_id": 351,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000315",
+    "coverage_level": "Premium",
+    "annual_premium": 3961.7,
+    "valid_from": "2023-11-13",
+    "valid_until": "2025-11-13"
+  },
+  {
+    "id": 316,
+    "patient_id": 352,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000316",
+    "coverage_level": "Basic",
+    "annual_premium": 1040.36,
+    "valid_from": "2023-01-14",
+    "valid_until": "2025-01-14"
+  },
+  {
+    "id": 317,
+    "patient_id": 353,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000317",
+    "coverage_level": "Basic",
+    "annual_premium": 1474.12,
+    "valid_from": "2024-03-06",
+    "valid_until": "2025-03-06"
+  },
+  {
+    "id": 318,
+    "patient_id": 355,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000318",
+    "coverage_level": "Standard",
+    "annual_premium": 2391.09,
+    "valid_from": "2024-07-01",
+    "valid_until": "2026-07-01"
+  },
+  {
+    "id": 319,
+    "patient_id": 356,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000319",
+    "coverage_level": "Premium",
+    "annual_premium": 5297.85,
+    "valid_from": "2024-06-18",
+    "valid_until": "2025-06-18"
+  },
+  {
+    "id": 320,
+    "patient_id": 357,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000320",
+    "coverage_level": "Basic",
+    "annual_premium": 1565.09,
+    "valid_from": "2023-05-31",
+    "valid_until": "2025-05-31"
+  },
+  {
+    "id": 321,
+    "patient_id": 358,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000321",
+    "coverage_level": "Basic",
+    "annual_premium": 1045.12,
+    "valid_from": "2024-10-15",
+    "valid_until": "2027-10-15"
+  },
+  {
+    "id": 322,
+    "patient_id": 359,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000322",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5167.19,
+    "valid_from": "2023-06-27",
+    "valid_until": "2026-06-27"
+  },
+  {
+    "id": 323,
+    "patient_id": 360,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000323",
+    "coverage_level": "Standard",
+    "annual_premium": 2614.67,
+    "valid_from": "2024-04-17",
+    "valid_until": "2026-04-17"
+  },
+  {
+    "id": 324,
+    "patient_id": 361,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000324",
+    "coverage_level": "Basic",
+    "annual_premium": 1128.82,
+    "valid_from": "2023-08-12",
+    "valid_until": "2025-08-12"
+  },
+  {
+    "id": 325,
+    "patient_id": 362,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000325",
+    "coverage_level": "Standard",
+    "annual_premium": 2402.91,
+    "valid_from": "2024-05-17",
+    "valid_until": "2026-05-17"
+  },
+  {
+    "id": 326,
+    "patient_id": 363,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000326",
+    "coverage_level": "Standard",
+    "annual_premium": 1860.91,
+    "valid_from": "2024-10-28",
+    "valid_until": "2025-10-28"
+  },
+  {
+    "id": 327,
+    "patient_id": 364,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000327",
+    "coverage_level": "Basic",
+    "annual_premium": 1181.77,
+    "valid_from": "2023-06-13",
+    "valid_until": "2024-06-13"
+  },
+  {
+    "id": 328,
+    "patient_id": 365,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000328",
+    "coverage_level": "Basic",
+    "annual_premium": 1476.67,
+    "valid_from": "2024-08-10",
+    "valid_until": "2027-08-10"
+  },
+  {
+    "id": 329,
+    "patient_id": 368,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000329",
+    "coverage_level": "Premium",
+    "annual_premium": 3759.18,
+    "valid_from": "2023-08-30",
+    "valid_until": "2025-08-30"
+  },
+  {
+    "id": 330,
+    "patient_id": 369,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000330",
+    "coverage_level": "Standard",
+    "annual_premium": 2750.55,
+    "valid_from": "2023-06-30",
+    "valid_until": "2024-06-30"
+  },
+  {
+    "id": 331,
+    "patient_id": 370,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000331",
+    "coverage_level": "Basic",
+    "annual_premium": 1141.73,
+    "valid_from": "2023-05-05",
+    "valid_until": "2026-05-05"
+  },
+  {
+    "id": 332,
+    "patient_id": 371,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000332",
+    "coverage_level": "Premium",
+    "annual_premium": 3615.17,
+    "valid_from": "2024-07-08",
+    "valid_until": "2025-07-08"
+  },
+  {
+    "id": 333,
+    "patient_id": 372,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000333",
+    "coverage_level": "Standard",
+    "annual_premium": 2139.3,
+    "valid_from": "2023-06-22",
+    "valid_until": "2026-06-22"
+  },
+  {
+    "id": 334,
+    "patient_id": 373,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000334",
+    "coverage_level": "Standard",
+    "annual_premium": 2532.14,
+    "valid_from": "2023-02-01",
+    "valid_until": "2024-02-01"
+  },
+  {
+    "id": 335,
+    "patient_id": 374,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000335",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 8456.13,
+    "valid_from": "2023-04-08",
+    "valid_until": "2025-04-08"
+  },
+  {
+    "id": 336,
+    "patient_id": 375,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000336",
+    "coverage_level": "Standard",
+    "annual_premium": 3570.47,
+    "valid_from": "2023-04-27",
+    "valid_until": "2026-04-27"
+  },
+  {
+    "id": 337,
+    "patient_id": 376,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000337",
+    "coverage_level": "Basic",
+    "annual_premium": 1090.64,
+    "valid_from": "2024-08-26",
+    "valid_until": "2025-08-26"
+  },
+  {
+    "id": 338,
+    "patient_id": 377,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000338",
+    "coverage_level": "Standard",
+    "annual_premium": 2566.47,
+    "valid_from": "2024-09-23",
+    "valid_until": "2025-09-23"
+  },
+  {
+    "id": 339,
+    "patient_id": 378,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000339",
+    "coverage_level": "Standard",
+    "annual_premium": 2133.73,
+    "valid_from": "2024-11-12",
+    "valid_until": "2025-11-12"
+  },
+  {
+    "id": 340,
+    "patient_id": 379,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000340",
+    "coverage_level": "Basic",
+    "annual_premium": 1385.5,
+    "valid_from": "2024-09-03",
+    "valid_until": "2025-09-03"
+  },
+  {
+    "id": 341,
+    "patient_id": 380,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000341",
+    "coverage_level": "Basic",
+    "annual_premium": 1035.62,
+    "valid_from": "2024-04-10",
+    "valid_until": "2027-04-10"
+  },
+  {
+    "id": 342,
+    "patient_id": 382,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000342",
+    "coverage_level": "Standard",
+    "annual_premium": 2292.11,
+    "valid_from": "2023-10-03",
+    "valid_until": "2025-10-03"
+  },
+  {
+    "id": 343,
+    "patient_id": 383,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000343",
+    "coverage_level": "Standard",
+    "annual_premium": 2556.83,
+    "valid_from": "2023-01-13",
+    "valid_until": "2024-01-13"
+  },
+  {
+    "id": 344,
+    "patient_id": 384,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000344",
+    "coverage_level": "Premium",
+    "annual_premium": 3973.83,
+    "valid_from": "2024-04-19",
+    "valid_until": "2027-04-19"
+  },
+  {
+    "id": 345,
+    "patient_id": 385,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000345",
+    "coverage_level": "Basic",
+    "annual_premium": 1081.99,
+    "valid_from": "2023-05-28",
+    "valid_until": "2026-05-28"
+  },
+  {
+    "id": 346,
+    "patient_id": 386,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000346",
+    "coverage_level": "Premium",
+    "annual_premium": 4333.17,
+    "valid_from": "2024-03-23",
+    "valid_until": "2026-03-23"
+  },
+  {
+    "id": 347,
+    "patient_id": 387,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000347",
+    "coverage_level": "Basic",
+    "annual_premium": 1172.05,
+    "valid_from": "2024-01-21",
+    "valid_until": "2027-01-21"
+  },
+  {
+    "id": 348,
+    "patient_id": 388,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000348",
+    "coverage_level": "Premium",
+    "annual_premium": 4733.23,
+    "valid_from": "2023-06-21",
+    "valid_until": "2024-06-21"
+  },
+  {
+    "id": 349,
+    "patient_id": 389,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000349",
+    "coverage_level": "Basic",
+    "annual_premium": 1012.46,
+    "valid_from": "2023-06-10",
+    "valid_until": "2024-06-10"
+  },
+  {
+    "id": 350,
+    "patient_id": 390,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000350",
+    "coverage_level": "Basic",
+    "annual_premium": 1302.42,
+    "valid_from": "2024-08-09",
+    "valid_until": "2025-08-09"
+  },
+  {
+    "id": 351,
+    "patient_id": 391,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000351",
+    "coverage_level": "Basic",
+    "annual_premium": 1477.05,
+    "valid_from": "2024-01-22",
+    "valid_until": "2025-01-22"
+  },
+  {
+    "id": 352,
+    "patient_id": 392,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000352",
+    "coverage_level": "Standard",
+    "annual_premium": 2643.2,
+    "valid_from": "2024-10-03",
+    "valid_until": "2025-10-03"
+  },
+  {
+    "id": 353,
+    "patient_id": 393,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000353",
+    "coverage_level": "Standard",
+    "annual_premium": 2380.93,
+    "valid_from": "2023-09-29",
+    "valid_until": "2025-09-29"
+  },
+  {
+    "id": 354,
+    "patient_id": 394,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000354",
+    "coverage_level": "Standard",
+    "annual_premium": 2492.75,
+    "valid_from": "2024-07-15",
+    "valid_until": "2027-07-15"
+  },
+  {
+    "id": 355,
+    "patient_id": 395,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000355",
+    "coverage_level": "Standard",
+    "annual_premium": 2880.73,
+    "valid_from": "2024-08-10",
+    "valid_until": "2027-08-10"
+  },
+  {
+    "id": 356,
+    "patient_id": 397,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000356",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 7934.71,
+    "valid_from": "2024-09-15",
+    "valid_until": "2026-09-15"
+  },
+  {
+    "id": 357,
+    "patient_id": 398,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000357",
+    "coverage_level": "Standard",
+    "annual_premium": 2812.23,
+    "valid_from": "2024-06-16",
+    "valid_until": "2025-06-16"
+  },
+  {
+    "id": 358,
+    "patient_id": 399,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000358",
+    "coverage_level": "Basic",
+    "annual_premium": 1085.49,
+    "valid_from": "2023-03-28",
+    "valid_until": "2024-03-28"
+  },
+  {
+    "id": 359,
+    "patient_id": 400,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000359",
+    "coverage_level": "Standard",
+    "annual_premium": 2849.85,
+    "valid_from": "2024-07-21",
+    "valid_until": "2026-07-21"
+  },
+  {
+    "id": 360,
+    "patient_id": 401,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000360",
+    "coverage_level": "Standard",
+    "annual_premium": 2228.59,
+    "valid_from": "2024-09-29",
+    "valid_until": "2027-09-29"
+  },
+  {
+    "id": 361,
+    "patient_id": 402,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000361",
+    "coverage_level": "Standard",
+    "annual_premium": 1950.17,
+    "valid_from": "2023-06-01",
+    "valid_until": "2026-06-01"
+  },
+  {
+    "id": 362,
+    "patient_id": 403,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000362",
+    "coverage_level": "Standard",
+    "annual_premium": 2211.94,
+    "valid_from": "2023-02-23",
+    "valid_until": "2026-02-23"
+  },
+  {
+    "id": 363,
+    "patient_id": 404,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000363",
+    "coverage_level": "Basic",
+    "annual_premium": 1103.58,
+    "valid_from": "2023-06-12",
+    "valid_until": "2024-06-12"
+  },
+  {
+    "id": 364,
+    "patient_id": 406,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000364",
+    "coverage_level": "Premium",
+    "annual_premium": 3255.98,
+    "valid_from": "2024-04-04",
+    "valid_until": "2025-04-04"
+  },
+  {
+    "id": 365,
+    "patient_id": 407,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000365",
+    "coverage_level": "Premium",
+    "annual_premium": 4714.2,
+    "valid_from": "2023-01-23",
+    "valid_until": "2024-01-23"
+  },
+  {
+    "id": 366,
+    "patient_id": 408,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000366",
+    "coverage_level": "Basic",
+    "annual_premium": 1581.37,
+    "valid_from": "2023-06-15",
+    "valid_until": "2025-06-15"
+  },
+  {
+    "id": 367,
+    "patient_id": 409,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000367",
+    "coverage_level": "Standard",
+    "annual_premium": 2598.91,
+    "valid_from": "2023-05-29",
+    "valid_until": "2024-05-29"
+  },
+  {
+    "id": 368,
+    "patient_id": 410,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000368",
+    "coverage_level": "Basic",
+    "annual_premium": 1073.96,
+    "valid_from": "2023-02-13",
+    "valid_until": "2025-02-13"
+  },
+  {
+    "id": 369,
+    "patient_id": 411,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000369",
+    "coverage_level": "Premium",
+    "annual_premium": 5204.91,
+    "valid_from": "2024-09-25",
+    "valid_until": "2027-09-25"
+  },
+  {
+    "id": 370,
+    "patient_id": 412,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000370",
+    "coverage_level": "Basic",
+    "annual_premium": 1257.97,
+    "valid_from": "2024-03-17",
+    "valid_until": "2025-03-17"
+  },
+  {
+    "id": 371,
+    "patient_id": 413,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000371",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5884.29,
+    "valid_from": "2024-08-02",
+    "valid_until": "2027-08-02"
+  },
+  {
+    "id": 372,
+    "patient_id": 414,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000372",
+    "coverage_level": "Standard",
+    "annual_premium": 3375.5,
+    "valid_from": "2023-05-28",
+    "valid_until": "2026-05-28"
+  },
+  {
+    "id": 373,
+    "patient_id": 416,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000373",
+    "coverage_level": "Basic",
+    "annual_premium": 1023.35,
+    "valid_from": "2023-06-26",
+    "valid_until": "2024-06-26"
+  },
+  {
+    "id": 374,
+    "patient_id": 417,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000374",
+    "coverage_level": "Basic",
+    "annual_premium": 1133.9,
+    "valid_from": "2023-08-23",
+    "valid_until": "2025-08-23"
+  },
+  {
+    "id": 375,
+    "patient_id": 419,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000375",
+    "coverage_level": "Basic",
+    "annual_premium": 1032.92,
+    "valid_from": "2024-08-29",
+    "valid_until": "2027-08-29"
+  },
+  {
+    "id": 376,
+    "patient_id": 420,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000376",
+    "coverage_level": "Basic",
+    "annual_premium": 1090.1,
+    "valid_from": "2024-10-23",
+    "valid_until": "2026-10-23"
+  },
+  {
+    "id": 377,
+    "patient_id": 421,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000377",
+    "coverage_level": "Basic",
+    "annual_premium": 1227.67,
+    "valid_from": "2023-02-26",
+    "valid_until": "2024-02-26"
+  },
+  {
+    "id": 378,
+    "patient_id": 422,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000378",
+    "coverage_level": "Basic",
+    "annual_premium": 1126.92,
+    "valid_from": "2023-11-30",
+    "valid_until": "2024-11-30"
+  },
+  {
+    "id": 379,
+    "patient_id": 423,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000379",
+    "coverage_level": "Basic",
+    "annual_premium": 1594.17,
+    "valid_from": "2023-02-12",
+    "valid_until": "2026-02-12"
+  },
+  {
+    "id": 380,
+    "patient_id": 424,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000380",
+    "coverage_level": "Standard",
+    "annual_premium": 2379.84,
+    "valid_from": "2024-01-01",
+    "valid_until": "2026-01-01"
+  },
+  {
+    "id": 381,
+    "patient_id": 425,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000381",
+    "coverage_level": "Standard",
+    "annual_premium": 3587.33,
+    "valid_from": "2024-01-13",
+    "valid_until": "2027-01-13"
+  },
+  {
+    "id": 382,
+    "patient_id": 426,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000382",
+    "coverage_level": "Standard",
+    "annual_premium": 2454.88,
+    "valid_from": "2023-04-29",
+    "valid_until": "2025-04-29"
+  },
+  {
+    "id": 383,
+    "patient_id": 427,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000383",
+    "coverage_level": "Basic",
+    "annual_premium": 1215.89,
+    "valid_from": "2023-08-24",
+    "valid_until": "2024-08-24"
+  },
+  {
+    "id": 384,
+    "patient_id": 428,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000384",
+    "coverage_level": "Premium",
+    "annual_premium": 4753.56,
+    "valid_from": "2023-09-29",
+    "valid_until": "2025-09-29"
+  },
+  {
+    "id": 385,
+    "patient_id": 429,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000385",
+    "coverage_level": "Premium",
+    "annual_premium": 4091.04,
+    "valid_from": "2023-07-06",
+    "valid_until": "2024-07-06"
+  },
+  {
+    "id": 386,
+    "patient_id": 430,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000386",
+    "coverage_level": "Standard",
+    "annual_premium": 2621.17,
+    "valid_from": "2023-06-25",
+    "valid_until": "2024-06-25"
+  },
+  {
+    "id": 387,
+    "patient_id": 431,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000387",
+    "coverage_level": "Standard",
+    "annual_premium": 2694.21,
+    "valid_from": "2024-09-03",
+    "valid_until": "2025-09-03"
+  },
+  {
+    "id": 388,
+    "patient_id": 432,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000388",
+    "coverage_level": "Basic",
+    "annual_premium": 1345.31,
+    "valid_from": "2023-09-18",
+    "valid_until": "2026-09-18"
+  },
+  {
+    "id": 389,
+    "patient_id": 433,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000389",
+    "coverage_level": "Premium",
+    "annual_premium": 4598.77,
+    "valid_from": "2024-09-17",
+    "valid_until": "2026-09-17"
+  },
+  {
+    "id": 390,
+    "patient_id": 434,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000390",
+    "coverage_level": "Premium",
+    "annual_premium": 4983.49,
+    "valid_from": "2023-10-25",
+    "valid_until": "2025-10-25"
+  },
+  {
+    "id": 391,
+    "patient_id": 435,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000391",
+    "coverage_level": "Basic",
+    "annual_premium": 1190.25,
+    "valid_from": "2024-01-23",
+    "valid_until": "2026-01-23"
+  },
+  {
+    "id": 392,
+    "patient_id": 436,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000392",
+    "coverage_level": "Standard",
+    "annual_premium": 2010.71,
+    "valid_from": "2023-01-11",
+    "valid_until": "2026-01-11"
+  },
+  {
+    "id": 393,
+    "patient_id": 437,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000393",
+    "coverage_level": "Basic",
+    "annual_premium": 1112.28,
+    "valid_from": "2023-10-29",
+    "valid_until": "2025-10-29"
+  },
+  {
+    "id": 394,
+    "patient_id": 438,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000394",
+    "coverage_level": "Basic",
+    "annual_premium": 1199.33,
+    "valid_from": "2024-05-06",
+    "valid_until": "2027-05-06"
+  },
+  {
+    "id": 395,
+    "patient_id": 439,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000395",
+    "coverage_level": "Premium",
+    "annual_premium": 6029.56,
+    "valid_from": "2024-06-17",
+    "valid_until": "2025-06-17"
+  },
+  {
+    "id": 396,
+    "patient_id": 440,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000396",
+    "coverage_level": "Basic",
+    "annual_premium": 1248.21,
+    "valid_from": "2024-08-07",
+    "valid_until": "2027-08-07"
+  },
+  {
+    "id": 397,
+    "patient_id": 441,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000397",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 6692.45,
+    "valid_from": "2024-09-06",
+    "valid_until": "2027-09-06"
+  },
+  {
+    "id": 398,
+    "patient_id": 442,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000398",
+    "coverage_level": "Basic",
+    "annual_premium": 1117.95,
+    "valid_from": "2024-02-13",
+    "valid_until": "2027-02-13"
+  },
+  {
+    "id": 399,
+    "patient_id": 443,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000399",
+    "coverage_level": "Standard",
+    "annual_premium": 2638.01,
+    "valid_from": "2024-01-16",
+    "valid_until": "2027-01-16"
+  },
+  {
+    "id": 400,
+    "patient_id": 444,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000400",
+    "coverage_level": "Standard",
+    "annual_premium": 2216.56,
+    "valid_from": "2023-11-13",
+    "valid_until": "2026-11-13"
+  },
+  {
+    "id": 401,
+    "patient_id": 445,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000401",
+    "coverage_level": "Standard",
+    "annual_premium": 2340.64,
+    "valid_from": "2024-06-19",
+    "valid_until": "2025-06-19"
+  },
+  {
+    "id": 402,
+    "patient_id": 446,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000402",
+    "coverage_level": "Standard",
+    "annual_premium": 1951.44,
+    "valid_from": "2023-10-14",
+    "valid_until": "2024-10-14"
+  },
+  {
+    "id": 403,
+    "patient_id": 447,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000403",
+    "coverage_level": "Standard",
+    "annual_premium": 2415.67,
+    "valid_from": "2024-09-09",
+    "valid_until": "2026-09-09"
+  },
+  {
+    "id": 404,
+    "patient_id": 448,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000404",
+    "coverage_level": "Premium",
+    "annual_premium": 3596.92,
+    "valid_from": "2023-06-04",
+    "valid_until": "2024-06-04"
+  },
+  {
+    "id": 405,
+    "patient_id": 449,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000405",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 9009.49,
+    "valid_from": "2024-03-29",
+    "valid_until": "2026-03-29"
+  },
+  {
+    "id": 406,
+    "patient_id": 450,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000406",
+    "coverage_level": "Standard",
+    "annual_premium": 3738.97,
+    "valid_from": "2024-09-15",
+    "valid_until": "2027-09-15"
+  },
+  {
+    "id": 407,
+    "patient_id": 451,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000407",
+    "coverage_level": "Premium",
+    "annual_premium": 3702.6,
+    "valid_from": "2023-05-14",
+    "valid_until": "2025-05-14"
+  },
+  {
+    "id": 408,
+    "patient_id": 452,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000408",
+    "coverage_level": "Premium",
+    "annual_premium": 5312.07,
+    "valid_from": "2023-08-06",
+    "valid_until": "2026-08-06"
+  },
+  {
+    "id": 409,
+    "patient_id": 454,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000409",
+    "coverage_level": "Standard",
+    "annual_premium": 2818.27,
+    "valid_from": "2024-06-15",
+    "valid_until": "2025-06-15"
+  },
+  {
+    "id": 410,
+    "patient_id": 455,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000410",
+    "coverage_level": "Basic",
+    "annual_premium": 1949.73,
+    "valid_from": "2024-03-12",
+    "valid_until": "2027-03-12"
+  },
+  {
+    "id": 411,
+    "patient_id": 456,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000411",
+    "coverage_level": "Basic",
+    "annual_premium": 1190.82,
+    "valid_from": "2023-09-28",
+    "valid_until": "2025-09-28"
+  },
+  {
+    "id": 412,
+    "patient_id": 457,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000412",
+    "coverage_level": "Basic",
+    "annual_premium": 1040.59,
+    "valid_from": "2024-07-09",
+    "valid_until": "2027-07-09"
+  },
+  {
+    "id": 413,
+    "patient_id": 458,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000413",
+    "coverage_level": "Basic",
+    "annual_premium": 1219.23,
+    "valid_from": "2023-02-17",
+    "valid_until": "2024-02-17"
+  },
+  {
+    "id": 414,
+    "patient_id": 459,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000414",
+    "coverage_level": "Standard",
+    "annual_premium": 2383.04,
+    "valid_from": "2023-05-06",
+    "valid_until": "2025-05-06"
+  },
+  {
+    "id": 415,
+    "patient_id": 460,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000415",
+    "coverage_level": "Basic",
+    "annual_premium": 1073.07,
+    "valid_from": "2024-02-16",
+    "valid_until": "2025-02-16"
+  },
+  {
+    "id": 416,
+    "patient_id": 461,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000416",
+    "coverage_level": "Standard",
+    "annual_premium": 2178.83,
+    "valid_from": "2023-05-06",
+    "valid_until": "2025-05-06"
+  },
+  {
+    "id": 417,
+    "patient_id": 462,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000417",
+    "coverage_level": "Basic",
+    "annual_premium": 1029.57,
+    "valid_from": "2024-01-08",
+    "valid_until": "2027-01-08"
+  },
+  {
+    "id": 418,
+    "patient_id": 463,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000418",
+    "coverage_level": "Premium",
+    "annual_premium": 5795.36,
+    "valid_from": "2024-09-23",
+    "valid_until": "2026-09-23"
+  },
+  {
+    "id": 419,
+    "patient_id": 464,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000419",
+    "coverage_level": "Standard",
+    "annual_premium": 2912.44,
+    "valid_from": "2024-09-19",
+    "valid_until": "2025-09-19"
+  },
+  {
+    "id": 420,
+    "patient_id": 465,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000420",
+    "coverage_level": "Standard",
+    "annual_premium": 2110.16,
+    "valid_from": "2024-09-06",
+    "valid_until": "2025-09-06"
+  },
+  {
+    "id": 421,
+    "patient_id": 467,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000421",
+    "coverage_level": "Basic",
+    "annual_premium": 1215.04,
+    "valid_from": "2023-07-13",
+    "valid_until": "2024-07-13"
+  },
+  {
+    "id": 422,
+    "patient_id": 469,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000422",
+    "coverage_level": "Standard",
+    "annual_premium": 2437.2,
+    "valid_from": "2024-10-16",
+    "valid_until": "2025-10-16"
+  },
+  {
+    "id": 423,
+    "patient_id": 470,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000423",
+    "coverage_level": "Basic",
+    "annual_premium": 1023.95,
+    "valid_from": "2024-04-26",
+    "valid_until": "2027-04-26"
+  },
+  {
+    "id": 424,
+    "patient_id": 471,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000424",
+    "coverage_level": "Premium",
+    "annual_premium": 3445.51,
+    "valid_from": "2023-02-26",
+    "valid_until": "2025-02-26"
+  },
+  {
+    "id": 425,
+    "patient_id": 472,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000425",
+    "coverage_level": "Basic",
+    "annual_premium": 1431.14,
+    "valid_from": "2024-12-15",
+    "valid_until": "2026-12-15"
+  },
+  {
+    "id": 426,
+    "patient_id": 473,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000426",
+    "coverage_level": "Standard",
+    "annual_premium": 2327.13,
+    "valid_from": "2024-01-26",
+    "valid_until": "2025-01-26"
+  },
+  {
+    "id": 427,
+    "patient_id": 474,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000427",
+    "coverage_level": "Standard",
+    "annual_premium": 2495.29,
+    "valid_from": "2024-03-28",
+    "valid_until": "2025-03-28"
+  },
+  {
+    "id": 428,
+    "patient_id": 475,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000428",
+    "coverage_level": "Premium",
+    "annual_premium": 3930.91,
+    "valid_from": "2023-06-17",
+    "valid_until": "2024-06-17"
+  },
+  {
+    "id": 429,
+    "patient_id": 476,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000429",
+    "coverage_level": "Basic",
+    "annual_premium": 1402.96,
+    "valid_from": "2023-03-20",
+    "valid_until": "2026-03-20"
+  },
+  {
+    "id": 430,
+    "patient_id": 477,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000430",
+    "coverage_level": "Basic",
+    "annual_premium": 1516.59,
+    "valid_from": "2023-04-05",
+    "valid_until": "2025-04-05"
+  },
+  {
+    "id": 431,
+    "patient_id": 478,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000431",
+    "coverage_level": "Basic",
+    "annual_premium": 1341.17,
+    "valid_from": "2023-11-16",
+    "valid_until": "2026-11-16"
+  },
+  {
+    "id": 432,
+    "patient_id": 479,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000432",
+    "coverage_level": "Basic",
+    "annual_premium": 1049.64,
+    "valid_from": "2024-12-17",
+    "valid_until": "2025-12-17"
+  },
+  {
+    "id": 433,
+    "patient_id": 480,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000433",
+    "coverage_level": "Standard",
+    "annual_premium": 2882.45,
+    "valid_from": "2024-09-28",
+    "valid_until": "2027-09-28"
+  },
+  {
+    "id": 434,
+    "patient_id": 481,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000434",
+    "coverage_level": "Standard",
+    "annual_premium": 3442.71,
+    "valid_from": "2023-01-05",
+    "valid_until": "2024-01-05"
+  },
+  {
+    "id": 435,
+    "patient_id": 483,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000435",
+    "coverage_level": "Basic",
+    "annual_premium": 1768.3,
+    "valid_from": "2024-12-22",
+    "valid_until": "2027-12-22"
+  },
+  {
+    "id": 436,
+    "patient_id": 484,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000436",
+    "coverage_level": "Basic",
+    "annual_premium": 1264.07,
+    "valid_from": "2023-01-03",
+    "valid_until": "2024-01-03"
+  },
+  {
+    "id": 437,
+    "patient_id": 485,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000437",
+    "coverage_level": "Basic",
+    "annual_premium": 1195.51,
+    "valid_from": "2023-07-27",
+    "valid_until": "2024-07-27"
+  },
+  {
+    "id": 438,
+    "patient_id": 486,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000438",
+    "coverage_level": "Standard",
+    "annual_premium": 3076.63,
+    "valid_from": "2024-07-10",
+    "valid_until": "2027-07-10"
+  },
+  {
+    "id": 439,
+    "patient_id": 487,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000439",
+    "coverage_level": "Premium",
+    "annual_premium": 4870.95,
+    "valid_from": "2024-09-18",
+    "valid_until": "2027-09-18"
+  },
+  {
+    "id": 440,
+    "patient_id": 488,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000440",
+    "coverage_level": "Standard",
+    "annual_premium": 3201.04,
+    "valid_from": "2023-12-08",
+    "valid_until": "2024-12-08"
+  },
+  {
+    "id": 441,
+    "patient_id": 489,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000441",
+    "coverage_level": "Basic",
+    "annual_premium": 1069.91,
+    "valid_from": "2024-06-09",
+    "valid_until": "2027-06-09"
+  },
+  {
+    "id": 442,
+    "patient_id": 490,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000442",
+    "coverage_level": "Basic",
+    "annual_premium": 1202.77,
+    "valid_from": "2024-08-17",
+    "valid_until": "2027-08-17"
+  },
+  {
+    "id": 443,
+    "patient_id": 491,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000443",
+    "coverage_level": "Standard",
+    "annual_premium": 2322.66,
+    "valid_from": "2023-03-22",
+    "valid_until": "2026-03-22"
+  },
+  {
+    "id": 444,
+    "patient_id": 492,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000444",
+    "coverage_level": "Premium",
+    "annual_premium": 3793.91,
+    "valid_from": "2024-05-01",
+    "valid_until": "2025-05-01"
+  },
+  {
+    "id": 445,
+    "patient_id": 493,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000445",
+    "coverage_level": "Standard",
+    "annual_premium": 2223.31,
+    "valid_from": "2023-03-12",
+    "valid_until": "2026-03-12"
+  },
+  {
+    "id": 446,
+    "patient_id": 494,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000446",
+    "coverage_level": "Basic",
+    "annual_premium": 1060.53,
+    "valid_from": "2024-05-12",
+    "valid_until": "2026-05-12"
+  },
+  {
+    "id": 447,
+    "patient_id": 495,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000447",
+    "coverage_level": "Basic",
+    "annual_premium": 1409.1,
+    "valid_from": "2024-05-07",
+    "valid_until": "2025-05-07"
+  },
+  {
+    "id": 448,
+    "patient_id": 496,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000448",
+    "coverage_level": "Standard",
+    "annual_premium": 2271.31,
+    "valid_from": "2023-01-28",
+    "valid_until": "2024-01-28"
+  },
+  {
+    "id": 449,
+    "patient_id": 497,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000449",
+    "coverage_level": "Standard",
+    "annual_premium": 2527.95,
+    "valid_from": "2023-11-18",
+    "valid_until": "2024-11-18"
+  },
+  {
+    "id": 450,
+    "patient_id": 498,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000450",
+    "coverage_level": "Basic",
+    "annual_premium": 1700.73,
+    "valid_from": "2024-04-16",
+    "valid_until": "2026-04-16"
+  },
+  {
+    "id": 451,
+    "patient_id": 499,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000451",
+    "coverage_level": "Basic",
+    "annual_premium": 1041.28,
+    "valid_from": "2024-09-29",
+    "valid_until": "2027-09-29"
+  },
+  {
+    "id": 452,
+    "patient_id": 500,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000452",
+    "coverage_level": "Standard",
+    "annual_premium": 2224.33,
+    "valid_from": "2023-11-06",
+    "valid_until": "2025-11-06"
+  },
+  {
+    "id": 453,
+    "patient_id": 501,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000453",
+    "coverage_level": "Standard",
+    "annual_premium": 2127.17,
+    "valid_from": "2024-07-30",
+    "valid_until": "2026-07-30"
+  },
+  {
+    "id": 454,
+    "patient_id": 502,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000454",
+    "coverage_level": "Standard",
+    "annual_premium": 3444.59,
+    "valid_from": "2023-11-26",
+    "valid_until": "2025-11-26"
+  },
+  {
+    "id": 455,
+    "patient_id": 504,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000455",
+    "coverage_level": "Standard",
+    "annual_premium": 3572.79,
+    "valid_from": "2023-02-19",
+    "valid_until": "2026-02-19"
+  },
+  {
+    "id": 456,
+    "patient_id": 505,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000456",
+    "coverage_level": "Standard",
+    "annual_premium": 2370.03,
+    "valid_from": "2024-11-14",
+    "valid_until": "2027-11-14"
+  },
+  {
+    "id": 457,
+    "patient_id": 506,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000457",
+    "coverage_level": "Basic",
+    "annual_premium": 1297.56,
+    "valid_from": "2023-02-04",
+    "valid_until": "2024-02-04"
+  },
+  {
+    "id": 458,
+    "patient_id": 507,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000458",
+    "coverage_level": "Standard",
+    "annual_premium": 3394.52,
+    "valid_from": "2023-08-06",
+    "valid_until": "2026-08-06"
+  },
+  {
+    "id": 459,
+    "patient_id": 508,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000459",
+    "coverage_level": "Premium",
+    "annual_premium": 3408.22,
+    "valid_from": "2024-01-08",
+    "valid_until": "2025-01-08"
+  },
+  {
+    "id": 460,
+    "patient_id": 509,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000460",
+    "coverage_level": "Basic",
+    "annual_premium": 1162.2,
+    "valid_from": "2023-01-20",
+    "valid_until": "2025-01-20"
+  },
+  {
+    "id": 461,
+    "patient_id": 510,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000461",
+    "coverage_level": "Basic",
+    "annual_premium": 1291.24,
+    "valid_from": "2024-01-12",
+    "valid_until": "2026-01-12"
+  },
+  {
+    "id": 462,
+    "patient_id": 511,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000462",
+    "coverage_level": "Basic",
+    "annual_premium": 1633.08,
+    "valid_from": "2023-08-28",
+    "valid_until": "2024-08-28"
+  },
+  {
+    "id": 463,
+    "patient_id": 512,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000463",
+    "coverage_level": "Standard",
+    "annual_premium": 1945.76,
+    "valid_from": "2023-08-24",
+    "valid_until": "2026-08-24"
+  },
+  {
+    "id": 464,
+    "patient_id": 513,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000464",
+    "coverage_level": "Basic",
+    "annual_premium": 1703.33,
+    "valid_from": "2024-06-15",
+    "valid_until": "2025-06-15"
+  },
+  {
+    "id": 465,
+    "patient_id": 515,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000465",
+    "coverage_level": "Basic",
+    "annual_premium": 1188.88,
+    "valid_from": "2023-02-05",
+    "valid_until": "2024-02-05"
+  },
+  {
+    "id": 466,
+    "patient_id": 516,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000466",
+    "coverage_level": "Standard",
+    "annual_premium": 3311.0,
+    "valid_from": "2023-02-25",
+    "valid_until": "2025-02-25"
+  },
+  {
+    "id": 467,
+    "patient_id": 517,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000467",
+    "coverage_level": "Basic",
+    "annual_premium": 988.79,
+    "valid_from": "2024-07-29",
+    "valid_until": "2026-07-29"
+  },
+  {
+    "id": 468,
+    "patient_id": 518,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000468",
+    "coverage_level": "Standard",
+    "annual_premium": 3241.24,
+    "valid_from": "2023-10-08",
+    "valid_until": "2024-10-08"
+  },
+  {
+    "id": 469,
+    "patient_id": 519,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000469",
+    "coverage_level": "Standard",
+    "annual_premium": 2345.98,
+    "valid_from": "2023-05-31",
+    "valid_until": "2024-05-31"
+  },
+  {
+    "id": 470,
+    "patient_id": 520,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000470",
+    "coverage_level": "Standard",
+    "annual_premium": 2080.64,
+    "valid_from": "2024-05-13",
+    "valid_until": "2025-05-13"
+  },
+  {
+    "id": 471,
+    "patient_id": 521,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000471",
+    "coverage_level": "Standard",
+    "annual_premium": 2943.99,
+    "valid_from": "2024-02-01",
+    "valid_until": "2027-02-01"
+  },
+  {
+    "id": 472,
+    "patient_id": 522,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000472",
+    "coverage_level": "Standard",
+    "annual_premium": 2242.93,
+    "valid_from": "2024-09-15",
+    "valid_until": "2026-09-15"
+  },
+  {
+    "id": 473,
+    "patient_id": 523,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000473",
+    "coverage_level": "Standard",
+    "annual_premium": 3493.48,
+    "valid_from": "2024-06-19",
+    "valid_until": "2025-06-19"
+  },
+  {
+    "id": 474,
+    "patient_id": 524,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000474",
+    "coverage_level": "Standard",
+    "annual_premium": 2218.59,
+    "valid_from": "2024-03-03",
+    "valid_until": "2025-03-03"
+  },
+  {
+    "id": 475,
+    "patient_id": 525,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000475",
+    "coverage_level": "Basic",
+    "annual_premium": 1092.26,
+    "valid_from": "2023-11-10",
+    "valid_until": "2026-11-10"
+  },
+  {
+    "id": 476,
+    "patient_id": 526,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000476",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 6504.23,
+    "valid_from": "2024-01-14",
+    "valid_until": "2025-01-14"
+  },
+  {
+    "id": 477,
+    "patient_id": 527,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000477",
+    "coverage_level": "Basic",
+    "annual_premium": 1452.05,
+    "valid_from": "2023-03-30",
+    "valid_until": "2026-03-30"
+  },
+  {
+    "id": 478,
+    "patient_id": 528,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000478",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 6080.92,
+    "valid_from": "2024-01-26",
+    "valid_until": "2025-01-26"
+  },
+  {
+    "id": 479,
+    "patient_id": 529,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000479",
+    "coverage_level": "Basic",
+    "annual_premium": 1361.52,
+    "valid_from": "2023-12-25",
+    "valid_until": "2026-12-25"
+  },
+  {
+    "id": 480,
+    "patient_id": 530,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000480",
+    "coverage_level": "Standard",
+    "annual_premium": 2955.13,
+    "valid_from": "2023-03-06",
+    "valid_until": "2025-03-06"
+  },
+  {
+    "id": 481,
+    "patient_id": 531,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000481",
+    "coverage_level": "Premium",
+    "annual_premium": 5168.55,
+    "valid_from": "2024-05-29",
+    "valid_until": "2026-05-29"
+  },
+  {
+    "id": 482,
+    "patient_id": 532,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000482",
+    "coverage_level": "Standard",
+    "annual_premium": 2107.1,
+    "valid_from": "2024-07-10",
+    "valid_until": "2027-07-10"
+  },
+  {
+    "id": 483,
+    "patient_id": 533,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000483",
+    "coverage_level": "Basic",
+    "annual_premium": 1098.02,
+    "valid_from": "2024-11-27",
+    "valid_until": "2025-11-27"
+  },
+  {
+    "id": 484,
+    "patient_id": 534,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000484",
+    "coverage_level": "Premium",
+    "annual_premium": 3728.06,
+    "valid_from": "2023-11-27",
+    "valid_until": "2024-11-27"
+  },
+  {
+    "id": 485,
+    "patient_id": 535,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000485",
+    "coverage_level": "Standard",
+    "annual_premium": 3616.56,
+    "valid_from": "2024-01-12",
+    "valid_until": "2027-01-12"
+  },
+  {
+    "id": 486,
+    "patient_id": 536,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000486",
+    "coverage_level": "Basic",
+    "annual_premium": 1413.01,
+    "valid_from": "2024-06-01",
+    "valid_until": "2027-06-01"
+  },
+  {
+    "id": 487,
+    "patient_id": 537,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000487",
+    "coverage_level": "Basic",
+    "annual_premium": 1200.16,
+    "valid_from": "2023-04-02",
+    "valid_until": "2026-04-02"
+  },
+  {
+    "id": 488,
+    "patient_id": 538,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000488",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 8253.11,
+    "valid_from": "2024-12-15",
+    "valid_until": "2025-12-15"
+  },
+  {
+    "id": 489,
+    "patient_id": 539,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000489",
+    "coverage_level": "Basic",
+    "annual_premium": 1372.44,
+    "valid_from": "2023-03-17",
+    "valid_until": "2024-03-17"
+  },
+  {
+    "id": 490,
+    "patient_id": 540,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000490",
+    "coverage_level": "Premium",
+    "annual_premium": 5618.78,
+    "valid_from": "2023-10-01",
+    "valid_until": "2026-10-01"
+  },
+  {
+    "id": 491,
+    "patient_id": 542,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000491",
+    "coverage_level": "Standard",
+    "annual_premium": 3270.53,
+    "valid_from": "2023-10-31",
+    "valid_until": "2025-10-31"
+  },
+  {
+    "id": 492,
+    "patient_id": 543,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000492",
+    "coverage_level": "Basic",
+    "annual_premium": 1008.91,
+    "valid_from": "2024-01-05",
+    "valid_until": "2026-01-05"
+  },
+  {
+    "id": 493,
+    "patient_id": 544,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000493",
+    "coverage_level": "Basic",
+    "annual_premium": 1147.91,
+    "valid_from": "2023-10-24",
+    "valid_until": "2026-10-24"
+  },
+  {
+    "id": 494,
+    "patient_id": 545,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000494",
+    "coverage_level": "Premium",
+    "annual_premium": 5425.22,
+    "valid_from": "2024-10-13",
+    "valid_until": "2025-10-13"
+  },
+  {
+    "id": 495,
+    "patient_id": 546,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000495",
+    "coverage_level": "Basic",
+    "annual_premium": 1337.66,
+    "valid_from": "2023-08-24",
+    "valid_until": "2024-08-24"
+  },
+  {
+    "id": 496,
+    "patient_id": 547,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000496",
+    "coverage_level": "Basic",
+    "annual_premium": 1031.71,
+    "valid_from": "2024-02-04",
+    "valid_until": "2027-02-04"
+  },
+  {
+    "id": 497,
+    "patient_id": 548,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000497",
+    "coverage_level": "Standard",
+    "annual_premium": 3024.0,
+    "valid_from": "2024-07-06",
+    "valid_until": "2027-07-06"
+  },
+  {
+    "id": 498,
+    "patient_id": 549,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000498",
+    "coverage_level": "Basic",
+    "annual_premium": 1088.94,
+    "valid_from": "2024-08-30",
+    "valid_until": "2025-08-30"
+  },
+  {
+    "id": 499,
+    "patient_id": 550,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000499",
+    "coverage_level": "Standard",
+    "annual_premium": 3272.62,
+    "valid_from": "2024-07-22",
+    "valid_until": "2026-07-22"
+  },
+  {
+    "id": 500,
+    "patient_id": 552,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000500",
+    "coverage_level": "Premium",
+    "annual_premium": 3688.46,
+    "valid_from": "2024-01-12",
+    "valid_until": "2026-01-12"
+  },
+  {
+    "id": 501,
+    "patient_id": 553,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000501",
+    "coverage_level": "Premium",
+    "annual_premium": 3465.1,
+    "valid_from": "2024-11-05",
+    "valid_until": "2026-11-05"
+  },
+  {
+    "id": 502,
+    "patient_id": 554,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000502",
+    "coverage_level": "Standard",
+    "annual_premium": 2449.15,
+    "valid_from": "2024-04-05",
+    "valid_until": "2027-04-05"
+  },
+  {
+    "id": 503,
+    "patient_id": 555,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000503",
+    "coverage_level": "Premium",
+    "annual_premium": 5441.48,
+    "valid_from": "2024-11-14",
+    "valid_until": "2025-11-14"
+  },
+  {
+    "id": 504,
+    "patient_id": 556,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000504",
+    "coverage_level": "Standard",
+    "annual_premium": 2824.22,
+    "valid_from": "2024-07-27",
+    "valid_until": "2026-07-27"
+  },
+  {
+    "id": 505,
+    "patient_id": 557,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000505",
+    "coverage_level": "Basic",
+    "annual_premium": 1519.47,
+    "valid_from": "2024-01-29",
+    "valid_until": "2025-01-29"
+  },
+  {
+    "id": 506,
+    "patient_id": 559,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000506",
+    "coverage_level": "Basic",
+    "annual_premium": 1099.61,
+    "valid_from": "2024-07-21",
+    "valid_until": "2026-07-21"
+  },
+  {
+    "id": 507,
+    "patient_id": 560,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000507",
+    "coverage_level": "Basic",
+    "annual_premium": 1080.17,
+    "valid_from": "2023-07-02",
+    "valid_until": "2024-07-02"
+  },
+  {
+    "id": 508,
+    "patient_id": 561,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000508",
+    "coverage_level": "Standard",
+    "annual_premium": 2615.99,
+    "valid_from": "2023-05-23",
+    "valid_until": "2026-05-23"
+  },
+  {
+    "id": 509,
+    "patient_id": 563,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000509",
+    "coverage_level": "Premium",
+    "annual_premium": 3683.36,
+    "valid_from": "2023-04-21",
+    "valid_until": "2025-04-21"
+  },
+  {
+    "id": 510,
+    "patient_id": 564,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000510",
+    "coverage_level": "Premium",
+    "annual_premium": 3574.11,
+    "valid_from": "2023-02-12",
+    "valid_until": "2024-02-12"
+  },
+  {
+    "id": 511,
+    "patient_id": 565,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000511",
+    "coverage_level": "Premium",
+    "annual_premium": 3767.4,
+    "valid_from": "2023-11-22",
+    "valid_until": "2024-11-22"
+  },
+  {
+    "id": 512,
+    "patient_id": 566,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000512",
+    "coverage_level": "Basic",
+    "annual_premium": 1134.89,
+    "valid_from": "2023-01-11",
+    "valid_until": "2026-01-11"
+  },
+  {
+    "id": 513,
+    "patient_id": 567,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000513",
+    "coverage_level": "Standard",
+    "annual_premium": 2927.0,
+    "valid_from": "2024-09-08",
+    "valid_until": "2026-09-08"
+  },
+  {
+    "id": 514,
+    "patient_id": 568,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000514",
+    "coverage_level": "Basic",
+    "annual_premium": 1304.05,
+    "valid_from": "2024-10-09",
+    "valid_until": "2027-10-09"
+  },
+  {
+    "id": 515,
+    "patient_id": 569,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000515",
+    "coverage_level": "Basic",
+    "annual_premium": 2033.04,
+    "valid_from": "2023-10-20",
+    "valid_until": "2025-10-20"
+  },
+  {
+    "id": 516,
+    "patient_id": 570,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000516",
+    "coverage_level": "Premium",
+    "annual_premium": 3620.39,
+    "valid_from": "2023-02-27",
+    "valid_until": "2026-02-27"
+  },
+  {
+    "id": 517,
+    "patient_id": 571,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000517",
+    "coverage_level": "Basic",
+    "annual_premium": 1233.85,
+    "valid_from": "2024-04-24",
+    "valid_until": "2027-04-24"
+  },
+  {
+    "id": 518,
+    "patient_id": 572,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000518",
+    "coverage_level": "Basic",
+    "annual_premium": 1190.73,
+    "valid_from": "2023-03-04",
+    "valid_until": "2024-03-04"
+  },
+  {
+    "id": 519,
+    "patient_id": 573,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000519",
+    "coverage_level": "Basic",
+    "annual_premium": 1513.46,
+    "valid_from": "2023-04-28",
+    "valid_until": "2024-04-28"
+  },
+  {
+    "id": 520,
+    "patient_id": 574,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000520",
+    "coverage_level": "Standard",
+    "annual_premium": 2158.62,
+    "valid_from": "2023-01-11",
+    "valid_until": "2025-01-11"
+  },
+  {
+    "id": 521,
+    "patient_id": 575,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000521",
+    "coverage_level": "Premium",
+    "annual_premium": 4392.96,
+    "valid_from": "2024-05-10",
+    "valid_until": "2027-05-10"
+  },
+  {
+    "id": 522,
+    "patient_id": 576,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000522",
+    "coverage_level": "Basic",
+    "annual_premium": 1171.95,
+    "valid_from": "2024-09-18",
+    "valid_until": "2025-09-18"
+  },
+  {
+    "id": 523,
+    "patient_id": 577,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000523",
+    "coverage_level": "Premium",
+    "annual_premium": 6496.63,
+    "valid_from": "2024-10-01",
+    "valid_until": "2025-10-01"
+  },
+  {
+    "id": 524,
+    "patient_id": 578,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000524",
+    "coverage_level": "Basic",
+    "annual_premium": 1260.88,
+    "valid_from": "2024-05-14",
+    "valid_until": "2026-05-14"
+  },
+  {
+    "id": 525,
+    "patient_id": 579,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000525",
+    "coverage_level": "Basic",
+    "annual_premium": 1247.13,
+    "valid_from": "2024-04-05",
+    "valid_until": "2026-04-05"
+  },
+  {
+    "id": 526,
+    "patient_id": 580,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000526",
+    "coverage_level": "Premium",
+    "annual_premium": 3435.48,
+    "valid_from": "2024-07-16",
+    "valid_until": "2025-07-16"
+  },
+  {
+    "id": 527,
+    "patient_id": 581,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000527",
+    "coverage_level": "Standard",
+    "annual_premium": 1660.88,
+    "valid_from": "2024-05-10",
+    "valid_until": "2026-05-10"
+  },
+  {
+    "id": 528,
+    "patient_id": 583,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000528",
+    "coverage_level": "Premium",
+    "annual_premium": 3204.09,
+    "valid_from": "2024-02-03",
+    "valid_until": "2026-02-03"
+  },
+  {
+    "id": 529,
+    "patient_id": 584,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000529",
+    "coverage_level": "Premium",
+    "annual_premium": 5402.88,
+    "valid_from": "2024-02-20",
+    "valid_until": "2026-02-20"
+  },
+  {
+    "id": 530,
+    "patient_id": 585,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000530",
+    "coverage_level": "Standard",
+    "annual_premium": 2839.96,
+    "valid_from": "2024-07-30",
+    "valid_until": "2026-07-30"
+  },
+  {
+    "id": 531,
+    "patient_id": 586,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000531",
+    "coverage_level": "Basic",
+    "annual_premium": 2154.07,
+    "valid_from": "2023-05-26",
+    "valid_until": "2025-05-26"
+  },
+  {
+    "id": 532,
+    "patient_id": 587,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000532",
+    "coverage_level": "Premium",
+    "annual_premium": 3364.41,
+    "valid_from": "2024-04-03",
+    "valid_until": "2027-04-03"
+  },
+  {
+    "id": 533,
+    "patient_id": 588,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000533",
+    "coverage_level": "Standard",
+    "annual_premium": 2195.56,
+    "valid_from": "2023-02-09",
+    "valid_until": "2024-02-09"
+  },
+  {
+    "id": 534,
+    "patient_id": 589,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000534",
+    "coverage_level": "Basic",
+    "annual_premium": 1508.34,
+    "valid_from": "2023-11-06",
+    "valid_until": "2025-11-06"
+  },
+  {
+    "id": 535,
+    "patient_id": 590,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000535",
+    "coverage_level": "Basic",
+    "annual_premium": 1331.42,
+    "valid_from": "2023-02-16",
+    "valid_until": "2026-02-16"
+  },
+  {
+    "id": 536,
+    "patient_id": 591,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000536",
+    "coverage_level": "Premium",
+    "annual_premium": 5637.24,
+    "valid_from": "2023-08-22",
+    "valid_until": "2026-08-22"
+  },
+  {
+    "id": 537,
+    "patient_id": 592,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000537",
+    "coverage_level": "Premium",
+    "annual_premium": 6034.42,
+    "valid_from": "2024-08-18",
+    "valid_until": "2027-08-18"
+  },
+  {
+    "id": 538,
+    "patient_id": 593,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000538",
+    "coverage_level": "Basic",
+    "annual_premium": 1232.31,
+    "valid_from": "2024-12-17",
+    "valid_until": "2026-12-17"
+  },
+  {
+    "id": 539,
+    "patient_id": 594,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000539",
+    "coverage_level": "Basic",
+    "annual_premium": 1795.78,
+    "valid_from": "2024-08-06",
+    "valid_until": "2027-08-06"
+  },
+  {
+    "id": 540,
+    "patient_id": 595,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000540",
+    "coverage_level": "Basic",
+    "annual_premium": 1235.35,
+    "valid_from": "2024-11-18",
+    "valid_until": "2026-11-18"
+  },
+  {
+    "id": 541,
+    "patient_id": 598,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000541",
+    "coverage_level": "Premium",
+    "annual_premium": 3322.84,
+    "valid_from": "2023-10-01",
+    "valid_until": "2026-10-01"
+  },
+  {
+    "id": 542,
+    "patient_id": 599,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000542",
+    "coverage_level": "Basic",
+    "annual_premium": 1193.63,
+    "valid_from": "2024-03-26",
+    "valid_until": "2027-03-26"
+  },
+  {
+    "id": 543,
+    "patient_id": 600,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000543",
+    "coverage_level": "Basic",
+    "annual_premium": 1121.33,
+    "valid_from": "2024-01-10",
+    "valid_until": "2027-01-10"
+  },
+  {
+    "id": 544,
+    "patient_id": 601,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000544",
+    "coverage_level": "Basic",
+    "annual_premium": 1348.73,
+    "valid_from": "2024-01-25",
+    "valid_until": "2025-01-25"
+  },
+  {
+    "id": 545,
+    "patient_id": 603,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000545",
+    "coverage_level": "Basic",
+    "annual_premium": 1073.45,
+    "valid_from": "2024-05-06",
+    "valid_until": "2025-05-06"
+  },
+  {
+    "id": 546,
+    "patient_id": 604,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000546",
+    "coverage_level": "Basic",
+    "annual_premium": 1140.49,
+    "valid_from": "2024-02-02",
+    "valid_until": "2027-02-02"
+  },
+  {
+    "id": 547,
+    "patient_id": 605,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000547",
+    "coverage_level": "Basic",
+    "annual_premium": 1073.95,
+    "valid_from": "2024-10-08",
+    "valid_until": "2026-10-08"
+  },
+  {
+    "id": 548,
+    "patient_id": 606,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000548",
+    "coverage_level": "Standard",
+    "annual_premium": 2000.89,
+    "valid_from": "2023-10-30",
+    "valid_until": "2025-10-30"
+  },
+  {
+    "id": 549,
+    "patient_id": 607,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000549",
+    "coverage_level": "Premium",
+    "annual_premium": 3223.94,
+    "valid_from": "2023-03-07",
+    "valid_until": "2024-03-07"
+  },
+  {
+    "id": 550,
+    "patient_id": 608,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000550",
+    "coverage_level": "Premium",
+    "annual_premium": 4770.56,
+    "valid_from": "2023-02-19",
+    "valid_until": "2026-02-19"
+  },
+  {
+    "id": 551,
+    "patient_id": 609,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000551",
+    "coverage_level": "Standard",
+    "annual_premium": 3041.9,
+    "valid_from": "2023-09-15",
+    "valid_until": "2024-09-15"
+  },
+  {
+    "id": 552,
+    "patient_id": 610,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000552",
+    "coverage_level": "Basic",
+    "annual_premium": 1548.71,
+    "valid_from": "2024-07-24",
+    "valid_until": "2026-07-24"
+  },
+  {
+    "id": 553,
+    "patient_id": 611,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000553",
+    "coverage_level": "Basic",
+    "annual_premium": 1702.74,
+    "valid_from": "2024-08-16",
+    "valid_until": "2025-08-16"
+  },
+  {
+    "id": 554,
+    "patient_id": 612,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000554",
+    "coverage_level": "Premium",
+    "annual_premium": 3795.07,
+    "valid_from": "2023-12-23",
+    "valid_until": "2025-12-23"
+  },
+  {
+    "id": 555,
+    "patient_id": 614,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000555",
+    "coverage_level": "Standard",
+    "annual_premium": 2574.94,
+    "valid_from": "2023-02-27",
+    "valid_until": "2026-02-27"
+  },
+  {
+    "id": 556,
+    "patient_id": 615,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000556",
+    "coverage_level": "Standard",
+    "annual_premium": 2266.54,
+    "valid_from": "2024-06-21",
+    "valid_until": "2026-06-21"
+  },
+  {
+    "id": 557,
+    "patient_id": 616,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000557",
+    "coverage_level": "Standard",
+    "annual_premium": 2945.57,
+    "valid_from": "2023-12-21",
+    "valid_until": "2024-12-21"
+  },
+  {
+    "id": 558,
+    "patient_id": 617,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000558",
+    "coverage_level": "Basic",
+    "annual_premium": 1158.81,
+    "valid_from": "2024-03-02",
+    "valid_until": "2027-03-02"
+  },
+  {
+    "id": 559,
+    "patient_id": 618,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000559",
+    "coverage_level": "Premium",
+    "annual_premium": 3597.64,
+    "valid_from": "2023-05-18",
+    "valid_until": "2024-05-18"
+  },
+  {
+    "id": 560,
+    "patient_id": 619,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000560",
+    "coverage_level": "Standard",
+    "annual_premium": 2235.2,
+    "valid_from": "2024-03-21",
+    "valid_until": "2026-03-21"
+  },
+  {
+    "id": 561,
+    "patient_id": 620,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000561",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5760.76,
+    "valid_from": "2023-12-11",
+    "valid_until": "2024-12-11"
+  },
+  {
+    "id": 562,
+    "patient_id": 621,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000562",
+    "coverage_level": "Premium",
+    "annual_premium": 5567.88,
+    "valid_from": "2024-07-02",
+    "valid_until": "2026-07-02"
+  },
+  {
+    "id": 563,
+    "patient_id": 623,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000563",
+    "coverage_level": "Standard",
+    "annual_premium": 2550.35,
+    "valid_from": "2024-09-26",
+    "valid_until": "2026-09-26"
+  },
+  {
+    "id": 564,
+    "patient_id": 624,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000564",
+    "coverage_level": "Basic",
+    "annual_premium": 1362.08,
+    "valid_from": "2023-09-26",
+    "valid_until": "2025-09-26"
+  },
+  {
+    "id": 565,
+    "patient_id": 625,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000565",
+    "coverage_level": "Basic",
+    "annual_premium": 1138.41,
+    "valid_from": "2023-09-27",
+    "valid_until": "2026-09-27"
+  },
+  {
+    "id": 566,
+    "patient_id": 626,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000566",
+    "coverage_level": "Standard",
+    "annual_premium": 2774.06,
+    "valid_from": "2023-08-25",
+    "valid_until": "2024-08-25"
+  },
+  {
+    "id": 567,
+    "patient_id": 627,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000567",
+    "coverage_level": "Premium",
+    "annual_premium": 4442.71,
+    "valid_from": "2023-08-01",
+    "valid_until": "2024-08-01"
+  },
+  {
+    "id": 568,
+    "patient_id": 628,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000568",
+    "coverage_level": "Basic",
+    "annual_premium": 1102.67,
+    "valid_from": "2024-07-13",
+    "valid_until": "2027-07-13"
+  },
+  {
+    "id": 569,
+    "patient_id": 629,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000569",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 6896.51,
+    "valid_from": "2024-10-27",
+    "valid_until": "2025-10-27"
+  },
+  {
+    "id": 570,
+    "patient_id": 630,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000570",
+    "coverage_level": "Basic",
+    "annual_premium": 1111.74,
+    "valid_from": "2023-01-21",
+    "valid_until": "2024-01-21"
+  },
+  {
+    "id": 571,
+    "patient_id": 632,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000571",
+    "coverage_level": "Standard",
+    "annual_premium": 2195.21,
+    "valid_from": "2023-01-19",
+    "valid_until": "2024-01-19"
+  },
+  {
+    "id": 572,
+    "patient_id": 633,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000572",
+    "coverage_level": "Basic",
+    "annual_premium": 1093.09,
+    "valid_from": "2024-02-08",
+    "valid_until": "2027-02-08"
+  },
+  {
+    "id": 573,
+    "patient_id": 634,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000573",
+    "coverage_level": "Premium",
+    "annual_premium": 5176.97,
+    "valid_from": "2024-09-23",
+    "valid_until": "2025-09-23"
+  },
+  {
+    "id": 574,
+    "patient_id": 635,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000574",
+    "coverage_level": "Standard",
+    "annual_premium": 1978.38,
+    "valid_from": "2024-12-06",
+    "valid_until": "2025-12-06"
+  },
+  {
+    "id": 575,
+    "patient_id": 636,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000575",
+    "coverage_level": "Basic",
+    "annual_premium": 1638.27,
+    "valid_from": "2023-07-15",
+    "valid_until": "2026-07-15"
+  },
+  {
+    "id": 576,
+    "patient_id": 637,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000576",
+    "coverage_level": "Standard",
+    "annual_premium": 3712.42,
+    "valid_from": "2024-03-09",
+    "valid_until": "2026-03-09"
+  },
+  {
+    "id": 577,
+    "patient_id": 638,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000577",
+    "coverage_level": "Premium",
+    "annual_premium": 3897.95,
+    "valid_from": "2023-07-28",
+    "valid_until": "2025-07-28"
+  },
+  {
+    "id": 578,
+    "patient_id": 639,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000578",
+    "coverage_level": "Standard",
+    "annual_premium": 2127.0,
+    "valid_from": "2023-09-16",
+    "valid_until": "2026-09-16"
+  },
+  {
+    "id": 579,
+    "patient_id": 640,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000579",
+    "coverage_level": "Basic",
+    "annual_premium": 1078.9,
+    "valid_from": "2024-03-11",
+    "valid_until": "2026-03-11"
+  },
+  {
+    "id": 580,
+    "patient_id": 641,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000580",
+    "coverage_level": "Premium",
+    "annual_premium": 3581.85,
+    "valid_from": "2023-02-12",
+    "valid_until": "2026-02-12"
+  },
+  {
+    "id": 581,
+    "patient_id": 642,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000581",
+    "coverage_level": "Premium",
+    "annual_premium": 3695.22,
+    "valid_from": "2024-12-30",
+    "valid_until": "2025-12-30"
+  },
+  {
+    "id": 582,
+    "patient_id": 643,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000582",
+    "coverage_level": "Standard",
+    "annual_premium": 3548.28,
+    "valid_from": "2024-08-11",
+    "valid_until": "2027-08-11"
+  },
+  {
+    "id": 583,
+    "patient_id": 645,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000583",
+    "coverage_level": "Basic",
+    "annual_premium": 1596.54,
+    "valid_from": "2024-04-02",
+    "valid_until": "2026-04-02"
+  },
+  {
+    "id": 584,
+    "patient_id": 646,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000584",
+    "coverage_level": "Standard",
+    "annual_premium": 2785.19,
+    "valid_from": "2023-03-11",
+    "valid_until": "2024-03-11"
+  },
+  {
+    "id": 585,
+    "patient_id": 647,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000585",
+    "coverage_level": "Standard",
+    "annual_premium": 1920.31,
+    "valid_from": "2023-04-19",
+    "valid_until": "2026-04-19"
+  },
+  {
+    "id": 586,
+    "patient_id": 648,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000586",
+    "coverage_level": "Basic",
+    "annual_premium": 1157.03,
+    "valid_from": "2023-12-14",
+    "valid_until": "2024-12-14"
+  },
+  {
+    "id": 587,
+    "patient_id": 649,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000587",
+    "coverage_level": "Standard",
+    "annual_premium": 2699.3,
+    "valid_from": "2023-09-09",
+    "valid_until": "2026-09-09"
+  },
+  {
+    "id": 588,
+    "patient_id": 650,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000588",
+    "coverage_level": "Standard",
+    "annual_premium": 2501.6,
+    "valid_from": "2024-04-15",
+    "valid_until": "2026-04-15"
+  },
+  {
+    "id": 589,
+    "patient_id": 651,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000589",
+    "coverage_level": "Basic",
+    "annual_premium": 1184.63,
+    "valid_from": "2023-01-29",
+    "valid_until": "2025-01-29"
+  },
+  {
+    "id": 590,
+    "patient_id": 652,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000590",
+    "coverage_level": "Basic",
+    "annual_premium": 1232.41,
+    "valid_from": "2023-05-11",
+    "valid_until": "2026-05-11"
+  },
+  {
+    "id": 591,
+    "patient_id": 653,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000591",
+    "coverage_level": "Basic",
+    "annual_premium": 1091.3,
+    "valid_from": "2024-06-02",
+    "valid_until": "2027-06-02"
+  },
+  {
+    "id": 592,
+    "patient_id": 654,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000592",
+    "coverage_level": "Standard",
+    "annual_premium": 2586.16,
+    "valid_from": "2023-06-13",
+    "valid_until": "2024-06-13"
+  },
+  {
+    "id": 593,
+    "patient_id": 655,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000593",
+    "coverage_level": "Standard",
+    "annual_premium": 2634.79,
+    "valid_from": "2024-10-14",
+    "valid_until": "2026-10-14"
+  },
+  {
+    "id": 594,
+    "patient_id": 656,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000594",
+    "coverage_level": "Basic",
+    "annual_premium": 1242.24,
+    "valid_from": "2023-06-06",
+    "valid_until": "2024-06-06"
+  },
+  {
+    "id": 595,
+    "patient_id": 657,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000595",
+    "coverage_level": "Basic",
+    "annual_premium": 1113.67,
+    "valid_from": "2024-08-13",
+    "valid_until": "2025-08-13"
+  },
+  {
+    "id": 596,
+    "patient_id": 658,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000596",
+    "coverage_level": "Standard",
+    "annual_premium": 2132.41,
+    "valid_from": "2024-06-12",
+    "valid_until": "2027-06-12"
+  },
+  {
+    "id": 597,
+    "patient_id": 659,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000597",
+    "coverage_level": "Standard",
+    "annual_premium": 2303.56,
+    "valid_from": "2023-07-14",
+    "valid_until": "2024-07-14"
+  },
+  {
+    "id": 598,
+    "patient_id": 660,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000598",
+    "coverage_level": "Basic",
+    "annual_premium": 1028.88,
+    "valid_from": "2023-06-12",
+    "valid_until": "2025-06-12"
+  },
+  {
+    "id": 599,
+    "patient_id": 662,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000599",
+    "coverage_level": "Basic",
+    "annual_premium": 1203.43,
+    "valid_from": "2023-07-24",
+    "valid_until": "2026-07-24"
+  },
+  {
+    "id": 600,
+    "patient_id": 663,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000600",
+    "coverage_level": "Premium",
+    "annual_premium": 3579.73,
+    "valid_from": "2023-06-26",
+    "valid_until": "2024-06-26"
+  },
+  {
+    "id": 601,
+    "patient_id": 664,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000601",
+    "coverage_level": "Basic",
+    "annual_premium": 1234.39,
+    "valid_from": "2024-09-01",
+    "valid_until": "2025-09-01"
+  },
+  {
+    "id": 602,
+    "patient_id": 665,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000602",
+    "coverage_level": "Basic",
+    "annual_premium": 1854.49,
+    "valid_from": "2023-09-04",
+    "valid_until": "2025-09-04"
+  },
+  {
+    "id": 603,
+    "patient_id": 667,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000603",
+    "coverage_level": "Standard",
+    "annual_premium": 2216.93,
+    "valid_from": "2023-03-28",
+    "valid_until": "2024-03-28"
+  },
+  {
+    "id": 604,
+    "patient_id": 668,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000604",
+    "coverage_level": "Basic",
+    "annual_premium": 1461.17,
+    "valid_from": "2024-08-01",
+    "valid_until": "2026-08-01"
+  },
+  {
+    "id": 605,
+    "patient_id": 669,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000605",
+    "coverage_level": "Premium",
+    "annual_premium": 5306.09,
+    "valid_from": "2023-08-19",
+    "valid_until": "2025-08-19"
+  },
+  {
+    "id": 606,
+    "patient_id": 670,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000606",
+    "coverage_level": "Basic",
+    "annual_premium": 1217.66,
+    "valid_from": "2023-11-26",
+    "valid_until": "2024-11-26"
+  },
+  {
+    "id": 607,
+    "patient_id": 671,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000607",
+    "coverage_level": "Basic",
+    "annual_premium": 1239.84,
+    "valid_from": "2023-03-16",
+    "valid_until": "2024-03-16"
+  },
+  {
+    "id": 608,
+    "patient_id": 672,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000608",
+    "coverage_level": "Basic",
+    "annual_premium": 1107.87,
+    "valid_from": "2024-04-19",
+    "valid_until": "2026-04-19"
+  },
+  {
+    "id": 609,
+    "patient_id": 673,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000609",
+    "coverage_level": "Basic",
+    "annual_premium": 1192.54,
+    "valid_from": "2024-11-29",
+    "valid_until": "2025-11-29"
+  },
+  {
+    "id": 610,
+    "patient_id": 674,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000610",
+    "coverage_level": "Standard",
+    "annual_premium": 3124.41,
+    "valid_from": "2023-08-27",
+    "valid_until": "2024-08-27"
+  },
+  {
+    "id": 611,
+    "patient_id": 675,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000611",
+    "coverage_level": "Premium",
+    "annual_premium": 5810.27,
+    "valid_from": "2024-02-16",
+    "valid_until": "2027-02-16"
+  },
+  {
+    "id": 612,
+    "patient_id": 676,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000612",
+    "coverage_level": "Standard",
+    "annual_premium": 3382.48,
+    "valid_from": "2023-07-22",
+    "valid_until": "2026-07-22"
+  },
+  {
+    "id": 613,
+    "patient_id": 677,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000613",
+    "coverage_level": "Standard",
+    "annual_premium": 2286.56,
+    "valid_from": "2024-07-25",
+    "valid_until": "2026-07-25"
+  },
+  {
+    "id": 614,
+    "patient_id": 678,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000614",
+    "coverage_level": "Basic",
+    "annual_premium": 1201.26,
+    "valid_from": "2024-10-28",
+    "valid_until": "2026-10-28"
+  },
+  {
+    "id": 615,
+    "patient_id": 680,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000615",
+    "coverage_level": "Basic",
+    "annual_premium": 1119.99,
+    "valid_from": "2024-06-19",
+    "valid_until": "2025-06-19"
+  },
+  {
+    "id": 616,
+    "patient_id": 681,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000616",
+    "coverage_level": "Standard",
+    "annual_premium": 1953.96,
+    "valid_from": "2024-09-05",
+    "valid_until": "2027-09-05"
+  },
+  {
+    "id": 617,
+    "patient_id": 682,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000617",
+    "coverage_level": "Standard",
+    "annual_premium": 2095.81,
+    "valid_from": "2024-09-21",
+    "valid_until": "2025-09-21"
+  },
+  {
+    "id": 618,
+    "patient_id": 683,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000618",
+    "coverage_level": "Basic",
+    "annual_premium": 1067.01,
+    "valid_from": "2023-01-06",
+    "valid_until": "2025-01-06"
+  },
+  {
+    "id": 619,
+    "patient_id": 685,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000619",
+    "coverage_level": "Premium",
+    "annual_premium": 3468.87,
+    "valid_from": "2023-05-13",
+    "valid_until": "2025-05-13"
+  },
+  {
+    "id": 620,
+    "patient_id": 686,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000620",
+    "coverage_level": "Standard",
+    "annual_premium": 2921.64,
+    "valid_from": "2023-04-10",
+    "valid_until": "2024-04-10"
+  },
+  {
+    "id": 621,
+    "patient_id": 687,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000621",
+    "coverage_level": "Premium",
+    "annual_premium": 4831.65,
+    "valid_from": "2023-08-24",
+    "valid_until": "2025-08-24"
+  },
+  {
+    "id": 622,
+    "patient_id": 688,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000622",
+    "coverage_level": "Basic",
+    "annual_premium": 1149.46,
+    "valid_from": "2023-05-03",
+    "valid_until": "2026-05-03"
+  },
+  {
+    "id": 623,
+    "patient_id": 689,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000623",
+    "coverage_level": "Basic",
+    "annual_premium": 1358.75,
+    "valid_from": "2024-09-20",
+    "valid_until": "2026-09-20"
+  },
+  {
+    "id": 624,
+    "patient_id": 690,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000624",
+    "coverage_level": "Premium",
+    "annual_premium": 3890.57,
+    "valid_from": "2024-12-22",
+    "valid_until": "2025-12-22"
+  },
+  {
+    "id": 625,
+    "patient_id": 691,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000625",
+    "coverage_level": "Basic",
+    "annual_premium": 1073.06,
+    "valid_from": "2023-06-11",
+    "valid_until": "2025-06-11"
+  },
+  {
+    "id": 626,
+    "patient_id": 692,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000626",
+    "coverage_level": "Basic",
+    "annual_premium": 1668.79,
+    "valid_from": "2024-04-14",
+    "valid_until": "2027-04-14"
+  },
+  {
+    "id": 627,
+    "patient_id": 693,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000627",
+    "coverage_level": "Basic",
+    "annual_premium": 1257.72,
+    "valid_from": "2024-06-19",
+    "valid_until": "2025-06-19"
+  },
+  {
+    "id": 628,
+    "patient_id": 694,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000628",
+    "coverage_level": "Standard",
+    "annual_premium": 2398.58,
+    "valid_from": "2024-06-07",
+    "valid_until": "2026-06-07"
+  },
+  {
+    "id": 629,
+    "patient_id": 695,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000629",
+    "coverage_level": "Premium",
+    "annual_premium": 4550.52,
+    "valid_from": "2024-01-14",
+    "valid_until": "2026-01-14"
+  },
+  {
+    "id": 630,
+    "patient_id": 696,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000630",
+    "coverage_level": "Basic",
+    "annual_premium": 1702.33,
+    "valid_from": "2024-10-30",
+    "valid_until": "2025-10-30"
+  },
+  {
+    "id": 631,
+    "patient_id": 697,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000631",
+    "coverage_level": "Premium",
+    "annual_premium": 4381.37,
+    "valid_from": "2023-08-06",
+    "valid_until": "2025-08-06"
+  },
+  {
+    "id": 632,
+    "patient_id": 699,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000632",
+    "coverage_level": "Standard",
+    "annual_premium": 3104.93,
+    "valid_from": "2023-11-10",
+    "valid_until": "2024-11-10"
+  },
+  {
+    "id": 633,
+    "patient_id": 700,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000633",
+    "coverage_level": "Premium",
+    "annual_premium": 3594.07,
+    "valid_from": "2024-02-28",
+    "valid_until": "2026-02-28"
+  },
+  {
+    "id": 634,
+    "patient_id": 701,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000634",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5027.83,
+    "valid_from": "2024-04-24",
+    "valid_until": "2026-04-24"
+  },
+  {
+    "id": 635,
+    "patient_id": 702,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000635",
+    "coverage_level": "Standard",
+    "annual_premium": 2347.97,
+    "valid_from": "2023-11-22",
+    "valid_until": "2024-11-22"
+  },
+  {
+    "id": 636,
+    "patient_id": 703,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000636",
+    "coverage_level": "Standard",
+    "annual_premium": 3267.3,
+    "valid_from": "2024-01-01",
+    "valid_until": "2026-01-01"
+  },
+  {
+    "id": 637,
+    "patient_id": 704,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000637",
+    "coverage_level": "Basic",
+    "annual_premium": 1267.14,
+    "valid_from": "2024-06-17",
+    "valid_until": "2025-06-17"
+  },
+  {
+    "id": 638,
+    "patient_id": 705,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000638",
+    "coverage_level": "Basic",
+    "annual_premium": 1388.55,
+    "valid_from": "2024-02-19",
+    "valid_until": "2026-02-19"
+  },
+  {
+    "id": 639,
+    "patient_id": 706,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000639",
+    "coverage_level": "Basic",
+    "annual_premium": 1315.41,
+    "valid_from": "2023-11-06",
+    "valid_until": "2025-11-06"
+  },
+  {
+    "id": 640,
+    "patient_id": 707,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000640",
+    "coverage_level": "Premium",
+    "annual_premium": 4774.32,
+    "valid_from": "2023-04-09",
+    "valid_until": "2024-04-09"
+  },
+  {
+    "id": 641,
+    "patient_id": 708,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000641",
+    "coverage_level": "Premium",
+    "annual_premium": 3366.18,
+    "valid_from": "2023-10-03",
+    "valid_until": "2025-10-03"
+  },
+  {
+    "id": 642,
+    "patient_id": 709,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000642",
+    "coverage_level": "Standard",
+    "annual_premium": 2242.02,
+    "valid_from": "2024-10-24",
+    "valid_until": "2026-10-24"
+  },
+  {
+    "id": 643,
+    "patient_id": 710,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000643",
+    "coverage_level": "Basic",
+    "annual_premium": 1226.08,
+    "valid_from": "2024-02-20",
+    "valid_until": "2026-02-20"
+  },
+  {
+    "id": 644,
+    "patient_id": 711,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000644",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 6478.13,
+    "valid_from": "2024-02-12",
+    "valid_until": "2027-02-12"
+  },
+  {
+    "id": 645,
+    "patient_id": 712,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000645",
+    "coverage_level": "Premium",
+    "annual_premium": 5025.8,
+    "valid_from": "2023-10-17",
+    "valid_until": "2024-10-17"
+  },
+  {
+    "id": 646,
+    "patient_id": 713,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000646",
+    "coverage_level": "Premium",
+    "annual_premium": 3294.59,
+    "valid_from": "2024-12-08",
+    "valid_until": "2025-12-08"
+  },
+  {
+    "id": 647,
+    "patient_id": 714,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000647",
+    "coverage_level": "Premium",
+    "annual_premium": 3888.47,
+    "valid_from": "2024-07-13",
+    "valid_until": "2025-07-13"
+  },
+  {
+    "id": 648,
+    "patient_id": 715,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000648",
+    "coverage_level": "Standard",
+    "annual_premium": 3432.12,
+    "valid_from": "2023-03-10",
+    "valid_until": "2026-03-10"
+  },
+  {
+    "id": 649,
+    "patient_id": 717,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000649",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 7692.19,
+    "valid_from": "2023-04-10",
+    "valid_until": "2025-04-10"
+  },
+  {
+    "id": 650,
+    "patient_id": 718,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000650",
+    "coverage_level": "Basic",
+    "annual_premium": 1347.74,
+    "valid_from": "2024-10-28",
+    "valid_until": "2027-10-28"
+  },
+  {
+    "id": 651,
+    "patient_id": 719,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000651",
+    "coverage_level": "Basic",
+    "annual_premium": 1041.32,
+    "valid_from": "2024-02-02",
+    "valid_until": "2025-02-02"
+  },
+  {
+    "id": 652,
+    "patient_id": 720,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000652",
+    "coverage_level": "Standard",
+    "annual_premium": 2080.13,
+    "valid_from": "2023-06-16",
+    "valid_until": "2025-06-16"
+  },
+  {
+    "id": 653,
+    "patient_id": 721,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000653",
+    "coverage_level": "Standard",
+    "annual_premium": 2218.43,
+    "valid_from": "2023-01-03",
+    "valid_until": "2025-01-03"
+  },
+  {
+    "id": 654,
+    "patient_id": 723,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000654",
+    "coverage_level": "Basic",
+    "annual_premium": 1039.2,
+    "valid_from": "2023-07-31",
+    "valid_until": "2025-07-31"
+  },
+  {
+    "id": 655,
+    "patient_id": 724,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000655",
+    "coverage_level": "Standard",
+    "annual_premium": 2652.23,
+    "valid_from": "2024-07-29",
+    "valid_until": "2025-07-29"
+  },
+  {
+    "id": 656,
+    "patient_id": 725,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000656",
+    "coverage_level": "Basic",
+    "annual_premium": 1165.86,
+    "valid_from": "2023-02-10",
+    "valid_until": "2024-02-10"
+  },
+  {
+    "id": 657,
+    "patient_id": 726,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000657",
+    "coverage_level": "Standard",
+    "annual_premium": 2428.73,
+    "valid_from": "2024-03-20",
+    "valid_until": "2025-03-20"
+  },
+  {
+    "id": 658,
+    "patient_id": 727,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000658",
+    "coverage_level": "Standard",
+    "annual_premium": 2307.71,
+    "valid_from": "2024-06-15",
+    "valid_until": "2026-06-15"
+  },
+  {
+    "id": 659,
+    "patient_id": 728,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000659",
+    "coverage_level": "Standard",
+    "annual_premium": 2558.86,
+    "valid_from": "2024-04-30",
+    "valid_until": "2026-04-30"
+  },
+  {
+    "id": 660,
+    "patient_id": 729,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000660",
+    "coverage_level": "Standard",
+    "annual_premium": 2618.91,
+    "valid_from": "2024-07-01",
+    "valid_until": "2025-07-01"
+  },
+  {
+    "id": 661,
+    "patient_id": 730,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000661",
+    "coverage_level": "Basic",
+    "annual_premium": 1423.34,
+    "valid_from": "2024-07-06",
+    "valid_until": "2027-07-06"
+  },
+  {
+    "id": 662,
+    "patient_id": 731,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000662",
+    "coverage_level": "Basic",
+    "annual_premium": 1069.78,
+    "valid_from": "2023-08-03",
+    "valid_until": "2024-08-03"
+  },
+  {
+    "id": 663,
+    "patient_id": 732,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000663",
+    "coverage_level": "Standard",
+    "annual_premium": 2338.33,
+    "valid_from": "2023-07-22",
+    "valid_until": "2026-07-22"
+  },
+  {
+    "id": 664,
+    "patient_id": 733,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000664",
+    "coverage_level": "Basic",
+    "annual_premium": 1523.62,
+    "valid_from": "2023-04-30",
+    "valid_until": "2025-04-30"
+  },
+  {
+    "id": 665,
+    "patient_id": 734,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000665",
+    "coverage_level": "Premium",
+    "annual_premium": 4862.2,
+    "valid_from": "2024-01-04",
+    "valid_until": "2025-01-04"
+  },
+  {
+    "id": 666,
+    "patient_id": 735,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000666",
+    "coverage_level": "Standard",
+    "annual_premium": 2775.33,
+    "valid_from": "2023-12-16",
+    "valid_until": "2026-12-16"
+  },
+  {
+    "id": 667,
+    "patient_id": 736,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000667",
+    "coverage_level": "Standard",
+    "annual_premium": 2123.67,
+    "valid_from": "2024-04-20",
+    "valid_until": "2027-04-20"
+  },
+  {
+    "id": 668,
+    "patient_id": 737,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000668",
+    "coverage_level": "Premium",
+    "annual_premium": 3755.04,
+    "valid_from": "2024-12-06",
+    "valid_until": "2027-12-06"
+  },
+  {
+    "id": 669,
+    "patient_id": 738,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000669",
+    "coverage_level": "Basic",
+    "annual_premium": 1109.63,
+    "valid_from": "2024-09-16",
+    "valid_until": "2026-09-16"
+  },
+  {
+    "id": 670,
+    "patient_id": 739,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000670",
+    "coverage_level": "Basic",
+    "annual_premium": 1096.43,
+    "valid_from": "2024-02-08",
+    "valid_until": "2025-02-08"
+  },
+  {
+    "id": 671,
+    "patient_id": 740,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000671",
+    "coverage_level": "Basic",
+    "annual_premium": 1257.78,
+    "valid_from": "2024-12-27",
+    "valid_until": "2025-12-27"
+  },
+  {
+    "id": 672,
+    "patient_id": 741,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000672",
+    "coverage_level": "Standard",
+    "annual_premium": 2493.52,
+    "valid_from": "2023-10-17",
+    "valid_until": "2025-10-17"
+  },
+  {
+    "id": 673,
+    "patient_id": 742,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000673",
+    "coverage_level": "Standard",
+    "annual_premium": 2471.99,
+    "valid_from": "2024-07-19",
+    "valid_until": "2025-07-19"
+  },
+  {
+    "id": 674,
+    "patient_id": 743,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000674",
+    "coverage_level": "Basic",
+    "annual_premium": 1412.86,
+    "valid_from": "2024-12-01",
+    "valid_until": "2025-12-01"
+  },
+  {
+    "id": 675,
+    "patient_id": 744,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000675",
+    "coverage_level": "Premium",
+    "annual_premium": 4104.27,
+    "valid_from": "2024-10-13",
+    "valid_until": "2027-10-13"
+  },
+  {
+    "id": 676,
+    "patient_id": 745,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000676",
+    "coverage_level": "Standard",
+    "annual_premium": 2434.45,
+    "valid_from": "2024-02-20",
+    "valid_until": "2025-02-20"
+  },
+  {
+    "id": 677,
+    "patient_id": 746,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000677",
+    "coverage_level": "Standard",
+    "annual_premium": 3388.84,
+    "valid_from": "2024-08-23",
+    "valid_until": "2026-08-23"
+  },
+  {
+    "id": 678,
+    "patient_id": 747,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000678",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 5551.98,
+    "valid_from": "2024-08-16",
+    "valid_until": "2025-08-16"
+  },
+  {
+    "id": 679,
+    "patient_id": 748,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000679",
+    "coverage_level": "Basic",
+    "annual_premium": 1147.29,
+    "valid_from": "2024-03-01",
+    "valid_until": "2025-03-01"
+  },
+  {
+    "id": 680,
+    "patient_id": 749,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000680",
+    "coverage_level": "Standard",
+    "annual_premium": 2907.8,
+    "valid_from": "2024-10-09",
+    "valid_until": "2027-10-09"
+  },
+  {
+    "id": 681,
+    "patient_id": 751,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000681",
+    "coverage_level": "Standard",
+    "annual_premium": 2604.87,
+    "valid_from": "2023-08-08",
+    "valid_until": "2026-08-08"
+  },
+  {
+    "id": 682,
+    "patient_id": 752,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000682",
+    "coverage_level": "Basic",
+    "annual_premium": 1002.05,
+    "valid_from": "2023-07-22",
+    "valid_until": "2026-07-22"
+  },
+  {
+    "id": 683,
+    "patient_id": 753,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000683",
+    "coverage_level": "Basic",
+    "annual_premium": 1605.24,
+    "valid_from": "2023-04-02",
+    "valid_until": "2026-04-02"
+  },
+  {
+    "id": 684,
+    "patient_id": 755,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000684",
+    "coverage_level": "Basic",
+    "annual_premium": 1531.64,
+    "valid_from": "2024-04-06",
+    "valid_until": "2027-04-06"
+  },
+  {
+    "id": 685,
+    "patient_id": 756,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000685",
+    "coverage_level": "Premium",
+    "annual_premium": 5051.36,
+    "valid_from": "2024-05-25",
+    "valid_until": "2027-05-25"
+  },
+  {
+    "id": 686,
+    "patient_id": 758,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000686",
+    "coverage_level": "Premium",
+    "annual_premium": 4086.67,
+    "valid_from": "2023-05-05",
+    "valid_until": "2026-05-05"
+  },
+  {
+    "id": 687,
+    "patient_id": 760,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000687",
+    "coverage_level": "Premium",
+    "annual_premium": 4527.6,
+    "valid_from": "2023-07-24",
+    "valid_until": "2025-07-24"
+  },
+  {
+    "id": 688,
+    "patient_id": 761,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000688",
+    "coverage_level": "Basic",
+    "annual_premium": 977.66,
+    "valid_from": "2024-01-25",
+    "valid_until": "2025-01-25"
+  },
+  {
+    "id": 689,
+    "patient_id": 763,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000689",
+    "coverage_level": "Standard",
+    "annual_premium": 2469.17,
+    "valid_from": "2023-11-19",
+    "valid_until": "2026-11-19"
+  },
+  {
+    "id": 690,
+    "patient_id": 764,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000690",
+    "coverage_level": "Basic",
+    "annual_premium": 1228.97,
+    "valid_from": "2024-10-16",
+    "valid_until": "2027-10-16"
+  },
+  {
+    "id": 691,
+    "patient_id": 766,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000691",
+    "coverage_level": "Premium",
+    "annual_premium": 3383.01,
+    "valid_from": "2023-10-24",
+    "valid_until": "2026-10-24"
+  },
+  {
+    "id": 692,
+    "patient_id": 767,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000692",
+    "coverage_level": "Basic",
+    "annual_premium": 931.63,
+    "valid_from": "2023-07-24",
+    "valid_until": "2026-07-24"
+  },
+  {
+    "id": 693,
+    "patient_id": 769,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000693",
+    "coverage_level": "Standard",
+    "annual_premium": 2238.32,
+    "valid_from": "2023-03-19",
+    "valid_until": "2025-03-19"
+  },
+  {
+    "id": 694,
+    "patient_id": 771,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000694",
+    "coverage_level": "Standard",
+    "annual_premium": 2882.59,
+    "valid_from": "2024-08-16",
+    "valid_until": "2025-08-16"
+  },
+  {
+    "id": 695,
+    "patient_id": 772,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000695",
+    "coverage_level": "Standard",
+    "annual_premium": 2508.7,
+    "valid_from": "2023-03-02",
+    "valid_until": "2025-03-02"
+  },
+  {
+    "id": 696,
+    "patient_id": 773,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000696",
+    "coverage_level": "Basic",
+    "annual_premium": 1093.97,
+    "valid_from": "2024-08-08",
+    "valid_until": "2027-08-08"
+  },
+  {
+    "id": 697,
+    "patient_id": 774,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000697",
+    "coverage_level": "Standard",
+    "annual_premium": 2671.53,
+    "valid_from": "2023-07-16",
+    "valid_until": "2025-07-16"
+  },
+  {
+    "id": 698,
+    "patient_id": 775,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000698",
+    "coverage_level": "Premium",
+    "annual_premium": 5329.78,
+    "valid_from": "2024-12-05",
+    "valid_until": "2025-12-05"
+  },
+  {
+    "id": 699,
+    "patient_id": 776,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000699",
+    "coverage_level": "Basic",
+    "annual_premium": 1191.93,
+    "valid_from": "2023-06-29",
+    "valid_until": "2025-06-29"
+  },
+  {
+    "id": 700,
+    "patient_id": 777,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000700",
+    "coverage_level": "Comprehensive",
+    "annual_premium": 6258.21,
+    "valid_from": "2024-07-26",
+    "valid_until": "2025-07-26"
+  },
+  {
+    "id": 701,
+    "patient_id": 778,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000701",
+    "coverage_level": "Premium",
+    "annual_premium": 3592.18,
+    "valid_from": "2024-03-21",
+    "valid_until": "2026-03-21"
+  },
+  {
+    "id": 702,
+    "patient_id": 779,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000702",
+    "coverage_level": "Basic",
+    "annual_premium": 1208.78,
+    "valid_from": "2024-06-19",
+    "valid_until": "2025-06-19"
+  },
+  {
+    "id": 703,
+    "patient_id": 780,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000703",
+    "coverage_level": "Standard",
+    "annual_premium": 2954.04,
+    "valid_from": "2023-06-26",
+    "valid_until": "2025-06-26"
+  },
+  {
+    "id": 704,
+    "patient_id": 781,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000704",
+    "coverage_level": "Standard",
+    "annual_premium": 2241.35,
+    "valid_from": "2023-10-14",
+    "valid_until": "2026-10-14"
+  },
+  {
+    "id": 705,
+    "patient_id": 782,
+    "provider": "Northwind Health",
+    "policy_number": "POL-00000705",
+    "coverage_level": "Standard",
+    "annual_premium": 1981.59,
+    "valid_from": "2023-10-15",
+    "valid_until": "2024-10-15"
+  },
+  {
+    "id": 706,
+    "patient_id": 784,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000706",
+    "coverage_level": "Standard",
+    "annual_premium": 2271.93,
+    "valid_from": "2023-03-28",
+    "valid_until": "2025-03-28"
+  },
+  {
+    "id": 707,
+    "patient_id": 785,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000707",
+    "coverage_level": "Basic",
+    "annual_premium": 1663.49,
+    "valid_from": "2024-12-02",
+    "valid_until": "2025-12-02"
+  },
+  {
+    "id": 708,
+    "patient_id": 786,
+    "provider": "Blue Harbour Cover",
+    "policy_number": "POL-00000708",
+    "coverage_level": "Standard",
+    "annual_premium": 2115.36,
+    "valid_from": "2024-07-28",
+    "valid_until": "2025-07-28"
+  },
+  {
+    "id": 709,
+    "patient_id": 787,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000709",
+    "coverage_level": "Premium",
+    "annual_premium": 3534.74,
+    "valid_from": "2024-02-18",
+    "valid_until": "2026-02-18"
+  },
+  {
+    "id": 710,
+    "patient_id": 788,
+    "provider": "Arcadia Health Plan",
+    "policy_number": "POL-00000710",
+    "coverage_level": "Premium",
+    "annual_premium": 5729.78,
+    "valid_from": "2023-07-15",
+    "valid_until": "2024-07-15"
+  },
+  {
+    "id": 711,
+    "patient_id": 789,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000711",
+    "coverage_level": "Basic",
+    "annual_premium": 1385.16,
+    "valid_from": "2024-12-03",
+    "valid_until": "2025-12-03"
+  },
+  {
+    "id": 712,
+    "patient_id": 790,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000712",
+    "coverage_level": "Standard",
+    "annual_premium": 2197.25,
+    "valid_from": "2024-09-03",
+    "valid_until": "2027-09-03"
+  },
+  {
+    "id": 713,
+    "patient_id": 791,
+    "provider": "Pinefield Medical",
+    "policy_number": "POL-00000713",
+    "coverage_level": "Basic",
+    "annual_premium": 1299.09,
+    "valid_from": "2024-08-27",
+    "valid_until": "2026-08-27"
+  },
+  {
+    "id": 714,
+    "patient_id": 792,
+    "provider": "Lakeview Assurance",
+    "policy_number": "POL-00000714",
+    "coverage_level": "Standard",
+    "annual_premium": 2571.74,
+    "valid_from": "2024-12-26",
+    "valid_until": "2026-12-26"
+  },
+  {
+    "id": 715,
+    "patient_id": 793,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000715",
+    "coverage_level": "Premium",
+    "annual_premium": 5257.97,
+    "valid_from": "2024-05-22",
+    "valid_until": "2025-05-22"
+  },
+  {
+    "id": 716,
+    "patient_id": 794,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000716",
+    "coverage_level": "Premium",
+    "annual_premium": 5045.69,
+    "valid_from": "2024-03-12",
+    "valid_until": "2027-03-12"
+  },
+  {
+    "id": 717,
+    "patient_id": 795,
+    "provider": "Meridian Mutual",
+    "policy_number": "POL-00000717",
+    "coverage_level": "Standard",
+    "annual_premium": 2403.97,
+    "valid_from": "2023-12-07",
+    "valid_until": "2025-12-07"
+  },
+  {
+    "id": 718,
+    "patient_id": 798,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000718",
+    "coverage_level": "Standard",
+    "annual_premium": 2329.27,
+    "valid_from": "2024-07-21",
+    "valid_until": "2025-07-21"
+  },
+  {
+    "id": 719,
+    "patient_id": 799,
+    "provider": "Stonebridge Health",
+    "policy_number": "POL-00000719",
+    "coverage_level": "Basic",
+    "annual_premium": 1200.3,
+    "valid_from": "2023-02-07",
+    "valid_until": "2026-02-07"
+  },
+  {
+    "id": 720,
+    "patient_id": 800,
+    "provider": "Caldera Care",
+    "policy_number": "POL-00000720",
+    "coverage_level": "Standard",
+    "annual_premium": 3663.63,
+    "valid_from": "2024-01-05",
+    "valid_until": "2027-01-05"
+  }
+]

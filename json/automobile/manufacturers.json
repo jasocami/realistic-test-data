@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Altaria Motors",
+    "country": "Spain",
+    "founded": 1962,
+    "wmi": "ZZA"
+  },
+  {
+    "id": 2,
+    "name": "Velmar Automobile",
+    "country": "Germany",
+    "founded": 1931,
+    "wmi": "ZZB"
+  },
+  {
+    "id": 3,
+    "name": "Corvera",
+    "country": "Spain",
+    "founded": 1978,
+    "wmi": "ZZC"
+  },
+  {
+    "id": 4,
+    "name": "Nordika Bilar",
+    "country": "Sweden",
+    "founded": 1947,
+    "wmi": "ZZD"
+  },
+  {
+    "id": 5,
+    "name": "Tessera Auto",
+    "country": "Italy",
+    "founded": 1955,
+    "wmi": "ZZF"
+  },
+  {
+    "id": 6,
+    "name": "Aurion Motor Works",
+    "country": "France",
+    "founded": 1919,
+    "wmi": "ZZG"
+  },
+  {
+    "id": 7,
+    "name": "Belmonte Vehículos",
+    "country": "Spain",
+    "founded": 1984,
+    "wmi": "ZZH"
+  },
+  {
+    "id": 8,
+    "name": "Kestrel Cars",
+    "country": "United Kingdom",
+    "founded": 1938,
+    "wmi": "ZZJ"
+  },
+  {
+    "id": 9,
+    "name": "Marova",
+    "country": "Czechia",
+    "founded": 1925,
+    "wmi": "ZZK"
+  },
+  {
+    "id": 10,
+    "name": "Ondara Industrial",
+    "country": "Spain",
+    "founded": 1991,
+    "wmi": "ZZL"
+  },
+  {
+    "id": 11,
+    "name": "Rivenna",
+    "country": "Italy",
+    "founded": 1968,
+    "wmi": "ZZM"
+  },
+  {
+    "id": 12,
+    "name": "Solane Motors",
+    "country": "France",
+    "founded": 2004,
+    "wmi": "ZZN"
+  }
+]

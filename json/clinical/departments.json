@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "hospital_id": 1,
+    "name": "Dermatology",
+    "floor": 7,
+    "phone_extension": "9882"
+  },
+  {
+    "id": 2,
+    "hospital_id": 1,
+    "name": "Neurology",
+    "floor": 2,
+    "phone_extension": "3855"
+  },
+  {
+    "id": 3,
+    "hospital_id": 1,
+    "name": "Obstetrics & Gynaecology",
+    "floor": 6,
+    "phone_extension": "7471"
+  },
+  {
+    "id": 4,
+    "hospital_id": 1,
+    "name": "Oncology",
+    "floor": 1,
+    "phone_extension": "3291"
+  },
+  {
+    "id": 5,
+    "hospital_id": 2,
+    "name": "General Surgery",
+    "floor": 1,
+    "phone_extension": "1702"
+  },
+  {
+    "id": 6,
+    "hospital_id": 2,
+    "name": "Internal Medicine",
+    "floor": 7,
+    "phone_extension": "9587"
+  },
+  {
+    "id": 7,
+    "hospital_id": 2,
+    "name": "Neurology",
+    "floor": 4,
+    "phone_extension": "8788"
+  },
+  {
+    "id": 8,
+    "hospital_id": 2,
+    "name": "Obstetrics & Gynaecology",
+    "floor": 8,
+    "phone_extension": "1346"
+  },
+  {
+    "id": 9,
+    "hospital_id": 2,
+    "name": "Oncology",
+    "floor": 0,
+    "phone_extension": "8802"
+  },
+  {
+    "id": 10,
+    "hospital_id": 2,
+    "name": "Orthopaedics",
+    "floor": 3,
+    "phone_extension": "5704"
+  },
+  {
+    "id": 11,
+    "hospital_id": 2,
+    "name": "Paediatrics",
+    "floor": 0,
+    "phone_extension": "1125"
+  },
+  {
+    "id": 12,
+    "hospital_id": 2,
+    "name": "Psychiatry",
+    "floor": 6,
+    "phone_extension": "4005"
+  },
+  {
+    "id": 13,
+    "hospital_id": 2,
+    "name": "Radiology",
+    "floor": 3,
+    "phone_extension": "6972"
+  },
+  {
+    "id": 14,
+    "hospital_id": 3,
+    "name": "Cardiology",
+    "floor": 6,
+    "phone_extension": "1703"
+  },
+  {
+    "id": 15,
+    "hospital_id": 3,
+    "name": "Emergency",
+    "floor": 2,
+    "phone_extension": "5601"
+  },
+  {
+    "id": 16,
+    "hospital_id": 3,
+    "name": "General Surgery",
+    "floor": 8,
+    "phone_extension": "5425"
+  },
+  {
+    "id": 17,
+    "hospital_id": 3,
+    "name": "Internal Medicine",
+    "floor": 8,
+    "phone_extension": "5696"
+  },
+  {
+    "id": 18,
+    "hospital_id": 3,
+    "name": "Obstetrics & Gynaecology",
+    "floor": 2,
+    "phone_extension": "4800"
+  },
+  {
+    "id": 19,
+    "hospital_id": 3,
+    "name": "Psychiatry",
+    "floor": 7,
+    "phone_extension": "7533"
+  },
+  {
+    "id": 20,
+    "hospital_id": 4,
+    "name": "Cardiology",
+    "floor": 7,
+    "phone_extension": "3840"
+  },
+  {
+    "id": 21,
+    "hospital_id": 4,
+    "name": "Dermatology",
+    "floor": 7,
+    "phone_extension": "9586"
+  },
+  {
+    "id": 22,
+    "hospital_id": 4,
+    "name": "Emergency",
+    "floor": 7,
+    "phone_extension": "7696"
+  },
+  {
+    "id": 23,
+    "hospital_id": 4,
+    "name": "Neurology",
+    "floor": 5,
+    "phone_extension": "3427"
+  },
+  {
+    "id": 24,
+    "hospital_id": 4,
+    "name": "Orthopaedics",
+    "floor": 1,
+    "phone_extension": "6850"
+  },
+  {
+    "id": 25,
+    "hospital_id": 4,
+    "name": "Psychiatry",
+    "floor": 7,
+    "phone_extension": "1572"
+  },
+  {
+    "id": 26,
+    "hospital_id": 4,
+    "name": "Radiology",
+    "floor": 1,
+    "phone_extension": "3718"
+  },
+  {
+    "id": 27,
+    "hospital_id": 5,
+    "name": "Cardiology",
+    "floor": 8,
+    "phone_extension": "7775"
+  },
+  {
+    "id": 28,
+    "hospital_id": 5,
+    "name": "Dermatology",
+    "floor": 4,
+    "phone_extension": "2594"
+  },
+  {
+    "id": 29,
+    "hospital_id": 5,
+    "name": "General Surgery",
+    "floor": 3,
+    "phone_extension": "4772"
+  },
+  {
+    "id": 30,
+    "hospital_id": 5,
+    "name": "Internal Medicine",
+    "floor": 0,
+    "phone_extension": "5092"
+  },
+  {
+    "id": 31,
+    "hospital_id": 5,
+    "name": "Neurology",
+    "floor": 5,
+    "phone_extension": "5592"
+  },
+  {
+    "id": 32,
+    "hospital_id": 5,
+    "name": "Obstetrics & Gynaecology",
+    "floor": 4,
+    "phone_extension": "9027"
+  },
+  {
+    "id": 33,
+    "hospital_id": 5,
+    "name": "Orthopaedics",
+    "floor": 0,
+    "phone_extension": "7888"
+  },
+  {
+    "id": 34,
+    "hospital_id": 5,
+    "name": "Paediatrics",
+    "floor": 1,
+    "phone_extension": "3708"
+  },
+  {
+    "id": 35,
+    "hospital_id": 5,
+    "name": "Psychiatry",
+    "floor": 7,
+    "phone_extension": "5668"
+  },
+  {
+    "id": 36,
+    "hospital_id": 5,
+    "name": "Radiology",
+    "floor": 8,
+    "phone_extension": "2820"
+  },
+  {
+    "id": 37,
+    "hospital_id": 6,
+    "name": "Cardiology",
+    "floor": 2,
+    "phone_extension": "3348"
+  },
+  {
+    "id": 38,
+    "hospital_id": 6,
+    "name": "Oncology",
+    "floor": 1,
+    "phone_extension": "6499"
+  },
+  {
+    "id": 39,
+    "hospital_id": 7,
+    "name": "Internal Medicine",
+    "floor": 1,
+    "phone_extension": "4534"
+  },
+  {
+    "id": 40,
+    "hospital_id": 7,
+    "name": "Neurology",
+    "floor": 6,
+    "phone_extension": "9726"
+  },
+  {
+    "id": 41,
+    "hospital_id": 7,
+    "name": "Orthopaedics",
+    "floor": 2,
+    "phone_extension": "4534"
+  },
+  {
+    "id": 42,
+    "hospital_id": 8,
+    "name": "Dermatology",
+    "floor": 5,
+    "phone_extension": "3636"
+  },
+  {
+    "id": 43,
+    "hospital_id": 8,
+    "name": "Emergency",
+    "floor": 6,
+    "phone_extension": "9627"
+  },
+  {
+    "id": 44,
+    "hospital_id": 8,
+    "name": "General Surgery",
+    "floor": 0,
+    "phone_extension": "4162"
+  },
+  {
+    "id": 45,
+    "hospital_id": 8,
+    "name": "Internal Medicine",
+    "floor": 0,
+    "phone_extension": "9073"
+  },
+  {
+    "id": 46,
+    "hospital_id": 8,
+    "name": "Neurology",
+    "floor": 1,
+    "phone_extension": "3764"
+  },
+  {
+    "id": 47,
+    "hospital_id": 8,
+    "name": "Obstetrics & Gynaecology",
+    "floor": 4,
+    "phone_extension": "1681"
+  },
+  {
+    "id": 48,
+    "hospital_id": 8,
+    "name": "Oncology",
+    "floor": 8,
+    "phone_extension": "8681"
+  },
+  {
+    "id": 49,
+    "hospital_id": 8,
+    "name": "Orthopaedics",
+    "floor": 8,
+    "phone_extension": "3586"
+  },
+  {
+    "id": 50,
+    "hospital_id": 8,
+    "name": "Radiology",
+    "floor": 0,
+    "phone_extension": "5361"
+  },
+  {
+    "id": 51,
+    "hospital_id": 9,
+    "name": "General Surgery",
+    "floor": 5,
+    "phone_extension": "4008"
+  },
+  {
+    "id": 52,
+    "hospital_id": 9,
+    "name": "Internal Medicine",
+    "floor": 4,
+    "phone_extension": "8651"
+  },
+  {
+    "id": 53,
+    "hospital_id": 9,
+    "name": "Oncology",
+    "floor": 6,
+    "phone_extension": "1810"
+  },
+  {
+    "id": 54,
+    "hospital_id": 9,
+    "name": "Paediatrics",
+    "floor": 8,
+    "phone_extension": "1801"
+  },
+  {
+    "id": 55,
+    "hospital_id": 10,
+    "name": "Cardiology",
+    "floor": 8,
+    "phone_extension": "3761"
+  },
+  {
+    "id": 56,
+    "hospital_id": 10,
+    "name": "Dermatology",
+    "floor": 5,
+    "phone_extension": "7427"
+  },
+  {
+    "id": 57,
+    "hospital_id": 10,
+    "name": "Emergency",
+    "floor": 6,
+    "phone_extension": "6446"
+  },
+  {
+    "id": 58,
+    "hospital_id": 10,
+    "name": "General Surgery",
+    "floor": 2,
+    "phone_extension": "8970"
+  },
+  {
+    "id": 59,
+    "hospital_id": 10,
+    "name": "Internal Medicine",
+    "floor": 1,
+    "phone_extension": "1587"
+  },
+  {
+    "id": 60,
+    "hospital_id": 10,
+    "name": "Neurology",
+    "floor": 4,
+    "phone_extension": "1602"
+  },
+  {
+    "id": 61,
+    "hospital_id": 10,
+    "name": "Obstetrics & Gynaecology",
+    "floor": 1,
+    "phone_extension": "2114"
+  },
+  {
+    "id": 62,
+    "hospital_id": 10,
+    "name": "Orthopaedics",
+    "floor": 0,
+    "phone_extension": "1955"
+  },
+  {
+    "id": 63,
+    "hospital_id": 10,
+    "name": "Radiology",
+    "floor": 1,
+    "phone_extension": "8152"
+  },
+  {
+    "id": 64,
+    "hospital_id": 11,
+    "name": "Cardiology",
+    "floor": 2,
+    "phone_extension": "2773"
+  },
+  {
+    "id": 65,
+    "hospital_id": 11,
+    "name": "Emergency",
+    "floor": 3,
+    "phone_extension": "2185"
+  },
+  {
+    "id": 66,
+    "hospital_id": 11,
+    "name": "General Surgery",
+    "floor": 7,
+    "phone_extension": "3388"
+  },
+  {
+    "id": 67,
+    "hospital_id": 11,
+    "name": "Oncology",
+    "floor": 8,
+    "phone_extension": "4977"
+  },
+  {
+    "id": 68,
+    "hospital_id": 11,
+    "name": "Psychiatry",
+    "floor": 0,
+    "phone_extension": "5236"
+  },
+  {
+    "id": 69,
+    "hospital_id": 12,
+    "name": "Emergency",
+    "floor": 7,
+    "phone_extension": "4507"
+  },
+  {
+    "id": 70,
+    "hospital_id": 12,
+    "name": "General Surgery",
+    "floor": 5,
+    "phone_extension": "2455"
+  },
+  {
+    "id": 71,
+    "hospital_id": 12,
+    "name": "Internal Medicine",
+    "floor": 6,
+    "phone_extension": "9125"
+  },
+  {
+    "id": 72,
+    "hospital_id": 12,
+    "name": "Neurology",
+    "floor": 3,
+    "phone_extension": "1992"
+  },
+  {
+    "id": 73,
+    "hospital_id": 12,
+    "name": "Oncology",
+    "floor": 6,
+    "phone_extension": "6321"
+  },
+  {
+    "id": 74,
+    "hospital_id": 12,
+    "name": "Orthopaedics",
+    "floor": 6,
+    "phone_extension": "4585"
+  },
+  {
+    "id": 75,
+    "hospital_id": 12,
+    "name": "Paediatrics",
+    "floor": 7,
+    "phone_extension": "2376"
+  },
+  {
+    "id": 76,
+    "hospital_id": 12,
+    "name": "Psychiatry",
+    "floor": 0,
+    "phone_extension": "8255"
+  },
+  {
+    "id": 77,
+    "hospital_id": 12,
+    "name": "Radiology",
+    "floor": 7,
+    "phone_extension": "9469"
+  },
+  {
+    "id": 78,
+    "hospital_id": 13,
+    "name": "Cardiology",
+    "floor": 8,
+    "phone_extension": "3342"
+  },
+  {
+    "id": 79,
+    "hospital_id": 13,
+    "name": "Dermatology",
+    "floor": 0,
+    "phone_extension": "6211"
+  },
+  {
+    "id": 80,
+    "hospital_id": 13,
+    "name": "Emergency",
+    "floor": 8,
+    "phone_extension": "2791"
+  },
+  {
+    "id": 81,
+    "hospital_id": 13,
+    "name": "Internal Medicine",
+    "floor": 0,
+    "phone_extension": "9373"
+  },
+  {
+    "id": 82,
+    "hospital_id": 13,
+    "name": "Neurology",
+    "floor": 5,
+    "phone_extension": "5146"
+  },
+  {
+    "id": 83,
+    "hospital_id": 13,
+    "name": "Obstetrics & Gynaecology",
+    "floor": 8,
+    "phone_extension": "5882"
+  },
+  {
+    "id": 84,
+    "hospital_id": 13,
+    "name": "Oncology",
+    "floor": 5,
+    "phone_extension": "8439"
+  },
+  {
+    "id": 85,
+    "hospital_id": 13,
+    "name": "Orthopaedics",
+    "floor": 0,
+    "phone_extension": "1404"
+  },
+  {
+    "id": 86,
+    "hospital_id": 13,
+    "name": "Paediatrics",
+    "floor": 7,
+    "phone_extension": "4537"
+  },
+  {
+    "id": 87,
+    "hospital_id": 13,
+    "name": "Psychiatry",
+    "floor": 3,
+    "phone_extension": "9252"
+  },
+  {
+    "id": 88,
+    "hospital_id": 13,
+    "name": "Radiology",
+    "floor": 5,
+    "phone_extension": "6315"
+  },
+  {
+    "id": 89,
+    "hospital_id": 14,
+    "name": "Emergency",
+    "floor": 0,
+    "phone_extension": "6791"
+  },
+  {
+    "id": 90,
+    "hospital_id": 14,
+    "name": "General Surgery",
+    "floor": 7,
+    "phone_extension": "6304"
+  },
+  {
+    "id": 91,
+    "hospital_id": 14,
+    "name": "Neurology",
+    "floor": 2,
+    "phone_extension": "1864"
+  },
+  {
+    "id": 92,
+    "hospital_id": 14,
+    "name": "Orthopaedics",
+    "floor": 8,
+    "phone_extension": "2663"
+  },
+  {
+    "id": 93,
+    "hospital_id": 14,
+    "name": "Radiology",
+    "floor": 5,
+    "phone_extension": "9671"
+  },
+  {
+    "id": 94,
+    "hospital_id": 15,
+    "name": "Cardiology",
+    "floor": 6,
+    "phone_extension": "5817"
+  },
+  {
+    "id": 95,
+    "hospital_id": 15,
+    "name": "Dermatology",
+    "floor": 2,
+    "phone_extension": "2892"
+  },
+  {
+    "id": 96,
+    "hospital_id": 15,
+    "name": "Emergency",
+    "floor": 5,
+    "phone_extension": "3948"
+  },
+  {
+    "id": 97,
+    "hospital_id": 15,
+    "name": "Internal Medicine",
+    "floor": 5,
+    "phone_extension": "1881"
+  },
+  {
+    "id": 98,
+    "hospital_id": 15,
+    "name": "Neurology",
+    "floor": 5,
+    "phone_extension": "7033"
+  },
+  {
+    "id": 99,
+    "hospital_id": 15,
+    "name": "Obstetrics & Gynaecology",
+    "floor": 4,
+    "phone_extension": "3702"
+  },
+  {
+    "id": 100,
+    "hospital_id": 15,
+    "name": "Orthopaedics",
+    "floor": 6,
+    "phone_extension": "5242"
+  },
+  {
+    "id": 101,
+    "hospital_id": 15,
+    "name": "Psychiatry",
+    "floor": 7,
+    "phone_extension": "2554"
+  },
+  {
+    "id": 102,
+    "hospital_id": 15,
+    "name": "Radiology",
+    "floor": 6,
+    "phone_extension": "5128"
+  },
+  {
+    "id": 103,
+    "hospital_id": 16,
+    "name": "Emergency",
+    "floor": 6,
+    "phone_extension": "6666"
+  },
+  {
+    "id": 104,
+    "hospital_id": 16,
+    "name": "General Surgery",
+    "floor": 0,
+    "phone_extension": "5166"
+  },
+  {
+    "id": 105,
+    "hospital_id": 16,
+    "name": "Internal Medicine",
+    "floor": 0,
+    "phone_extension": "4124"
+  },
+  {
+    "id": 106,
+    "hospital_id": 16,
+    "name": "Neurology",
+    "floor": 3,
+    "phone_extension": "7500"
+  },
+  {
+    "id": 107,
+    "hospital_id": 16,
+    "name": "Oncology",
+    "floor": 4,
+    "phone_extension": "5998"
+  },
+  {
+    "id": 108,
+    "hospital_id": 16,
+    "name": "Orthopaedics",
+    "floor": 7,
+    "phone_extension": "3987"
+  },
+  {
+    "id": 109,
+    "hospital_id": 16,
+    "name": "Paediatrics",
+    "floor": 3,
+    "phone_extension": "2293"
+  },
+  {
+    "id": 110,
+    "hospital_id": 16,
+    "name": "Radiology",
+    "floor": 7,
+    "phone_extension": "9050"
+  },
+  {
+    "id": 111,
+    "hospital_id": 17,
+    "name": "Cardiology",
+    "floor": 6,
+    "phone_extension": "7327"
+  },
+  {
+    "id": 112,
+    "hospital_id": 17,
+    "name": "Dermatology",
+    "floor": 2,
+    "phone_extension": "8985"
+  },
+  {
+    "id": 113,
+    "hospital_id": 17,
+    "name": "Emergency",
+    "floor": 8,
+    "phone_extension": "7040"
+  },
+  {
+    "id": 114,
+    "hospital_id": 17,
+    "name": "General Surgery",
+    "floor": 7,
+    "phone_extension": "2732"
+  },
+  {
+    "id": 115,
+    "hospital_id": 17,
+    "name": "Internal Medicine",
+    "floor": 1,
+    "phone_extension": "1586"
+  },
+  {
+    "id": 116,
+    "hospital_id": 17,
+    "name": "Obstetrics & Gynaecology",
+    "floor": 7,
+    "phone_extension": "6130"
+  },
+  {
+    "id": 117,
+    "hospital_id": 17,
+    "name": "Oncology",
+    "floor": 2,
+    "phone_extension": "1266"
+  },
+  {
+    "id": 118,
+    "hospital_id": 17,
+    "name": "Orthopaedics",
+    "floor": 4,
+    "phone_extension": "5504"
+  },
+  {
+    "id": 119,
+    "hospital_id": 17,
+    "name": "Paediatrics",
+    "floor": 3,
+    "phone_extension": "6984"
+  },
+  {
+    "id": 120,
+    "hospital_id": 17,
+    "name": "Psychiatry",
+    "floor": 6,
+    "phone_extension": "2904"
+  }
+]

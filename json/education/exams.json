@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "course_id": 53,
+    "classroom_id": 27,
+    "exam_date": "2025-01-30",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 2,
+    "course_id": 265,
+    "classroom_id": 5,
+    "exam_date": "2023-04-06",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 32
+  },
+  {
+    "id": 3,
+    "course_id": 16,
+    "classroom_id": 91,
+    "exam_date": "2022-11-07",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 4,
+    "course_id": 194,
+    "classroom_id": 106,
+    "exam_date": "2025-06-16",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 36
+  },
+  {
+    "id": 5,
+    "course_id": 285,
+    "classroom_id": 49,
+    "exam_date": "2024-03-12",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 6,
+    "course_id": 121,
+    "classroom_id": 1,
+    "exam_date": "2024-04-22",
+    "exam_type": "final",
+    "duration_minutes": 150,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 7,
+    "course_id": 262,
+    "classroom_id": 7,
+    "exam_date": "2023-03-27",
+    "exam_type": "final",
+    "duration_minutes": 180,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 8,
+    "course_id": 121,
+    "classroom_id": 6,
+    "exam_date": "2023-09-14",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 9,
+    "course_id": 291,
+    "classroom_id": 71,
+    "exam_date": "2025-06-12",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 10,
+    "course_id": 80,
+    "classroom_id": 109,
+    "exam_date": "2024-03-13",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 11,
+    "course_id": 160,
+    "classroom_id": 12,
+    "exam_date": "2025-04-25",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 12,
+    "course_id": 223,
+    "classroom_id": 23,
+    "exam_date": "2023-11-13",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 13,
+    "course_id": 262,
+    "classroom_id": 8,
+    "exam_date": "2023-02-20",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 23
+  },
+  {
+    "id": 14,
+    "course_id": 177,
+    "classroom_id": 96,
+    "exam_date": "2024-12-09",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 15,
+    "course_id": 147,
+    "classroom_id": 21,
+    "exam_date": "2025-03-11",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 16,
+    "course_id": 133,
+    "classroom_id": 115,
+    "exam_date": "2023-10-11",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 17,
+    "course_id": 296,
+    "classroom_id": 44,
+    "exam_date": "2024-10-16",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 18,
+    "course_id": 67,
+    "classroom_id": 115,
+    "exam_date": "2022-11-14",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 14
+  },
+  {
+    "id": 19,
+    "course_id": 151,
+    "classroom_id": 69,
+    "exam_date": "2023-10-09",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 25
+  },
+  {
+    "id": 20,
+    "course_id": 97,
+    "classroom_id": 42,
+    "exam_date": "2022-10-31",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 21,
+    "course_id": 199,
+    "classroom_id": 58,
+    "exam_date": "2024-03-11",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 22,
+    "course_id": 293,
+    "classroom_id": 48,
+    "exam_date": "2023-03-13",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 26
+  },
+  {
+    "id": 23,
+    "course_id": 49,
+    "classroom_id": 16,
+    "exam_date": "2022-09-20",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 37
+  },
+  {
+    "id": 24,
+    "course_id": 209,
+    "classroom_id": 25,
+    "exam_date": "2023-05-01",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 25,
+    "course_id": 162,
+    "classroom_id": 105,
+    "exam_date": "2024-11-14",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 22
+  },
+  {
+    "id": 26,
+    "course_id": 42,
+    "classroom_id": 70,
+    "exam_date": "2025-04-28",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 27,
+    "course_id": 245,
+    "classroom_id": 31,
+    "exam_date": "2024-03-07",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 23
+  },
+  {
+    "id": 28,
+    "course_id": 250,
+    "classroom_id": 27,
+    "exam_date": "2022-12-12",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 29,
+    "course_id": 259,
+    "classroom_id": 117,
+    "exam_date": "2024-05-22",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 30,
+    "course_id": 162,
+    "classroom_id": 103,
+    "exam_date": "2025-06-19",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 25
+  },
+  {
+    "id": 31,
+    "course_id": 3,
+    "classroom_id": 24,
+    "exam_date": "2022-12-12",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 32,
+    "course_id": 260,
+    "classroom_id": 61,
+    "exam_date": "2023-06-06",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 33,
+    "course_id": 274,
+    "classroom_id": 67,
+    "exam_date": "2025-04-21",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 36
+  },
+  {
+    "id": 34,
+    "course_id": 106,
+    "classroom_id": 120,
+    "exam_date": "2025-04-11",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 35,
+    "course_id": 117,
+    "classroom_id": 46,
+    "exam_date": "2024-05-06",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 36,
+    "course_id": 210,
+    "classroom_id": 91,
+    "exam_date": "2024-02-29",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 37,
+    "course_id": 44,
+    "classroom_id": 89,
+    "exam_date": "2023-12-12",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 8
+  },
+  {
+    "id": 38,
+    "course_id": 5,
+    "classroom_id": 42,
+    "exam_date": "2023-10-02",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 39,
+    "course_id": 95,
+    "classroom_id": 23,
+    "exam_date": "2024-12-30",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 23
+  },
+  {
+    "id": 40,
+    "course_id": 236,
+    "classroom_id": 64,
+    "exam_date": "2024-09-09",
+    "exam_type": "resit",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 8
+  },
+  {
+    "id": 41,
+    "course_id": 285,
+    "classroom_id": 56,
+    "exam_date": "2023-12-22",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 37
+  },
+  {
+    "id": 42,
+    "course_id": 199,
+    "classroom_id": 60,
+    "exam_date": "2024-06-20",
+    "exam_type": "final",
+    "duration_minutes": 150,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 43,
+    "course_id": 298,
+    "classroom_id": 87,
+    "exam_date": "2023-02-17",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 10
+  },
+  {
+    "id": 44,
+    "course_id": 166,
+    "classroom_id": 100,
+    "exam_date": "2023-02-17",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 45,
+    "course_id": 154,
+    "classroom_id": 114,
+    "exam_date": "2025-03-31",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 46,
+    "course_id": 287,
+    "classroom_id": 87,
+    "exam_date": "2022-11-09",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 47,
+    "course_id": 24,
+    "classroom_id": 116,
+    "exam_date": "2023-11-27",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 48,
+    "course_id": 111,
+    "classroom_id": 23,
+    "exam_date": "2023-01-24",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 8
+  },
+  {
+    "id": 49,
+    "course_id": 272,
+    "classroom_id": 38,
+    "exam_date": "2025-02-18",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 25
+  },
+  {
+    "id": 50,
+    "course_id": 250,
+    "classroom_id": 29,
+    "exam_date": "2022-12-19",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 37
+  },
+  {
+    "id": 51,
+    "course_id": 116,
+    "classroom_id": 21,
+    "exam_date": "2022-11-28",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 52,
+    "course_id": 6,
+    "classroom_id": 94,
+    "exam_date": "2023-12-06",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 16
+  },
+  {
+    "id": 53,
+    "course_id": 23,
+    "classroom_id": 60,
+    "exam_date": "2022-11-07",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 54,
+    "course_id": 272,
+    "classroom_id": 46,
+    "exam_date": "2025-03-07",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 55,
+    "course_id": 282,
+    "classroom_id": 114,
+    "exam_date": "2024-04-19",
+    "exam_type": "final",
+    "duration_minutes": 150,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 56,
+    "course_id": 247,
+    "classroom_id": 90,
+    "exam_date": "2022-11-08",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 57,
+    "course_id": 25,
+    "classroom_id": 74,
+    "exam_date": "2024-02-19",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 27
+  },
+  {
+    "id": 58,
+    "course_id": 229,
+    "classroom_id": 80,
+    "exam_date": "2023-04-28",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 23
+  },
+  {
+    "id": 59,
+    "course_id": 194,
+    "classroom_id": 102,
+    "exam_date": "2025-01-23",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 60,
+    "course_id": 199,
+    "classroom_id": 60,
+    "exam_date": "2023-10-03",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 61,
+    "course_id": 256,
+    "classroom_id": 109,
+    "exam_date": "2023-03-15",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 62,
+    "course_id": 210,
+    "classroom_id": 96,
+    "exam_date": "2023-11-28",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 35
+  },
+  {
+    "id": 63,
+    "course_id": 107,
+    "classroom_id": 2,
+    "exam_date": "2025-04-14",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 64,
+    "course_id": 21,
+    "classroom_id": 82,
+    "exam_date": "2024-10-18",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 8
+  },
+  {
+    "id": 65,
+    "course_id": 65,
+    "classroom_id": 54,
+    "exam_date": "2024-02-23",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 66,
+    "course_id": 23,
+    "classroom_id": 57,
+    "exam_date": "2022-10-20",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 32
+  },
+  {
+    "id": 67,
+    "course_id": 224,
+    "classroom_id": 65,
+    "exam_date": "2023-11-29",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 8
+  },
+  {
+    "id": 68,
+    "course_id": 81,
+    "classroom_id": 111,
+    "exam_date": "2025-05-02",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 22
+  },
+  {
+    "id": 69,
+    "course_id": 28,
+    "classroom_id": 62,
+    "exam_date": "2023-03-03",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 70,
+    "course_id": 220,
+    "classroom_id": 106,
+    "exam_date": "2024-04-22",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 27
+  },
+  {
+    "id": 71,
+    "course_id": 165,
+    "classroom_id": 7,
+    "exam_date": "2025-02-18",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 72,
+    "course_id": 45,
+    "classroom_id": 57,
+    "exam_date": "2023-10-13",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 33
+  },
+  {
+    "id": 73,
+    "course_id": 270,
+    "classroom_id": 48,
+    "exam_date": "2023-04-10",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 74,
+    "course_id": 273,
+    "classroom_id": 6,
+    "exam_date": "2024-11-07",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 75,
+    "course_id": 248,
+    "classroom_id": 3,
+    "exam_date": "2023-10-09",
+    "exam_type": "resit",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 22
+  },
+  {
+    "id": 76,
+    "course_id": 142,
+    "classroom_id": 87,
+    "exam_date": "2025-01-01",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 77,
+    "course_id": 177,
+    "classroom_id": 90,
+    "exam_date": "2025-05-05",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 78,
+    "course_id": 139,
+    "classroom_id": 9,
+    "exam_date": "2025-05-20",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 79,
+    "course_id": 123,
+    "classroom_id": 32,
+    "exam_date": "2025-02-14",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 27
+  },
+  {
+    "id": 80,
+    "course_id": 203,
+    "classroom_id": 59,
+    "exam_date": "2023-09-18",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 30
+  },
+  {
+    "id": 81,
+    "course_id": 218,
+    "classroom_id": 3,
+    "exam_date": "2023-10-02",
+    "exam_type": "resit",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 82,
+    "course_id": 18,
+    "classroom_id": 8,
+    "exam_date": "2023-04-13",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 27
+  },
+  {
+    "id": 83,
+    "course_id": 190,
+    "classroom_id": 10,
+    "exam_date": "2024-05-29",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 35
+  },
+  {
+    "id": 84,
+    "course_id": 246,
+    "classroom_id": 53,
+    "exam_date": "2024-01-11",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 85,
+    "course_id": 245,
+    "classroom_id": 26,
+    "exam_date": "2023-10-06",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 86,
+    "course_id": 69,
+    "classroom_id": 94,
+    "exam_date": "2025-03-13",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 34
+  },
+  {
+    "id": 87,
+    "course_id": 259,
+    "classroom_id": 119,
+    "exam_date": "2024-06-10",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 88,
+    "course_id": 279,
+    "classroom_id": 100,
+    "exam_date": "2022-11-21",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 89,
+    "course_id": 95,
+    "classroom_id": 18,
+    "exam_date": "2025-02-04",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 90,
+    "course_id": 148,
+    "classroom_id": 6,
+    "exam_date": "2024-06-17",
+    "exam_type": "final",
+    "duration_minutes": 150,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 91,
+    "course_id": 239,
+    "classroom_id": 55,
+    "exam_date": "2024-11-28",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 92,
+    "course_id": 15,
+    "classroom_id": 30,
+    "exam_date": "2024-03-12",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 14
+  },
+  {
+    "id": 93,
+    "course_id": 294,
+    "classroom_id": 82,
+    "exam_date": "2023-04-24",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 94,
+    "course_id": 121,
+    "classroom_id": 10,
+    "exam_date": "2024-03-25",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 16
+  },
+  {
+    "id": 95,
+    "course_id": 253,
+    "classroom_id": 45,
+    "exam_date": "2022-11-09",
+    "exam_type": "resit",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 96,
+    "course_id": 71,
+    "classroom_id": 36,
+    "exam_date": "2023-01-06",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 22
+  },
+  {
+    "id": 97,
+    "course_id": 284,
+    "classroom_id": 33,
+    "exam_date": "2025-01-14",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 98,
+    "course_id": 293,
+    "classroom_id": 47,
+    "exam_date": "2022-11-07",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 99,
+    "course_id": 123,
+    "classroom_id": 32,
+    "exam_date": "2025-03-21",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 33
+  },
+  {
+    "id": 100,
+    "course_id": 16,
+    "classroom_id": 90,
+    "exam_date": "2023-05-31",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 28
+  },
+  {
+    "id": 101,
+    "course_id": 170,
+    "classroom_id": 95,
+    "exam_date": "2023-03-13",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 102,
+    "course_id": 262,
+    "classroom_id": 11,
+    "exam_date": "2023-03-30",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 103,
+    "course_id": 94,
+    "classroom_id": 81,
+    "exam_date": "2023-12-14",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 35
+  },
+  {
+    "id": 104,
+    "course_id": 132,
+    "classroom_id": 80,
+    "exam_date": "2022-09-30",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 25
+  },
+  {
+    "id": 105,
+    "course_id": 114,
+    "classroom_id": 28,
+    "exam_date": "2024-11-11",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 106,
+    "course_id": 294,
+    "classroom_id": 81,
+    "exam_date": "2023-04-24",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 32
+  },
+  {
+    "id": 107,
+    "course_id": 255,
+    "classroom_id": 108,
+    "exam_date": "2022-09-20",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 108,
+    "course_id": 5,
+    "classroom_id": 41,
+    "exam_date": "2023-12-19",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 109,
+    "course_id": 17,
+    "classroom_id": 110,
+    "exam_date": "2023-10-30",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 23
+  },
+  {
+    "id": 110,
+    "course_id": 171,
+    "classroom_id": 34,
+    "exam_date": "2025-05-12",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 23
+  },
+  {
+    "id": 111,
+    "course_id": 1,
+    "classroom_id": 60,
+    "exam_date": "2023-04-27",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 112,
+    "course_id": 75,
+    "classroom_id": 56,
+    "exam_date": "2022-11-21",
+    "exam_type": "resit",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 26
+  },
+  {
+    "id": 113,
+    "course_id": 192,
+    "classroom_id": 69,
+    "exam_date": "2023-02-02",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 114,
+    "course_id": 278,
+    "classroom_id": 86,
+    "exam_date": "2024-06-17",
+    "exam_type": "resit",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 31
+  },
+  {
+    "id": 115,
+    "course_id": 55,
+    "classroom_id": 15,
+    "exam_date": "2023-02-13",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 10
+  },
+  {
+    "id": 116,
+    "course_id": 38,
+    "classroom_id": 34,
+    "exam_date": "2023-11-09",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 22
+  },
+  {
+    "id": 117,
+    "course_id": 45,
+    "classroom_id": 54,
+    "exam_date": "2023-10-30",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 118,
+    "course_id": 260,
+    "classroom_id": 67,
+    "exam_date": "2022-09-21",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 119,
+    "course_id": 80,
+    "classroom_id": 111,
+    "exam_date": "2024-04-02",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 120,
+    "course_id": 46,
+    "classroom_id": 4,
+    "exam_date": "2025-03-14",
+    "exam_type": "resit",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 121,
+    "course_id": 128,
+    "classroom_id": 93,
+    "exam_date": "2024-10-21",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 122,
+    "course_id": 57,
+    "classroom_id": 119,
+    "exam_date": "2022-12-20",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 123,
+    "course_id": 239,
+    "classroom_id": 52,
+    "exam_date": "2025-01-16",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 27
+  },
+  {
+    "id": 124,
+    "course_id": 277,
+    "classroom_id": 80,
+    "exam_date": "2024-01-02",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 23
+  },
+  {
+    "id": 125,
+    "course_id": 106,
+    "classroom_id": 110,
+    "exam_date": "2025-04-28",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 26
+  },
+  {
+    "id": 126,
+    "course_id": 242,
+    "classroom_id": 85,
+    "exam_date": "2023-06-08",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 28
+  },
+  {
+    "id": 127,
+    "course_id": 284,
+    "classroom_id": 27,
+    "exam_date": "2025-02-24",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 128,
+    "course_id": 74,
+    "classroom_id": 66,
+    "exam_date": "2023-10-30",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 129,
+    "course_id": 181,
+    "classroom_id": 92,
+    "exam_date": "2024-02-05",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 130,
+    "course_id": 145,
+    "classroom_id": 101,
+    "exam_date": "2025-01-30",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 131,
+    "course_id": 69,
+    "classroom_id": 86,
+    "exam_date": "2025-04-28",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 132,
+    "course_id": 183,
+    "classroom_id": 14,
+    "exam_date": "2025-03-12",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 14
+  },
+  {
+    "id": 133,
+    "course_id": 160,
+    "classroom_id": 3,
+    "exam_date": "2025-06-02",
+    "exam_type": "resit",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 134,
+    "course_id": 103,
+    "classroom_id": 84,
+    "exam_date": "2025-02-24",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 26
+  },
+  {
+    "id": 135,
+    "course_id": 54,
+    "classroom_id": 16,
+    "exam_date": "2024-01-08",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 32
+  },
+  {
+    "id": 136,
+    "course_id": 21,
+    "classroom_id": 74,
+    "exam_date": "2025-01-08",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 137,
+    "course_id": 295,
+    "classroom_id": 52,
+    "exam_date": "2023-09-26",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 138,
+    "course_id": 225,
+    "classroom_id": 90,
+    "exam_date": "2023-09-29",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 29
+  },
+  {
+    "id": 139,
+    "course_id": 84,
+    "classroom_id": 51,
+    "exam_date": "2023-04-24",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 29
+  },
+  {
+    "id": 140,
+    "course_id": 290,
+    "classroom_id": 60,
+    "exam_date": "2025-05-19",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 141,
+    "course_id": 36,
+    "classroom_id": 15,
+    "exam_date": "2023-11-16",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 142,
+    "course_id": 237,
+    "classroom_id": 51,
+    "exam_date": "2024-11-26",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 143,
+    "course_id": 38,
+    "classroom_id": 35,
+    "exam_date": "2024-06-20",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 26
+  },
+  {
+    "id": 144,
+    "course_id": 224,
+    "classroom_id": 71,
+    "exam_date": "2023-12-04",
+    "exam_type": "resit",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 145,
+    "course_id": 259,
+    "classroom_id": 113,
+    "exam_date": "2024-01-05",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 146,
+    "course_id": 38,
+    "classroom_id": 28,
+    "exam_date": "2023-12-13",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 31
+  },
+  {
+    "id": 147,
+    "course_id": 113,
+    "classroom_id": 46,
+    "exam_date": "2023-01-02",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 148,
+    "course_id": 145,
+    "classroom_id": 105,
+    "exam_date": "2025-02-10",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 28
+  },
+  {
+    "id": 149,
+    "course_id": 167,
+    "classroom_id": 3,
+    "exam_date": "2023-04-04",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 150,
+    "course_id": 15,
+    "classroom_id": 27,
+    "exam_date": "2023-12-19",
+    "exam_type": "resit",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 151,
+    "course_id": 121,
+    "classroom_id": 7,
+    "exam_date": "2024-03-29",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 16
+  },
+  {
+    "id": 152,
+    "course_id": 275,
+    "classroom_id": 78,
+    "exam_date": "2023-01-25",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 153,
+    "course_id": 25,
+    "classroom_id": 73,
+    "exam_date": "2023-10-30",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 154,
+    "course_id": 34,
+    "classroom_id": 93,
+    "exam_date": "2022-11-17",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 155,
+    "course_id": 260,
+    "classroom_id": 62,
+    "exam_date": "2022-10-06",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 156,
+    "course_id": 98,
+    "classroom_id": 72,
+    "exam_date": "2024-10-16",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 157,
+    "course_id": 60,
+    "classroom_id": 58,
+    "exam_date": "2023-02-16",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 14
+  },
+  {
+    "id": 158,
+    "course_id": 122,
+    "classroom_id": 32,
+    "exam_date": "2023-04-27",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 34
+  },
+  {
+    "id": 159,
+    "course_id": 120,
+    "classroom_id": 108,
+    "exam_date": "2024-09-18",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 160,
+    "course_id": 31,
+    "classroom_id": 67,
+    "exam_date": "2023-05-31",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 14
+  },
+  {
+    "id": 161,
+    "course_id": 140,
+    "classroom_id": 75,
+    "exam_date": "2023-11-10",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 162,
+    "course_id": 158,
+    "classroom_id": 38,
+    "exam_date": "2025-01-16",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 14
+  },
+  {
+    "id": 163,
+    "course_id": 216,
+    "classroom_id": 44,
+    "exam_date": "2025-06-04",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 16
+  },
+  {
+    "id": 164,
+    "course_id": 227,
+    "classroom_id": 54,
+    "exam_date": "2025-02-12",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 165,
+    "course_id": 173,
+    "classroom_id": 32,
+    "exam_date": "2024-03-11",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 16
+  },
+  {
+    "id": 166,
+    "course_id": 230,
+    "classroom_id": 86,
+    "exam_date": "2022-12-16",
+    "exam_type": "resit",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 167,
+    "course_id": 17,
+    "classroom_id": 109,
+    "exam_date": "2024-04-22",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 168,
+    "course_id": 292,
+    "classroom_id": 71,
+    "exam_date": "2025-04-11",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 29
+  },
+  {
+    "id": 169,
+    "course_id": 41,
+    "classroom_id": 46,
+    "exam_date": "2023-01-12",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 170,
+    "course_id": 297,
+    "classroom_id": 86,
+    "exam_date": "2024-12-09",
+    "exam_type": "resit",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 14
+  },
+  {
+    "id": 171,
+    "course_id": 101,
+    "classroom_id": 106,
+    "exam_date": "2023-05-15",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 23
+  },
+  {
+    "id": 172,
+    "course_id": 202,
+    "classroom_id": 52,
+    "exam_date": "2025-06-10",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 32
+  },
+  {
+    "id": 173,
+    "course_id": 290,
+    "classroom_id": 58,
+    "exam_date": "2025-05-05",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 174,
+    "course_id": 126,
+    "classroom_id": 3,
+    "exam_date": "2022-12-07",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 10
+  },
+  {
+    "id": 175,
+    "course_id": 266,
+    "classroom_id": 6,
+    "exam_date": "2023-10-04",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 28
+  },
+  {
+    "id": 176,
+    "course_id": 293,
+    "classroom_id": 43,
+    "exam_date": "2023-06-14",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 177,
+    "course_id": 28,
+    "classroom_id": 63,
+    "exam_date": "2023-05-08",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 14
+  },
+  {
+    "id": 178,
+    "course_id": 257,
+    "classroom_id": 38,
+    "exam_date": "2023-03-27",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 179,
+    "course_id": 139,
+    "classroom_id": 3,
+    "exam_date": "2024-11-13",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 22
+  },
+  {
+    "id": 180,
+    "course_id": 159,
+    "classroom_id": 62,
+    "exam_date": "2024-01-18",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 10
+  },
+  {
+    "id": 181,
+    "course_id": 118,
+    "classroom_id": 61,
+    "exam_date": "2024-09-30",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 16
+  },
+  {
+    "id": 182,
+    "course_id": 216,
+    "classroom_id": 41,
+    "exam_date": "2025-04-22",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 183,
+    "course_id": 15,
+    "classroom_id": 30,
+    "exam_date": "2024-03-21",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 184,
+    "course_id": 132,
+    "classroom_id": 75,
+    "exam_date": "2022-11-01",
+    "exam_type": "resit",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 10
+  },
+  {
+    "id": 185,
+    "course_id": 57,
+    "classroom_id": 115,
+    "exam_date": "2022-09-23",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 186,
+    "course_id": 102,
+    "classroom_id": 110,
+    "exam_date": "2023-11-15",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 32
+  },
+  {
+    "id": 187,
+    "course_id": 92,
+    "classroom_id": 88,
+    "exam_date": "2025-05-21",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 188,
+    "course_id": 12,
+    "classroom_id": 72,
+    "exam_date": "2023-10-12",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 30
+  },
+  {
+    "id": 189,
+    "course_id": 194,
+    "classroom_id": 103,
+    "exam_date": "2025-01-23",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 190,
+    "course_id": 242,
+    "classroom_id": 90,
+    "exam_date": "2023-01-04",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 191,
+    "course_id": 246,
+    "classroom_id": 52,
+    "exam_date": "2024-03-01",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 192,
+    "course_id": 64,
+    "classroom_id": 3,
+    "exam_date": "2023-04-14",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 22
+  },
+  {
+    "id": 193,
+    "course_id": 181,
+    "classroom_id": 93,
+    "exam_date": "2023-11-20",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 194,
+    "course_id": 135,
+    "classroom_id": 9,
+    "exam_date": "2024-03-25",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 195,
+    "course_id": 154,
+    "classroom_id": 111,
+    "exam_date": "2025-06-17",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 16
+  },
+  {
+    "id": 196,
+    "course_id": 28,
+    "classroom_id": 62,
+    "exam_date": "2023-03-21",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 197,
+    "course_id": 259,
+    "classroom_id": 110,
+    "exam_date": "2024-03-04",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 198,
+    "course_id": 198,
+    "classroom_id": 89,
+    "exam_date": "2023-03-20",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 6
+  },
+  {
+    "id": 199,
+    "course_id": 289,
+    "classroom_id": 110,
+    "exam_date": "2023-04-20",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 32
+  },
+  {
+    "id": 200,
+    "course_id": 5,
+    "classroom_id": 38,
+    "exam_date": "2024-05-20",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 201,
+    "course_id": 143,
+    "classroom_id": 108,
+    "exam_date": "2023-04-24",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 202,
+    "course_id": 55,
+    "classroom_id": 20,
+    "exam_date": "2023-01-12",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 203,
+    "course_id": 96,
+    "classroom_id": 48,
+    "exam_date": "2023-01-30",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 25
+  },
+  {
+    "id": 204,
+    "course_id": 252,
+    "classroom_id": 111,
+    "exam_date": "2024-02-05",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 205,
+    "course_id": 130,
+    "classroom_id": 25,
+    "exam_date": "2023-10-16",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 206,
+    "course_id": 79,
+    "classroom_id": 116,
+    "exam_date": "2023-04-26",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 207,
+    "course_id": 243,
+    "classroom_id": 9,
+    "exam_date": "2024-04-08",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 14
+  },
+  {
+    "id": 208,
+    "course_id": 115,
+    "classroom_id": 10,
+    "exam_date": "2023-03-07",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 26
+  },
+  {
+    "id": 209,
+    "course_id": 279,
+    "classroom_id": 104,
+    "exam_date": "2023-02-21",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 35
+  },
+  {
+    "id": 210,
+    "course_id": 241,
+    "classroom_id": 54,
+    "exam_date": "2025-06-09",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 211,
+    "course_id": 134,
+    "classroom_id": 50,
+    "exam_date": "2023-03-29",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 31
+  },
+  {
+    "id": 212,
+    "course_id": 223,
+    "classroom_id": 24,
+    "exam_date": "2024-01-15",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 23
+  },
+  {
+    "id": 213,
+    "course_id": 37,
+    "classroom_id": 55,
+    "exam_date": "2023-01-24",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 214,
+    "course_id": 237,
+    "classroom_id": 55,
+    "exam_date": "2025-04-08",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 16
+  },
+  {
+    "id": 215,
+    "course_id": 220,
+    "classroom_id": 100,
+    "exam_date": "2024-02-26",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 35
+  },
+  {
+    "id": 216,
+    "course_id": 223,
+    "classroom_id": 15,
+    "exam_date": "2024-05-13",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 29
+  },
+  {
+    "id": 217,
+    "course_id": 222,
+    "classroom_id": 13,
+    "exam_date": "2025-06-11",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 218,
+    "course_id": 64,
+    "classroom_id": 7,
+    "exam_date": "2022-12-15",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 8
+  },
+  {
+    "id": 219,
+    "course_id": 71,
+    "classroom_id": 36,
+    "exam_date": "2023-01-23",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 220,
+    "course_id": 260,
+    "classroom_id": 68,
+    "exam_date": "2022-11-10",
+    "exam_type": "resit",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 221,
+    "course_id": 53,
+    "classroom_id": 35,
+    "exam_date": "2024-09-12",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 23
+  },
+  {
+    "id": 222,
+    "course_id": 112,
+    "classroom_id": 26,
+    "exam_date": "2023-05-15",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 223,
+    "course_id": 159,
+    "classroom_id": 68,
+    "exam_date": "2024-05-16",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 26
+  },
+  {
+    "id": 224,
+    "course_id": 84,
+    "classroom_id": 54,
+    "exam_date": "2022-10-19",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 225,
+    "course_id": 213,
+    "classroom_id": 76,
+    "exam_date": "2023-09-27",
+    "exam_type": "resit",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 226,
+    "course_id": 91,
+    "classroom_id": 17,
+    "exam_date": "2023-10-13",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 227,
+    "course_id": 248,
+    "classroom_id": 5,
+    "exam_date": "2024-02-29",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 22
+  },
+  {
+    "id": 228,
+    "course_id": 57,
+    "classroom_id": 120,
+    "exam_date": "2023-02-06",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 23
+  },
+  {
+    "id": 229,
+    "course_id": 150,
+    "classroom_id": 51,
+    "exam_date": "2023-06-09",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 27
+  },
+  {
+    "id": 230,
+    "course_id": 66,
+    "classroom_id": 36,
+    "exam_date": "2024-02-12",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 31
+  },
+  {
+    "id": 231,
+    "course_id": 116,
+    "classroom_id": 13,
+    "exam_date": "2022-12-19",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 232,
+    "course_id": 66,
+    "classroom_id": 28,
+    "exam_date": "2024-03-11",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 27
+  },
+  {
+    "id": 233,
+    "course_id": 77,
+    "classroom_id": 108,
+    "exam_date": "2024-10-09",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 28
+  },
+  {
+    "id": 234,
+    "course_id": 290,
+    "classroom_id": 51,
+    "exam_date": "2025-01-30",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 235,
+    "course_id": 177,
+    "classroom_id": 95,
+    "exam_date": "2025-04-28",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 236,
+    "course_id": 297,
+    "classroom_id": 95,
+    "exam_date": "2025-05-08",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 26
+  },
+  {
+    "id": 237,
+    "course_id": 106,
+    "classroom_id": 117,
+    "exam_date": "2024-10-09",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 32
+  },
+  {
+    "id": 238,
+    "course_id": 106,
+    "classroom_id": 119,
+    "exam_date": "2024-11-06",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 32
+  },
+  {
+    "id": 239,
+    "course_id": 205,
+    "classroom_id": 63,
+    "exam_date": "2022-09-26",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 12
+  },
+  {
+    "id": 240,
+    "course_id": 146,
+    "classroom_id": 108,
+    "exam_date": "2024-10-21",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 241,
+    "course_id": 186,
+    "classroom_id": 68,
+    "exam_date": "2024-11-18",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 29
+  },
+  {
+    "id": 242,
+    "course_id": 236,
+    "classroom_id": 61,
+    "exam_date": "2024-11-04",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 243,
+    "course_id": 99,
+    "classroom_id": 96,
+    "exam_date": "2024-01-31",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 244,
+    "course_id": 201,
+    "classroom_id": 11,
+    "exam_date": "2025-01-03",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 245,
+    "course_id": 183,
+    "classroom_id": 18,
+    "exam_date": "2025-06-02",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 10
+  },
+  {
+    "id": 246,
+    "course_id": 230,
+    "classroom_id": 94,
+    "exam_date": "2022-10-03",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 247,
+    "course_id": 287,
+    "classroom_id": 92,
+    "exam_date": "2023-03-27",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 26
+  },
+  {
+    "id": 248,
+    "course_id": 151,
+    "classroom_id": 68,
+    "exam_date": "2024-01-18",
+    "exam_type": "resit",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 249,
+    "course_id": 69,
+    "classroom_id": 93,
+    "exam_date": "2025-04-18",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 26
+  },
+  {
+    "id": 250,
+    "course_id": 251,
+    "classroom_id": 57,
+    "exam_date": "2023-09-25",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 35
+  },
+  {
+    "id": 251,
+    "course_id": 77,
+    "classroom_id": 98,
+    "exam_date": "2024-12-16",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 252,
+    "course_id": 242,
+    "classroom_id": 89,
+    "exam_date": "2023-03-08",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 253,
+    "course_id": 102,
+    "classroom_id": 115,
+    "exam_date": "2024-05-14",
+    "exam_type": "resit",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 16
+  },
+  {
+    "id": 254,
+    "course_id": 167,
+    "classroom_id": 12,
+    "exam_date": "2023-03-16",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 255,
+    "course_id": 248,
+    "classroom_id": 6,
+    "exam_date": "2024-01-12",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 14
+  },
+  {
+    "id": 256,
+    "course_id": 275,
+    "classroom_id": 80,
+    "exam_date": "2022-12-26",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 257,
+    "course_id": 236,
+    "classroom_id": 64,
+    "exam_date": "2024-10-07",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 258,
+    "course_id": 229,
+    "classroom_id": 83,
+    "exam_date": "2023-02-03",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 29
+  },
+  {
+    "id": 259,
+    "course_id": 88,
+    "classroom_id": 20,
+    "exam_date": "2022-11-02",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 260,
+    "course_id": 32,
+    "classroom_id": 77,
+    "exam_date": "2024-11-18",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 31
+  },
+  {
+    "id": 261,
+    "course_id": 164,
+    "classroom_id": 92,
+    "exam_date": "2024-09-23",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 262,
+    "course_id": 126,
+    "classroom_id": 8,
+    "exam_date": "2023-04-13",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 26
+  },
+  {
+    "id": 263,
+    "course_id": 167,
+    "classroom_id": 11,
+    "exam_date": "2023-03-08",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 10
+  },
+  {
+    "id": 264,
+    "course_id": 11,
+    "classroom_id": 110,
+    "exam_date": "2024-10-14",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 16
+  },
+  {
+    "id": 265,
+    "course_id": 141,
+    "classroom_id": 98,
+    "exam_date": "2023-02-20",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 19
+  },
+  {
+    "id": 266,
+    "course_id": 85,
+    "classroom_id": 60,
+    "exam_date": "2024-12-02",
+    "exam_type": "mock",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 267,
+    "course_id": 235,
+    "classroom_id": 23,
+    "exam_date": "2023-03-22",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 268,
+    "course_id": 280,
+    "classroom_id": 66,
+    "exam_date": "2025-01-10",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 269,
+    "course_id": 111,
+    "classroom_id": 23,
+    "exam_date": "2023-03-13",
+    "exam_type": "mock",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 22
+  },
+  {
+    "id": 270,
+    "course_id": 76,
+    "classroom_id": 113,
+    "exam_date": "2022-10-17",
+    "exam_type": "resit",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 22
+  },
+  {
+    "id": 271,
+    "course_id": 122,
+    "classroom_id": 27,
+    "exam_date": "2023-06-05",
+    "exam_type": "final",
+    "duration_minutes": 180,
+    "max_score": 10.0,
+    "registered_students": 16
+  },
+  {
+    "id": 272,
+    "course_id": 293,
+    "classroom_id": 39,
+    "exam_date": "2023-03-13",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 273,
+    "course_id": 119,
+    "classroom_id": 84,
+    "exam_date": "2024-04-11",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 274,
+    "course_id": 34,
+    "classroom_id": 96,
+    "exam_date": "2022-09-12",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 275,
+    "course_id": 123,
+    "classroom_id": 32,
+    "exam_date": "2025-06-10",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 33
+  },
+  {
+    "id": 276,
+    "course_id": 80,
+    "classroom_id": 109,
+    "exam_date": "2024-01-16",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 27
+  },
+  {
+    "id": 277,
+    "course_id": 279,
+    "classroom_id": 99,
+    "exam_date": "2023-01-05",
+    "exam_type": "final",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 35
+  },
+  {
+    "id": 278,
+    "course_id": 244,
+    "classroom_id": 79,
+    "exam_date": "2024-03-20",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 34
+  },
+  {
+    "id": 279,
+    "course_id": 113,
+    "classroom_id": 42,
+    "exam_date": "2023-06-05",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 20
+  },
+  {
+    "id": 280,
+    "course_id": 92,
+    "classroom_id": 88,
+    "exam_date": "2025-05-06",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 28
+  },
+  {
+    "id": 281,
+    "course_id": 50,
+    "classroom_id": 114,
+    "exam_date": "2024-10-24",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 10
+  },
+  {
+    "id": 282,
+    "course_id": 76,
+    "classroom_id": 113,
+    "exam_date": "2022-11-28",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 18
+  },
+  {
+    "id": 283,
+    "course_id": 124,
+    "classroom_id": 47,
+    "exam_date": "2025-05-16",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 8
+  },
+  {
+    "id": 284,
+    "course_id": 160,
+    "classroom_id": 9,
+    "exam_date": "2025-06-03",
+    "exam_type": "resit",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 11
+  },
+  {
+    "id": 285,
+    "course_id": 276,
+    "classroom_id": 61,
+    "exam_date": "2024-05-09",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 286,
+    "course_id": 232,
+    "classroom_id": 70,
+    "exam_date": "2024-11-04",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 15
+  },
+  {
+    "id": 287,
+    "course_id": 238,
+    "classroom_id": 103,
+    "exam_date": "2025-04-18",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 10
+  },
+  {
+    "id": 288,
+    "course_id": 13,
+    "classroom_id": 118,
+    "exam_date": "2022-12-08",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 289,
+    "course_id": 131,
+    "classroom_id": 3,
+    "exam_date": "2022-10-20",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 17
+  },
+  {
+    "id": 290,
+    "course_id": 190,
+    "classroom_id": 2,
+    "exam_date": "2024-02-26",
+    "exam_type": "resit",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 13
+  },
+  {
+    "id": 291,
+    "course_id": 117,
+    "classroom_id": 48,
+    "exam_date": "2024-01-15",
+    "exam_type": "mock",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 14
+  },
+  {
+    "id": 292,
+    "course_id": 109,
+    "classroom_id": 95,
+    "exam_date": "2024-02-16",
+    "exam_type": "final",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 293,
+    "course_id": 138,
+    "classroom_id": 34,
+    "exam_date": "2024-12-09",
+    "exam_type": "midterm",
+    "duration_minutes": 90,
+    "max_score": 10.0,
+    "registered_students": 24
+  },
+  {
+    "id": 294,
+    "course_id": 132,
+    "classroom_id": 76,
+    "exam_date": "2023-04-04",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 10
+  },
+  {
+    "id": 295,
+    "course_id": 19,
+    "classroom_id": 4,
+    "exam_date": "2025-03-24",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 9
+  },
+  {
+    "id": 296,
+    "course_id": 214,
+    "classroom_id": 77,
+    "exam_date": "2024-04-11",
+    "exam_type": "final",
+    "duration_minutes": 120,
+    "max_score": 10.0,
+    "registered_students": 14
+  },
+  {
+    "id": 297,
+    "course_id": 2,
+    "classroom_id": 105,
+    "exam_date": "2024-02-13",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 32
+  },
+  {
+    "id": 298,
+    "course_id": 186,
+    "classroom_id": 65,
+    "exam_date": "2025-05-15",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 21
+  },
+  {
+    "id": 299,
+    "course_id": 166,
+    "classroom_id": 107,
+    "exam_date": "2023-03-29",
+    "exam_type": "midterm",
+    "duration_minutes": 60,
+    "max_score": 10.0,
+    "registered_students": 23
+  },
+  {
+    "id": 300,
+    "course_id": 189,
+    "classroom_id": 92,
+    "exam_date": "2025-04-18",
+    "exam_type": "midterm",
+    "duration_minutes": 45,
+    "max_score": 10.0,
+    "registered_students": 13
+  }
+]

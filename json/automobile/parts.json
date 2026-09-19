@@ -1,0 +1,3202 @@
+[
+  {
+    "id": 1,
+    "oem_code": "EN900757",
+    "name": "Timing belt kit",
+    "category": "Engine",
+    "unit_price": 415.83,
+    "stock_quantity": 0
+  },
+  {
+    "id": 2,
+    "oem_code": "TY521715",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 176.59,
+    "stock_quantity": 35
+  },
+  {
+    "id": 3,
+    "oem_code": "BR205472",
+    "name": "Brake caliper",
+    "category": "Brakes",
+    "unit_price": 170.23,
+    "stock_quantity": 49
+  },
+  {
+    "id": 4,
+    "oem_code": "FL633055",
+    "name": "Cabin filter",
+    "category": "Filters",
+    "unit_price": 6.21,
+    "stock_quantity": 0
+  },
+  {
+    "id": 5,
+    "oem_code": "EN375417",
+    "name": "Turbocharger",
+    "category": "Engine",
+    "unit_price": 265.31,
+    "stock_quantity": 23
+  },
+  {
+    "id": 6,
+    "oem_code": "BR877676",
+    "name": "Brake pad set",
+    "category": "Brakes",
+    "unit_price": 143.85,
+    "stock_quantity": 16
+  },
+  {
+    "id": 7,
+    "oem_code": "SU106270",
+    "name": "Coil spring",
+    "category": "Suspension",
+    "unit_price": 208.15,
+    "stock_quantity": 0
+  },
+  {
+    "id": 8,
+    "oem_code": "BO117421",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 124.56,
+    "stock_quantity": 93
+  },
+  {
+    "id": 9,
+    "oem_code": "EL040727",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 204.04,
+    "stock_quantity": 27
+  },
+  {
+    "id": 10,
+    "oem_code": "TR786813",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 439.57,
+    "stock_quantity": 26
+  },
+  {
+    "id": 11,
+    "oem_code": "BR370779",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 20.97,
+    "stock_quantity": 31
+  },
+  {
+    "id": 12,
+    "oem_code": "FL189380",
+    "name": "Cabin filter",
+    "category": "Filters",
+    "unit_price": 22.24,
+    "stock_quantity": 9
+  },
+  {
+    "id": 13,
+    "oem_code": "EL896608",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 89.83,
+    "stock_quantity": 116
+  },
+  {
+    "id": 14,
+    "oem_code": "BO143125",
+    "name": "Windscreen wiper",
+    "category": "Body",
+    "unit_price": 239.26,
+    "stock_quantity": 117
+  },
+  {
+    "id": 15,
+    "oem_code": "TR905767",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 323.05,
+    "stock_quantity": 45
+  },
+  {
+    "id": 16,
+    "oem_code": "TY720632",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 163.69,
+    "stock_quantity": 111
+  },
+  {
+    "id": 17,
+    "oem_code": "TR288968",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 522.29,
+    "stock_quantity": 6
+  },
+  {
+    "id": 18,
+    "oem_code": "BO206880",
+    "name": "Windscreen wiper",
+    "category": "Body",
+    "unit_price": 121.2,
+    "stock_quantity": 69
+  },
+  {
+    "id": 19,
+    "oem_code": "FL744685",
+    "name": "Oil filter",
+    "category": "Filters",
+    "unit_price": 35.41,
+    "stock_quantity": 78
+  },
+  {
+    "id": 20,
+    "oem_code": "TY764812",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 195.44,
+    "stock_quantity": 79
+  },
+  {
+    "id": 21,
+    "oem_code": "EL015752",
+    "name": "Alternator",
+    "category": "Electrical",
+    "unit_price": 93.83,
+    "stock_quantity": 81
+  },
+  {
+    "id": 22,
+    "oem_code": "EN922230",
+    "name": "Turbocharger",
+    "category": "Engine",
+    "unit_price": 668.61,
+    "stock_quantity": 24
+  },
+  {
+    "id": 23,
+    "oem_code": "EN803737",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 404.2,
+    "stock_quantity": 51
+  },
+  {
+    "id": 24,
+    "oem_code": "EN314190",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 466.02,
+    "stock_quantity": 24
+  },
+  {
+    "id": 25,
+    "oem_code": "TY126461",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 139.04,
+    "stock_quantity": 108
+  },
+  {
+    "id": 26,
+    "oem_code": "BR671068",
+    "name": "Brake fluid",
+    "category": "Brakes",
+    "unit_price": 63.29,
+    "stock_quantity": 36
+  },
+  {
+    "id": 27,
+    "oem_code": "BO058083",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 276.62,
+    "stock_quantity": 74
+  },
+  {
+    "id": 28,
+    "oem_code": "FL195140",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 16.48,
+    "stock_quantity": 41
+  },
+  {
+    "id": 29,
+    "oem_code": "BO468057",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 19.42,
+    "stock_quantity": 44
+  },
+  {
+    "id": 30,
+    "oem_code": "EN252053",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 713.03,
+    "stock_quantity": 102
+  },
+  {
+    "id": 31,
+    "oem_code": "EL192229",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 44.65,
+    "stock_quantity": 12
+  },
+  {
+    "id": 32,
+    "oem_code": "BR532014",
+    "name": "Brake fluid",
+    "category": "Brakes",
+    "unit_price": 113.44,
+    "stock_quantity": 90
+  },
+  {
+    "id": 33,
+    "oem_code": "TR766135",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 527.63,
+    "stock_quantity": 27
+  },
+  {
+    "id": 34,
+    "oem_code": "BR023975",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 65.22,
+    "stock_quantity": 109
+  },
+  {
+    "id": 35,
+    "oem_code": "BR035916",
+    "name": "Brake fluid",
+    "category": "Brakes",
+    "unit_price": 179.03,
+    "stock_quantity": 18
+  },
+  {
+    "id": 36,
+    "oem_code": "FL960393",
+    "name": "Oil filter",
+    "category": "Filters",
+    "unit_price": 40.16,
+    "stock_quantity": 62
+  },
+  {
+    "id": 37,
+    "oem_code": "TY084260",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 178.12,
+    "stock_quantity": 12
+  },
+  {
+    "id": 38,
+    "oem_code": "FL925391",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 6.63,
+    "stock_quantity": 73
+  },
+  {
+    "id": 39,
+    "oem_code": "EL587925",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 13.29,
+    "stock_quantity": 107
+  },
+  {
+    "id": 40,
+    "oem_code": "BR250359",
+    "name": "Brake fluid",
+    "category": "Brakes",
+    "unit_price": 50.1,
+    "stock_quantity": 110
+  },
+  {
+    "id": 41,
+    "oem_code": "SU086091",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 195.85,
+    "stock_quantity": 110
+  },
+  {
+    "id": 42,
+    "oem_code": "EL521790",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 331.87,
+    "stock_quantity": 84
+  },
+  {
+    "id": 43,
+    "oem_code": "BO974308",
+    "name": "Wing mirror",
+    "category": "Body",
+    "unit_price": 143.53,
+    "stock_quantity": 65
+  },
+  {
+    "id": 44,
+    "oem_code": "EN072639",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 604.72,
+    "stock_quantity": 106
+  },
+  {
+    "id": 45,
+    "oem_code": "SU958556",
+    "name": "Coil spring",
+    "category": "Suspension",
+    "unit_price": 56.32,
+    "stock_quantity": 73
+  },
+  {
+    "id": 46,
+    "oem_code": "FL555254",
+    "name": "Oil filter",
+    "category": "Filters",
+    "unit_price": 8.23,
+    "stock_quantity": 27
+  },
+  {
+    "id": 47,
+    "oem_code": "EN550116",
+    "name": "Turbocharger",
+    "category": "Engine",
+    "unit_price": 405.48,
+    "stock_quantity": 104
+  },
+  {
+    "id": 48,
+    "oem_code": "BO566124",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 151.24,
+    "stock_quantity": 116
+  },
+  {
+    "id": 49,
+    "oem_code": "SU560719",
+    "name": "Shock absorber",
+    "category": "Suspension",
+    "unit_price": 121.47,
+    "stock_quantity": 0
+  },
+  {
+    "id": 50,
+    "oem_code": "BO665207",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 256.61,
+    "stock_quantity": 118
+  },
+  {
+    "id": 51,
+    "oem_code": "TR674965",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 268.13,
+    "stock_quantity": 36
+  },
+  {
+    "id": 52,
+    "oem_code": "SU454129",
+    "name": "Wheel bearing",
+    "category": "Suspension",
+    "unit_price": 222.01,
+    "stock_quantity": 57
+  },
+  {
+    "id": 53,
+    "oem_code": "EL504767",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 66.04,
+    "stock_quantity": 6
+  },
+  {
+    "id": 54,
+    "oem_code": "EL240592",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 336.62,
+    "stock_quantity": 0
+  },
+  {
+    "id": 55,
+    "oem_code": "TR562649",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 545.32,
+    "stock_quantity": 48
+  },
+  {
+    "id": 56,
+    "oem_code": "BR794188",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 163.17,
+    "stock_quantity": 30
+  },
+  {
+    "id": 57,
+    "oem_code": "EL954991",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 143.78,
+    "stock_quantity": 101
+  },
+  {
+    "id": 58,
+    "oem_code": "SU079431",
+    "name": "Coil spring",
+    "category": "Suspension",
+    "unit_price": 71.94,
+    "stock_quantity": 65
+  },
+  {
+    "id": 59,
+    "oem_code": "BO108609",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 102.84,
+    "stock_quantity": 3
+  },
+  {
+    "id": 60,
+    "oem_code": "BO141517",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 244.12,
+    "stock_quantity": 70
+  },
+  {
+    "id": 61,
+    "oem_code": "EL468829",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 99.85,
+    "stock_quantity": 66
+  },
+  {
+    "id": 62,
+    "oem_code": "EN733295",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 246.73,
+    "stock_quantity": 72
+  },
+  {
+    "id": 63,
+    "oem_code": "SU960157",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 53.8,
+    "stock_quantity": 102
+  },
+  {
+    "id": 64,
+    "oem_code": "BO467903",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 110.89,
+    "stock_quantity": 84
+  },
+  {
+    "id": 65,
+    "oem_code": "EN835984",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 150.87,
+    "stock_quantity": 33
+  },
+  {
+    "id": 66,
+    "oem_code": "FL572968",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 21.37,
+    "stock_quantity": 64
+  },
+  {
+    "id": 67,
+    "oem_code": "FL488648",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 26.57,
+    "stock_quantity": 8
+  },
+  {
+    "id": 68,
+    "oem_code": "SU533935",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 183.29,
+    "stock_quantity": 102
+  },
+  {
+    "id": 69,
+    "oem_code": "EN525740",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 298.13,
+    "stock_quantity": 7
+  },
+  {
+    "id": 70,
+    "oem_code": "TY954988",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 175.79,
+    "stock_quantity": 62
+  },
+  {
+    "id": 71,
+    "oem_code": "SU390898",
+    "name": "Coil spring",
+    "category": "Suspension",
+    "unit_price": 71.1,
+    "stock_quantity": 0
+  },
+  {
+    "id": 72,
+    "oem_code": "TY446408",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 133.1,
+    "stock_quantity": 84
+  },
+  {
+    "id": 73,
+    "oem_code": "BR435154",
+    "name": "Brake fluid",
+    "category": "Brakes",
+    "unit_price": 187.07,
+    "stock_quantity": 119
+  },
+  {
+    "id": 74,
+    "oem_code": "TR003772",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 29.14,
+    "stock_quantity": 83
+  },
+  {
+    "id": 75,
+    "oem_code": "BO830682",
+    "name": "Wing mirror",
+    "category": "Body",
+    "unit_price": 91.4,
+    "stock_quantity": 76
+  },
+  {
+    "id": 76,
+    "oem_code": "TR376396",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 172.01,
+    "stock_quantity": 51
+  },
+  {
+    "id": 77,
+    "oem_code": "BO616241",
+    "name": "Windscreen wiper",
+    "category": "Body",
+    "unit_price": 129.9,
+    "stock_quantity": 116
+  },
+  {
+    "id": 78,
+    "oem_code": "FL546661",
+    "name": "Air filter",
+    "category": "Filters",
+    "unit_price": 29.61,
+    "stock_quantity": 76
+  },
+  {
+    "id": 79,
+    "oem_code": "EN069572",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 617.33,
+    "stock_quantity": 101
+  },
+  {
+    "id": 80,
+    "oem_code": "FL114437",
+    "name": "Air filter",
+    "category": "Filters",
+    "unit_price": 23.22,
+    "stock_quantity": 30
+  },
+  {
+    "id": 81,
+    "oem_code": "TR041069",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 233.51,
+    "stock_quantity": 48
+  },
+  {
+    "id": 82,
+    "oem_code": "EL239577",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 105.92,
+    "stock_quantity": 63
+  },
+  {
+    "id": 83,
+    "oem_code": "EL069309",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 266.14,
+    "stock_quantity": 36
+  },
+  {
+    "id": 84,
+    "oem_code": "TY984296",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 64.85,
+    "stock_quantity": 21
+  },
+  {
+    "id": 85,
+    "oem_code": "FL412708",
+    "name": "Oil filter",
+    "category": "Filters",
+    "unit_price": 12.44,
+    "stock_quantity": 93
+  },
+  {
+    "id": 86,
+    "oem_code": "TR755530",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 386.0,
+    "stock_quantity": 53
+  },
+  {
+    "id": 87,
+    "oem_code": "BO990112",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 198.86,
+    "stock_quantity": 18
+  },
+  {
+    "id": 88,
+    "oem_code": "TR479923",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 567.92,
+    "stock_quantity": 0
+  },
+  {
+    "id": 89,
+    "oem_code": "BR683892",
+    "name": "Brake pad set",
+    "category": "Brakes",
+    "unit_price": 92.98,
+    "stock_quantity": 95
+  },
+  {
+    "id": 90,
+    "oem_code": "BO494980",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 70.03,
+    "stock_quantity": 28
+  },
+  {
+    "id": 91,
+    "oem_code": "EN778148",
+    "name": "Turbocharger",
+    "category": "Engine",
+    "unit_price": 316.06,
+    "stock_quantity": 96
+  },
+  {
+    "id": 92,
+    "oem_code": "TR336241",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 336.05,
+    "stock_quantity": 15
+  },
+  {
+    "id": 93,
+    "oem_code": "BR902819",
+    "name": "Brake pad set",
+    "category": "Brakes",
+    "unit_price": 34.17,
+    "stock_quantity": 88
+  },
+  {
+    "id": 94,
+    "oem_code": "BO300629",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 269.31,
+    "stock_quantity": 84
+  },
+  {
+    "id": 95,
+    "oem_code": "SU725857",
+    "name": "Coil spring",
+    "category": "Suspension",
+    "unit_price": 229.4,
+    "stock_quantity": 1
+  },
+  {
+    "id": 96,
+    "oem_code": "TY338130",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 84.06,
+    "stock_quantity": 50
+  },
+  {
+    "id": 97,
+    "oem_code": "BR161355",
+    "name": "Brake caliper",
+    "category": "Brakes",
+    "unit_price": 46.5,
+    "stock_quantity": 3
+  },
+  {
+    "id": 98,
+    "oem_code": "EN970319",
+    "name": "Timing belt kit",
+    "category": "Engine",
+    "unit_price": 582.46,
+    "stock_quantity": 92
+  },
+  {
+    "id": 99,
+    "oem_code": "SU149859",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 171.77,
+    "stock_quantity": 120
+  },
+  {
+    "id": 100,
+    "oem_code": "TR616980",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 141.27,
+    "stock_quantity": 29
+  },
+  {
+    "id": 101,
+    "oem_code": "BO499373",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 213.63,
+    "stock_quantity": 115
+  },
+  {
+    "id": 102,
+    "oem_code": "TR199680",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 140.58,
+    "stock_quantity": 7
+  },
+  {
+    "id": 103,
+    "oem_code": "BR437778",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 35.65,
+    "stock_quantity": 109
+  },
+  {
+    "id": 104,
+    "oem_code": "SU363203",
+    "name": "Wheel bearing",
+    "category": "Suspension",
+    "unit_price": 157.45,
+    "stock_quantity": 98
+  },
+  {
+    "id": 105,
+    "oem_code": "BO715921",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 211.07,
+    "stock_quantity": 20
+  },
+  {
+    "id": 106,
+    "oem_code": "BO001262",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 185.64,
+    "stock_quantity": 68
+  },
+  {
+    "id": 107,
+    "oem_code": "FL319147",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 38.43,
+    "stock_quantity": 120
+  },
+  {
+    "id": 108,
+    "oem_code": "FL222991",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 33.27,
+    "stock_quantity": 51
+  },
+  {
+    "id": 109,
+    "oem_code": "FL595580",
+    "name": "Cabin filter",
+    "category": "Filters",
+    "unit_price": 27.53,
+    "stock_quantity": 95
+  },
+  {
+    "id": 110,
+    "oem_code": "TR128445",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 537.48,
+    "stock_quantity": 107
+  },
+  {
+    "id": 111,
+    "oem_code": "EL100169",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 68.16,
+    "stock_quantity": 64
+  },
+  {
+    "id": 112,
+    "oem_code": "SU579154",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 115.66,
+    "stock_quantity": 88
+  },
+  {
+    "id": 113,
+    "oem_code": "TR890640",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 168.65,
+    "stock_quantity": 103
+  },
+  {
+    "id": 114,
+    "oem_code": "TY866047",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 148.21,
+    "stock_quantity": 82
+  },
+  {
+    "id": 115,
+    "oem_code": "TR849720",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 420.0,
+    "stock_quantity": 91
+  },
+  {
+    "id": 116,
+    "oem_code": "EL690556",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 160.35,
+    "stock_quantity": 113
+  },
+  {
+    "id": 117,
+    "oem_code": "BR972355",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 146.53,
+    "stock_quantity": 96
+  },
+  {
+    "id": 118,
+    "oem_code": "TR425609",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 376.46,
+    "stock_quantity": 119
+  },
+  {
+    "id": 119,
+    "oem_code": "TY097559",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 61.87,
+    "stock_quantity": 70
+  },
+  {
+    "id": 120,
+    "oem_code": "BO306052",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 238.29,
+    "stock_quantity": 96
+  },
+  {
+    "id": 121,
+    "oem_code": "TR888532",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 45.43,
+    "stock_quantity": 77
+  },
+  {
+    "id": 122,
+    "oem_code": "EN634132",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 134.01,
+    "stock_quantity": 118
+  },
+  {
+    "id": 123,
+    "oem_code": "EN798841",
+    "name": "Timing belt kit",
+    "category": "Engine",
+    "unit_price": 598.52,
+    "stock_quantity": 46
+  },
+  {
+    "id": 124,
+    "oem_code": "TR992158",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 205.99,
+    "stock_quantity": 98
+  },
+  {
+    "id": 125,
+    "oem_code": "BO079089",
+    "name": "Wing mirror",
+    "category": "Body",
+    "unit_price": 95.99,
+    "stock_quantity": 13
+  },
+  {
+    "id": 126,
+    "oem_code": "BO152102",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 83.12,
+    "stock_quantity": 8
+  },
+  {
+    "id": 127,
+    "oem_code": "TY801249",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 144.37,
+    "stock_quantity": 15
+  },
+  {
+    "id": 128,
+    "oem_code": "EN382651",
+    "name": "Timing belt kit",
+    "category": "Engine",
+    "unit_price": 516.27,
+    "stock_quantity": 62
+  },
+  {
+    "id": 129,
+    "oem_code": "TY570339",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 78.2,
+    "stock_quantity": 89
+  },
+  {
+    "id": 130,
+    "oem_code": "EN570058",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 338.22,
+    "stock_quantity": 73
+  },
+  {
+    "id": 131,
+    "oem_code": "TY747883",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 121.04,
+    "stock_quantity": 31
+  },
+  {
+    "id": 132,
+    "oem_code": "EN026658",
+    "name": "Timing belt kit",
+    "category": "Engine",
+    "unit_price": 638.38,
+    "stock_quantity": 76
+  },
+  {
+    "id": 133,
+    "oem_code": "TR784966",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 553.19,
+    "stock_quantity": 118
+  },
+  {
+    "id": 134,
+    "oem_code": "EN475212",
+    "name": "Timing belt kit",
+    "category": "Engine",
+    "unit_price": 412.53,
+    "stock_quantity": 88
+  },
+  {
+    "id": 135,
+    "oem_code": "TY096608",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 125.19,
+    "stock_quantity": 39
+  },
+  {
+    "id": 136,
+    "oem_code": "FL727664",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 23.36,
+    "stock_quantity": 62
+  },
+  {
+    "id": 137,
+    "oem_code": "BO622679",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 140.76,
+    "stock_quantity": 36
+  },
+  {
+    "id": 138,
+    "oem_code": "BR642933",
+    "name": "Brake fluid",
+    "category": "Brakes",
+    "unit_price": 106.1,
+    "stock_quantity": 84
+  },
+  {
+    "id": 139,
+    "oem_code": "BO456311",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 125.22,
+    "stock_quantity": 20
+  },
+  {
+    "id": 140,
+    "oem_code": "BO303347",
+    "name": "Windscreen wiper",
+    "category": "Body",
+    "unit_price": 212.21,
+    "stock_quantity": 58
+  },
+  {
+    "id": 141,
+    "oem_code": "EN378637",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 534.54,
+    "stock_quantity": 50
+  },
+  {
+    "id": 142,
+    "oem_code": "SU094701",
+    "name": "Wheel bearing",
+    "category": "Suspension",
+    "unit_price": 136.87,
+    "stock_quantity": 81
+  },
+  {
+    "id": 143,
+    "oem_code": "EL884450",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 32.74,
+    "stock_quantity": 86
+  },
+  {
+    "id": 144,
+    "oem_code": "BO766981",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 34.62,
+    "stock_quantity": 48
+  },
+  {
+    "id": 145,
+    "oem_code": "BR391019",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 36.56,
+    "stock_quantity": 38
+  },
+  {
+    "id": 146,
+    "oem_code": "EN016288",
+    "name": "Timing belt kit",
+    "category": "Engine",
+    "unit_price": 278.31,
+    "stock_quantity": 89
+  },
+  {
+    "id": 147,
+    "oem_code": "FL619336",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 6.51,
+    "stock_quantity": 120
+  },
+  {
+    "id": 148,
+    "oem_code": "BR391664",
+    "name": "Brake pad set",
+    "category": "Brakes",
+    "unit_price": 166.79,
+    "stock_quantity": 26
+  },
+  {
+    "id": 149,
+    "oem_code": "BR136792",
+    "name": "Brake fluid",
+    "category": "Brakes",
+    "unit_price": 96.12,
+    "stock_quantity": 77
+  },
+  {
+    "id": 150,
+    "oem_code": "EL390196",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 277.2,
+    "stock_quantity": 17
+  },
+  {
+    "id": 151,
+    "oem_code": "SU738137",
+    "name": "Wheel bearing",
+    "category": "Suspension",
+    "unit_price": 187.79,
+    "stock_quantity": 115
+  },
+  {
+    "id": 152,
+    "oem_code": "TY417528",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 199.17,
+    "stock_quantity": 14
+  },
+  {
+    "id": 153,
+    "oem_code": "BR782502",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 26.71,
+    "stock_quantity": 13
+  },
+  {
+    "id": 154,
+    "oem_code": "FL340421",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 14.96,
+    "stock_quantity": 69
+  },
+  {
+    "id": 155,
+    "oem_code": "FL482818",
+    "name": "Cabin filter",
+    "category": "Filters",
+    "unit_price": 41.22,
+    "stock_quantity": 19
+  },
+  {
+    "id": 156,
+    "oem_code": "FL889254",
+    "name": "Air filter",
+    "category": "Filters",
+    "unit_price": 32.98,
+    "stock_quantity": 39
+  },
+  {
+    "id": 157,
+    "oem_code": "BO279351",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 176.93,
+    "stock_quantity": 56
+  },
+  {
+    "id": 158,
+    "oem_code": "BO382524",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 173.74,
+    "stock_quantity": 39
+  },
+  {
+    "id": 159,
+    "oem_code": "TY992157",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 148.72,
+    "stock_quantity": 120
+  },
+  {
+    "id": 160,
+    "oem_code": "TY710398",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 120.88,
+    "stock_quantity": 20
+  },
+  {
+    "id": 161,
+    "oem_code": "BR300366",
+    "name": "Brake pad set",
+    "category": "Brakes",
+    "unit_price": 68.86,
+    "stock_quantity": 30
+  },
+  {
+    "id": 162,
+    "oem_code": "EL422461",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 331.93,
+    "stock_quantity": 116
+  },
+  {
+    "id": 163,
+    "oem_code": "TR569483",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 417.17,
+    "stock_quantity": 25
+  },
+  {
+    "id": 164,
+    "oem_code": "TY935975",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 62.65,
+    "stock_quantity": 66
+  },
+  {
+    "id": 165,
+    "oem_code": "FL921550",
+    "name": "Oil filter",
+    "category": "Filters",
+    "unit_price": 36.1,
+    "stock_quantity": 100
+  },
+  {
+    "id": 166,
+    "oem_code": "BO138662",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 157.63,
+    "stock_quantity": 105
+  },
+  {
+    "id": 167,
+    "oem_code": "BR451203",
+    "name": "Brake fluid",
+    "category": "Brakes",
+    "unit_price": 148.91,
+    "stock_quantity": 16
+  },
+  {
+    "id": 168,
+    "oem_code": "SU123765",
+    "name": "Coil spring",
+    "category": "Suspension",
+    "unit_price": 96.46,
+    "stock_quantity": 42
+  },
+  {
+    "id": 169,
+    "oem_code": "TY966287",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 62.44,
+    "stock_quantity": 45
+  },
+  {
+    "id": 170,
+    "oem_code": "EN702274",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 297.86,
+    "stock_quantity": 97
+  },
+  {
+    "id": 171,
+    "oem_code": "SU603451",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 70.64,
+    "stock_quantity": 77
+  },
+  {
+    "id": 172,
+    "oem_code": "BO172313",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 209.98,
+    "stock_quantity": 25
+  },
+  {
+    "id": 173,
+    "oem_code": "EN834238",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 459.66,
+    "stock_quantity": 102
+  },
+  {
+    "id": 174,
+    "oem_code": "TR556052",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 85.39,
+    "stock_quantity": 113
+  },
+  {
+    "id": 175,
+    "oem_code": "TY551958",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 110.76,
+    "stock_quantity": 64
+  },
+  {
+    "id": 176,
+    "oem_code": "EL280835",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 27.38,
+    "stock_quantity": 109
+  },
+  {
+    "id": 177,
+    "oem_code": "BO877981",
+    "name": "Windscreen wiper",
+    "category": "Body",
+    "unit_price": 58.93,
+    "stock_quantity": 95
+  },
+  {
+    "id": 178,
+    "oem_code": "TR038527",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 483.42,
+    "stock_quantity": 1
+  },
+  {
+    "id": 179,
+    "oem_code": "TY708223",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 204.45,
+    "stock_quantity": 66
+  },
+  {
+    "id": 180,
+    "oem_code": "EL347486",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 166.44,
+    "stock_quantity": 9
+  },
+  {
+    "id": 181,
+    "oem_code": "EL648881",
+    "name": "Alternator",
+    "category": "Electrical",
+    "unit_price": 305.98,
+    "stock_quantity": 1
+  },
+  {
+    "id": 182,
+    "oem_code": "BR884873",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 169.47,
+    "stock_quantity": 22
+  },
+  {
+    "id": 183,
+    "oem_code": "FL307711",
+    "name": "Cabin filter",
+    "category": "Filters",
+    "unit_price": 39.13,
+    "stock_quantity": 3
+  },
+  {
+    "id": 184,
+    "oem_code": "EN724263",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 289.51,
+    "stock_quantity": 118
+  },
+  {
+    "id": 185,
+    "oem_code": "TY884373",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 189.94,
+    "stock_quantity": 105
+  },
+  {
+    "id": 186,
+    "oem_code": "TY052614",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 52.17,
+    "stock_quantity": 7
+  },
+  {
+    "id": 187,
+    "oem_code": "BO162206",
+    "name": "Windscreen wiper",
+    "category": "Body",
+    "unit_price": 115.77,
+    "stock_quantity": 18
+  },
+  {
+    "id": 188,
+    "oem_code": "EN736778",
+    "name": "Turbocharger",
+    "category": "Engine",
+    "unit_price": 196.41,
+    "stock_quantity": 120
+  },
+  {
+    "id": 189,
+    "oem_code": "TR091895",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 194.34,
+    "stock_quantity": 65
+  },
+  {
+    "id": 190,
+    "oem_code": "TY779471",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 136.2,
+    "stock_quantity": 112
+  },
+  {
+    "id": 191,
+    "oem_code": "SU316581",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 212.85,
+    "stock_quantity": 114
+  },
+  {
+    "id": 192,
+    "oem_code": "TR821270",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 277.42,
+    "stock_quantity": 103
+  },
+  {
+    "id": 193,
+    "oem_code": "EN193338",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 486.02,
+    "stock_quantity": 70
+  },
+  {
+    "id": 194,
+    "oem_code": "TY330987",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 80.24,
+    "stock_quantity": 106
+  },
+  {
+    "id": 195,
+    "oem_code": "TY187232",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 50.18,
+    "stock_quantity": 0
+  },
+  {
+    "id": 196,
+    "oem_code": "SU805622",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 107.39,
+    "stock_quantity": 4
+  },
+  {
+    "id": 197,
+    "oem_code": "TY388469",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 153.86,
+    "stock_quantity": 50
+  },
+  {
+    "id": 198,
+    "oem_code": "EN048968",
+    "name": "Turbocharger",
+    "category": "Engine",
+    "unit_price": 23.52,
+    "stock_quantity": 99
+  },
+  {
+    "id": 199,
+    "oem_code": "BO528666",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 204.01,
+    "stock_quantity": 39
+  },
+  {
+    "id": 200,
+    "oem_code": "TR809315",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 281.57,
+    "stock_quantity": 24
+  },
+  {
+    "id": 201,
+    "oem_code": "EL680710",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 113.03,
+    "stock_quantity": 21
+  },
+  {
+    "id": 202,
+    "oem_code": "EL817791",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 35.11,
+    "stock_quantity": 114
+  },
+  {
+    "id": 203,
+    "oem_code": "BR500713",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 174.27,
+    "stock_quantity": 0
+  },
+  {
+    "id": 204,
+    "oem_code": "EN609906",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 628.49,
+    "stock_quantity": 48
+  },
+  {
+    "id": 205,
+    "oem_code": "FL598320",
+    "name": "Oil filter",
+    "category": "Filters",
+    "unit_price": 19.39,
+    "stock_quantity": 63
+  },
+  {
+    "id": 206,
+    "oem_code": "EL939246",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 244.78,
+    "stock_quantity": 71
+  },
+  {
+    "id": 207,
+    "oem_code": "SU398437",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 174.88,
+    "stock_quantity": 114
+  },
+  {
+    "id": 208,
+    "oem_code": "EN633248",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 649.36,
+    "stock_quantity": 51
+  },
+  {
+    "id": 209,
+    "oem_code": "TY016868",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 143.61,
+    "stock_quantity": 57
+  },
+  {
+    "id": 210,
+    "oem_code": "EL726016",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 317.66,
+    "stock_quantity": 80
+  },
+  {
+    "id": 211,
+    "oem_code": "TR380044",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 253.66,
+    "stock_quantity": 102
+  },
+  {
+    "id": 212,
+    "oem_code": "EN678861",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 192.55,
+    "stock_quantity": 116
+  },
+  {
+    "id": 213,
+    "oem_code": "EN631099",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 668.38,
+    "stock_quantity": 86
+  },
+  {
+    "id": 214,
+    "oem_code": "BR405800",
+    "name": "Brake caliper",
+    "category": "Brakes",
+    "unit_price": 172.64,
+    "stock_quantity": 88
+  },
+  {
+    "id": 215,
+    "oem_code": "BO389024",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 195.23,
+    "stock_quantity": 35
+  },
+  {
+    "id": 216,
+    "oem_code": "FL574158",
+    "name": "Cabin filter",
+    "category": "Filters",
+    "unit_price": 31.92,
+    "stock_quantity": 2
+  },
+  {
+    "id": 217,
+    "oem_code": "BR992349",
+    "name": "Brake fluid",
+    "category": "Brakes",
+    "unit_price": 168.35,
+    "stock_quantity": 12
+  },
+  {
+    "id": 218,
+    "oem_code": "FL897080",
+    "name": "Cabin filter",
+    "category": "Filters",
+    "unit_price": 18.73,
+    "stock_quantity": 2
+  },
+  {
+    "id": 219,
+    "oem_code": "EL836806",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 178.8,
+    "stock_quantity": 48
+  },
+  {
+    "id": 220,
+    "oem_code": "BR530231",
+    "name": "Brake caliper",
+    "category": "Brakes",
+    "unit_price": 31.92,
+    "stock_quantity": 71
+  },
+  {
+    "id": 221,
+    "oem_code": "EL430910",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 161.37,
+    "stock_quantity": 0
+  },
+  {
+    "id": 222,
+    "oem_code": "TR724505",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 181.82,
+    "stock_quantity": 88
+  },
+  {
+    "id": 223,
+    "oem_code": "BO217962",
+    "name": "Wing mirror",
+    "category": "Body",
+    "unit_price": 190.34,
+    "stock_quantity": 83
+  },
+  {
+    "id": 224,
+    "oem_code": "SU745122",
+    "name": "Shock absorber",
+    "category": "Suspension",
+    "unit_price": 101.74,
+    "stock_quantity": 42
+  },
+  {
+    "id": 225,
+    "oem_code": "TY665128",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 105.29,
+    "stock_quantity": 21
+  },
+  {
+    "id": 226,
+    "oem_code": "TR650698",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 348.88,
+    "stock_quantity": 5
+  },
+  {
+    "id": 227,
+    "oem_code": "BR940838",
+    "name": "Brake caliper",
+    "category": "Brakes",
+    "unit_price": 157.89,
+    "stock_quantity": 22
+  },
+  {
+    "id": 228,
+    "oem_code": "SU584316",
+    "name": "Wheel bearing",
+    "category": "Suspension",
+    "unit_price": 165.1,
+    "stock_quantity": 98
+  },
+  {
+    "id": 229,
+    "oem_code": "EN204068",
+    "name": "Turbocharger",
+    "category": "Engine",
+    "unit_price": 448.1,
+    "stock_quantity": 76
+  },
+  {
+    "id": 230,
+    "oem_code": "BO921371",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 159.24,
+    "stock_quantity": 41
+  },
+  {
+    "id": 231,
+    "oem_code": "SU179777",
+    "name": "Shock absorber",
+    "category": "Suspension",
+    "unit_price": 81.31,
+    "stock_quantity": 90
+  },
+  {
+    "id": 232,
+    "oem_code": "BO832721",
+    "name": "Wing mirror",
+    "category": "Body",
+    "unit_price": 79.55,
+    "stock_quantity": 116
+  },
+  {
+    "id": 233,
+    "oem_code": "EN955997",
+    "name": "Turbocharger",
+    "category": "Engine",
+    "unit_price": 58.02,
+    "stock_quantity": 47
+  },
+  {
+    "id": 234,
+    "oem_code": "EL403394",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 193.58,
+    "stock_quantity": 117
+  },
+  {
+    "id": 235,
+    "oem_code": "BO511958",
+    "name": "Wing mirror",
+    "category": "Body",
+    "unit_price": 221.8,
+    "stock_quantity": 44
+  },
+  {
+    "id": 236,
+    "oem_code": "EN147053",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 299.98,
+    "stock_quantity": 31
+  },
+  {
+    "id": 237,
+    "oem_code": "BR648801",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 133.39,
+    "stock_quantity": 40
+  },
+  {
+    "id": 238,
+    "oem_code": "TY348017",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 130.57,
+    "stock_quantity": 29
+  },
+  {
+    "id": 239,
+    "oem_code": "BR256576",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 117.01,
+    "stock_quantity": 116
+  },
+  {
+    "id": 240,
+    "oem_code": "FL336287",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 36.09,
+    "stock_quantity": 0
+  },
+  {
+    "id": 241,
+    "oem_code": "TY261805",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 200.64,
+    "stock_quantity": 68
+  },
+  {
+    "id": 242,
+    "oem_code": "TR328816",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 231.52,
+    "stock_quantity": 3
+  },
+  {
+    "id": 243,
+    "oem_code": "EL909360",
+    "name": "Alternator",
+    "category": "Electrical",
+    "unit_price": 130.31,
+    "stock_quantity": 110
+  },
+  {
+    "id": 244,
+    "oem_code": "BR238808",
+    "name": "Brake pad set",
+    "category": "Brakes",
+    "unit_price": 166.52,
+    "stock_quantity": 92
+  },
+  {
+    "id": 245,
+    "oem_code": "BR797218",
+    "name": "Brake pad set",
+    "category": "Brakes",
+    "unit_price": 108.38,
+    "stock_quantity": 20
+  },
+  {
+    "id": 246,
+    "oem_code": "EL100473",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 312.59,
+    "stock_quantity": 92
+  },
+  {
+    "id": 247,
+    "oem_code": "BO887102",
+    "name": "Windscreen wiper",
+    "category": "Body",
+    "unit_price": 278.26,
+    "stock_quantity": 20
+  },
+  {
+    "id": 248,
+    "oem_code": "FL841113",
+    "name": "Oil filter",
+    "category": "Filters",
+    "unit_price": 11.42,
+    "stock_quantity": 20
+  },
+  {
+    "id": 249,
+    "oem_code": "FL791007",
+    "name": "Cabin filter",
+    "category": "Filters",
+    "unit_price": 25.23,
+    "stock_quantity": 39
+  },
+  {
+    "id": 250,
+    "oem_code": "EN270328",
+    "name": "Turbocharger",
+    "category": "Engine",
+    "unit_price": 66.97,
+    "stock_quantity": 49
+  },
+  {
+    "id": 251,
+    "oem_code": "SU541273",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 220.39,
+    "stock_quantity": 75
+  },
+  {
+    "id": 252,
+    "oem_code": "EN089091",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 218.68,
+    "stock_quantity": 19
+  },
+  {
+    "id": 253,
+    "oem_code": "TR953509",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 261.19,
+    "stock_quantity": 31
+  },
+  {
+    "id": 254,
+    "oem_code": "BO888888",
+    "name": "Windscreen wiper",
+    "category": "Body",
+    "unit_price": 32.89,
+    "stock_quantity": 104
+  },
+  {
+    "id": 255,
+    "oem_code": "BO241097",
+    "name": "Windscreen wiper",
+    "category": "Body",
+    "unit_price": 160.51,
+    "stock_quantity": 33
+  },
+  {
+    "id": 256,
+    "oem_code": "FL990773",
+    "name": "Oil filter",
+    "category": "Filters",
+    "unit_price": 36.47,
+    "stock_quantity": 109
+  },
+  {
+    "id": 257,
+    "oem_code": "EN533703",
+    "name": "Timing belt kit",
+    "category": "Engine",
+    "unit_price": 51.36,
+    "stock_quantity": 109
+  },
+  {
+    "id": 258,
+    "oem_code": "BR412261",
+    "name": "Brake pad set",
+    "category": "Brakes",
+    "unit_price": 146.52,
+    "stock_quantity": 60
+  },
+  {
+    "id": 259,
+    "oem_code": "SU712989",
+    "name": "Shock absorber",
+    "category": "Suspension",
+    "unit_price": 139.46,
+    "stock_quantity": 83
+  },
+  {
+    "id": 260,
+    "oem_code": "BO083427",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 157.85,
+    "stock_quantity": 34
+  },
+  {
+    "id": 261,
+    "oem_code": "FL366062",
+    "name": "Oil filter",
+    "category": "Filters",
+    "unit_price": 25.75,
+    "stock_quantity": 98
+  },
+  {
+    "id": 262,
+    "oem_code": "TR158859",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 473.59,
+    "stock_quantity": 109
+  },
+  {
+    "id": 263,
+    "oem_code": "BO067164",
+    "name": "Wing mirror",
+    "category": "Body",
+    "unit_price": 274.89,
+    "stock_quantity": 31
+  },
+  {
+    "id": 264,
+    "oem_code": "EL280154",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 264.15,
+    "stock_quantity": 67
+  },
+  {
+    "id": 265,
+    "oem_code": "EL597811",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 239.72,
+    "stock_quantity": 4
+  },
+  {
+    "id": 266,
+    "oem_code": "BO692513",
+    "name": "Windscreen wiper",
+    "category": "Body",
+    "unit_price": 211.34,
+    "stock_quantity": 16
+  },
+  {
+    "id": 267,
+    "oem_code": "TY293036",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 77.05,
+    "stock_quantity": 73
+  },
+  {
+    "id": 268,
+    "oem_code": "SU195040",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 233.97,
+    "stock_quantity": 45
+  },
+  {
+    "id": 269,
+    "oem_code": "SU109703",
+    "name": "Shock absorber",
+    "category": "Suspension",
+    "unit_price": 36.2,
+    "stock_quantity": 87
+  },
+  {
+    "id": 270,
+    "oem_code": "BO438548",
+    "name": "Wing mirror",
+    "category": "Body",
+    "unit_price": 41.69,
+    "stock_quantity": 55
+  },
+  {
+    "id": 271,
+    "oem_code": "FL126837",
+    "name": "Oil filter",
+    "category": "Filters",
+    "unit_price": 34.0,
+    "stock_quantity": 94
+  },
+  {
+    "id": 272,
+    "oem_code": "EN764166",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 55.7,
+    "stock_quantity": 112
+  },
+  {
+    "id": 273,
+    "oem_code": "BR014684",
+    "name": "Brake pad set",
+    "category": "Brakes",
+    "unit_price": 109.05,
+    "stock_quantity": 87
+  },
+  {
+    "id": 274,
+    "oem_code": "BR328803",
+    "name": "Brake caliper",
+    "category": "Brakes",
+    "unit_price": 188.78,
+    "stock_quantity": 34
+  },
+  {
+    "id": 275,
+    "oem_code": "BO627107",
+    "name": "Wing mirror",
+    "category": "Body",
+    "unit_price": 56.0,
+    "stock_quantity": 81
+  },
+  {
+    "id": 276,
+    "oem_code": "TR085036",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 324.47,
+    "stock_quantity": 109
+  },
+  {
+    "id": 277,
+    "oem_code": "BO948933",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 18.56,
+    "stock_quantity": 26
+  },
+  {
+    "id": 278,
+    "oem_code": "BO305937",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 103.71,
+    "stock_quantity": 51
+  },
+  {
+    "id": 279,
+    "oem_code": "EL632539",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 45.88,
+    "stock_quantity": 61
+  },
+  {
+    "id": 280,
+    "oem_code": "BO952830",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 69.45,
+    "stock_quantity": 0
+  },
+  {
+    "id": 281,
+    "oem_code": "TR019596",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 253.09,
+    "stock_quantity": 118
+  },
+  {
+    "id": 282,
+    "oem_code": "BR938457",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 101.86,
+    "stock_quantity": 6
+  },
+  {
+    "id": 283,
+    "oem_code": "TY320825",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 124.86,
+    "stock_quantity": 1
+  },
+  {
+    "id": 284,
+    "oem_code": "EN640944",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 79.68,
+    "stock_quantity": 3
+  },
+  {
+    "id": 285,
+    "oem_code": "SU808163",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 206.63,
+    "stock_quantity": 106
+  },
+  {
+    "id": 286,
+    "oem_code": "TY493930",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 157.55,
+    "stock_quantity": 64
+  },
+  {
+    "id": 287,
+    "oem_code": "TY254276",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 140.3,
+    "stock_quantity": 40
+  },
+  {
+    "id": 288,
+    "oem_code": "FL164320",
+    "name": "Air filter",
+    "category": "Filters",
+    "unit_price": 11.1,
+    "stock_quantity": 16
+  },
+  {
+    "id": 289,
+    "oem_code": "EN350803",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 77.83,
+    "stock_quantity": 32
+  },
+  {
+    "id": 290,
+    "oem_code": "BR224721",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 135.57,
+    "stock_quantity": 111
+  },
+  {
+    "id": 291,
+    "oem_code": "EL588399",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 316.04,
+    "stock_quantity": 105
+  },
+  {
+    "id": 292,
+    "oem_code": "SU700273",
+    "name": "Coil spring",
+    "category": "Suspension",
+    "unit_price": 143.73,
+    "stock_quantity": 28
+  },
+  {
+    "id": 293,
+    "oem_code": "BR893356",
+    "name": "Brake caliper",
+    "category": "Brakes",
+    "unit_price": 142.6,
+    "stock_quantity": 48
+  },
+  {
+    "id": 294,
+    "oem_code": "EL804485",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 293.84,
+    "stock_quantity": 45
+  },
+  {
+    "id": 295,
+    "oem_code": "BR973199",
+    "name": "Brake pad set",
+    "category": "Brakes",
+    "unit_price": 145.75,
+    "stock_quantity": 52
+  },
+  {
+    "id": 296,
+    "oem_code": "SU876183",
+    "name": "Coil spring",
+    "category": "Suspension",
+    "unit_price": 81.72,
+    "stock_quantity": 120
+  },
+  {
+    "id": 297,
+    "oem_code": "EN123109",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 368.71,
+    "stock_quantity": 67
+  },
+  {
+    "id": 298,
+    "oem_code": "EL670400",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 10.43,
+    "stock_quantity": 59
+  },
+  {
+    "id": 299,
+    "oem_code": "BO468112",
+    "name": "Windscreen wiper",
+    "category": "Body",
+    "unit_price": 118.35,
+    "stock_quantity": 3
+  },
+  {
+    "id": 300,
+    "oem_code": "TR118807",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 24.36,
+    "stock_quantity": 105
+  },
+  {
+    "id": 301,
+    "oem_code": "BO457172",
+    "name": "Wing mirror",
+    "category": "Body",
+    "unit_price": 227.18,
+    "stock_quantity": 57
+  },
+  {
+    "id": 302,
+    "oem_code": "TR090087",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 319.6,
+    "stock_quantity": 77
+  },
+  {
+    "id": 303,
+    "oem_code": "EL944577",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 45.63,
+    "stock_quantity": 46
+  },
+  {
+    "id": 304,
+    "oem_code": "TY368207",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 148.46,
+    "stock_quantity": 119
+  },
+  {
+    "id": 305,
+    "oem_code": "EN446367",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 184.6,
+    "stock_quantity": 89
+  },
+  {
+    "id": 306,
+    "oem_code": "BR123156",
+    "name": "Brake caliper",
+    "category": "Brakes",
+    "unit_price": 69.86,
+    "stock_quantity": 108
+  },
+  {
+    "id": 307,
+    "oem_code": "TR001754",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 37.36,
+    "stock_quantity": 78
+  },
+  {
+    "id": 308,
+    "oem_code": "TR368293",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 47.61,
+    "stock_quantity": 53
+  },
+  {
+    "id": 309,
+    "oem_code": "FL151160",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 23.96,
+    "stock_quantity": 34
+  },
+  {
+    "id": 310,
+    "oem_code": "TR641050",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 367.05,
+    "stock_quantity": 14
+  },
+  {
+    "id": 311,
+    "oem_code": "BO868333",
+    "name": "Wing mirror",
+    "category": "Body",
+    "unit_price": 251.93,
+    "stock_quantity": 106
+  },
+  {
+    "id": 312,
+    "oem_code": "SU409955",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 97.8,
+    "stock_quantity": 9
+  },
+  {
+    "id": 313,
+    "oem_code": "BO539614",
+    "name": "Windscreen wiper",
+    "category": "Body",
+    "unit_price": 83.45,
+    "stock_quantity": 110
+  },
+  {
+    "id": 314,
+    "oem_code": "TR380549",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 547.84,
+    "stock_quantity": 118
+  },
+  {
+    "id": 315,
+    "oem_code": "TY960730",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 81.02,
+    "stock_quantity": 57
+  },
+  {
+    "id": 316,
+    "oem_code": "TY654654",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 48.68,
+    "stock_quantity": 103
+  },
+  {
+    "id": 317,
+    "oem_code": "EN578119",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 46.47,
+    "stock_quantity": 28
+  },
+  {
+    "id": 318,
+    "oem_code": "TR811356",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 484.28,
+    "stock_quantity": 101
+  },
+  {
+    "id": 319,
+    "oem_code": "BR248021",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 107.45,
+    "stock_quantity": 97
+  },
+  {
+    "id": 320,
+    "oem_code": "EN806831",
+    "name": "Turbocharger",
+    "category": "Engine",
+    "unit_price": 279.62,
+    "stock_quantity": 5
+  },
+  {
+    "id": 321,
+    "oem_code": "TY706370",
+    "name": "Summer tyre",
+    "category": "Tyres",
+    "unit_price": 66.56,
+    "stock_quantity": 116
+  },
+  {
+    "id": 322,
+    "oem_code": "FL981117",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 34.43,
+    "stock_quantity": 31
+  },
+  {
+    "id": 323,
+    "oem_code": "BR898502",
+    "name": "Brake caliper",
+    "category": "Brakes",
+    "unit_price": 61.89,
+    "stock_quantity": 100
+  },
+  {
+    "id": 324,
+    "oem_code": "FL435489",
+    "name": "Cabin filter",
+    "category": "Filters",
+    "unit_price": 36.75,
+    "stock_quantity": 29
+  },
+  {
+    "id": 325,
+    "oem_code": "FL243775",
+    "name": "Oil filter",
+    "category": "Filters",
+    "unit_price": 10.85,
+    "stock_quantity": 116
+  },
+  {
+    "id": 326,
+    "oem_code": "BO022141",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 232.16,
+    "stock_quantity": 28
+  },
+  {
+    "id": 327,
+    "oem_code": "TR422625",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 208.05,
+    "stock_quantity": 99
+  },
+  {
+    "id": 328,
+    "oem_code": "EL904147",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 18.25,
+    "stock_quantity": 36
+  },
+  {
+    "id": 329,
+    "oem_code": "EL032644",
+    "name": "Alternator",
+    "category": "Electrical",
+    "unit_price": 185.31,
+    "stock_quantity": 115
+  },
+  {
+    "id": 330,
+    "oem_code": "TR705757",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 497.2,
+    "stock_quantity": 65
+  },
+  {
+    "id": 331,
+    "oem_code": "TY511520",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 114.06,
+    "stock_quantity": 54
+  },
+  {
+    "id": 332,
+    "oem_code": "SU403992",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 239.41,
+    "stock_quantity": 119
+  },
+  {
+    "id": 333,
+    "oem_code": "EN224316",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 680.64,
+    "stock_quantity": 52
+  },
+  {
+    "id": 334,
+    "oem_code": "BR440639",
+    "name": "Brake caliper",
+    "category": "Brakes",
+    "unit_price": 30.52,
+    "stock_quantity": 115
+  },
+  {
+    "id": 335,
+    "oem_code": "EN816348",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 262.45,
+    "stock_quantity": 82
+  },
+  {
+    "id": 336,
+    "oem_code": "TY483740",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 149.76,
+    "stock_quantity": 64
+  },
+  {
+    "id": 337,
+    "oem_code": "SU272247",
+    "name": "Coil spring",
+    "category": "Suspension",
+    "unit_price": 249.1,
+    "stock_quantity": 109
+  },
+  {
+    "id": 338,
+    "oem_code": "TR452472",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 94.96,
+    "stock_quantity": 35
+  },
+  {
+    "id": 339,
+    "oem_code": "TY672337",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 160.09,
+    "stock_quantity": 0
+  },
+  {
+    "id": 340,
+    "oem_code": "SU191377",
+    "name": "Shock absorber",
+    "category": "Suspension",
+    "unit_price": 211.38,
+    "stock_quantity": 48
+  },
+  {
+    "id": 341,
+    "oem_code": "BO508069",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 161.63,
+    "stock_quantity": 91
+  },
+  {
+    "id": 342,
+    "oem_code": "EL359414",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 216.94,
+    "stock_quantity": 28
+  },
+  {
+    "id": 343,
+    "oem_code": "EL466928",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 312.81,
+    "stock_quantity": 73
+  },
+  {
+    "id": 344,
+    "oem_code": "TR475880",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 519.22,
+    "stock_quantity": 10
+  },
+  {
+    "id": 345,
+    "oem_code": "TR518404",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 242.22,
+    "stock_quantity": 30
+  },
+  {
+    "id": 346,
+    "oem_code": "TY015842",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 61.68,
+    "stock_quantity": 66
+  },
+  {
+    "id": 347,
+    "oem_code": "EN481723",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 24.58,
+    "stock_quantity": 73
+  },
+  {
+    "id": 348,
+    "oem_code": "EL254529",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 80.99,
+    "stock_quantity": 27
+  },
+  {
+    "id": 349,
+    "oem_code": "EL467525",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 215.06,
+    "stock_quantity": 115
+  },
+  {
+    "id": 350,
+    "oem_code": "TY822689",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 157.66,
+    "stock_quantity": 0
+  },
+  {
+    "id": 351,
+    "oem_code": "SU058123",
+    "name": "Shock absorber",
+    "category": "Suspension",
+    "unit_price": 194.7,
+    "stock_quantity": 41
+  },
+  {
+    "id": 352,
+    "oem_code": "EL463210",
+    "name": "Battery",
+    "category": "Electrical",
+    "unit_price": 296.6,
+    "stock_quantity": 35
+  },
+  {
+    "id": 353,
+    "oem_code": "BR944845",
+    "name": "Brake caliper",
+    "category": "Brakes",
+    "unit_price": 80.41,
+    "stock_quantity": 14
+  },
+  {
+    "id": 354,
+    "oem_code": "EN193300",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 660.28,
+    "stock_quantity": 65
+  },
+  {
+    "id": 355,
+    "oem_code": "EN289224",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 421.88,
+    "stock_quantity": 2
+  },
+  {
+    "id": 356,
+    "oem_code": "BO431643",
+    "name": "Wing mirror",
+    "category": "Body",
+    "unit_price": 75.14,
+    "stock_quantity": 64
+  },
+  {
+    "id": 357,
+    "oem_code": "EL659210",
+    "name": "Alternator",
+    "category": "Electrical",
+    "unit_price": 333.29,
+    "stock_quantity": 42
+  },
+  {
+    "id": 358,
+    "oem_code": "SU458499",
+    "name": "Shock absorber",
+    "category": "Suspension",
+    "unit_price": 43.14,
+    "stock_quantity": 72
+  },
+  {
+    "id": 359,
+    "oem_code": "TR540816",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 491.61,
+    "stock_quantity": 102
+  },
+  {
+    "id": 360,
+    "oem_code": "TR565539",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 62.19,
+    "stock_quantity": 87
+  },
+  {
+    "id": 361,
+    "oem_code": "FL019645",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 35.66,
+    "stock_quantity": 24
+  },
+  {
+    "id": 362,
+    "oem_code": "TY813185",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 169.69,
+    "stock_quantity": 25
+  },
+  {
+    "id": 363,
+    "oem_code": "EL378182",
+    "name": "Alternator",
+    "category": "Electrical",
+    "unit_price": 207.1,
+    "stock_quantity": 99
+  },
+  {
+    "id": 364,
+    "oem_code": "BO809958",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 63.43,
+    "stock_quantity": 0
+  },
+  {
+    "id": 365,
+    "oem_code": "SU541546",
+    "name": "Wheel bearing",
+    "category": "Suspension",
+    "unit_price": 101.06,
+    "stock_quantity": 89
+  },
+  {
+    "id": 366,
+    "oem_code": "FL094876",
+    "name": "Fuel filter",
+    "category": "Filters",
+    "unit_price": 35.65,
+    "stock_quantity": 52
+  },
+  {
+    "id": 367,
+    "oem_code": "EL124284",
+    "name": "Alternator",
+    "category": "Electrical",
+    "unit_price": 279.09,
+    "stock_quantity": 31
+  },
+  {
+    "id": 368,
+    "oem_code": "EN369212",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 112.45,
+    "stock_quantity": 43
+  },
+  {
+    "id": 369,
+    "oem_code": "BR315920",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 86.83,
+    "stock_quantity": 9
+  },
+  {
+    "id": 370,
+    "oem_code": "TY884088",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 84.35,
+    "stock_quantity": 0
+  },
+  {
+    "id": 371,
+    "oem_code": "BR392212",
+    "name": "Brake fluid",
+    "category": "Brakes",
+    "unit_price": 185.04,
+    "stock_quantity": 112
+  },
+  {
+    "id": 372,
+    "oem_code": "TY391071",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 62.87,
+    "stock_quantity": 62
+  },
+  {
+    "id": 373,
+    "oem_code": "SU782719",
+    "name": "Control arm",
+    "category": "Suspension",
+    "unit_price": 147.16,
+    "stock_quantity": 9
+  },
+  {
+    "id": 374,
+    "oem_code": "TR435966",
+    "name": "Gearbox oil",
+    "category": "Transmission",
+    "unit_price": 451.34,
+    "stock_quantity": 0
+  },
+  {
+    "id": 375,
+    "oem_code": "SU182943",
+    "name": "Shock absorber",
+    "category": "Suspension",
+    "unit_price": 107.06,
+    "stock_quantity": 14
+  },
+  {
+    "id": 376,
+    "oem_code": "BO870637",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 122.51,
+    "stock_quantity": 87
+  },
+  {
+    "id": 377,
+    "oem_code": "EN935605",
+    "name": "Spark plug",
+    "category": "Engine",
+    "unit_price": 51.16,
+    "stock_quantity": 55
+  },
+  {
+    "id": 378,
+    "oem_code": "BO153037",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 230.13,
+    "stock_quantity": 15
+  },
+  {
+    "id": 379,
+    "oem_code": "EN702737",
+    "name": "Water pump",
+    "category": "Engine",
+    "unit_price": 611.56,
+    "stock_quantity": 87
+  },
+  {
+    "id": 380,
+    "oem_code": "TY588463",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 116.39,
+    "stock_quantity": 48
+  },
+  {
+    "id": 381,
+    "oem_code": "TY666527",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 61.94,
+    "stock_quantity": 98
+  },
+  {
+    "id": 382,
+    "oem_code": "BO977794",
+    "name": "Bumper",
+    "category": "Body",
+    "unit_price": 208.8,
+    "stock_quantity": 8
+  },
+  {
+    "id": 383,
+    "oem_code": "FL928794",
+    "name": "Air filter",
+    "category": "Filters",
+    "unit_price": 38.44,
+    "stock_quantity": 92
+  },
+  {
+    "id": 384,
+    "oem_code": "BR700963",
+    "name": "Brake disc",
+    "category": "Brakes",
+    "unit_price": 93.64,
+    "stock_quantity": 44
+  },
+  {
+    "id": 385,
+    "oem_code": "BO398602",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 237.64,
+    "stock_quantity": 92
+  },
+  {
+    "id": 386,
+    "oem_code": "SU148242",
+    "name": "Wheel bearing",
+    "category": "Suspension",
+    "unit_price": 163.04,
+    "stock_quantity": 86
+  },
+  {
+    "id": 387,
+    "oem_code": "TR786413",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 410.1,
+    "stock_quantity": 30
+  },
+  {
+    "id": 388,
+    "oem_code": "TY937865",
+    "name": "All-season tyre",
+    "category": "Tyres",
+    "unit_price": 97.97,
+    "stock_quantity": 71
+  },
+  {
+    "id": 389,
+    "oem_code": "EN622333",
+    "name": "Turbocharger",
+    "category": "Engine",
+    "unit_price": 429.58,
+    "stock_quantity": 84
+  },
+  {
+    "id": 390,
+    "oem_code": "TY087518",
+    "name": "Winter tyre",
+    "category": "Tyres",
+    "unit_price": 108.55,
+    "stock_quantity": 77
+  },
+  {
+    "id": 391,
+    "oem_code": "BO888853",
+    "name": "Door handle",
+    "category": "Body",
+    "unit_price": 208.28,
+    "stock_quantity": 88
+  },
+  {
+    "id": 392,
+    "oem_code": "SU715217",
+    "name": "Coil spring",
+    "category": "Suspension",
+    "unit_price": 255.27,
+    "stock_quantity": 25
+  },
+  {
+    "id": 393,
+    "oem_code": "SU866544",
+    "name": "Wheel bearing",
+    "category": "Suspension",
+    "unit_price": 194.56,
+    "stock_quantity": 83
+  },
+  {
+    "id": 394,
+    "oem_code": "EL570205",
+    "name": "Headlight bulb",
+    "category": "Electrical",
+    "unit_price": 66.85,
+    "stock_quantity": 40
+  },
+  {
+    "id": 395,
+    "oem_code": "BR910429",
+    "name": "Brake fluid",
+    "category": "Brakes",
+    "unit_price": 113.37,
+    "stock_quantity": 82
+  },
+  {
+    "id": 396,
+    "oem_code": "EL165830",
+    "name": "Starter motor",
+    "category": "Electrical",
+    "unit_price": 202.69,
+    "stock_quantity": 102
+  },
+  {
+    "id": 397,
+    "oem_code": "BR563766",
+    "name": "Brake caliper",
+    "category": "Brakes",
+    "unit_price": 131.34,
+    "stock_quantity": 72
+  },
+  {
+    "id": 398,
+    "oem_code": "EN854714",
+    "name": "Timing belt kit",
+    "category": "Engine",
+    "unit_price": 236.89,
+    "stock_quantity": 40
+  },
+  {
+    "id": 399,
+    "oem_code": "TR477315",
+    "name": "Clutch kit",
+    "category": "Transmission",
+    "unit_price": 61.72,
+    "stock_quantity": 86
+  },
+  {
+    "id": 400,
+    "oem_code": "TR727568",
+    "name": "Drive shaft",
+    "category": "Transmission",
+    "unit_price": 529.32,
+    "stock_quantity": 0
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "name": "Frescos",
+    "parent_id": null,
+    "level": 1,
+    "vat_rate": 0.04
+  },
+  {
+    "id": 2,
+    "name": "Alimentación",
+    "parent_id": null,
+    "level": 1,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 3,
+    "name": "Bebidas",
+    "parent_id": null,
+    "level": 1,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 4,
+    "name": "Congelados",
+    "parent_id": null,
+    "level": 1,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 5,
+    "name": "Droguería y limpieza",
+    "parent_id": null,
+    "level": 1,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 6,
+    "name": "Higiene y belleza",
+    "parent_id": null,
+    "level": 1,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 7,
+    "name": "Bebé",
+    "parent_id": null,
+    "level": 1,
+    "vat_rate": 0.04
+  },
+  {
+    "id": 8,
+    "name": "Mascotas",
+    "parent_id": null,
+    "level": 1,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 9,
+    "name": "Hogar",
+    "parent_id": null,
+    "level": 1,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 10,
+    "name": "Frutas y verduras",
+    "parent_id": 1,
+    "level": 2,
+    "vat_rate": 0.04
+  },
+  {
+    "id": 11,
+    "name": "Carnicería",
+    "parent_id": 1,
+    "level": 2,
+    "vat_rate": 0.04
+  },
+  {
+    "id": 12,
+    "name": "Pescadería",
+    "parent_id": 1,
+    "level": 2,
+    "vat_rate": 0.04
+  },
+  {
+    "id": 13,
+    "name": "Charcutería",
+    "parent_id": 1,
+    "level": 2,
+    "vat_rate": 0.04
+  },
+  {
+    "id": 14,
+    "name": "Panadería",
+    "parent_id": 1,
+    "level": 2,
+    "vat_rate": 0.04
+  },
+  {
+    "id": 15,
+    "name": "Lácteos",
+    "parent_id": 1,
+    "level": 2,
+    "vat_rate": 0.04
+  },
+  {
+    "id": 16,
+    "name": "Huevos",
+    "parent_id": 1,
+    "level": 2,
+    "vat_rate": 0.04
+  },
+  {
+    "id": 17,
+    "name": "Pasta y arroz",
+    "parent_id": 2,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 18,
+    "name": "Conservas",
+    "parent_id": 2,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 19,
+    "name": "Aceites y vinagres",
+    "parent_id": 2,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 20,
+    "name": "Salsas y especias",
+    "parent_id": 2,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 21,
+    "name": "Cereales",
+    "parent_id": 2,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 22,
+    "name": "Galletas y bollería",
+    "parent_id": 2,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 23,
+    "name": "Snacks",
+    "parent_id": 2,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 24,
+    "name": "Legumbres",
+    "parent_id": 2,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 25,
+    "name": "Azúcar y endulzantes",
+    "parent_id": 2,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 26,
+    "name": "Agua",
+    "parent_id": 3,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 27,
+    "name": "Refrescos",
+    "parent_id": 3,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 28,
+    "name": "Cerveza",
+    "parent_id": 3,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 29,
+    "name": "Vino",
+    "parent_id": 3,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 30,
+    "name": "Zumos",
+    "parent_id": 3,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 31,
+    "name": "Café e infusiones",
+    "parent_id": 3,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 32,
+    "name": "Licores",
+    "parent_id": 3,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 33,
+    "name": "Verduras congeladas",
+    "parent_id": 4,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 34,
+    "name": "Pescado congelado",
+    "parent_id": 4,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 35,
+    "name": "Helados",
+    "parent_id": 4,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 36,
+    "name": "Platos preparados",
+    "parent_id": 4,
+    "level": 2,
+    "vat_rate": 0.1
+  },
+  {
+    "id": 37,
+    "name": "Detergentes",
+    "parent_id": 5,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 38,
+    "name": "Limpieza del hogar",
+    "parent_id": 5,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 39,
+    "name": "Papel y celulosa",
+    "parent_id": 5,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 40,
+    "name": "Lavavajillas",
+    "parent_id": 5,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 41,
+    "name": "Insecticidas",
+    "parent_id": 5,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 42,
+    "name": "Higiene bucal",
+    "parent_id": 6,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 43,
+    "name": "Cuidado capilar",
+    "parent_id": 6,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 44,
+    "name": "Cuidado corporal",
+    "parent_id": 6,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 45,
+    "name": "Afeitado",
+    "parent_id": 6,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 46,
+    "name": "Higiene íntima",
+    "parent_id": 6,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 47,
+    "name": "Cosmética",
+    "parent_id": 6,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 48,
+    "name": "Pañales",
+    "parent_id": 7,
+    "level": 2,
+    "vat_rate": 0.04
+  },
+  {
+    "id": 49,
+    "name": "Alimentación infantil",
+    "parent_id": 7,
+    "level": 2,
+    "vat_rate": 0.04
+  },
+  {
+    "id": 50,
+    "name": "Higiene infantil",
+    "parent_id": 7,
+    "level": 2,
+    "vat_rate": 0.04
+  },
+  {
+    "id": 51,
+    "name": "Perros",
+    "parent_id": 8,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 52,
+    "name": "Gatos",
+    "parent_id": 8,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 53,
+    "name": "Otros animales",
+    "parent_id": 8,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 54,
+    "name": "Menaje",
+    "parent_id": 9,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 55,
+    "name": "Bazar",
+    "parent_id": 9,
+    "level": 2,
+    "vat_rate": 0.21
+  },
+  {
+    "id": 56,
+    "name": "Iluminación",
+    "parent_id": 9,
+    "level": 2,
+    "vat_rate": 0.21
+  }
+]

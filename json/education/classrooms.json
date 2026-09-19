@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "school_id": 1,
+    "room_code": "B-216",
+    "building": "Edificio B",
+    "floor": 2,
+    "capacity": 22,
+    "room_type": "computer_lab"
+  },
+  {
+    "id": 2,
+    "school_id": 1,
+    "room_code": "A-302",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 34,
+    "room_type": "workshop"
+  },
+  {
+    "id": 3,
+    "school_id": 1,
+    "room_code": "A-006",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 23,
+    "room_type": "computer_lab"
+  },
+  {
+    "id": 4,
+    "school_id": 1,
+    "room_code": "B-008",
+    "building": "Edificio B",
+    "floor": 0,
+    "capacity": 29,
+    "room_type": "standard"
+  },
+  {
+    "id": 5,
+    "school_id": 1,
+    "room_code": "B-205",
+    "building": "Edificio B",
+    "floor": 2,
+    "capacity": 33,
+    "room_type": "gym"
+  },
+  {
+    "id": 6,
+    "school_id": 1,
+    "room_code": "B-108",
+    "building": "Edificio B",
+    "floor": 1,
+    "capacity": 30,
+    "room_type": "gym"
+  },
+  {
+    "id": 7,
+    "school_id": 1,
+    "room_code": "A-314",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 20,
+    "room_type": "laboratory"
+  },
+  {
+    "id": 8,
+    "school_id": 1,
+    "room_code": "A-302",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 30,
+    "room_type": "standard"
+  },
+  {
+    "id": 9,
+    "school_id": 1,
+    "room_code": "A-206",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 26,
+    "room_type": "gym"
+  },
+  {
+    "id": 10,
+    "school_id": 1,
+    "room_code": "B-102",
+    "building": "Edificio B",
+    "floor": 1,
+    "capacity": 36,
+    "room_type": "standard"
+  },
+  {
+    "id": 11,
+    "school_id": 1,
+    "room_code": "A-304",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 25,
+    "room_type": "standard"
+  },
+  {
+    "id": 12,
+    "school_id": 1,
+    "room_code": "B-003",
+    "building": "Edificio B",
+    "floor": 0,
+    "capacity": 16,
+    "room_type": "computer_lab"
+  },
+  {
+    "id": 13,
+    "school_id": 2,
+    "room_code": "A-120",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 24,
+    "room_type": "workshop"
+  },
+  {
+    "id": 14,
+    "school_id": 2,
+    "room_code": "A-004",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 21,
+    "room_type": "computer_lab"
+  },
+  {
+    "id": 15,
+    "school_id": 2,
+    "room_code": "A-303",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 31,
+    "room_type": "standard"
+  },
+  {
+    "id": 16,
+    "school_id": 2,
+    "room_code": "A-314",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 39,
+    "room_type": "standard"
+  },
+  {
+    "id": 17,
+    "school_id": 2,
+    "room_code": "A-109",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 27,
+    "room_type": "workshop"
+  },
+  {
+    "id": 18,
+    "school_id": 2,
+    "room_code": "A-001",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 17,
+    "room_type": "laboratory"
+  },
+  {
+    "id": 19,
+    "school_id": 2,
+    "room_code": "A-315",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 39,
+    "room_type": "standard"
+  },
+  {
+    "id": 20,
+    "school_id": 2,
+    "room_code": "A-301",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 24,
+    "room_type": "standard"
+  },
+  {
+    "id": 21,
+    "school_id": 2,
+    "room_code": "A-108",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 35,
+    "room_type": "standard"
+  },
+  {
+    "id": 22,
+    "school_id": 2,
+    "room_code": "A-314",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 25,
+    "room_type": "standard"
+  },
+  {
+    "id": 23,
+    "school_id": 2,
+    "room_code": "A-014",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 23,
+    "room_type": "computer_lab"
+  },
+  {
+    "id": 24,
+    "school_id": 2,
+    "room_code": "A-112",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 25,
+    "room_type": "standard"
+  },
+  {
+    "id": 25,
+    "school_id": 3,
+    "room_code": "B-205",
+    "building": "Edificio B",
+    "floor": 2,
+    "capacity": 25,
+    "room_type": "standard"
+  },
+  {
+    "id": 26,
+    "school_id": 3,
+    "room_code": "B-304",
+    "building": "Edificio B",
+    "floor": 3,
+    "capacity": 28,
+    "room_type": "standard"
+  },
+  {
+    "id": 27,
+    "school_id": 3,
+    "room_code": "A-109",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 26,
+    "room_type": "standard"
+  },
+  {
+    "id": 28,
+    "school_id": 3,
+    "room_code": "A-014",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 33,
+    "room_type": "standard"
+  },
+  {
+    "id": 29,
+    "school_id": 3,
+    "room_code": "B-302",
+    "building": "Edificio B",
+    "floor": 3,
+    "capacity": 40,
+    "room_type": "standard"
+  },
+  {
+    "id": 30,
+    "school_id": 3,
+    "room_code": "B-017",
+    "building": "Edificio B",
+    "floor": 0,
+    "capacity": 26,
+    "room_type": "standard"
+  },
+  {
+    "id": 31,
+    "school_id": 3,
+    "room_code": "A-219",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 31,
+    "room_type": "standard"
+  },
+  {
+    "id": 32,
+    "school_id": 3,
+    "room_code": "B-008",
+    "building": "Edificio B",
+    "floor": 0,
+    "capacity": 37,
+    "room_type": "standard"
+  },
+  {
+    "id": 33,
+    "school_id": 3,
+    "room_code": "B-016",
+    "building": "Edificio B",
+    "floor": 0,
+    "capacity": 35,
+    "room_type": "standard"
+  },
+  {
+    "id": 34,
+    "school_id": 3,
+    "room_code": "A-216",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 28,
+    "room_type": "gym"
+  },
+  {
+    "id": 35,
+    "school_id": 3,
+    "room_code": "A-014",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 39,
+    "room_type": "workshop"
+  },
+  {
+    "id": 36,
+    "school_id": 3,
+    "room_code": "A-220",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 31,
+    "room_type": "standard"
+  },
+  {
+    "id": 37,
+    "school_id": 4,
+    "room_code": "A-213",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 16,
+    "room_type": "computer_lab"
+  },
+  {
+    "id": 38,
+    "school_id": 4,
+    "room_code": "A-310",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 27,
+    "room_type": "standard"
+  },
+  {
+    "id": 39,
+    "school_id": 4,
+    "room_code": "A-002",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 40,
+    "room_type": "standard"
+  },
+  {
+    "id": 40,
+    "school_id": 4,
+    "room_code": "A-116",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 40,
+    "room_type": "standard"
+  },
+  {
+    "id": 41,
+    "school_id": 4,
+    "room_code": "A-201",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 24,
+    "room_type": "computer_lab"
+  },
+  {
+    "id": 42,
+    "school_id": 4,
+    "room_code": "A-211",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 26,
+    "room_type": "gym"
+  },
+  {
+    "id": 43,
+    "school_id": 4,
+    "room_code": "A-015",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 25,
+    "room_type": "standard"
+  },
+  {
+    "id": 44,
+    "school_id": 4,
+    "room_code": "A-003",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 27,
+    "room_type": "standard"
+  },
+  {
+    "id": 45,
+    "school_id": 4,
+    "room_code": "A-107",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 24,
+    "room_type": "music"
+  },
+  {
+    "id": 46,
+    "school_id": 4,
+    "room_code": "A-317",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 30,
+    "room_type": "standard"
+  },
+  {
+    "id": 47,
+    "school_id": 4,
+    "room_code": "A-302",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 25,
+    "room_type": "standard"
+  },
+  {
+    "id": 48,
+    "school_id": 4,
+    "room_code": "A-309",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 29,
+    "room_type": "standard"
+  },
+  {
+    "id": 49,
+    "school_id": 5,
+    "room_code": "A-313",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 27,
+    "room_type": "standard"
+  },
+  {
+    "id": 50,
+    "school_id": 5,
+    "room_code": "A-315",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 40,
+    "room_type": "standard"
+  },
+  {
+    "id": 51,
+    "school_id": 5,
+    "room_code": "A-004",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 33,
+    "room_type": "standard"
+  },
+  {
+    "id": 52,
+    "school_id": 5,
+    "room_code": "A-004",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 36,
+    "room_type": "workshop"
+  },
+  {
+    "id": 53,
+    "school_id": 5,
+    "room_code": "A-303",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 17,
+    "room_type": "computer_lab"
+  },
+  {
+    "id": 54,
+    "school_id": 5,
+    "room_code": "B-014",
+    "building": "Edificio B",
+    "floor": 0,
+    "capacity": 25,
+    "room_type": "standard"
+  },
+  {
+    "id": 55,
+    "school_id": 5,
+    "room_code": "B-011",
+    "building": "Edificio B",
+    "floor": 0,
+    "capacity": 24,
+    "room_type": "laboratory"
+  },
+  {
+    "id": 56,
+    "school_id": 5,
+    "room_code": "A-113",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 37,
+    "room_type": "standard"
+  },
+  {
+    "id": 57,
+    "school_id": 5,
+    "room_code": "A-101",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 37,
+    "room_type": "standard"
+  },
+  {
+    "id": 58,
+    "school_id": 5,
+    "room_code": "A-009",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 34,
+    "room_type": "workshop"
+  },
+  {
+    "id": 59,
+    "school_id": 5,
+    "room_code": "A-319",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 31,
+    "room_type": "standard"
+  },
+  {
+    "id": 60,
+    "school_id": 5,
+    "room_code": "A-107",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 25,
+    "room_type": "standard"
+  },
+  {
+    "id": 61,
+    "school_id": 6,
+    "room_code": "A-005",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 20,
+    "room_type": "laboratory"
+  },
+  {
+    "id": 62,
+    "school_id": 6,
+    "room_code": "A-319",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 24,
+    "room_type": "standard"
+  },
+  {
+    "id": 63,
+    "school_id": 6,
+    "room_code": "A-219",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 32,
+    "room_type": "standard"
+  },
+  {
+    "id": 64,
+    "school_id": 6,
+    "room_code": "A-305",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 21,
+    "room_type": "computer_lab"
+  },
+  {
+    "id": 65,
+    "school_id": 6,
+    "room_code": "A-203",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 22,
+    "room_type": "laboratory"
+  },
+  {
+    "id": 66,
+    "school_id": 6,
+    "room_code": "A-017",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 34,
+    "room_type": "standard"
+  },
+  {
+    "id": 67,
+    "school_id": 6,
+    "room_code": "A-015",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 38,
+    "room_type": "standard"
+  },
+  {
+    "id": 68,
+    "school_id": 6,
+    "room_code": "A-205",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 31,
+    "room_type": "standard"
+  },
+  {
+    "id": 69,
+    "school_id": 6,
+    "room_code": "A-319",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 30,
+    "room_type": "standard"
+  },
+  {
+    "id": 70,
+    "school_id": 6,
+    "room_code": "A-312",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 20,
+    "room_type": "computer_lab"
+  },
+  {
+    "id": 71,
+    "school_id": 6,
+    "room_code": "A-208",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 36,
+    "room_type": "standard"
+  },
+  {
+    "id": 72,
+    "school_id": 6,
+    "room_code": "A-213",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 37,
+    "room_type": "standard"
+  },
+  {
+    "id": 73,
+    "school_id": 7,
+    "room_code": "A-214",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 22,
+    "room_type": "laboratory"
+  },
+  {
+    "id": 74,
+    "school_id": 7,
+    "room_code": "A-310",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 30,
+    "room_type": "standard"
+  },
+  {
+    "id": 75,
+    "school_id": 7,
+    "room_code": "A-213",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 24,
+    "room_type": "standard"
+  },
+  {
+    "id": 76,
+    "school_id": 7,
+    "room_code": "A-207",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 28,
+    "room_type": "standard"
+  },
+  {
+    "id": 77,
+    "school_id": 7,
+    "room_code": "A-313",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 40,
+    "room_type": "gym"
+  },
+  {
+    "id": 78,
+    "school_id": 7,
+    "room_code": "A-220",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 19,
+    "room_type": "music"
+  },
+  {
+    "id": 79,
+    "school_id": 7,
+    "room_code": "A-109",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 37,
+    "room_type": "standard"
+  },
+  {
+    "id": 80,
+    "school_id": 7,
+    "room_code": "A-302",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 34,
+    "room_type": "standard"
+  },
+  {
+    "id": 81,
+    "school_id": 7,
+    "room_code": "A-005",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 39,
+    "room_type": "workshop"
+  },
+  {
+    "id": 82,
+    "school_id": 7,
+    "room_code": "A-212",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 15,
+    "room_type": "computer_lab"
+  },
+  {
+    "id": 83,
+    "school_id": 7,
+    "room_code": "A-111",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 33,
+    "room_type": "standard"
+  },
+  {
+    "id": 84,
+    "school_id": 7,
+    "room_code": "A-318",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 31,
+    "room_type": "standard"
+  },
+  {
+    "id": 85,
+    "school_id": 8,
+    "room_code": "A-220",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 29,
+    "room_type": "workshop"
+  },
+  {
+    "id": 86,
+    "school_id": 8,
+    "room_code": "A-304",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 34,
+    "room_type": "standard"
+  },
+  {
+    "id": 87,
+    "school_id": 8,
+    "room_code": "A-008",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 23,
+    "room_type": "music"
+  },
+  {
+    "id": 88,
+    "school_id": 8,
+    "room_code": "B-110",
+    "building": "Edificio B",
+    "floor": 1,
+    "capacity": 39,
+    "room_type": "standard"
+  },
+  {
+    "id": 89,
+    "school_id": 8,
+    "room_code": "B-302",
+    "building": "Edificio B",
+    "floor": 3,
+    "capacity": 20,
+    "room_type": "music"
+  },
+  {
+    "id": 90,
+    "school_id": 8,
+    "room_code": "B-313",
+    "building": "Edificio B",
+    "floor": 3,
+    "capacity": 35,
+    "room_type": "standard"
+  },
+  {
+    "id": 91,
+    "school_id": 8,
+    "room_code": "B-306",
+    "building": "Edificio B",
+    "floor": 3,
+    "capacity": 26,
+    "room_type": "standard"
+  },
+  {
+    "id": 92,
+    "school_id": 8,
+    "room_code": "A-305",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 30,
+    "room_type": "standard"
+  },
+  {
+    "id": 93,
+    "school_id": 8,
+    "room_code": "B-314",
+    "building": "Edificio B",
+    "floor": 3,
+    "capacity": 26,
+    "room_type": "standard"
+  },
+  {
+    "id": 94,
+    "school_id": 8,
+    "room_code": "B-203",
+    "building": "Edificio B",
+    "floor": 2,
+    "capacity": 40,
+    "room_type": "standard"
+  },
+  {
+    "id": 95,
+    "school_id": 8,
+    "room_code": "A-202",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 27,
+    "room_type": "gym"
+  },
+  {
+    "id": 96,
+    "school_id": 8,
+    "room_code": "A-218",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 35,
+    "room_type": "workshop"
+  },
+  {
+    "id": 97,
+    "school_id": 9,
+    "room_code": "A-319",
+    "building": "Edificio A",
+    "floor": 3,
+    "capacity": 40,
+    "room_type": "standard"
+  },
+  {
+    "id": 98,
+    "school_id": 9,
+    "room_code": "B-308",
+    "building": "Edificio B",
+    "floor": 3,
+    "capacity": 28,
+    "room_type": "standard"
+  },
+  {
+    "id": 99,
+    "school_id": 9,
+    "room_code": "B-106",
+    "building": "Edificio B",
+    "floor": 1,
+    "capacity": 36,
+    "room_type": "standard"
+  },
+  {
+    "id": 100,
+    "school_id": 9,
+    "room_code": "B-310",
+    "building": "Edificio B",
+    "floor": 3,
+    "capacity": 36,
+    "room_type": "standard"
+  },
+  {
+    "id": 101,
+    "school_id": 9,
+    "room_code": "B-309",
+    "building": "Edificio B",
+    "floor": 3,
+    "capacity": 23,
+    "room_type": "laboratory"
+  },
+  {
+    "id": 102,
+    "school_id": 9,
+    "room_code": "A-108",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 35,
+    "room_type": "standard"
+  },
+  {
+    "id": 103,
+    "school_id": 9,
+    "room_code": "B-310",
+    "building": "Edificio B",
+    "floor": 3,
+    "capacity": 26,
+    "room_type": "standard"
+  },
+  {
+    "id": 104,
+    "school_id": 9,
+    "room_code": "B-008",
+    "building": "Edificio B",
+    "floor": 0,
+    "capacity": 36,
+    "room_type": "standard"
+  },
+  {
+    "id": 105,
+    "school_id": 9,
+    "room_code": "A-001",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 38,
+    "room_type": "standard"
+  },
+  {
+    "id": 106,
+    "school_id": 9,
+    "room_code": "A-203",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 36,
+    "room_type": "workshop"
+  },
+  {
+    "id": 107,
+    "school_id": 9,
+    "room_code": "B-116",
+    "building": "Edificio B",
+    "floor": 1,
+    "capacity": 29,
+    "room_type": "standard"
+  },
+  {
+    "id": 108,
+    "school_id": 9,
+    "room_code": "B-218",
+    "building": "Edificio B",
+    "floor": 2,
+    "capacity": 30,
+    "room_type": "standard"
+  },
+  {
+    "id": 109,
+    "school_id": 10,
+    "room_code": "B-204",
+    "building": "Edificio B",
+    "floor": 2,
+    "capacity": 30,
+    "room_type": "standard"
+  },
+  {
+    "id": 110,
+    "school_id": 10,
+    "room_code": "B-320",
+    "building": "Edificio B",
+    "floor": 3,
+    "capacity": 33,
+    "room_type": "standard"
+  },
+  {
+    "id": 111,
+    "school_id": 10,
+    "room_code": "A-209",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 27,
+    "room_type": "standard"
+  },
+  {
+    "id": 112,
+    "school_id": 10,
+    "room_code": "B-204",
+    "building": "Edificio B",
+    "floor": 2,
+    "capacity": 20,
+    "room_type": "computer_lab"
+  },
+  {
+    "id": 113,
+    "school_id": 10,
+    "room_code": "A-216",
+    "building": "Edificio A",
+    "floor": 2,
+    "capacity": 32,
+    "room_type": "standard"
+  },
+  {
+    "id": 114,
+    "school_id": 10,
+    "room_code": "A-110",
+    "building": "Edificio A",
+    "floor": 1,
+    "capacity": 31,
+    "room_type": "workshop"
+  },
+  {
+    "id": 115,
+    "school_id": 10,
+    "room_code": "A-014",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 22,
+    "room_type": "music"
+  },
+  {
+    "id": 116,
+    "school_id": 10,
+    "room_code": "B-006",
+    "building": "Edificio B",
+    "floor": 0,
+    "capacity": 22,
+    "room_type": "laboratory"
+  },
+  {
+    "id": 117,
+    "school_id": 10,
+    "room_code": "B-305",
+    "building": "Edificio B",
+    "floor": 3,
+    "capacity": 34,
+    "room_type": "standard"
+  },
+  {
+    "id": 118,
+    "school_id": 10,
+    "room_code": "B-019",
+    "building": "Edificio B",
+    "floor": 0,
+    "capacity": 32,
+    "room_type": "standard"
+  },
+  {
+    "id": 119,
+    "school_id": 10,
+    "room_code": "B-217",
+    "building": "Edificio B",
+    "floor": 2,
+    "capacity": 35,
+    "room_type": "standard"
+  },
+  {
+    "id": 120,
+    "school_id": 10,
+    "room_code": "A-018",
+    "building": "Edificio A",
+    "floor": 0,
+    "capacity": 37,
+    "room_type": "standard"
+  }
+]

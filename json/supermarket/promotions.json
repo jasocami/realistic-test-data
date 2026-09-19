@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "product_id": 104,
+    "type": "percentage",
+    "discount_percent": 40.0,
+    "starts_on": "2023-09-26",
+    "ends_on": "2023-11-07"
+  },
+  {
+    "id": 2,
+    "product_id": 377,
+    "type": "fixed_discount",
+    "discount_percent": 40.0,
+    "starts_on": "2023-09-25",
+    "ends_on": "2023-11-06"
+  },
+  {
+    "id": 3,
+    "product_id": 168,
+    "type": "percentage",
+    "discount_percent": 50.0,
+    "starts_on": "2025-01-09",
+    "ends_on": "2025-01-23"
+  },
+  {
+    "id": 4,
+    "product_id": 159,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2023-05-07",
+    "ends_on": "2023-05-14"
+  },
+  {
+    "id": 5,
+    "product_id": 82,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2023-05-13",
+    "ends_on": "2023-06-03"
+  },
+  {
+    "id": 6,
+    "product_id": 261,
+    "type": "percentage",
+    "discount_percent": 15.0,
+    "starts_on": "2024-01-15",
+    "ends_on": "2024-01-22"
+  },
+  {
+    "id": 7,
+    "product_id": 419,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2023-04-26",
+    "ends_on": "2023-05-03"
+  },
+  {
+    "id": 8,
+    "product_id": 485,
+    "type": "percentage",
+    "discount_percent": 10.0,
+    "starts_on": "2023-08-20",
+    "ends_on": "2023-09-17"
+  },
+  {
+    "id": 9,
+    "product_id": 543,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2024-05-07",
+    "ends_on": "2024-05-21"
+  },
+  {
+    "id": 10,
+    "product_id": 163,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2024-05-20",
+    "ends_on": "2024-06-03"
+  },
+  {
+    "id": 11,
+    "product_id": 454,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2025-01-01",
+    "ends_on": "2025-01-08"
+  },
+  {
+    "id": 12,
+    "product_id": 325,
+    "type": "percentage",
+    "discount_percent": 15.0,
+    "starts_on": "2023-02-15",
+    "ends_on": "2023-02-22"
+  },
+  {
+    "id": 13,
+    "product_id": 177,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2025-02-16",
+    "ends_on": "2025-02-23"
+  },
+  {
+    "id": 14,
+    "product_id": 419,
+    "type": "percentage",
+    "discount_percent": 15.0,
+    "starts_on": "2024-12-01",
+    "ends_on": "2024-12-08"
+  },
+  {
+    "id": 15,
+    "product_id": 181,
+    "type": "percentage",
+    "discount_percent": 20.0,
+    "starts_on": "2024-06-01",
+    "ends_on": "2024-06-22"
+  },
+  {
+    "id": 16,
+    "product_id": 223,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2024-06-30",
+    "ends_on": "2024-07-14"
+  },
+  {
+    "id": 17,
+    "product_id": 542,
+    "type": "percentage",
+    "discount_percent": 50.0,
+    "starts_on": "2024-11-12",
+    "ends_on": "2024-11-19"
+  },
+  {
+    "id": 18,
+    "product_id": 441,
+    "type": "percentage",
+    "discount_percent": 15.0,
+    "starts_on": "2023-11-15",
+    "ends_on": "2023-12-06"
+  },
+  {
+    "id": 19,
+    "product_id": 173,
+    "type": "percentage",
+    "discount_percent": 30.0,
+    "starts_on": "2024-05-13",
+    "ends_on": "2024-06-10"
+  },
+  {
+    "id": 20,
+    "product_id": 353,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2023-11-28",
+    "ends_on": "2024-01-09"
+  },
+  {
+    "id": 21,
+    "product_id": 557,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2024-08-30",
+    "ends_on": "2024-09-06"
+  },
+  {
+    "id": 22,
+    "product_id": 187,
+    "type": "fixed_discount",
+    "discount_percent": 20.0,
+    "starts_on": "2024-01-21",
+    "ends_on": "2024-02-11"
+  },
+  {
+    "id": 23,
+    "product_id": 197,
+    "type": "percentage",
+    "discount_percent": 20.0,
+    "starts_on": "2025-05-25",
+    "ends_on": "2025-06-08"
+  },
+  {
+    "id": 24,
+    "product_id": 424,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2023-12-15",
+    "ends_on": "2023-12-22"
+  },
+  {
+    "id": 25,
+    "product_id": 435,
+    "type": "percentage",
+    "discount_percent": 40.0,
+    "starts_on": "2023-10-22",
+    "ends_on": "2023-10-29"
+  },
+  {
+    "id": 26,
+    "product_id": 122,
+    "type": "percentage",
+    "discount_percent": 25.0,
+    "starts_on": "2024-09-28",
+    "ends_on": "2024-10-19"
+  },
+  {
+    "id": 27,
+    "product_id": 157,
+    "type": "fixed_discount",
+    "discount_percent": 15.0,
+    "starts_on": "2024-11-18",
+    "ends_on": "2024-12-02"
+  },
+  {
+    "id": 28,
+    "product_id": 213,
+    "type": "fixed_discount",
+    "discount_percent": 10.0,
+    "starts_on": "2025-04-21",
+    "ends_on": "2025-06-02"
+  },
+  {
+    "id": 29,
+    "product_id": 488,
+    "type": "percentage",
+    "discount_percent": 15.0,
+    "starts_on": "2024-10-07",
+    "ends_on": "2024-10-14"
+  },
+  {
+    "id": 30,
+    "product_id": 206,
+    "type": "percentage",
+    "discount_percent": 15.0,
+    "starts_on": "2023-08-13",
+    "ends_on": "2023-09-10"
+  },
+  {
+    "id": 31,
+    "product_id": 573,
+    "type": "percentage",
+    "discount_percent": 30.0,
+    "starts_on": "2023-06-03",
+    "ends_on": "2023-06-10"
+  },
+  {
+    "id": 32,
+    "product_id": 466,
+    "type": "percentage",
+    "discount_percent": 30.0,
+    "starts_on": "2024-03-05",
+    "ends_on": "2024-03-12"
+  },
+  {
+    "id": 33,
+    "product_id": 128,
+    "type": "fixed_discount",
+    "discount_percent": 10.0,
+    "starts_on": "2025-01-31",
+    "ends_on": "2025-02-21"
+  },
+  {
+    "id": 34,
+    "product_id": 9,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2023-07-22",
+    "ends_on": "2023-09-02"
+  },
+  {
+    "id": 35,
+    "product_id": 417,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2023-11-02",
+    "ends_on": "2023-12-14"
+  },
+  {
+    "id": 36,
+    "product_id": 192,
+    "type": "fixed_discount",
+    "discount_percent": 15.0,
+    "starts_on": "2025-05-28",
+    "ends_on": "2025-06-25"
+  },
+  {
+    "id": 37,
+    "product_id": 156,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2024-02-16",
+    "ends_on": "2024-02-23"
+  },
+  {
+    "id": 38,
+    "product_id": 206,
+    "type": "percentage",
+    "discount_percent": 30.0,
+    "starts_on": "2023-02-23",
+    "ends_on": "2023-03-23"
+  },
+  {
+    "id": 39,
+    "product_id": 151,
+    "type": "percentage",
+    "discount_percent": 10.0,
+    "starts_on": "2023-05-06",
+    "ends_on": "2023-06-03"
+  },
+  {
+    "id": 40,
+    "product_id": 55,
+    "type": "percentage",
+    "discount_percent": 30.0,
+    "starts_on": "2023-07-08",
+    "ends_on": "2023-07-29"
+  },
+  {
+    "id": 41,
+    "product_id": 564,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2023-07-03",
+    "ends_on": "2023-07-10"
+  },
+  {
+    "id": 42,
+    "product_id": 91,
+    "type": "percentage",
+    "discount_percent": 5.0,
+    "starts_on": "2024-11-22",
+    "ends_on": "2024-12-20"
+  },
+  {
+    "id": 43,
+    "product_id": 382,
+    "type": "percentage",
+    "discount_percent": 50.0,
+    "starts_on": "2023-10-01",
+    "ends_on": "2023-10-29"
+  },
+  {
+    "id": 44,
+    "product_id": 4,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2025-06-03",
+    "ends_on": "2025-06-24"
+  },
+  {
+    "id": 45,
+    "product_id": 391,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2023-10-02",
+    "ends_on": "2023-10-23"
+  },
+  {
+    "id": 46,
+    "product_id": 246,
+    "type": "percentage",
+    "discount_percent": 25.0,
+    "starts_on": "2024-05-11",
+    "ends_on": "2024-06-01"
+  },
+  {
+    "id": 47,
+    "product_id": 391,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2024-06-23",
+    "ends_on": "2024-07-07"
+  },
+  {
+    "id": 48,
+    "product_id": 365,
+    "type": "percentage",
+    "discount_percent": 30.0,
+    "starts_on": "2024-08-22",
+    "ends_on": "2024-09-12"
+  },
+  {
+    "id": 49,
+    "product_id": 407,
+    "type": "percentage",
+    "discount_percent": 20.0,
+    "starts_on": "2023-08-12",
+    "ends_on": "2023-08-19"
+  },
+  {
+    "id": 50,
+    "product_id": 114,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2023-12-17",
+    "ends_on": "2023-12-24"
+  },
+  {
+    "id": 51,
+    "product_id": 74,
+    "type": "percentage",
+    "discount_percent": 25.0,
+    "starts_on": "2023-12-13",
+    "ends_on": "2023-12-27"
+  },
+  {
+    "id": 52,
+    "product_id": 539,
+    "type": "percentage",
+    "discount_percent": 5.0,
+    "starts_on": "2024-12-16",
+    "ends_on": "2024-12-23"
+  },
+  {
+    "id": 53,
+    "product_id": 539,
+    "type": "percentage",
+    "discount_percent": 15.0,
+    "starts_on": "2024-03-05",
+    "ends_on": "2024-04-02"
+  },
+  {
+    "id": 54,
+    "product_id": 86,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2024-05-05",
+    "ends_on": "2024-05-26"
+  },
+  {
+    "id": 55,
+    "product_id": 153,
+    "type": "percentage",
+    "discount_percent": 50.0,
+    "starts_on": "2023-10-19",
+    "ends_on": "2023-11-30"
+  },
+  {
+    "id": 56,
+    "product_id": 332,
+    "type": "fixed_discount",
+    "discount_percent": 30.0,
+    "starts_on": "2024-03-27",
+    "ends_on": "2024-04-24"
+  },
+  {
+    "id": 57,
+    "product_id": 262,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2023-12-11",
+    "ends_on": "2023-12-18"
+  },
+  {
+    "id": 58,
+    "product_id": 552,
+    "type": "percentage",
+    "discount_percent": 15.0,
+    "starts_on": "2023-05-13",
+    "ends_on": "2023-05-27"
+  },
+  {
+    "id": 59,
+    "product_id": 247,
+    "type": "percentage",
+    "discount_percent": 20.0,
+    "starts_on": "2023-05-21",
+    "ends_on": "2023-07-02"
+  },
+  {
+    "id": 60,
+    "product_id": 148,
+    "type": "percentage",
+    "discount_percent": 40.0,
+    "starts_on": "2025-02-12",
+    "ends_on": "2025-03-12"
+  },
+  {
+    "id": 61,
+    "product_id": 274,
+    "type": "percentage",
+    "discount_percent": 5.0,
+    "starts_on": "2023-02-23",
+    "ends_on": "2023-04-06"
+  },
+  {
+    "id": 62,
+    "product_id": 170,
+    "type": "percentage",
+    "discount_percent": 5.0,
+    "starts_on": "2023-09-13",
+    "ends_on": "2023-10-11"
+  },
+  {
+    "id": 63,
+    "product_id": 531,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2023-01-13",
+    "ends_on": "2023-02-03"
+  },
+  {
+    "id": 64,
+    "product_id": 207,
+    "type": "percentage",
+    "discount_percent": 20.0,
+    "starts_on": "2024-04-24",
+    "ends_on": "2024-05-22"
+  },
+  {
+    "id": 65,
+    "product_id": 123,
+    "type": "percentage",
+    "discount_percent": 20.0,
+    "starts_on": "2023-11-11",
+    "ends_on": "2023-11-25"
+  },
+  {
+    "id": 66,
+    "product_id": 116,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2024-01-07",
+    "ends_on": "2024-02-18"
+  },
+  {
+    "id": 67,
+    "product_id": 443,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2025-04-08",
+    "ends_on": "2025-04-22"
+  },
+  {
+    "id": 68,
+    "product_id": 103,
+    "type": "percentage",
+    "discount_percent": 25.0,
+    "starts_on": "2024-12-14",
+    "ends_on": "2024-12-28"
+  },
+  {
+    "id": 69,
+    "product_id": 112,
+    "type": "percentage",
+    "discount_percent": 30.0,
+    "starts_on": "2023-01-26",
+    "ends_on": "2023-02-23"
+  },
+  {
+    "id": 70,
+    "product_id": 14,
+    "type": "percentage",
+    "discount_percent": 40.0,
+    "starts_on": "2023-09-29",
+    "ends_on": "2023-10-20"
+  },
+  {
+    "id": 71,
+    "product_id": 451,
+    "type": "percentage",
+    "discount_percent": 25.0,
+    "starts_on": "2024-09-18",
+    "ends_on": "2024-09-25"
+  },
+  {
+    "id": 72,
+    "product_id": 353,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2024-10-02",
+    "ends_on": "2024-10-09"
+  },
+  {
+    "id": 73,
+    "product_id": 498,
+    "type": "percentage",
+    "discount_percent": 20.0,
+    "starts_on": "2025-02-25",
+    "ends_on": "2025-04-08"
+  },
+  {
+    "id": 74,
+    "product_id": 493,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2023-11-17",
+    "ends_on": "2023-12-29"
+  },
+  {
+    "id": 75,
+    "product_id": 75,
+    "type": "percentage",
+    "discount_percent": 20.0,
+    "starts_on": "2025-05-16",
+    "ends_on": "2025-05-30"
+  },
+  {
+    "id": 76,
+    "product_id": 571,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2025-02-21",
+    "ends_on": "2025-03-07"
+  },
+  {
+    "id": 77,
+    "product_id": 394,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2023-08-01",
+    "ends_on": "2023-08-22"
+  },
+  {
+    "id": 78,
+    "product_id": 71,
+    "type": "percentage",
+    "discount_percent": 20.0,
+    "starts_on": "2023-01-06",
+    "ends_on": "2023-02-17"
+  },
+  {
+    "id": 79,
+    "product_id": 429,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2023-04-21",
+    "ends_on": "2023-05-12"
+  },
+  {
+    "id": 80,
+    "product_id": 226,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2024-12-23",
+    "ends_on": "2025-01-06"
+  },
+  {
+    "id": 81,
+    "product_id": 590,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2023-07-30",
+    "ends_on": "2023-08-06"
+  },
+  {
+    "id": 82,
+    "product_id": 546,
+    "type": "percentage",
+    "discount_percent": 30.0,
+    "starts_on": "2024-06-28",
+    "ends_on": "2024-07-26"
+  },
+  {
+    "id": 83,
+    "product_id": 119,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2023-08-21",
+    "ends_on": "2023-08-28"
+  },
+  {
+    "id": 84,
+    "product_id": 40,
+    "type": "percentage",
+    "discount_percent": 50.0,
+    "starts_on": "2023-08-10",
+    "ends_on": "2023-09-21"
+  },
+  {
+    "id": 85,
+    "product_id": 49,
+    "type": "percentage",
+    "discount_percent": 10.0,
+    "starts_on": "2025-03-06",
+    "ends_on": "2025-03-13"
+  },
+  {
+    "id": 86,
+    "product_id": 408,
+    "type": "three_for_two",
+    "discount_percent": 33.0,
+    "starts_on": "2023-02-16",
+    "ends_on": "2023-02-23"
+  },
+  {
+    "id": 87,
+    "product_id": 397,
+    "type": "percentage",
+    "discount_percent": 30.0,
+    "starts_on": "2023-12-14",
+    "ends_on": "2024-01-04"
+  },
+  {
+    "id": 88,
+    "product_id": 215,
+    "type": "percentage",
+    "discount_percent": 20.0,
+    "starts_on": "2023-08-01",
+    "ends_on": "2023-08-08"
+  },
+  {
+    "id": 89,
+    "product_id": 301,
+    "type": "second_unit_half_price",
+    "discount_percent": 25.0,
+    "starts_on": "2025-05-25",
+    "ends_on": "2025-06-15"
+  },
+  {
+    "id": 90,
+    "product_id": 155,
+    "type": "percentage",
+    "discount_percent": 20.0,
+    "starts_on": "2024-05-31",
+    "ends_on": "2024-06-28"
+  }
+]
