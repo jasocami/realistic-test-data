@@ -1,0 +1,97 @@
+# =============================================================================
+# .gitattributes -- how git should treat each kind of file in this repository
+# =============================================================================
+#
+# WHY THIS FILE MATTERS MORE HERE THAN IN MOST REPOSITORIES
+# ---------------------------------------------------------
+# Git tries to be helpful about line endings. By default, with `text=auto` or
+# with core.autocrlf switched on (which is the default on Windows), it will
+# silently rewrite line endings when you check a file out.
+#
+# For source code that is a convenience. For THIS repository it is data
+# corruption:
+#
+#   * csv/_edge-cases/crlf.csv exists precisely BECAUSE it has \r\n line
+#     endings. If git rewrites them to \n on checkout, the fixture becomes
+#     an ordinary CSV and silently stops testing what it was made to test.
+#
+#   * csv/_edge-cases/bom-utf8.csv exists because it starts with a UTF-8
+#     byte-order mark. Any "helpful" normalisation destroys it.
+#
+#   * A .sqlite or .png file mangled by line-ending conversion will not open
+#     at all.
+#
+# The fix is to be explicit about every file type, which is what follows.
+# Nothing here is defensive over-engineering -- each rule prevents a specific
+# failure that would otherwise be silent.
+
+# -----------------------------------------------------------------------------
+# Default: let git decide for anything not named below, but normalise to LF in
+# the repository itself so the history stays consistent.
+# -----------------------------------------------------------------------------
+* text=auto eol=lf
+
+# -----------------------------------------------------------------------------
+# Data files -- always LF, never converted.
+# -----------------------------------------------------------------------------
+*.csv     text eol=lf
+*.json    text eol=lf
+*.ndjson  text eol=lf
+*.sql     text eol=lf
+*.md      text eol=lf
+*.py      text eol=lf
+*.yml     text eol=lf
+*.yaml    text eol=lf
+*.txt     text eol=lf
+
+# -----------------------------------------------------------------------------
+# THE EDGE CASES -- byte-for-byte untouchable.
+#
+# `-text` means "never do line-ending conversion on this file, in either
+# direction". These files are deliberately malformed and their exact bytes
+# are the entire point.
+# -----------------------------------------------------------------------------
+*/_edge-cases/**        -text
+csv/_edge-cases/*       -text
+json/_edge-cases/*      -text
+db/_edge-cases/*        -text
+pdf/_edge-cases/*       -text
+png/_edge-cases/*       -text
+jpeg/_edge-cases/*      -text
+
+# -----------------------------------------------------------------------------
+# Binary files -- never converted, never diffed as text.
+# -----------------------------------------------------------------------------
+*.sqlite  binary
+*.db      binary
+*.gz      binary
+*.pdf     binary
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.webp    binary
+*.ico     binary
+*.woff    binary
+*.woff2   binary
+
+# -----------------------------------------------------------------------------
+# GitHub language statistics.
+#
+# Without this, GitHub would look at the megabytes of generated CSV and JSON
+# and decide this is a "CSV repository", burying the fact that the
+# interesting part is the Python that produces it. `linguist-generated` also
+# collapses these files in pull request diffs, which is what you want -- a PR
+# that regenerates the data should show you the generator change, not 40,000
+# changed data rows.
+# -----------------------------------------------------------------------------
+csv/**      linguist-generated=true
+json/**     linguist-generated=true
+db/**       linguist-generated=true
+pdf/**      linguist-generated=true
+png/**      linguist-generated=true
+jpeg/**     linguist-generated=true
+schemas/**  linguist-generated=true
+docs/topics/**  linguist-generated=true
+
+# Keep the generators counted as real source code.
+generators/**  linguist-generated=false
