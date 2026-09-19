@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "realistic-test-data: consistent synthetic test data in six formats"
+message: "If you use this data in published work, please cite it."
+type: dataset
+authors:
+  - family-names: Castillejos
+    given-names: Jason
+    alias: jasocami
+repository-code: "https://github.com/jasocami/realistic-test-data"
+url: "https://github.com/jasocami/realistic-test-data"
+abstract: >-
+  Fully synthetic, internally consistent test data across five topics
+  (clinical, supermarket, finance, automobile and education), published in
+  CSV, JSON, SQLite, PDF, PNG and JPEG. Every foreign key resolves, the same
+  records appear in every format, monetary totals reconcile to the cent, and
+  identifiers carry valid check digits. Generated deterministically from
+  seeded generators included in the repository.
+keywords:
+  - synthetic-data
+  - test-data
+  - test-fixtures
+  - sample-data
+  - mock-data
+  - csv
+  - json
+  - sqlite
+  - open-data
+license: CC-BY-4.0
+version: "0.1.0"
+date-released: "2026-09-19"

@@ -1,0 +1,25 @@
+# ---------------------------------------------------------------------------
+# realistic-test-data :: development & CI dependencies
+#
+# These are needed to RUN THE TESTS that validate every generated file and
+# every documentation rule. GitHub Actions installs this file.
+#
+# Install with:
+#     pip install -r requirements.txt -r requirements-dev.txt
+# ---------------------------------------------------------------------------
+
+-r requirements.txt
+
+# Test runner.
+pytest==8.4.2
+
+# Validates every JSON file against its generated JSON Schema.
+jsonschema==4.25.1
+
+# Reads back the PDFs we generate, to prove they are parseable.
+pdfplumber==0.11.7
+
+# Linting / formatting, so contributed generators stay readable.
+ruff==0.13.1
+# Used by the documentation examples, and by the test that runs them.
+pandas==2.3.3

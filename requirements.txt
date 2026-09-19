@@ -1,0 +1,52 @@
+# ---------------------------------------------------------------------------
+# realistic-test-data :: generator dependencies
+#
+# These are the packages needed to BUILD the data files (python build.py).
+# If you only want to USE the data files, you don't need any of this --
+# just download the CSV/JSON/PDF you want. See README.md.
+#
+# Install with:
+#     pyenv local realistic-test-data      # activate the project's Python
+#     pip install -r requirements.txt
+# ---------------------------------------------------------------------------
+
+# Realistic fake names, addresses, companies, phone numbers.
+Faker==37.8.0
+
+# Statistical distributions, random walks (stock prices), correlated noise.
+# Everything that needs to look "naturally random" rather than uniform.
+numpy==2.3.3
+
+# Image generation: product photos, logos, scans, placeholder medical imagery.
+pillow==11.3.0
+
+# PDF generation: invoices, reports, statements, fillable forms.
+reportlab==4.4.4
+
+# PDF post-processing: encryption, page extraction, deliberate corruption
+# for the _edge-cases/ files.
+pypdf==6.1.1
+
+# Charts rendered to PNG: vitals over time, stock prices, sales trends.
+matplotlib==3.10.6
+
+# QR codes (patient wristbands, payment codes).
+qrcode==8.2
+
+# EAN-13 barcodes with correct check digits (supermarket products).
+python-barcode==0.15.1
+
+# ---------------------------------------------------------------------------
+# ONE SYSTEM DEPENDENCY, NOT INSTALLABLE WITH PIP
+#
+# The entity-relationship diagrams in png/<topic>/erd.png are rendered with
+# Graphviz, which is a system package:
+#
+#     Debian / Ubuntu   sudo apt install graphviz
+#     macOS             brew install graphviz
+#     Fedora            sudo dnf install graphviz
+#
+# It is OPTIONAL. Without it the build skips the diagrams with a message and
+# everything else still works, and the PNGs are committed to the repository
+# so using them never requires installing anything.
+# ---------------------------------------------------------------------------
