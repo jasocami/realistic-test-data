@@ -1,0 +1,2201 @@
+id,patient_id,appointment_id,icd10_code,description,severity,diagnosed_at,is_chronic
+1,544,846,J45.909,"Unspecified asthma, uncomplicated",severe,2024-07-17,true
+2,290,2214,O80,Encounter for full-term uncomplicated delivery,mild,2025-04-18,false
+3,506,644,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-05-07,true
+4,737,36,R51.9,"Headache, unspecified",mild,2023-05-12,false
+5,361,289,M54.5,Low back pain,moderate,2023-11-30,false
+6,721,2631,F41.1,Generalized anxiety disorder,severe,2025-06-23,true
+7,794,1428,G47.33,Obstructive sleep apnoea,mild,2024-12-09,true
+8,794,1428,I10,Essential (primary) hypertension,moderate,2024-12-09,true
+9,223,2085,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-03-31,false
+10,660,2102,I10,Essential (primary) hypertension,mild,2025-04-01,true
+11,572,1538,J45.909,"Unspecified asthma, uncomplicated",mild,2024-12-30,true
+12,117,2146,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-04-08,false
+13,247,1537,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-12-30,true
+14,666,87,M17.9,"Osteoarthritis of knee, unspecified",mild,2023-07-11,true
+15,531,1656,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-01-21,true
+16,216,416,I10,Essential (primary) hypertension,severe,2024-02-05,true
+17,707,1046,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-09-16,true
+18,295,522,G43.909,"Migraine, unspecified, not intractable",moderate,2024-03-25,false
+19,713,548,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-04-04,true
+20,430,912,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-08-12,true
+21,133,2557,K57.30,Diverticulosis of large intestine without perforation,mild,2025-06-13,false
+22,61,1815,F41.1,Generalized anxiety disorder,moderate,2025-02-17,true
+23,132,675,G43.909,"Migraine, unspecified, not intractable",moderate,2024-05-20,false
+24,389,2108,L20.9,"Atopic dermatitis, unspecified",mild,2025-04-02,true
+25,81,360,E78.5,"Hyperlipidaemia, unspecified",mild,2024-01-09,true
+26,60,207,M54.5,Low back pain,mild,2023-10-10,false
+27,602,398,Z00.00,General adult medical examination without abnormal findings,severe,2024-01-29,false
+28,303,2595,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-06-18,true
+29,61,1815,T78.40,"Allergy, unspecified",mild,2025-02-17,false
+30,674,239,J06.9,"Acute upper respiratory infection, unspecified",moderate,2023-11-06,false
+31,677,1914,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-03-05,true
+32,152,1419,G47.33,Obstructive sleep apnoea,mild,2024-12-09,true
+33,620,599,E03.9,"Hypothyroidism, unspecified",mild,2024-04-25,true
+34,260,185,J06.9,"Acute upper respiratory infection, unspecified",severe,2023-09-27,false
+35,583,856,H25.9,"Age-related cataract, unspecified",mild,2024-07-22,false
+36,745,863,S52.501,Unspecified fracture of lower end of right radius,severe,2024-07-24,false
+37,27,2551,M54.5,Low back pain,severe,2025-06-12,false
+38,695,1866,I10,Essential (primary) hypertension,moderate,2025-02-25,true
+39,616,1350,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-11-25,false
+40,554,2471,M54.5,Low back pain,severe,2025-05-30,false
+41,11,884,G47.33,Obstructive sleep apnoea,mild,2024-08-01,true
+42,56,148,M54.5,Low back pain,mild,2023-08-30,false
+43,209,1376,M54.5,Low back pain,mild,2024-11-29,false
+44,778,1598,I48.91,Unspecified atrial fibrillation,moderate,2025-01-10,true
+45,177,1972,R51.9,"Headache, unspecified",moderate,2025-03-13,false
+46,265,853,L20.9,"Atopic dermatitis, unspecified",moderate,2024-07-22,true
+47,431,2662,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-06-30,true
+48,532,479,R51.9,"Headache, unspecified",severe,2024-03-05,false
+49,139,2526,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-06-09,true
+50,518,352,E11.9,Type 2 diabetes mellitus without complications,mild,2024-01-08,true
+51,527,663,F41.1,Generalized anxiety disorder,severe,2024-05-13,true
+52,50,2362,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-05-12,true
+53,774,2568,E11.9,Type 2 diabetes mellitus without complications,severe,2025-06-16,true
+54,465,1426,F41.1,Generalized anxiety disorder,mild,2024-12-09,true
+55,155,1330,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-11-18,true
+56,284,1167,E03.9,"Hypothyroidism, unspecified",moderate,2024-10-10,true
+57,408,1249,I10,Essential (primary) hypertension,mild,2024-10-29,true
+58,524,1772,F41.1,Generalized anxiety disorder,severe,2025-02-10,true
+59,32,2282,E11.9,Type 2 diabetes mellitus without complications,severe,2025-04-29,true
+60,207,2199,H25.9,"Age-related cataract, unspecified",moderate,2025-04-15,false
+61,53,492,N18.3,"Chronic kidney disease, stage 3",moderate,2024-03-11,true
+62,718,1875,Z00.00,General adult medical examination without abnormal findings,moderate,2025-02-26,false
+63,159,1665,Z00.00,General adult medical examination without abnormal findings,mild,2025-01-23,false
+64,381,1255,J45.909,"Unspecified asthma, uncomplicated",severe,2024-10-31,true
+65,206,2165,R51.9,"Headache, unspecified",moderate,2025-04-10,false
+66,339,1211,I10,Essential (primary) hypertension,moderate,2024-10-21,true
+67,693,1140,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-10-03,false
+68,410,1464,E78.5,"Hyperlipidaemia, unspecified",mild,2024-12-16,true
+69,517,409,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-01-31,true
+70,524,1944,R10.9,Unspecified abdominal pain,severe,2025-03-10,false
+71,518,238,J45.909,"Unspecified asthma, uncomplicated",mild,2023-11-03,true
+72,199,457,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-02-26,true
+73,41,2068,Z00.00,General adult medical examination without abnormal findings,mild,2025-03-27,false
+74,229,241,M54.5,Low back pain,moderate,2023-11-06,false
+75,549,1638,N18.3,"Chronic kidney disease, stage 3",mild,2025-01-17,true
+76,695,1460,E11.9,Type 2 diabetes mellitus without complications,mild,2024-12-16,true
+77,305,2031,Z00.00,General adult medical examination without abnormal findings,moderate,2025-03-24,false
+78,99,504,N39.0,"Urinary tract infection, site not specified",moderate,2024-03-14,false
+79,600,1528,R51.9,"Headache, unspecified",moderate,2024-12-30,false
+80,271,1254,E11.9,Type 2 diabetes mellitus without complications,severe,2024-10-31,true
+81,522,2596,R10.9,Unspecified abdominal pain,mild,2025-06-18,false
+82,423,877,N39.0,"Urinary tract infection, site not specified",moderate,2024-07-29,false
+83,620,599,R10.9,Unspecified abdominal pain,moderate,2024-04-25,false
+84,328,132,S52.501,Unspecified fracture of lower end of right radius,severe,2023-08-18,false
+85,94,852,E78.5,"Hyperlipidaemia, unspecified",mild,2024-07-22,true
+86,361,2571,Z00.00,General adult medical examination without abnormal findings,moderate,2025-06-16,false
+87,51,2010,G47.33,Obstructive sleep apnoea,moderate,2025-03-19,true
+88,21,2006,Z00.00,General adult medical examination without abnormal findings,severe,2025-03-19,false
+89,689,1491,M54.5,Low back pain,mild,2024-12-23,false
+90,46,205,R51.9,"Headache, unspecified",moderate,2023-10-09,false
+91,630,1611,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-01-13,true
+92,474,691,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-05-27,true
+93,344,656,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2024-05-10,true
+94,757,1342,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-11-20,true
+95,423,877,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2024-07-29,true
+96,600,1528,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-12-30,true
+97,704,1334,E03.9,"Hypothyroidism, unspecified",severe,2024-11-18,true
+98,726,502,F41.1,Generalized anxiety disorder,moderate,2024-03-13,true
+99,368,547,S52.501,Unspecified fracture of lower end of right radius,moderate,2024-04-03,false
+100,55,1917,S52.501,Unspecified fracture of lower end of right radius,mild,2025-03-05,false
+101,527,160,E03.9,"Hypothyroidism, unspecified",mild,2023-09-04,true
+102,498,2466,F41.1,Generalized anxiety disorder,mild,2025-05-29,true
+103,280,2513,H25.9,"Age-related cataract, unspecified",moderate,2025-06-06,false
+104,299,1559,F32.9,"Major depressive disorder, single episode",mild,2025-01-06,true
+105,328,132,G43.909,"Migraine, unspecified, not intractable",severe,2023-08-18,false
+106,265,316,E11.9,Type 2 diabetes mellitus without complications,severe,2023-12-18,true
+107,13,961,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-08-26,true
+108,601,747,G43.909,"Migraine, unspecified, not intractable",moderate,2024-06-12,false
+109,578,2033,D50.9,"Iron deficiency anaemia, unspecified",moderate,2025-03-24,false
+110,471,1793,F32.9,"Major depressive disorder, single episode",mild,2025-02-12,true
+111,345,2649,I10,Essential (primary) hypertension,mild,2025-06-25,true
+112,521,2673,G47.33,Obstructive sleep apnoea,mild,2025-06-30,true
+113,663,28,F32.9,"Major depressive disorder, single episode",mild,2023-04-28,true
+114,505,1613,I10,Essential (primary) hypertension,mild,2025-01-13,true
+115,104,2599,Z00.00,General adult medical examination without abnormal findings,moderate,2025-06-18,false
+116,776,10,G43.909,"Migraine, unspecified, not intractable",mild,2023-03-08,false
+117,368,2592,N39.0,"Urinary tract infection, site not specified",moderate,2025-06-17,false
+118,125,107,M54.5,Low back pain,moderate,2023-07-27,false
+119,665,114,G43.909,"Migraine, unspecified, not intractable",mild,2023-08-02,false
+120,60,1471,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-12-17,false
+121,196,2444,Z00.00,General adult medical examination without abnormal findings,moderate,2025-05-26,false
+122,393,1480,R10.9,Unspecified abdominal pain,moderate,2024-12-19,false
+123,97,1030,M54.5,Low back pain,moderate,2024-09-11,false
+124,762,1120,Z00.00,General adult medical examination without abnormal findings,severe,2024-09-30,false
+125,302,1601,M54.5,Low back pain,moderate,2025-01-10,false
+126,182,667,E11.9,Type 2 diabetes mellitus without complications,severe,2024-05-15,true
+127,710,69,E78.5,"Hyperlipidaemia, unspecified",moderate,2023-06-21,true
+128,536,2350,N18.3,"Chronic kidney disease, stage 3",severe,2025-05-09,true
+129,114,950,F32.9,"Major depressive disorder, single episode",severe,2024-08-22,true
+130,458,2018,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2025-03-20,true
+131,290,2393,I10,Essential (primary) hypertension,moderate,2025-05-16,true
+132,379,343,F41.1,Generalized anxiety disorder,mild,2024-01-01,true
+133,708,1555,R10.9,Unspecified abdominal pain,mild,2025-01-03,false
+134,84,2477,F32.9,"Major depressive disorder, single episode",moderate,2025-06-02,true
+135,752,188,G43.909,"Migraine, unspecified, not intractable",mild,2023-09-29,false
+136,405,15,T78.40,"Allergy, unspecified",mild,2023-03-17,false
+137,95,583,R10.9,Unspecified abdominal pain,mild,2024-04-22,false
+138,567,2443,S52.501,Unspecified fracture of lower end of right radius,moderate,2025-05-26,false
+139,645,1015,D50.9,"Iron deficiency anaemia, unspecified",moderate,2024-09-09,false
+140,142,2025,Z00.00,General adult medical examination without abnormal findings,moderate,2025-03-21,false
+141,491,1173,J45.909,"Unspecified asthma, uncomplicated",mild,2024-10-14,true
+142,502,1136,I25.10,Atherosclerotic heart disease of native coronary artery,moderate,2024-10-03,true
+143,361,718,R10.9,Unspecified abdominal pain,mild,2024-06-04,false
+144,93,2438,F32.9,"Major depressive disorder, single episode",mild,2025-05-26,true
+145,624,1114,R51.9,"Headache, unspecified",moderate,2024-09-30,false
+146,15,1364,M54.5,Low back pain,mild,2024-11-26,false
+147,393,2614,I63.9,"Cerebral infarction, unspecified",moderate,2025-06-20,false
+148,358,1382,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-12-02,false
+149,77,297,Z00.00,General adult medical examination without abnormal findings,moderate,2023-12-05,false
+150,302,1601,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2025-01-10,true
+151,526,617,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-04-29,true
+152,27,946,F41.1,Generalized anxiety disorder,mild,2024-08-21,true
+153,573,1430,F41.1,Generalized anxiety disorder,moderate,2024-12-09,true
+154,106,2583,I10,Essential (primary) hypertension,severe,2025-06-16,true
+155,759,2328,E11.9,Type 2 diabetes mellitus without complications,mild,2025-05-05,true
+156,550,2321,I10,Essential (primary) hypertension,mild,2025-05-05,true
+157,118,1227,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-10-24,true
+158,561,2467,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-05-29,true
+159,669,2347,G43.909,"Migraine, unspecified, not intractable",severe,2025-05-09,false
+160,169,2674,N39.0,"Urinary tract infection, site not specified",mild,2025-06-30,false
+161,157,1630,N39.0,"Urinary tract infection, site not specified",severe,2025-01-16,false
+162,75,1907,M54.5,Low back pain,mild,2025-03-04,false
+163,476,498,K57.30,Diverticulosis of large intestine without perforation,mild,2024-03-13,false
+164,49,1288,I63.9,"Cerebral infarction, unspecified",mild,2024-11-07,false
+165,117,2146,Z00.00,General adult medical examination without abnormal findings,mild,2025-04-08,false
+166,180,1530,T78.40,"Allergy, unspecified",moderate,2024-12-30,false
+167,676,2162,M54.5,Low back pain,mild,2025-04-10,false
+168,566,727,Z00.00,General adult medical examination without abnormal findings,severe,2024-06-07,false
+169,749,303,R10.9,Unspecified abdominal pain,moderate,2023-12-11,false
+170,616,1479,Z00.00,General adult medical examination without abnormal findings,moderate,2024-12-19,false
+171,77,90,K57.30,Diverticulosis of large intestine without perforation,mild,2023-07-11,false
+172,600,1528,N39.0,"Urinary tract infection, site not specified",severe,2024-12-30,false
+173,299,886,Z00.00,General adult medical examination without abnormal findings,mild,2024-08-02,false
+174,411,770,M54.5,Low back pain,mild,2024-06-21,false
+175,213,431,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2024-02-13,true
+176,312,2655,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-06-27,true
+177,627,307,Z00.00,General adult medical examination without abnormal findings,severe,2023-12-13,false
+178,232,459,M54.5,Low back pain,mild,2024-02-26,false
+179,288,2263,N39.0,"Urinary tract infection, site not specified",moderate,2025-04-28,false
+180,343,1964,M17.9,"Osteoarthritis of knee, unspecified",moderate,2025-03-12,true
+181,745,1303,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-11-11,false
+182,695,2311,L20.9,"Atopic dermatitis, unspecified",mild,2025-05-05,true
+183,415,2410,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-05-20,false
+184,796,44,I10,Essential (primary) hypertension,mild,2023-05-23,true
+185,387,2221,M54.5,Low back pain,mild,2025-04-21,false
+186,438,1313,I25.10,Atherosclerotic heart disease of native coronary artery,moderate,2024-11-13,true
+187,527,160,L20.9,"Atopic dermatitis, unspecified",moderate,2023-09-04,true
+188,264,1881,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-02-27,false
+189,299,585,R10.9,Unspecified abdominal pain,mild,2024-04-22,false
+190,101,1694,M54.5,Low back pain,mild,2025-01-28,false
+191,99,504,J45.909,"Unspecified asthma, uncomplicated",mild,2024-03-14,true
+192,164,932,R51.9,"Headache, unspecified",severe,2024-08-19,false
+193,13,39,D50.9,"Iron deficiency anaemia, unspecified",mild,2023-05-16,false
+194,583,1263,M54.5,Low back pain,moderate,2024-11-01,false
+195,172,407,O80,Encounter for full-term uncomplicated delivery,mild,2024-01-31,false
+196,179,866,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-07-25,true
+197,177,1972,S52.501,Unspecified fracture of lower end of right radius,severe,2025-03-13,false
+198,398,1876,L20.9,"Atopic dermatitis, unspecified",moderate,2025-02-26,true
+199,227,1576,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-01-07,true
+200,603,657,J45.909,"Unspecified asthma, uncomplicated",mild,2024-05-13,true
+201,566,727,J45.909,"Unspecified asthma, uncomplicated",mild,2024-06-07,true
+202,360,1259,H25.9,"Age-related cataract, unspecified",moderate,2024-11-01,false
+203,404,1608,R10.9,Unspecified abdominal pain,mild,2025-01-13,false
+204,621,2445,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-05-26,true
+205,117,2567,F41.1,Generalized anxiety disorder,moderate,2025-06-16,true
+206,510,1074,I48.91,Unspecified atrial fibrillation,mild,2024-09-23,true
+207,27,2454,I10,Essential (primary) hypertension,moderate,2025-05-27,true
+208,268,1097,I10,Essential (primary) hypertension,moderate,2024-09-27,true
+209,285,2420,E11.9,Type 2 diabetes mellitus without complications,mild,2025-05-21,true
+210,134,784,E11.9,Type 2 diabetes mellitus without complications,mild,2024-06-25,true
+211,116,2412,I10,Essential (primary) hypertension,moderate,2025-05-20,true
+212,200,2243,E03.9,"Hypothyroidism, unspecified",mild,2025-04-24,true
+213,311,312,I10,Essential (primary) hypertension,severe,2023-12-18,true
+214,260,378,Z00.00,General adult medical examination without abnormal findings,mild,2024-01-17,false
+215,379,2496,E78.5,"Hyperlipidaemia, unspecified",mild,2025-06-02,true
+216,632,969,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-08-27,true
+217,478,1355,O80,Encounter for full-term uncomplicated delivery,mild,2024-11-25,false
+218,424,57,R10.9,Unspecified abdominal pain,mild,2023-06-09,false
+219,719,2148,F41.1,Generalized anxiety disorder,mild,2025-04-09,true
+220,603,1588,E11.9,Type 2 diabetes mellitus without complications,severe,2025-01-08,true
+221,712,1056,F32.9,"Major depressive disorder, single episode",mild,2024-09-19,true
+222,535,1245,R51.9,"Headache, unspecified",moderate,2024-10-28,false
+223,659,1654,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-01-21,true
+224,177,1972,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-03-13,false
+225,42,1522,E03.9,"Hypothyroidism, unspecified",mild,2024-12-30,true
+226,141,218,I48.91,Unspecified atrial fibrillation,moderate,2023-10-17,true
+227,316,1548,E11.9,Type 2 diabetes mellitus without complications,mild,2025-01-01,true
+228,632,969,N18.3,"Chronic kidney disease, stage 3",mild,2024-08-27,true
+229,363,382,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-01-18,true
+230,409,616,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2024-04-29,true
+231,768,164,E03.9,"Hypothyroidism, unspecified",mild,2023-09-11,true
+232,477,1044,E78.5,"Hyperlipidaemia, unspecified",mild,2024-09-16,true
+233,628,828,E78.5,"Hyperlipidaemia, unspecified",mild,2024-07-08,true
+234,624,1114,Z00.00,General adult medical examination without abnormal findings,moderate,2024-09-30,false
+235,45,911,G47.33,Obstructive sleep apnoea,moderate,2024-08-12,true
+236,624,2060,O80,Encounter for full-term uncomplicated delivery,mild,2025-03-26,false
+237,36,2126,H25.9,"Age-related cataract, unspecified",mild,2025-04-07,false
+238,501,84,G47.33,Obstructive sleep apnoea,moderate,2023-07-10,true
+239,396,2133,E78.5,"Hyperlipidaemia, unspecified",mild,2025-04-07,true
+240,321,1936,E78.5,"Hyperlipidaemia, unspecified",mild,2025-03-10,true
+241,732,118,I10,Essential (primary) hypertension,mild,2023-08-04,true
+242,370,261,M17.9,"Osteoarthritis of knee, unspecified",moderate,2023-11-17,true
+243,290,2214,H25.9,"Age-related cataract, unspecified",severe,2025-04-18,false
+244,562,709,G47.33,Obstructive sleep apnoea,severe,2024-06-03,true
+245,50,2362,O80,Encounter for full-term uncomplicated delivery,severe,2025-05-12,false
+246,149,765,S52.501,Unspecified fracture of lower end of right radius,moderate,2024-06-20,false
+247,527,663,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2024-05-13,true
+248,627,975,I25.10,Atherosclerotic heart disease of native coronary artery,severe,2024-08-29,true
+249,111,2136,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-04-07,true
+250,114,1149,R10.9,Unspecified abdominal pain,mild,2024-10-07,false
+251,610,1346,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-11-22,true
+252,505,2297,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2025-05-01,true
+253,617,2295,M54.5,Low back pain,mild,2025-04-30,false
+254,675,2584,H25.9,"Age-related cataract, unspecified",mild,2025-06-16,false
+255,660,2102,F32.9,"Major depressive disorder, single episode",severe,2025-04-01,true
+256,681,247,I10,Essential (primary) hypertension,moderate,2023-11-08,true
+257,5,633,E78.5,"Hyperlipidaemia, unspecified",mild,2024-05-06,true
+258,311,1250,J06.9,"Acute upper respiratory infection, unspecified",severe,2024-10-30,false
+259,410,2293,F32.9,"Major depressive disorder, single episode",mild,2025-04-30,true
+260,367,1733,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-02-03,false
+261,265,190,G47.33,Obstructive sleep apnoea,mild,2023-10-02,true
+262,188,2682,D50.9,"Iron deficiency anaemia, unspecified",moderate,2025-06-30,false
+263,665,410,C50.911,Malignant neoplasm of unspecified site of right breast,severe,2024-02-01,true
+264,136,2113,E11.9,Type 2 diabetes mellitus without complications,mild,2025-04-03,true
+265,667,1026,Z00.00,General adult medical examination without abnormal findings,mild,2024-09-09,false
+266,17,319,I10,Essential (primary) hypertension,moderate,2023-12-19,true
+267,480,545,M54.5,Low back pain,mild,2024-04-01,false
+268,117,1710,N39.0,"Urinary tract infection, site not specified",mild,2025-01-29,false
+269,192,712,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2024-06-03,true
+270,37,815,I25.10,Atherosclerotic heart disease of native coronary artery,moderate,2024-07-03,true
+271,624,2060,N18.3,"Chronic kidney disease, stage 3",mild,2025-03-26,true
+272,561,1481,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-12-19,true
+273,390,874,K57.30,Diverticulosis of large intestine without perforation,moderate,2024-07-29,false
+274,372,2542,M54.5,Low back pain,moderate,2025-06-10,false
+275,227,383,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-01-18,true
+276,611,1764,F32.9,"Major depressive disorder, single episode",mild,2025-02-07,true
+277,472,752,I48.91,Unspecified atrial fibrillation,severe,2024-06-14,true
+278,60,1471,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-12-17,true
+279,564,2422,E11.9,Type 2 diabetes mellitus without complications,mild,2025-05-22,true
+280,47,1865,N39.0,"Urinary tract infection, site not specified",moderate,2025-02-25,false
+281,184,395,E03.9,"Hypothyroidism, unspecified",mild,2024-01-29,true
+282,281,2001,I10,Essential (primary) hypertension,moderate,2025-03-18,true
+283,112,1602,R10.9,Unspecified abdominal pain,mild,2025-01-10,false
+284,591,2394,F41.1,Generalized anxiety disorder,moderate,2025-05-16,true
+285,259,2309,J06.9,"Acute upper respiratory infection, unspecified",severe,2025-05-02,false
+286,607,889,I10,Essential (primary) hypertension,moderate,2024-08-02,true
+287,795,1792,T78.40,"Allergy, unspecified",mild,2025-02-12,false
+288,532,131,I10,Essential (primary) hypertension,moderate,2023-08-18,true
+289,249,1423,O80,Encounter for full-term uncomplicated delivery,severe,2024-12-09,false
+290,541,1264,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-11-01,true
+291,682,619,E78.5,"Hyperlipidaemia, unspecified",mild,2024-04-30,true
+292,669,2347,F32.9,"Major depressive disorder, single episode",mild,2025-05-09,true
+293,457,2089,M17.9,"Osteoarthritis of knee, unspecified",moderate,2025-03-31,true
+294,751,524,R51.9,"Headache, unspecified",moderate,2024-03-25,false
+295,33,1513,Z00.00,General adult medical examination without abnormal findings,moderate,2024-12-25,false
+296,561,1447,E78.5,"Hyperlipidaemia, unspecified",mild,2024-12-12,true
+297,211,764,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-06-20,false
+298,211,1127,F32.9,"Major depressive disorder, single episode",mild,2024-10-01,true
+299,159,1665,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-01-23,true
+300,359,704,Z00.00,General adult medical examination without abnormal findings,mild,2024-05-29,false
+301,147,1702,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2025-01-28,true
+302,326,760,C50.911,Malignant neoplasm of unspecified site of right breast,moderate,2024-06-19,true
+303,304,1731,E78.5,"Hyperlipidaemia, unspecified",severe,2025-02-03,true
+304,768,164,Z00.00,General adult medical examination without abnormal findings,severe,2023-09-11,false
+305,635,2535,C50.911,Malignant neoplasm of unspecified site of right breast,severe,2025-06-09,true
+306,125,107,J45.909,"Unspecified asthma, uncomplicated",mild,2023-07-27,true
+307,5,672,F41.1,Generalized anxiety disorder,moderate,2024-05-20,true
+308,133,2557,F32.9,"Major depressive disorder, single episode",moderate,2025-06-13,true
+309,652,1415,J06.9,"Acute upper respiratory infection, unspecified",severe,2024-12-06,false
+310,65,1266,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-11-04,true
+311,86,1874,F32.9,"Major depressive disorder, single episode",moderate,2025-02-26,true
+312,349,68,J06.9,"Acute upper respiratory infection, unspecified",moderate,2023-06-20,false
+313,161,2530,R51.9,"Headache, unspecified",severe,2025-06-09,false
+314,136,2113,N39.0,"Urinary tract infection, site not specified",mild,2025-04-03,false
+315,188,2620,G43.909,"Migraine, unspecified, not intractable",severe,2025-06-23,false
+316,710,624,Z00.00,General adult medical examination without abnormal findings,moderate,2024-05-01,false
+317,205,468,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-02-29,true
+318,696,824,M54.5,Low back pain,moderate,2024-07-08,false
+319,572,82,J45.909,"Unspecified asthma, uncomplicated",mild,2023-07-07,true
+320,218,2374,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-05-13,true
+321,645,1015,Z00.00,General adult medical examination without abnormal findings,mild,2024-09-09,false
+322,7,448,D50.9,"Iron deficiency anaemia, unspecified",mild,2024-02-22,false
+323,456,217,E03.9,"Hypothyroidism, unspecified",moderate,2023-10-16,true
+324,268,2421,S52.501,Unspecified fracture of lower end of right radius,mild,2025-05-22,false
+325,645,1352,R51.9,"Headache, unspecified",moderate,2024-11-25,false
+326,527,387,E03.9,"Hypothyroidism, unspecified",moderate,2024-01-22,true
+327,242,2153,I48.91,Unspecified atrial fibrillation,mild,2025-04-09,true
+328,415,1974,O80,Encounter for full-term uncomplicated delivery,mild,2025-03-13,false
+329,639,1911,E11.9,Type 2 diabetes mellitus without complications,mild,2025-03-04,true
+330,4,1641,Z00.00,General adult medical examination without abnormal findings,mild,2025-01-20,false
+331,311,823,N39.0,"Urinary tract infection, site not specified",moderate,2024-07-08,false
+332,264,1202,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-10-21,true
+333,528,793,S52.501,Unspecified fracture of lower end of right radius,moderate,2024-06-28,false
+334,71,2553,L20.9,"Atopic dermatitis, unspecified",mild,2025-06-12,true
+335,60,527,I48.91,Unspecified atrial fibrillation,mild,2024-03-26,true
+336,4,1600,J45.909,"Unspecified asthma, uncomplicated",moderate,2025-01-10,true
+337,26,1025,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2024-09-09,true
+338,738,612,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-04-29,true
+339,566,727,N39.0,"Urinary tract infection, site not specified",mild,2024-06-07,false
+340,4,2098,L20.9,"Atopic dermatitis, unspecified",moderate,2025-03-31,true
+341,214,2370,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-05-12,false
+342,682,619,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-04-30,true
+343,5,1780,S52.501,Unspecified fracture of lower end of right radius,moderate,2025-02-10,false
+344,331,2158,T78.40,"Allergy, unspecified",moderate,2025-04-10,false
+345,80,2503,D50.9,"Iron deficiency anaemia, unspecified",mild,2025-06-04,false
+346,163,1131,F32.9,"Major depressive disorder, single episode",mild,2024-10-02,true
+347,580,433,E03.9,"Hypothyroidism, unspecified",moderate,2024-02-14,true
+348,695,1543,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-12-31,true
+349,547,1937,R51.9,"Headache, unspecified",moderate,2025-03-10,false
+350,565,1618,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-01-13,true
+351,128,472,E11.9,Type 2 diabetes mellitus without complications,mild,2024-03-04,true
+352,466,1919,Z00.00,General adult medical examination without abnormal findings,mild,2025-03-05,false
+353,601,1075,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-09-23,true
+354,425,2352,E03.9,"Hypothyroidism, unspecified",mild,2025-05-12,true
+355,378,1437,E78.5,"Hyperlipidaemia, unspecified",mild,2024-12-10,true
+356,135,649,I10,Essential (primary) hypertension,mild,2024-05-09,true
+357,208,1190,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-10-16,true
+358,356,1153,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-10-07,false
+359,117,1710,O80,Encounter for full-term uncomplicated delivery,mild,2025-01-29,false
+360,71,1220,E03.9,"Hypothyroidism, unspecified",mild,2024-10-23,true
+361,7,470,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-02-29,true
+362,505,2297,J45.909,"Unspecified asthma, uncomplicated",severe,2025-05-01,true
+363,487,1443,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-12-11,false
+364,757,944,L20.9,"Atopic dermatitis, unspecified",moderate,2024-08-21,true
+365,632,969,I10,Essential (primary) hypertension,mild,2024-08-27,true
+366,445,720,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-06-04,true
+367,337,989,E11.9,Type 2 diabetes mellitus without complications,mild,2024-09-02,true
+368,388,926,E03.9,"Hypothyroidism, unspecified",moderate,2024-08-15,true
+369,329,92,J06.9,"Acute upper respiratory infection, unspecified",moderate,2023-07-17,false
+370,183,2491,L20.9,"Atopic dermatitis, unspecified",moderate,2025-06-02,true
+371,722,374,M54.5,Low back pain,mild,2024-01-16,false
+372,50,2447,H25.9,"Age-related cataract, unspecified",mild,2025-05-26,false
+373,361,2571,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-06-16,true
+374,356,643,E78.5,"Hyperlipidaemia, unspecified",severe,2024-05-07,true
+375,574,938,N18.3,"Chronic kidney disease, stage 3",severe,2024-08-19,true
+376,304,791,E11.9,Type 2 diabetes mellitus without complications,mild,2024-06-27,true
+377,187,2073,Z00.00,General adult medical examination without abnormal findings,mild,2025-03-28,false
+378,131,1399,H25.9,"Age-related cataract, unspecified",moderate,2024-12-03,false
+379,328,270,N39.0,"Urinary tract infection, site not specified",mild,2023-11-21,false
+380,213,1441,S52.501,Unspecified fracture of lower end of right radius,mild,2024-12-11,false
+381,476,2502,N39.0,"Urinary tract infection, site not specified",mild,2025-06-04,false
+382,279,1093,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-09-26,true
+383,36,2126,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-04-07,true
+384,236,2574,E03.9,"Hypothyroidism, unspecified",mild,2025-06-16,true
+385,464,601,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-04-25,false
+386,282,2594,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-06-18,true
+387,555,536,Z00.00,General adult medical examination without abnormal findings,mild,2024-03-27,false
+388,262,1825,T78.40,"Allergy, unspecified",severe,2025-02-18,false
+389,372,1818,R51.9,"Headache, unspecified",severe,2025-02-17,false
+390,330,444,D50.9,"Iron deficiency anaemia, unspecified",mild,2024-02-21,false
+391,298,1811,M17.9,"Osteoarthritis of knee, unspecified",moderate,2025-02-17,true
+392,138,2206,F32.9,"Major depressive disorder, single episode",mild,2025-04-17,true
+393,159,2299,M54.5,Low back pain,mild,2025-05-01,false
+394,95,583,F41.1,Generalized anxiety disorder,moderate,2024-04-22,true
+395,156,1769,N39.0,"Urinary tract infection, site not specified",moderate,2025-02-10,false
+396,108,396,E11.9,Type 2 diabetes mellitus without complications,mild,2024-01-29,true
+397,571,914,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-08-12,false
+398,78,1353,G47.33,Obstructive sleep apnoea,moderate,2024-11-25,true
+399,356,843,N39.0,"Urinary tract infection, site not specified",severe,2024-07-15,false
+400,695,2298,I48.91,Unspecified atrial fibrillation,moderate,2025-05-01,true
+401,197,580,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-04-22,true
+402,70,305,E03.9,"Hypothyroidism, unspecified",moderate,2023-12-12,true
+403,227,1486,F32.9,"Major depressive disorder, single episode",mild,2024-12-20,true
+404,271,1254,R51.9,"Headache, unspecified",severe,2024-10-31,false
+405,124,2130,Z00.00,General adult medical examination without abnormal findings,mild,2025-04-07,false
+406,252,655,N39.0,"Urinary tract infection, site not specified",moderate,2024-05-10,false
+407,156,1175,E03.9,"Hypothyroidism, unspecified",moderate,2024-10-14,true
+408,227,383,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-01-18,true
+409,378,2242,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-04-23,true
+410,495,1551,E03.9,"Hypothyroidism, unspecified",mild,2025-01-01,true
+411,642,2109,E11.9,Type 2 diabetes mellitus without complications,severe,2025-04-02,true
+412,411,770,M54.5,Low back pain,severe,2024-06-21,false
+413,388,2355,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-05-12,false
+414,122,836,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-07-12,false
+415,471,1793,G43.909,"Migraine, unspecified, not intractable",mild,2025-02-12,false
+416,548,925,I48.91,Unspecified atrial fibrillation,mild,2024-08-15,true
+417,606,701,G43.909,"Migraine, unspecified, not intractable",mild,2024-05-28,false
+418,424,1063,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-09-23,false
+419,505,2343,G47.33,Obstructive sleep apnoea,mild,2025-05-08,true
+420,647,1052,I48.91,Unspecified atrial fibrillation,mild,2024-09-18,true
+421,209,40,E78.5,"Hyperlipidaemia, unspecified",mild,2023-05-17,true
+422,512,1158,E11.9,Type 2 diabetes mellitus without complications,mild,2024-10-08,true
+423,271,1254,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-10-31,true
+424,271,1647,N18.3,"Chronic kidney disease, stage 3",mild,2025-01-20,true
+425,370,1589,M17.9,"Osteoarthritis of knee, unspecified",severe,2025-01-09,true
+426,177,1972,F32.9,"Major depressive disorder, single episode",moderate,2025-03-13,true
+427,372,2597,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-06-18,true
+428,713,1312,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-11-13,false
+429,51,2473,N18.3,"Chronic kidney disease, stage 3",mild,2025-05-30,true
+430,81,1159,F32.9,"Major depressive disorder, single episode",mild,2024-10-08,true
+431,102,1631,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-01-16,false
+432,132,675,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-05-20,true
+433,660,1047,N39.0,"Urinary tract infection, site not specified",moderate,2024-09-17,false
+434,436,1271,E11.9,Type 2 diabetes mellitus without complications,mild,2024-11-04,true
+435,446,1176,E78.5,"Hyperlipidaemia, unspecified",mild,2024-10-14,true
+436,561,2205,I63.9,"Cerebral infarction, unspecified",severe,2025-04-17,false
+437,86,2327,L20.9,"Atopic dermatitis, unspecified",mild,2025-05-05,true
+438,512,1158,I10,Essential (primary) hypertension,mild,2024-10-08,true
+439,190,43,E78.5,"Hyperlipidaemia, unspecified",moderate,2023-05-23,true
+440,496,2041,S52.501,Unspecified fracture of lower end of right radius,moderate,2025-03-24,false
+441,227,2383,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-05-14,false
+442,158,66,I10,Essential (primary) hypertension,moderate,2023-06-19,true
+443,737,983,G43.909,"Migraine, unspecified, not intractable",mild,2024-09-02,false
+444,423,834,J45.909,"Unspecified asthma, uncomplicated",mild,2024-07-11,true
+445,143,1996,J06.9,"Acute upper respiratory infection, unspecified",severe,2025-03-17,false
+446,751,2632,L20.9,"Atopic dermatitis, unspecified",mild,2025-06-23,true
+447,356,1153,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-10-07,true
+448,647,1052,R10.9,Unspecified abdominal pain,moderate,2024-09-18,false
+449,632,460,D50.9,"Iron deficiency anaemia, unspecified",moderate,2024-02-26,false
+450,712,1056,G47.33,Obstructive sleep apnoea,moderate,2024-09-19,true
+451,566,2612,Z00.00,General adult medical examination without abnormal findings,mild,2025-06-19,false
+452,468,869,F32.9,"Major depressive disorder, single episode",moderate,2024-07-25,true
+453,356,1475,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-12-18,true
+454,707,2112,I10,Essential (primary) hypertension,moderate,2025-04-02,true
+455,505,2297,F32.9,"Major depressive disorder, single episode",moderate,2025-05-01,true
+456,755,1152,N39.0,"Urinary tract infection, site not specified",severe,2024-10-07,false
+457,790,2646,I63.9,"Cerebral infarction, unspecified",mild,2025-06-25,false
+458,131,1399,G43.909,"Migraine, unspecified, not intractable",mild,2024-12-03,false
+459,197,580,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-04-22,true
+460,467,1913,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-03-05,true
+461,523,968,G43.909,"Migraine, unspecified, not intractable",moderate,2024-08-27,false
+462,152,1419,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-12-09,false
+463,675,1843,N18.3,"Chronic kidney disease, stage 3",moderate,2025-02-21,true
+464,693,1140,R51.9,"Headache, unspecified",mild,2024-10-03,false
+465,260,620,E11.9,Type 2 diabetes mellitus without complications,mild,2024-04-30,true
+466,567,412,J45.909,"Unspecified asthma, uncomplicated",mild,2024-02-05,true
+467,101,1872,I25.10,Atherosclerotic heart disease of native coronary artery,moderate,2025-02-26,true
+468,196,885,N39.0,"Urinary tract infection, site not specified",severe,2024-08-01,false
+469,280,1909,L20.9,"Atopic dermatitis, unspecified",mild,2025-03-04,true
+470,106,581,J06.9,"Acute upper respiratory infection, unspecified",severe,2024-04-22,false
+471,225,1745,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-02-03,true
+472,607,263,J06.9,"Acute upper respiratory infection, unspecified",mild,2023-11-20,false
+473,670,1690,I10,Essential (primary) hypertension,mild,2025-01-27,true
+474,416,2401,R10.9,Unspecified abdominal pain,moderate,2025-05-19,false
+475,569,1406,E03.9,"Hypothyroidism, unspecified",severe,2024-12-04,true
+476,202,532,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-03-26,false
+477,181,1674,E11.9,Type 2 diabetes mellitus without complications,mild,2025-01-27,true
+478,651,183,F41.1,Generalized anxiety disorder,moderate,2023-09-26,true
+479,40,519,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-03-25,true
+480,523,968,K57.30,Diverticulosis of large intestine without perforation,moderate,2024-08-27,false
+481,32,2282,H25.9,"Age-related cataract, unspecified",severe,2025-04-29,false
+482,737,2482,I10,Essential (primary) hypertension,severe,2025-06-02,true
+483,554,2398,I10,Essential (primary) hypertension,moderate,2025-05-19,true
+484,196,2444,E03.9,"Hypothyroidism, unspecified",severe,2025-05-26,true
+485,315,1489,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2024-12-20,true
+486,468,869,Z00.00,General adult medical examination without abnormal findings,severe,2024-07-25,false
+487,738,2634,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-06-23,true
+488,561,1447,M54.5,Low back pain,mild,2024-12-12,false
+489,530,1593,F32.9,"Major depressive disorder, single episode",mild,2025-01-09,true
+490,368,2592,I10,Essential (primary) hypertension,mild,2025-06-17,true
+491,533,285,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2023-11-29,true
+492,321,1936,N39.0,"Urinary tract infection, site not specified",mild,2025-03-10,false
+493,572,82,I10,Essential (primary) hypertension,mild,2023-07-07,true
+494,72,2110,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-04-02,true
+495,744,18,E11.9,Type 2 diabetes mellitus without complications,mild,2023-03-27,true
+496,798,2387,J45.909,"Unspecified asthma, uncomplicated",mild,2025-05-15,true
+497,769,2440,Z00.00,General adult medical examination without abnormal findings,moderate,2025-05-26,false
+498,178,321,R10.9,Unspecified abdominal pain,moderate,2023-12-20,false
+499,284,759,E03.9,"Hypothyroidism, unspecified",mild,2024-06-18,true
+500,424,9,I10,Essential (primary) hypertension,mild,2023-03-02,true
+501,635,528,N18.3,"Chronic kidney disease, stage 3",mild,2024-03-26,true
+502,357,2210,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-04-18,true
+503,517,1512,E11.9,Type 2 diabetes mellitus without complications,severe,2024-12-25,true
+504,561,2205,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2025-04-17,true
+505,721,569,F41.1,Generalized anxiety disorder,severe,2024-04-15,true
+506,311,823,I48.91,Unspecified atrial fibrillation,mild,2024-07-08,true
+507,396,2155,I10,Essential (primary) hypertension,mild,2025-04-09,true
+508,27,1501,K57.30,Diverticulosis of large intestine without perforation,mild,2024-12-23,false
+509,796,1020,E03.9,"Hypothyroidism, unspecified",moderate,2024-09-09,true
+510,679,265,O80,Encounter for full-term uncomplicated delivery,moderate,2023-11-20,false
+511,462,534,F41.1,Generalized anxiety disorder,severe,2024-03-27,true
+512,778,1598,F32.9,"Major depressive disorder, single episode",mild,2025-01-10,true
+513,397,1121,H25.9,"Age-related cataract, unspecified",moderate,2024-09-30,false
+514,572,808,R10.9,Unspecified abdominal pain,moderate,2024-07-02,false
+515,209,1084,E11.9,Type 2 diabetes mellitus without complications,severe,2024-09-25,true
+516,30,1698,Z00.00,General adult medical examination without abnormal findings,mild,2025-01-28,false
+517,453,367,G47.33,Obstructive sleep apnoea,mild,2024-01-11,true
+518,260,185,G43.909,"Migraine, unspecified, not intractable",severe,2023-09-27,false
+519,4,2098,Z00.00,General adult medical examination without abnormal findings,mild,2025-03-31,false
+520,619,1485,L20.9,"Atopic dermatitis, unspecified",moderate,2024-12-20,true
+521,477,2257,M54.5,Low back pain,mild,2025-04-28,false
+522,382,311,D50.9,"Iron deficiency anaemia, unspecified",severe,2023-12-15,false
+523,689,2289,E11.9,Type 2 diabetes mellitus without complications,mild,2025-04-30,true
+524,236,1782,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2025-02-10,true
+525,71,1220,E78.5,"Hyperlipidaemia, unspecified",mild,2024-10-23,true
+526,603,1083,I63.9,"Cerebral infarction, unspecified",moderate,2024-09-25,false
+527,465,1774,F32.9,"Major depressive disorder, single episode",severe,2025-02-10,true
+528,284,1386,I10,Essential (primary) hypertension,moderate,2024-12-02,true
+529,199,199,E78.5,"Hyperlipidaemia, unspecified",mild,2023-10-06,true
+530,782,645,N39.0,"Urinary tract infection, site not specified",mild,2024-05-07,false
+531,630,2660,R10.9,Unspecified abdominal pain,moderate,2025-06-27,false
+532,268,2421,J45.909,"Unspecified asthma, uncomplicated",mild,2025-05-22,true
+533,715,1903,F32.9,"Major depressive disorder, single episode",mild,2025-03-03,true
+534,32,2282,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-04-29,true
+535,377,1380,E78.5,"Hyperlipidaemia, unspecified",severe,2024-12-02,true
+536,33,1513,R51.9,"Headache, unspecified",mild,2024-12-25,false
+537,360,2636,E78.5,"Hyperlipidaemia, unspecified",severe,2025-06-23,true
+538,170,1922,F32.9,"Major depressive disorder, single episode",moderate,2025-03-06,true
+539,693,635,N18.3,"Chronic kidney disease, stage 3",mild,2024-05-06,true
+540,540,153,E11.9,Type 2 diabetes mellitus without complications,mild,2023-08-31,true
+541,677,1914,R10.9,Unspecified abdominal pain,severe,2025-03-05,false
+542,586,2449,Z00.00,General adult medical examination without abnormal findings,mild,2025-05-26,false
+543,663,28,T78.40,"Allergy, unspecified",mild,2023-04-28,false
+544,710,69,E03.9,"Hypothyroidism, unspecified",mild,2023-06-21,true
+545,674,424,I10,Essential (primary) hypertension,mild,2024-02-12,true
+546,512,1158,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-10-08,false
+547,728,839,E78.5,"Hyperlipidaemia, unspecified",severe,2024-07-15,true
+548,517,2544,J45.909,"Unspecified asthma, uncomplicated",moderate,2025-06-10,true
+549,403,2090,I10,Essential (primary) hypertension,moderate,2025-03-31,true
+550,268,1097,E11.9,Type 2 diabetes mellitus without complications,severe,2024-09-27,true
+551,639,1911,J44.9,"Chronic obstructive pulmonary disease, unspecified",severe,2025-03-04,true
+552,532,159,N39.0,"Urinary tract infection, site not specified",mild,2023-09-04,false
+553,609,965,Z00.00,General adult medical examination without abnormal findings,severe,2024-08-26,false
+554,508,2260,F32.9,"Major depressive disorder, single episode",mild,2025-04-28,true
+555,602,1722,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-01-31,false
+556,72,1607,G43.909,"Migraine, unspecified, not intractable",mild,2025-01-13,false
+557,77,283,I10,Essential (primary) hypertension,moderate,2023-11-29,true
+558,303,2166,F32.9,"Major depressive disorder, single episode",mild,2025-04-11,true
+559,549,1505,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-12-24,true
+560,499,2124,J45.909,"Unspecified asthma, uncomplicated",moderate,2025-04-07,true
+561,660,465,M54.5,Low back pain,severe,2024-02-29,false
+562,633,1314,G47.33,Obstructive sleep apnoea,moderate,2024-11-13,true
+563,156,1713,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-01-30,false
+564,180,1442,M54.5,Low back pain,mild,2024-12-11,false
+565,794,363,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-01-10,true
+566,328,270,M54.5,Low back pain,moderate,2023-11-21,false
+567,577,1673,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-01-27,false
+568,102,1680,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-01-27,false
+569,32,1795,I10,Essential (primary) hypertension,severe,2025-02-12,true
+570,569,2608,I10,Essential (primary) hypertension,mild,2025-06-19,true
+571,566,727,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-06-07,true
+572,151,1681,F32.9,"Major depressive disorder, single episode",mild,2025-01-27,true
+573,356,1475,M54.5,Low back pain,moderate,2024-12-18,false
+574,483,682,L20.9,"Atopic dermatitis, unspecified",mild,2024-05-23,true
+575,276,282,J06.9,"Acute upper respiratory infection, unspecified",mild,2023-11-28,false
+576,70,473,F41.1,Generalized anxiety disorder,moderate,2024-03-04,true
+577,330,14,E78.5,"Hyperlipidaemia, unspecified",moderate,2023-03-17,true
+578,161,875,I10,Essential (primary) hypertension,moderate,2024-07-29,true
+579,744,18,R51.9,"Headache, unspecified",moderate,2023-03-27,false
+580,519,1205,I25.10,Atherosclerotic heart disease of native coronary artery,moderate,2024-10-21,true
+581,707,1046,E78.5,"Hyperlipidaemia, unspecified",mild,2024-09-16,true
+582,361,2575,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-06-16,true
+583,617,564,Z00.00,General adult medical examination without abnormal findings,moderate,2024-04-12,false
+584,354,2670,N18.3,"Chronic kidney disease, stage 3",mild,2025-06-30,true
+585,455,2521,I10,Essential (primary) hypertension,severe,2025-06-09,true
+586,60,2062,M17.9,"Osteoarthritis of knee, unspecified",moderate,2025-03-26,true
+587,12,2425,G47.33,Obstructive sleep apnoea,severe,2025-05-22,true
+588,232,1518,H25.9,"Age-related cataract, unspecified",moderate,2024-12-26,false
+589,549,1505,J44.9,"Chronic obstructive pulmonary disease, unspecified",severe,2024-12-24,true
+590,183,2491,R51.9,"Headache, unspecified",moderate,2025-06-02,false
+591,713,1425,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-12-09,true
+592,352,622,O80,Encounter for full-term uncomplicated delivery,moderate,2024-05-01,false
+593,203,1990,J06.9,"Acute upper respiratory infection, unspecified",severe,2025-03-17,false
+594,187,2073,L20.9,"Atopic dermatitis, unspecified",mild,2025-03-28,true
+595,505,2343,E11.9,Type 2 diabetes mellitus without complications,mild,2025-05-08,true
+596,531,1656,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-01-21,false
+597,227,1486,J45.909,"Unspecified asthma, uncomplicated",severe,2024-12-20,true
+598,254,1906,E03.9,"Hypothyroidism, unspecified",mild,2025-03-03,true
+599,667,1203,E03.9,"Hypothyroidism, unspecified",mild,2024-10-21,true
+600,310,170,J45.909,"Unspecified asthma, uncomplicated",moderate,2023-09-15,true
+601,3,1396,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-12-02,true
+602,264,899,I10,Essential (primary) hypertension,moderate,2024-08-05,true
+603,679,265,Z00.00,General adult medical examination without abnormal findings,moderate,2023-11-20,false
+604,306,1317,N39.0,"Urinary tract infection, site not specified",severe,2024-11-14,false
+605,97,540,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-04-01,true
+606,339,1211,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-10-21,true
+607,12,2425,Z00.00,General adult medical examination without abnormal findings,moderate,2025-05-22,false
+608,562,230,G43.909,"Migraine, unspecified, not intractable",moderate,2023-10-27,false
+609,132,675,E11.9,Type 2 diabetes mellitus without complications,severe,2024-05-20,true
+610,315,1489,M54.5,Low back pain,mild,2024-12-20,false
+611,478,954,I10,Essential (primary) hypertension,mild,2024-08-23,true
+612,51,2473,M54.5,Low back pain,mild,2025-05-30,false
+613,71,2553,I48.91,Unspecified atrial fibrillation,severe,2025-06-12,true
+614,569,231,N39.0,"Urinary tract infection, site not specified",moderate,2023-10-30,false
+615,240,789,I10,Essential (primary) hypertension,mild,2024-06-26,true
+616,242,2153,I48.91,Unspecified atrial fibrillation,severe,2025-04-09,true
+617,170,1922,G43.909,"Migraine, unspecified, not intractable",mild,2025-03-06,false
+618,487,2288,K57.30,Diverticulosis of large intestine without perforation,moderate,2025-04-29,false
+619,146,2058,K57.30,Diverticulosis of large intestine without perforation,moderate,2025-03-26,false
+620,494,2055,R10.9,Unspecified abdominal pain,moderate,2025-03-25,false
+621,667,1248,I10,Essential (primary) hypertension,mild,2024-10-29,true
+622,13,39,I10,Essential (primary) hypertension,moderate,2023-05-16,true
+623,389,1981,E78.5,"Hyperlipidaemia, unspecified",mild,2025-03-14,true
+624,179,2381,F41.1,Generalized anxiety disorder,mild,2025-05-14,true
+625,424,57,G47.33,Obstructive sleep apnoea,moderate,2023-06-09,true
+626,547,2432,I48.91,Unspecified atrial fibrillation,moderate,2025-05-23,true
+627,311,1591,E78.5,"Hyperlipidaemia, unspecified",mild,2025-01-09,true
+628,737,1770,Z00.00,General adult medical examination without abnormal findings,mild,2025-02-10,false
+629,478,2380,H25.9,"Age-related cataract, unspecified",mild,2025-05-14,false
+630,544,480,F41.1,Generalized anxiety disorder,mild,2024-03-05,true
+631,296,1961,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-03-11,true
+632,518,238,E11.9,Type 2 diabetes mellitus without complications,severe,2023-11-03,true
+633,344,130,T78.40,"Allergy, unspecified",severe,2023-08-15,false
+634,56,341,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-01-01,true
+635,40,322,E78.5,"Hyperlipidaemia, unspecified",mild,2023-12-20,true
+636,454,972,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-08-29,true
+637,17,1258,H25.9,"Age-related cataract, unspecified",severe,2024-10-31,false
+638,194,1316,H25.9,"Age-related cataract, unspecified",mild,2024-11-13,false
+639,642,2175,H25.9,"Age-related cataract, unspecified",mild,2025-04-14,false
+640,80,1840,F32.9,"Major depressive disorder, single episode",moderate,2025-02-21,true
+641,724,2464,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-05-29,true
+642,4,1550,S52.501,Unspecified fracture of lower end of right radius,mild,2025-01-01,false
+643,379,2359,L20.9,"Atopic dermatitis, unspecified",moderate,2025-05-12,true
+644,323,1453,F32.9,"Major depressive disorder, single episode",moderate,2024-12-13,true
+645,770,780,I10,Essential (primary) hypertension,moderate,2024-06-24,true
+646,172,258,J45.909,"Unspecified asthma, uncomplicated",moderate,2023-11-15,true
+647,499,1045,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2024-09-16,true
+648,229,1810,E78.5,"Hyperlipidaemia, unspecified",severe,2025-02-17,true
+649,713,1425,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-12-09,true
+650,423,877,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-07-29,true
+651,518,352,M54.5,Low back pain,moderate,2024-01-08,false
+652,590,878,I10,Essential (primary) hypertension,mild,2024-07-30,true
+653,566,1204,I10,Essential (primary) hypertension,mild,2024-10-21,true
+654,88,2286,F32.9,"Major depressive disorder, single episode",severe,2025-04-29,true
+655,532,131,J06.9,"Acute upper respiratory infection, unspecified",mild,2023-08-18,false
+656,693,1510,N39.0,"Urinary tract infection, site not specified",mild,2024-12-25,false
+657,116,27,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2023-04-28,true
+658,613,1143,E03.9,"Hypothyroidism, unspecified",mild,2024-10-04,true
+659,377,2160,O80,Encounter for full-term uncomplicated delivery,moderate,2025-04-10,false
+660,264,1202,R10.9,Unspecified abdominal pain,moderate,2024-10-21,false
+661,99,809,Z00.00,General adult medical examination without abnormal findings,moderate,2024-07-02,false
+662,475,1452,J45.909,"Unspecified asthma, uncomplicated",mild,2024-12-13,true
+663,367,1733,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-02-03,true
+664,356,2580,E78.5,"Hyperlipidaemia, unspecified",mild,2025-06-16,true
+665,731,1290,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-11-08,true
+666,316,299,O80,Encounter for full-term uncomplicated delivery,moderate,2023-12-11,false
+667,768,1273,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-11-05,false
+668,696,824,R10.9,Unspecified abdominal pain,mild,2024-07-08,false
+669,344,102,E11.9,Type 2 diabetes mellitus without complications,mild,2023-07-25,true
+670,226,1578,I10,Essential (primary) hypertension,moderate,2025-01-07,true
+671,650,176,G47.33,Obstructive sleep apnoea,moderate,2023-09-22,true
+672,539,908,N18.3,"Chronic kidney disease, stage 3",mild,2024-08-09,true
+673,487,1443,T78.40,"Allergy, unspecified",severe,2024-12-11,false
+674,655,626,E78.5,"Hyperlipidaemia, unspecified",mild,2024-05-02,true
+675,443,1899,E78.5,"Hyperlipidaemia, unspecified",severe,2025-03-03,true
+676,722,133,E11.9,Type 2 diabetes mellitus without complications,severe,2023-08-18,true
+677,278,1421,E03.9,"Hypothyroidism, unspecified",mild,2024-12-09,true
+678,112,1602,L20.9,"Atopic dermatitis, unspecified",moderate,2025-01-10,true
+679,114,950,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-08-22,true
+680,675,1843,S52.501,Unspecified fracture of lower end of right radius,mild,2025-02-21,false
+681,531,1556,I10,Essential (primary) hypertension,moderate,2025-01-03,true
+682,339,2436,R51.9,"Headache, unspecified",moderate,2025-05-26,false
+683,693,1140,T78.40,"Allergy, unspecified",moderate,2024-10-03,false
+684,385,2294,I48.91,Unspecified atrial fibrillation,mild,2025-04-30,true
+685,542,1234,M54.5,Low back pain,mild,2024-10-28,false
+686,174,126,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2023-08-11,true
+687,577,1673,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-01-27,true
+688,717,1484,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-12-20,false
+689,446,1176,G43.909,"Migraine, unspecified, not intractable",moderate,2024-10-14,false
+690,393,1469,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-12-17,true
+691,56,341,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2024-01-01,true
+692,602,775,R10.9,Unspecified abdominal pain,mild,2024-06-24,false
+693,374,2269,N18.3,"Chronic kidney disease, stage 3",moderate,2025-04-28,true
+694,62,1331,I10,Essential (primary) hypertension,severe,2024-11-18,true
+695,53,1110,I10,Essential (primary) hypertension,moderate,2024-09-30,true
+696,68,1171,E03.9,"Hypothyroidism, unspecified",mild,2024-10-11,true
+697,499,1045,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-09-16,true
+698,755,1549,E78.5,"Hyperlipidaemia, unspecified",mild,2025-01-01,true
+699,330,444,R10.9,Unspecified abdominal pain,mild,2024-02-21,false
+700,754,2106,I10,Essential (primary) hypertension,mild,2025-04-02,true
+701,574,870,R51.9,"Headache, unspecified",severe,2024-07-26,false
+702,624,2026,D50.9,"Iron deficiency anaemia, unspecified",moderate,2025-03-21,false
+703,437,1028,N18.3,"Chronic kidney disease, stage 3",moderate,2024-09-10,true
+704,603,346,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-01-01,true
+705,18,229,M17.9,"Osteoarthritis of knee, unspecified",moderate,2023-10-26,true
+706,25,2541,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-06-10,false
+707,460,1923,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-03-06,true
+708,158,425,J45.909,"Unspecified asthma, uncomplicated",mild,2024-02-12,true
+709,122,1987,S52.501,Unspecified fracture of lower end of right radius,severe,2025-03-17,false
+710,264,1881,R51.9,"Headache, unspecified",moderate,2025-02-27,false
+711,761,2635,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-06-23,true
+712,83,2462,S52.501,Unspecified fracture of lower end of right radius,severe,2025-05-29,false
+713,380,1536,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-12-30,true
+714,572,82,J06.9,"Acute upper respiratory infection, unspecified",moderate,2023-07-07,false
+715,636,1134,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-10-02,true
+716,289,883,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-07-31,false
+717,138,2206,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-04-17,false
+718,478,954,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-08-23,true
+719,23,2151,E78.5,"Hyperlipidaemia, unspecified",severe,2025-04-09,true
+720,308,1366,M54.5,Low back pain,mild,2024-11-27,false
+721,203,1990,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-03-17,true
+722,722,259,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2023-11-15,true
+723,349,11,M17.9,"Osteoarthritis of knee, unspecified",mild,2023-03-08,true
+724,765,1068,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-09-23,false
+725,180,1442,S52.501,Unspecified fracture of lower end of right radius,severe,2024-12-11,false
+726,463,891,I10,Essential (primary) hypertension,severe,2024-08-05,true
+727,387,1675,F41.1,Generalized anxiety disorder,mild,2025-01-27,true
+728,566,1478,E11.9,Type 2 diabetes mellitus without complications,severe,2024-12-18,true
+729,311,1250,N39.0,"Urinary tract infection, site not specified",moderate,2024-10-30,false
+730,763,2611,T78.40,"Allergy, unspecified",moderate,2025-06-19,false
+731,55,2365,S52.501,Unspecified fracture of lower end of right radius,moderate,2025-05-12,false
+732,173,2042,J45.909,"Unspecified asthma, uncomplicated",moderate,2025-03-24,true
+733,642,2175,T78.40,"Allergy, unspecified",moderate,2025-04-14,false
+734,356,1189,E11.9,Type 2 diabetes mellitus without complications,mild,2024-10-16,true
+735,772,2639,I48.91,Unspecified atrial fibrillation,severe,2025-06-23,true
+736,312,2655,E11.9,Type 2 diabetes mellitus without complications,mild,2025-06-27,true
+737,232,459,I10,Essential (primary) hypertension,mild,2024-02-26,true
+738,183,1845,N39.0,"Urinary tract infection, site not specified",moderate,2025-02-21,false
+739,142,1596,S52.501,Unspecified fracture of lower end of right radius,moderate,2025-01-09,false
+740,796,552,N39.0,"Urinary tract infection, site not specified",moderate,2024-04-08,false
+741,354,1500,I63.9,"Cerebral infarction, unspecified",moderate,2024-12-23,false
+742,266,1799,I10,Essential (primary) hypertension,severe,2025-02-13,true
+743,603,657,E78.5,"Hyperlipidaemia, unspecified",mild,2024-05-13,true
+744,199,2675,M54.5,Low back pain,mild,2025-06-30,false
+745,125,107,I48.91,Unspecified atrial fibrillation,mild,2023-07-27,true
+746,716,673,N18.3,"Chronic kidney disease, stage 3",severe,2024-05-20,true
+747,271,2065,R51.9,"Headache, unspecified",severe,2025-03-27,false
+748,27,1501,F32.9,"Major depressive disorder, single episode",moderate,2024-12-23,true
+749,491,1173,E11.9,Type 2 diabetes mellitus without complications,mild,2024-10-14,true
+750,656,2331,R10.9,Unspecified abdominal pain,moderate,2025-05-06,false
+751,106,2583,O80,Encounter for full-term uncomplicated delivery,mild,2025-06-16,false
+752,8,2024,I10,Essential (primary) hypertension,mild,2025-03-21,true
+753,92,77,J45.909,"Unspecified asthma, uncomplicated",moderate,2023-07-03,true
+754,33,1563,R10.9,Unspecified abdominal pain,mild,2025-01-06,false
+755,464,301,E11.9,Type 2 diabetes mellitus without complications,mild,2023-12-11,true
+756,800,2558,G43.909,"Migraine, unspecified, not intractable",mild,2025-06-13,false
+757,85,1445,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2024-12-12,true
+758,569,1669,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2025-01-24,true
+759,356,643,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2024-05-07,true
+760,579,1187,G43.909,"Migraine, unspecified, not intractable",moderate,2024-10-15,false
+761,714,225,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2023-10-23,true
+762,594,1535,H25.9,"Age-related cataract, unspecified",moderate,2024-12-30,false
+763,453,1309,E78.5,"Hyperlipidaemia, unspecified",severe,2024-11-12,true
+764,117,2146,H25.9,"Age-related cataract, unspecified",moderate,2025-04-08,false
+765,95,583,Z00.00,General adult medical examination without abnormal findings,severe,2024-04-22,false
+766,450,2040,I10,Essential (primary) hypertension,moderate,2025-03-24,true
+767,85,1901,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-03-03,true
+768,384,1291,O80,Encounter for full-term uncomplicated delivery,mild,2024-11-08,false
+769,456,324,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2023-12-21,true
+770,540,153,G43.909,"Migraine, unspecified, not intractable",moderate,2023-08-31,false
+771,2,2232,I10,Essential (primary) hypertension,severe,2025-04-22,true
+772,134,743,N39.0,"Urinary tract infection, site not specified",moderate,2024-06-10,false
+773,728,329,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2023-12-25,true
+774,541,811,M54.5,Low back pain,moderate,2024-07-02,false
+775,748,2511,J06.9,"Acute upper respiratory infection, unspecified",severe,2025-06-06,false
+776,762,1301,I10,Essential (primary) hypertension,severe,2024-11-11,true
+777,162,1930,R51.9,"Headache, unspecified",mild,2025-03-07,false
+778,367,1733,M17.9,"Osteoarthritis of knee, unspecified",moderate,2025-02-03,true
+779,321,1008,D50.9,"Iron deficiency anaemia, unspecified",mild,2024-09-05,false
+780,53,157,R10.9,Unspecified abdominal pain,severe,2023-09-04,false
+781,785,1038,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-09-13,false
+782,292,1715,J44.9,"Chronic obstructive pulmonary disease, unspecified",severe,2025-01-30,true
+783,444,641,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-05-06,true
+784,460,1923,C50.911,Malignant neoplasm of unspecified site of right breast,moderate,2025-03-06,true
+785,502,344,E03.9,"Hypothyroidism, unspecified",moderate,2024-01-01,true
+786,453,693,N39.0,"Urinary tract infection, site not specified",severe,2024-05-27,false
+787,2,677,M54.5,Low back pain,moderate,2024-05-21,false
+788,1,1361,D50.9,"Iron deficiency anaemia, unspecified",mild,2024-11-26,false
+789,159,1665,K57.30,Diverticulosis of large intestine without perforation,mild,2025-01-23,false
+790,626,1625,J45.909,"Unspecified asthma, uncomplicated",mild,2025-01-15,true
+791,132,675,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-05-20,true
+792,791,386,R10.9,Unspecified abdominal pain,mild,2024-01-22,false
+793,254,1906,K57.30,Diverticulosis of large intestine without perforation,mild,2025-03-03,false
+794,693,1400,R10.9,Unspecified abdominal pain,moderate,2024-12-03,false
+795,395,2186,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-04-14,true
+796,627,975,K57.30,Diverticulosis of large intestine without perforation,moderate,2024-08-29,false
+797,470,2534,N18.3,"Chronic kidney disease, stage 3",moderate,2025-06-09,true
+798,313,2172,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-04-11,true
+799,396,2155,E03.9,"Hypothyroidism, unspecified",moderate,2025-04-09,true
+800,477,1055,Z00.00,General adult medical examination without abnormal findings,mild,2024-09-19,false
+801,162,1886,Z00.00,General adult medical examination without abnormal findings,moderate,2025-02-28,false
+802,555,1653,O80,Encounter for full-term uncomplicated delivery,mild,2025-01-21,false
+803,690,1454,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-12-13,false
+804,626,929,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-08-16,true
+805,531,1656,M17.9,"Osteoarthritis of knee, unspecified",severe,2025-01-21,true
+806,189,1960,I10,Essential (primary) hypertension,moderate,2025-03-11,true
+807,705,193,N39.0,"Urinary tract infection, site not specified",mild,2023-10-02,false
+808,722,259,F32.9,"Major depressive disorder, single episode",moderate,2023-11-15,true
+809,539,820,I48.91,Unspecified atrial fibrillation,moderate,2024-07-05,true
+810,439,365,J44.9,"Chronic obstructive pulmonary disease, unspecified",severe,2024-01-10,true
+811,496,1749,I10,Essential (primary) hypertension,mild,2025-02-04,true
+812,526,512,Z00.00,General adult medical examination without abnormal findings,moderate,2024-03-19,false
+813,236,1782,L20.9,"Atopic dermatitis, unspecified",mild,2025-02-10,true
+814,633,766,R10.9,Unspecified abdominal pain,mild,2024-06-21,false
+815,656,2402,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-05-19,true
+816,679,368,F41.1,Generalized anxiety disorder,severe,2024-01-11,true
+817,771,1921,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-03-06,true
+818,227,598,Z00.00,General adult medical examination without abnormal findings,moderate,2024-04-25,false
+819,55,2365,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-05-12,true
+820,665,30,E11.9,Type 2 diabetes mellitus without complications,mild,2023-05-02,true
+821,629,2219,F41.1,Generalized anxiety disorder,mild,2025-04-21,true
+822,471,1790,I10,Essential (primary) hypertension,moderate,2025-02-12,true
+823,645,1352,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2024-11-25,true
+824,340,2235,J45.909,"Unspecified asthma, uncomplicated",severe,2025-04-23,true
+825,577,1673,Z00.00,General adult medical examination without abnormal findings,severe,2025-01-27,false
+826,744,18,E78.5,"Hyperlipidaemia, unspecified",severe,2023-03-27,true
+827,348,165,I10,Essential (primary) hypertension,moderate,2023-09-11,true
+828,25,2431,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2025-05-23,true
+829,208,1880,M54.5,Low back pain,moderate,2025-02-27,false
+830,119,1107,I10,Essential (primary) hypertension,moderate,2024-09-30,true
+831,55,2365,E11.9,Type 2 diabetes mellitus without complications,mild,2025-05-12,true
+832,271,2648,S52.501,Unspecified fracture of lower end of right radius,severe,2025-06-25,false
+833,179,866,D50.9,"Iron deficiency anaemia, unspecified",moderate,2024-07-25,false
+834,578,2033,K57.30,Diverticulosis of large intestine without perforation,moderate,2025-03-24,false
+835,419,781,N39.0,"Urinary tract infection, site not specified",moderate,2024-06-24,false
+836,393,1924,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-03-06,false
+837,402,384,I63.9,"Cerebral infarction, unspecified",moderate,2024-01-19,false
+838,368,194,S52.501,Unspecified fracture of lower end of right radius,mild,2023-10-02,false
+839,737,36,M54.5,Low back pain,moderate,2023-05-12,false
+840,356,1153,E78.5,"Hyperlipidaemia, unspecified",mild,2024-10-07,true
+841,791,19,O80,Encounter for full-term uncomplicated delivery,severe,2023-03-31,false
+842,616,2208,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-04-17,false
+843,356,872,E78.5,"Hyperlipidaemia, unspecified",severe,2024-07-29,true
+844,364,1885,R51.9,"Headache, unspecified",mild,2025-02-28,false
+845,77,297,S52.501,Unspecified fracture of lower end of right radius,mild,2023-12-05,false
+846,780,2217,F41.1,Generalized anxiety disorder,moderate,2025-04-21,true
+847,134,462,Z00.00,General adult medical examination without abnormal findings,mild,2024-02-27,false
+848,800,2558,E03.9,"Hypothyroidism, unspecified",mild,2025-06-13,true
+849,474,691,F32.9,"Major depressive disorder, single episode",moderate,2024-05-27,true
+850,520,1573,E78.5,"Hyperlipidaemia, unspecified",mild,2025-01-06,true
+851,555,426,M17.9,"Osteoarthritis of knee, unspecified",severe,2024-02-12,true
+852,626,1594,J45.909,"Unspecified asthma, uncomplicated",severe,2025-01-09,true
+853,766,1949,D50.9,"Iron deficiency anaemia, unspecified",severe,2025-03-10,false
+854,196,719,E78.5,"Hyperlipidaemia, unspecified",mild,2024-06-04,true
+855,179,866,I10,Essential (primary) hypertension,mild,2024-07-25,true
+856,275,1201,O80,Encounter for full-term uncomplicated delivery,severe,2024-10-18,false
+857,695,1460,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2024-12-16,true
+858,642,2468,H25.9,"Age-related cataract, unspecified",moderate,2025-05-29,false
+859,85,1901,I48.91,Unspecified atrial fibrillation,severe,2025-03-03,true
+860,344,1497,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-12-23,true
+861,772,2639,M54.5,Low back pain,moderate,2025-06-23,false
+862,449,2038,S52.501,Unspecified fracture of lower end of right radius,mild,2025-03-24,false
+863,265,853,H25.9,"Age-related cataract, unspecified",mild,2024-07-22,false
+864,84,1231,G43.909,"Migraine, unspecified, not intractable",moderate,2024-10-25,false
+865,695,2311,M54.5,Low back pain,severe,2025-05-05,false
+866,240,1709,E11.9,Type 2 diabetes mellitus without complications,mild,2025-01-29,true
+867,656,2552,F41.1,Generalized anxiety disorder,mild,2025-06-12,true
+868,55,2275,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2025-04-28,true
+869,721,302,M54.5,Low back pain,moderate,2023-12-11,false
+870,108,999,E78.5,"Hyperlipidaemia, unspecified",mild,2024-09-03,true
+871,323,1453,Z00.00,General adult medical examination without abnormal findings,mild,2024-12-13,false
+872,271,2648,G43.909,"Migraine, unspecified, not intractable",mild,2025-06-25,false
+873,666,87,R10.9,Unspecified abdominal pain,severe,2023-07-11,false
+874,127,2044,R10.9,Unspecified abdominal pain,mild,2025-03-24,false
+875,290,1146,E03.9,"Hypothyroidism, unspecified",severe,2024-10-07,true
+876,130,2127,Z00.00,General adult medical examination without abnormal findings,mild,2025-04-07,false
+877,149,855,E11.9,Type 2 diabetes mellitus without complications,mild,2024-07-22,true
+878,464,601,K57.30,Diverticulosis of large intestine without perforation,moderate,2024-04-25,false
+879,463,463,S52.501,Unspecified fracture of lower end of right radius,moderate,2024-02-27,false
+880,466,1919,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-03-05,true
+881,344,656,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-05-10,true
+882,187,2204,E78.5,"Hyperlipidaemia, unspecified",severe,2025-04-16,true
+883,416,1233,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-10-28,true
+884,130,2127,K57.30,Diverticulosis of large intestine without perforation,mild,2025-04-07,false
+885,219,2506,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-06-04,true
+886,676,2162,F32.9,"Major depressive disorder, single episode",severe,2025-04-10,true
+887,619,1485,E03.9,"Hypothyroidism, unspecified",mild,2024-12-20,true
+888,377,1789,G47.33,Obstructive sleep apnoea,moderate,2025-02-11,true
+889,140,93,F41.1,Generalized anxiety disorder,moderate,2023-07-17,true
+890,175,508,E78.5,"Hyperlipidaemia, unspecified",mild,2024-03-18,true
+891,77,283,M17.9,"Osteoarthritis of knee, unspecified",mild,2023-11-29,true
+892,409,616,T78.40,"Allergy, unspecified",moderate,2024-04-29,false
+893,258,2616,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-06-20,true
+894,40,519,I10,Essential (primary) hypertension,mild,2024-03-25,true
+895,311,823,I10,Essential (primary) hypertension,mild,2024-07-08,true
+896,778,1418,M54.5,Low back pain,mild,2024-12-09,false
+897,359,704,Z00.00,General adult medical examination without abnormal findings,moderate,2024-05-29,false
+898,410,1464,Z00.00,General adult medical examination without abnormal findings,moderate,2024-12-16,false
+899,299,886,C50.911,Malignant neoplasm of unspecified site of right breast,severe,2024-08-02,true
+900,356,1109,I10,Essential (primary) hypertension,moderate,2024-09-30,true
+901,623,871,Z00.00,General adult medical examination without abnormal findings,severe,2024-07-26,false
+902,155,1330,M54.5,Low back pain,mild,2024-11-18,false
+903,303,949,M54.5,Low back pain,severe,2024-08-22,false
+904,218,211,I63.9,"Cerebral infarction, unspecified",moderate,2023-10-11,false
+905,400,2057,J06.9,"Acute upper respiratory infection, unspecified",severe,2025-03-26,false
+906,91,2179,G47.33,Obstructive sleep apnoea,moderate,2025-04-14,true
+907,295,522,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-03-25,true
+908,412,862,K57.30,Diverticulosis of large intestine without perforation,moderate,2024-07-24,false
+909,106,2583,N18.3,"Chronic kidney disease, stage 3",moderate,2025-06-16,true
+910,511,998,I10,Essential (primary) hypertension,moderate,2024-09-03,true
+911,57,2626,E11.9,Type 2 diabetes mellitus without complications,severe,2025-06-23,true
+912,300,1861,Z00.00,General adult medical examination without abnormal findings,severe,2025-02-24,false
+913,348,165,K57.30,Diverticulosis of large intestine without perforation,moderate,2023-09-11,false
+914,210,876,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-07-29,true
+915,612,1784,E03.9,"Hypothyroidism, unspecified",moderate,2025-02-10,true
+916,95,583,R10.9,Unspecified abdominal pain,moderate,2024-04-22,false
+917,479,146,O80,Encounter for full-term uncomplicated delivery,severe,2023-08-29,false
+918,320,827,Z00.00,General adult medical examination without abnormal findings,moderate,2024-07-08,false
+919,357,2322,M54.5,Low back pain,severe,2025-05-05,false
+920,667,1831,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-02-19,true
+921,411,880,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-07-31,false
+922,772,2639,S52.501,Unspecified fracture of lower end of right radius,moderate,2025-06-23,false
+923,606,701,I48.91,Unspecified atrial fibrillation,severe,2024-05-28,true
+924,8,2024,R10.9,Unspecified abdominal pain,moderate,2025-03-21,false
+925,53,157,R51.9,"Headache, unspecified",mild,2023-09-04,false
+926,77,734,I10,Essential (primary) hypertension,severe,2024-06-10,true
+927,280,1696,T78.40,"Allergy, unspecified",mild,2025-01-28,false
+928,594,373,E78.5,"Hyperlipidaemia, unspecified",mild,2024-01-15,true
+929,106,581,I48.91,Unspecified atrial fibrillation,moderate,2024-04-22,true
+930,312,2655,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-06-27,true
+931,695,1543,I63.9,"Cerebral infarction, unspecified",severe,2024-12-31,false
+932,280,1696,J45.909,"Unspecified asthma, uncomplicated",mild,2025-01-28,true
+933,455,2521,R51.9,"Headache, unspecified",moderate,2025-06-09,false
+934,250,73,J06.9,"Acute upper respiratory infection, unspecified",mild,2023-06-30,false
+935,464,1260,D50.9,"Iron deficiency anaemia, unspecified",moderate,2024-11-01,false
+936,296,1887,R51.9,"Headache, unspecified",mild,2025-02-28,false
+937,758,1123,R51.9,"Headache, unspecified",moderate,2024-10-01,false
+938,774,2568,F32.9,"Major depressive disorder, single episode",mild,2025-06-16,true
+939,35,290,F32.9,"Major depressive disorder, single episode",severe,2023-11-30,true
+940,206,2165,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-04-10,true
+941,404,1608,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-01-13,false
+942,520,1573,N39.0,"Urinary tract infection, site not specified",moderate,2025-01-06,false
+943,123,1306,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-11-11,false
+944,615,1955,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-03-11,true
+945,305,2031,Z00.00,General adult medical examination without abnormal findings,moderate,2025-03-24,false
+946,624,2588,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2025-06-16,true
+947,519,1205,G43.909,"Migraine, unspecified, not intractable",moderate,2024-10-21,false
+948,527,160,E11.9,Type 2 diabetes mellitus without complications,moderate,2023-09-04,true
+949,480,535,T78.40,"Allergy, unspecified",mild,2024-03-27,false
+950,676,2497,E03.9,"Hypothyroidism, unspecified",mild,2025-06-03,true
+951,549,1276,L20.9,"Atopic dermatitis, unspecified",mild,2024-11-05,true
+952,130,1993,Z00.00,General adult medical examination without abnormal findings,moderate,2025-03-17,false
+953,301,438,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2024-02-19,true
+954,434,1965,I48.91,Unspecified atrial fibrillation,moderate,2025-03-12,true
+955,138,2206,E03.9,"Hypothyroidism, unspecified",mild,2025-04-17,true
+956,438,1313,I48.91,Unspecified atrial fibrillation,mild,2024-11-13,true
+957,698,2284,M54.5,Low back pain,moderate,2025-04-29,false
+958,11,1655,E78.5,"Hyperlipidaemia, unspecified",severe,2025-01-21,true
+959,418,2484,F41.1,Generalized anxiety disorder,mild,2025-06-02,true
+960,322,235,E78.5,"Hyperlipidaemia, unspecified",moderate,2023-11-01,true
+961,149,765,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-06-20,true
+962,515,2176,D50.9,"Iron deficiency anaemia, unspecified",moderate,2025-04-14,false
+963,219,1787,I10,Essential (primary) hypertension,moderate,2025-02-11,true
+964,158,602,F41.1,Generalized anxiety disorder,mild,2024-04-25,true
+965,726,882,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-07-31,true
+966,620,1174,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-10-14,true
+967,70,771,D50.9,"Iron deficiency anaemia, unspecified",moderate,2024-06-24,false
+968,606,701,R51.9,"Headache, unspecified",severe,2024-05-28,false
+969,134,784,K57.30,Diverticulosis of large intestine without perforation,severe,2024-06-25,false
+970,310,909,N39.0,"Urinary tract infection, site not specified",mild,2024-08-09,false
+971,488,1345,R51.9,"Headache, unspecified",mild,2024-11-22,false
+972,424,1,K57.30,Diverticulosis of large intestine without perforation,mild,2023-01-23,false
+973,102,1680,Z00.00,General adult medical examination without abnormal findings,moderate,2025-01-27,false
+974,474,388,D50.9,"Iron deficiency anaemia, unspecified",severe,2024-01-22,false
+975,607,889,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-08-02,true
+976,761,2635,N39.0,"Urinary tract infection, site not specified",mild,2025-06-23,false
+977,130,1993,I10,Essential (primary) hypertension,moderate,2025-03-17,true
+978,613,2314,I10,Essential (primary) hypertension,severe,2025-05-05,true
+979,384,1291,E11.9,Type 2 diabetes mellitus without complications,mild,2024-11-08,true
+980,135,487,G43.909,"Migraine, unspecified, not intractable",moderate,2024-03-08,false
+981,11,884,N39.0,"Urinary tract infection, site not specified",severe,2024-08-01,false
+982,53,713,J06.9,"Acute upper respiratory infection, unspecified",severe,2024-06-03,false
+983,286,1456,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-12-16,true
+984,356,843,E03.9,"Hypothyroidism, unspecified",mild,2024-07-15,true
+985,577,1862,E11.9,Type 2 diabetes mellitus without complications,mild,2025-02-24,true
+986,475,2326,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2025-05-05,true
+987,304,791,F41.1,Generalized anxiety disorder,moderate,2024-06-27,true
+988,484,943,I10,Essential (primary) hypertension,moderate,2024-08-21,true
+989,659,2653,M54.5,Low back pain,mild,2025-06-26,false
+990,547,2432,G43.909,"Migraine, unspecified, not intractable",severe,2025-05-23,false
+991,40,422,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-02-09,true
+992,316,1548,E78.5,"Hyperlipidaemia, unspecified",severe,2025-01-01,true
+993,722,259,J06.9,"Acute upper respiratory infection, unspecified",mild,2023-11-15,false
+994,253,577,N39.0,"Urinary tract infection, site not specified",moderate,2024-04-19,false
+995,18,201,J06.9,"Acute upper respiratory infection, unspecified",moderate,2023-10-09,false
+996,284,1167,K57.30,Diverticulosis of large intestine without perforation,moderate,2024-10-10,false
+997,304,791,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-06-27,true
+998,159,1750,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-02-04,false
+999,603,1083,T78.40,"Allergy, unspecified",moderate,2024-09-25,false
+1000,311,823,I10,Essential (primary) hypertension,mild,2024-07-08,true
+1001,528,1459,R10.9,Unspecified abdominal pain,severe,2024-12-16,false
+1002,12,2203,E78.5,"Hyperlipidaemia, unspecified",severe,2025-04-16,true
+1003,476,859,E03.9,"Hypothyroidism, unspecified",moderate,2024-07-23,true
+1004,546,2391,I10,Essential (primary) hypertension,mild,2025-05-16,true
+1005,288,1604,F32.9,"Major depressive disorder, single episode",mild,2025-01-13,true
+1006,712,1737,T78.40,"Allergy, unspecified",mild,2025-02-03,false
+1007,94,2234,F41.1,Generalized anxiety disorder,severe,2025-04-22,true
+1008,212,1508,M54.5,Low back pain,moderate,2024-12-25,false
+1009,413,162,J06.9,"Acute upper respiratory infection, unspecified",mild,2023-09-08,false
+1010,752,1108,E03.9,"Hypothyroidism, unspecified",severe,2024-09-30,true
+1011,535,1245,F41.1,Generalized anxiety disorder,moderate,2024-10-28,true
+1012,356,843,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-07-15,true
+1013,499,1161,R51.9,"Headache, unspecified",moderate,2024-10-09,false
+1014,616,2208,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-04-17,true
+1015,508,957,G47.33,Obstructive sleep apnoea,mild,2024-08-23,true
+1016,101,1694,Z00.00,General adult medical examination without abnormal findings,moderate,2025-01-28,false
+1017,316,299,Z00.00,General adult medical examination without abnormal findings,mild,2023-12-11,false
+1018,515,2563,F41.1,Generalized anxiety disorder,mild,2025-06-13,true
+1019,697,665,G47.33,Obstructive sleep apnoea,moderate,2024-05-13,true
+1020,611,1298,E11.9,Type 2 diabetes mellitus without complications,mild,2024-11-11,true
+1021,40,519,R10.9,Unspecified abdominal pain,moderate,2024-03-25,false
+1022,497,1785,E78.5,"Hyperlipidaemia, unspecified",mild,2025-02-11,true
+1023,728,339,E03.9,"Hypothyroidism, unspecified",severe,2024-01-01,true
+1024,344,656,G43.909,"Migraine, unspecified, not intractable",moderate,2024-05-10,false
+1025,732,1307,L20.9,"Atopic dermatitis, unspecified",mild,2024-11-12,true
+1026,18,229,E03.9,"Hypothyroidism, unspecified",moderate,2023-10-26,true
+1027,240,1709,H25.9,"Age-related cataract, unspecified",mild,2025-01-29,false
+1028,561,2664,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-06-30,true
+1029,72,890,I48.91,Unspecified atrial fibrillation,moderate,2024-08-05,true
+1030,158,49,D50.9,"Iron deficiency anaemia, unspecified",moderate,2023-05-26,false
+1031,361,718,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-06-04,true
+1032,758,2676,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-06-30,true
+1033,48,750,I10,Essential (primary) hypertension,mild,2024-06-14,true
+1034,574,870,E03.9,"Hypothyroidism, unspecified",moderate,2024-07-26,true
+1035,401,516,Z00.00,General adult medical examination without abnormal findings,moderate,2024-03-21,false
+1036,598,2590,F41.1,Generalized anxiety disorder,moderate,2025-06-17,true
+1037,111,2136,O80,Encounter for full-term uncomplicated delivery,severe,2025-04-07,false
+1038,660,2102,Z00.00,General adult medical examination without abnormal findings,moderate,2025-04-01,false
+1039,153,1877,M54.5,Low back pain,mild,2025-02-27,false
+1040,60,1471,N18.3,"Chronic kidney disease, stage 3",mild,2024-12-17,true
+1041,172,407,R10.9,Unspecified abdominal pain,mild,2024-01-31,false
+1042,70,771,I25.10,Atherosclerotic heart disease of native coronary artery,moderate,2024-06-24,true
+1043,698,2284,I10,Essential (primary) hypertension,moderate,2025-04-29,true
+1044,235,717,N39.0,"Urinary tract infection, site not specified",moderate,2024-06-04,false
+1045,726,1129,I48.91,Unspecified atrial fibrillation,moderate,2024-10-01,true
+1046,590,878,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-07-30,true
+1047,77,51,M54.5,Low back pain,mild,2023-05-29,false
+1048,349,68,J45.909,"Unspecified asthma, uncomplicated",mild,2023-06-20,true
+1049,656,2552,E11.9,Type 2 diabetes mellitus without complications,mild,2025-06-12,true
+1050,420,724,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-06-05,true
+1051,372,2597,E11.9,Type 2 diabetes mellitus without complications,mild,2025-06-18,true
+1052,542,1179,D50.9,"Iron deficiency anaemia, unspecified",moderate,2024-10-14,false
+1053,339,1211,Z00.00,General adult medical examination without abnormal findings,moderate,2024-10-21,false
+1054,2,677,F41.1,Generalized anxiety disorder,mild,2024-05-21,true
+1055,20,2180,R10.9,Unspecified abdominal pain,mild,2025-04-14,false
+1056,289,883,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-07-31,true
+1057,601,1075,R10.9,Unspecified abdominal pain,mild,2024-09-23,false
+1058,713,1312,N39.0,"Urinary tract infection, site not specified",severe,2024-11-13,false
+1059,360,744,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-06-11,true
+1060,606,1065,Z00.00,General adult medical examination without abnormal findings,moderate,2024-09-23,false
+1061,340,2371,E11.9,Type 2 diabetes mellitus without complications,mild,2025-05-12,true
+1062,565,529,E11.9,Type 2 diabetes mellitus without complications,mild,2024-03-26,true
+1063,340,2371,C50.911,Malignant neoplasm of unspecified site of right breast,moderate,2025-05-12,true
+1064,710,2228,I10,Essential (primary) hypertension,mild,2025-04-21,true
+1065,158,425,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-02-12,true
+1066,749,303,J45.909,"Unspecified asthma, uncomplicated",moderate,2023-12-11,true
+1067,517,294,Z00.00,General adult medical examination without abnormal findings,mild,2023-12-04,false
+1068,635,528,J45.909,"Unspecified asthma, uncomplicated",mild,2024-03-26,true
+1069,639,1911,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-03-04,true
+1070,326,16,J06.9,"Acute upper respiratory infection, unspecified",moderate,2023-03-20,false
+1071,592,124,K57.30,Diverticulosis of large intestine without perforation,moderate,2023-08-10,false
+1072,612,1784,J06.9,"Acute upper respiratory infection, unspecified",severe,2025-02-10,false
+1073,112,1966,T78.40,"Allergy, unspecified",mild,2025-03-12,false
+1074,663,28,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2023-04-28,true
+1075,603,1588,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2025-01-08,true
+1076,542,2266,R10.9,Unspecified abdominal pain,moderate,2025-04-28,false
+1077,792,801,N39.0,"Urinary tract infection, site not specified",mild,2024-07-01,false
+1078,227,1708,I63.9,"Cerebral infarction, unspecified",mild,2025-01-29,false
+1079,710,69,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2023-06-21,true
+1080,701,1716,K57.30,Diverticulosis of large intestine without perforation,moderate,2025-01-30,false
+1081,423,834,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-07-11,false
+1082,253,610,N18.3,"Chronic kidney disease, stage 3",moderate,2024-04-29,true
+1083,46,100,I10,Essential (primary) hypertension,mild,2023-07-24,true
+1084,612,1784,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2025-02-10,true
+1085,131,2333,I10,Essential (primary) hypertension,mild,2025-05-07,true
+1086,40,322,M54.5,Low back pain,mild,2023-12-20,false
+1087,467,1913,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-03-05,false
+1088,252,1841,I10,Essential (primary) hypertension,mild,2025-02-21,true
+1089,792,1165,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-10-10,false
+1090,338,1951,D50.9,"Iron deficiency anaemia, unspecified",severe,2025-03-10,false
+1091,104,1299,J45.909,"Unspecified asthma, uncomplicated",mild,2024-11-11,true
+1092,665,114,E11.9,Type 2 diabetes mellitus without complications,mild,2023-08-02,true
+1093,418,1098,N18.3,"Chronic kidney disease, stage 3",mild,2024-09-27,true
+1094,325,94,R51.9,"Headache, unspecified",moderate,2023-07-17,false
+1095,305,2031,N39.0,"Urinary tract infection, site not specified",mild,2025-03-24,false
+1096,108,419,I10,Essential (primary) hypertension,moderate,2024-02-05,true
+1097,676,2162,C50.911,Malignant neoplasm of unspecified site of right breast,moderate,2025-04-10,true
+1098,21,2006,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-03-19,true
+1099,219,2499,J45.909,"Unspecified asthma, uncomplicated",mild,2025-06-03,true
+1100,274,332,J06.9,"Acute upper respiratory infection, unspecified",moderate,2023-12-25,false
+1101,320,359,C50.911,Malignant neoplasm of unspecified site of right breast,severe,2024-01-08,true
+1102,799,849,L20.9,"Atopic dermatitis, unspecified",mild,2024-07-19,true
+1103,697,1239,N18.3,"Chronic kidney disease, stage 3",severe,2024-10-28,true
+1104,681,490,E11.9,Type 2 diabetes mellitus without complications,mild,2024-03-11,true
+1105,767,2015,H25.9,"Age-related cataract, unspecified",moderate,2025-03-20,false
+1106,12,2425,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-05-22,true
+1107,588,186,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2023-09-28,true
+1108,167,729,E11.9,Type 2 diabetes mellitus without complications,mild,2024-06-07,true
+1109,670,1148,E11.9,Type 2 diabetes mellitus without complications,mild,2024-10-07,true
+1110,758,1236,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-10-28,true
+1111,564,2422,Z00.00,General adult medical examination without abnormal findings,mild,2025-05-22,false
+1112,213,838,J45.909,"Unspecified asthma, uncomplicated",mild,2024-07-12,true
+1113,505,2297,M54.5,Low back pain,moderate,2025-05-01,false
+1114,373,2684,Z00.00,General adult medical examination without abnormal findings,moderate,2025-06-30,false
+1115,252,655,Z00.00,General adult medical examination without abnormal findings,mild,2024-05-10,false
+1116,785,1038,S52.501,Unspecified fracture of lower end of right radius,moderate,2024-09-13,false
+1117,540,1321,I10,Essential (primary) hypertension,moderate,2024-11-15,true
+1118,90,2144,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-04-08,false
+1119,257,1523,F41.1,Generalized anxiety disorder,severe,2024-12-30,true
+1120,655,626,S52.501,Unspecified fracture of lower end of right radius,moderate,2024-05-02,false
+1121,597,175,M17.9,"Osteoarthritis of knee, unspecified",severe,2023-09-19,true
+1122,683,1252,R10.9,Unspecified abdominal pain,severe,2024-10-30,false
+1123,494,2055,Z00.00,General adult medical examination without abnormal findings,mild,2025-03-25,false
+1124,248,2195,R51.9,"Headache, unspecified",moderate,2025-04-15,false
+1125,674,424,T78.40,"Allergy, unspecified",moderate,2024-02-12,false
+1126,151,1681,M54.5,Low back pain,mild,2025-01-27,false
+1127,169,429,N18.3,"Chronic kidney disease, stage 3",moderate,2024-02-13,true
+1128,451,1183,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-10-15,true
+1129,748,2523,R10.9,Unspecified abdominal pain,moderate,2025-06-09,false
+1130,37,815,Z00.00,General adult medical examination without abnormal findings,severe,2024-07-03,false
+1131,60,207,G43.909,"Migraine, unspecified, not intractable",severe,2023-10-10,false
+1132,156,1769,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-02-10,false
+1133,344,656,J45.909,"Unspecified asthma, uncomplicated",mild,2024-05-10,true
+1134,59,2647,F32.9,"Major depressive disorder, single episode",moderate,2025-06-25,true
+1135,40,519,I10,Essential (primary) hypertension,moderate,2024-03-25,true
+1136,97,1262,I10,Essential (primary) hypertension,moderate,2024-11-01,true
+1137,477,1055,R10.9,Unspecified abdominal pain,moderate,2024-09-19,false
+1138,216,592,N39.0,"Urinary tract infection, site not specified",moderate,2024-04-23,false
+1139,95,1282,G43.909,"Migraine, unspecified, not intractable",mild,2024-11-06,false
+1140,350,541,Z00.00,General adult medical examination without abnormal findings,mild,2024-04-01,false
+1141,563,2004,G43.909,"Migraine, unspecified, not intractable",moderate,2025-03-18,false
+1142,149,855,I10,Essential (primary) hypertension,mild,2024-07-22,true
+1143,617,2295,I25.10,Atherosclerotic heart disease of native coronary artery,moderate,2025-04-30,true
+1144,397,1102,N39.0,"Urinary tract infection, site not specified",moderate,2024-09-30,false
+1145,672,1612,I10,Essential (primary) hypertension,mild,2025-01-13,true
+1146,400,2325,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-05-05,false
+1147,409,2255,M54.5,Low back pain,moderate,2025-04-25,false
+1148,201,2560,E03.9,"Hypothyroidism, unspecified",mild,2025-06-13,true
+1149,167,729,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2024-06-07,true
+1150,792,801,M54.5,Low back pain,moderate,2024-07-01,false
+1151,562,399,M54.5,Low back pain,severe,2024-01-30,false
+1152,630,2660,N18.3,"Chronic kidney disease, stage 3",moderate,2025-06-27,true
+1153,766,232,R51.9,"Headache, unspecified",mild,2023-10-30,false
+1154,60,527,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-03-26,true
+1155,499,2124,E11.9,Type 2 diabetes mellitus without complications,mild,2025-04-07,true
+1156,219,2499,E11.9,Type 2 diabetes mellitus without complications,severe,2025-06-03,true
+1157,477,1223,Z00.00,General adult medical examination without abnormal findings,mild,2024-10-23,false
+1158,211,1127,I10,Essential (primary) hypertension,mild,2024-10-01,true
+1159,346,166,N18.3,"Chronic kidney disease, stage 3",moderate,2023-09-11,true
+1160,199,2675,Z00.00,General adult medical examination without abnormal findings,moderate,2025-06-30,false
+1161,569,231,Z00.00,General adult medical examination without abnormal findings,moderate,2023-10-30,false
+1162,282,1214,I10,Essential (primary) hypertension,moderate,2024-10-21,true
+1163,40,322,D50.9,"Iron deficiency anaemia, unspecified",severe,2023-12-20,false
+1164,377,845,M54.5,Low back pain,moderate,2024-07-17,false
+1165,125,1777,M54.5,Low back pain,mild,2025-02-10,false
+1166,141,218,M54.5,Low back pain,moderate,2023-10-17,false
+1167,190,75,J06.9,"Acute upper respiratory infection, unspecified",moderate,2023-07-03,false
+1168,527,160,E78.5,"Hyperlipidaemia, unspecified",moderate,2023-09-04,true
+1169,210,982,I48.91,Unspecified atrial fibrillation,moderate,2024-09-02,true
+1170,120,115,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2023-08-02,true
+1171,517,593,E11.9,Type 2 diabetes mellitus without complications,severe,2024-04-24,true
+1172,154,2388,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2025-05-15,true
+1173,19,2254,G47.33,Obstructive sleep apnoea,mild,2025-04-25,true
+1174,532,479,N39.0,"Urinary tract infection, site not specified",severe,2024-03-05,false
+1175,60,527,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-03-26,true
+1176,562,709,Z00.00,General adult medical examination without abnormal findings,severe,2024-06-03,false
+1177,486,1626,D50.9,"Iron deficiency anaemia, unspecified",moderate,2025-01-16,false
+1178,108,2569,I63.9,"Cerebral infarction, unspecified",severe,2025-06-16,false
+1179,592,204,G43.909,"Migraine, unspecified, not intractable",mild,2023-10-09,false
+1180,144,1562,J45.909,"Unspecified asthma, uncomplicated",mild,2025-01-06,true
+1181,328,270,Z00.00,General adult medical examination without abnormal findings,mild,2023-11-21,false
+1182,692,2481,F41.1,Generalized anxiety disorder,moderate,2025-06-02,true
+1183,504,1096,T78.40,"Allergy, unspecified",severe,2024-09-27,false
+1184,398,1876,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-02-26,true
+1185,77,814,T78.40,"Allergy, unspecified",mild,2024-07-03,false
+1186,605,1424,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-12-09,true
+1187,735,2209,J45.909,"Unspecified asthma, uncomplicated",mild,2025-04-17,true
+1188,368,547,E11.9,Type 2 diabetes mellitus without complications,mild,2024-04-03,true
+1189,476,200,E03.9,"Hypothyroidism, unspecified",moderate,2023-10-09,true
+1190,32,867,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-07-25,false
+1191,398,1473,N39.0,"Urinary tract infection, site not specified",moderate,2024-12-18,false
+1192,304,402,N39.0,"Urinary tract infection, site not specified",moderate,2024-01-31,false
+1193,359,704,J06.9,"Acute upper respiratory infection, unspecified",severe,2024-05-29,false
+1194,303,2595,E78.5,"Hyperlipidaemia, unspecified",mild,2025-06-18,true
+1195,219,2499,R51.9,"Headache, unspecified",mild,2025-06-03,false
+1196,285,216,F32.9,"Major depressive disorder, single episode",mild,2023-10-16,true
+1197,628,1812,E03.9,"Hypothyroidism, unspecified",severe,2025-02-17,true
+1198,240,703,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-05-29,true
+1199,443,1761,I10,Essential (primary) hypertension,moderate,2025-02-06,true
+1200,389,2230,E03.9,"Hypothyroidism, unspecified",severe,2025-04-21,true
+1201,348,165,N39.0,"Urinary tract infection, site not specified",moderate,2023-09-11,false
+1202,635,233,E11.9,Type 2 diabetes mellitus without complications,mild,2023-10-30,true
+1203,11,884,F41.1,Generalized anxiety disorder,moderate,2024-08-01,true
+1204,99,809,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-07-02,true
+1205,125,538,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-03-29,false
+1206,548,925,I48.91,Unspecified atrial fibrillation,moderate,2024-08-15,true
+1207,488,306,E03.9,"Hypothyroidism, unspecified",mild,2023-12-12,true
+1208,166,711,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-06-03,true
+1209,348,165,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2023-09-11,true
+1210,260,378,F41.1,Generalized anxiety disorder,moderate,2024-01-17,true
+1211,549,1638,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-01-17,true
+1212,138,2665,R10.9,Unspecified abdominal pain,mild,2025-06-30,false
+1213,676,2497,N39.0,"Urinary tract infection, site not specified",moderate,2025-06-03,false
+1214,718,2527,F32.9,"Major depressive disorder, single episode",mild,2025-06-09,true
+1215,762,1120,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-09-30,false
+1216,558,101,I48.91,Unspecified atrial fibrillation,severe,2023-07-24,true
+1217,191,521,Z00.00,General adult medical examination without abnormal findings,mild,2024-03-25,false
+1218,766,2008,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-03-19,false
+1219,260,185,L20.9,"Atopic dermatitis, unspecified",severe,2023-09-27,true
+1220,737,1770,Z00.00,General adult medical examination without abnormal findings,mild,2025-02-10,false
+1221,423,834,O80,Encounter for full-term uncomplicated delivery,mild,2024-07-11,false
+1222,248,2195,I10,Essential (primary) hypertension,moderate,2025-04-15,true
+1223,684,1603,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-01-10,false
+1224,228,1896,I10,Essential (primary) hypertension,mild,2025-03-03,true
+1225,3,1396,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-12-02,false
+1226,736,1952,F32.9,"Major depressive disorder, single episode",mild,2025-03-11,true
+1227,316,299,M17.9,"Osteoarthritis of knee, unspecified",mild,2023-12-11,true
+1228,458,2018,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2025-03-20,true
+1229,354,1500,L20.9,"Atopic dermatitis, unspecified",moderate,2024-12-23,true
+1230,566,351,J45.909,"Unspecified asthma, uncomplicated",mild,2024-01-05,true
+1231,340,2371,F32.9,"Major depressive disorder, single episode",moderate,2025-05-12,true
+1232,161,684,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-05-27,true
+1233,227,1486,H25.9,"Age-related cataract, unspecified",moderate,2024-12-20,false
+1234,556,2056,E11.9,Type 2 diabetes mellitus without complications,mild,2025-03-26,true
+1235,727,1954,I10,Essential (primary) hypertension,mild,2025-03-11,true
+1236,552,1062,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-09-20,false
+1237,617,564,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-04-12,true
+1238,594,1463,F32.9,"Major depressive disorder, single episode",moderate,2024-12-16,true
+1239,279,1093,R51.9,"Headache, unspecified",moderate,2024-09-26,false
+1240,645,1015,E11.9,Type 2 diabetes mellitus without complications,severe,2024-09-09,true
+1241,725,928,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-08-16,true
+1242,187,896,N39.0,"Urinary tract infection, site not specified",mild,2024-08-05,false
+1243,195,2052,F41.1,Generalized anxiety disorder,moderate,2025-03-25,true
+1244,698,1515,G43.909,"Migraine, unspecified, not intractable",mild,2024-12-25,false
+1245,348,2093,M17.9,"Osteoarthritis of knee, unspecified",moderate,2025-03-31,true
+1246,99,809,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-07-02,true
+1247,531,1656,H25.9,"Age-related cataract, unspecified",mild,2025-01-21,false
+1248,275,1201,G47.33,Obstructive sleep apnoea,moderate,2024-10-18,true
+1249,260,620,G47.33,Obstructive sleep apnoea,mild,2024-04-30,true
+1250,172,798,I10,Essential (primary) hypertension,moderate,2024-06-28,true
+1251,496,1749,F32.9,"Major depressive disorder, single episode",moderate,2025-02-04,true
+1252,138,2231,H25.9,"Age-related cataract, unspecified",moderate,2025-04-21,false
+1253,33,2045,F41.1,Generalized anxiety disorder,mild,2025-03-24,true
+1254,80,1064,F41.1,Generalized anxiety disorder,severe,2024-09-23,true
+1255,104,2599,I48.91,Unspecified atrial fibrillation,moderate,2025-06-18,true
+1256,659,2395,N18.3,"Chronic kidney disease, stage 3",severe,2025-05-16,true
+1257,443,1899,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-03-03,true
+1258,667,1248,S52.501,Unspecified fracture of lower end of right radius,mild,2024-10-29,false
+1259,64,614,D50.9,"Iron deficiency anaemia, unspecified",moderate,2024-04-29,false
+1260,288,1182,T78.40,"Allergy, unspecified",moderate,2024-10-14,false
+1261,82,1069,I48.91,Unspecified atrial fibrillation,mild,2024-09-23,true
+1262,55,2365,I10,Essential (primary) hypertension,mild,2025-05-12,true
+1263,161,684,F41.1,Generalized anxiety disorder,mild,2024-05-27,true
+1264,139,1193,Z00.00,General adult medical examination without abnormal findings,moderate,2024-10-17,false
+1265,314,2183,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-04-14,true
+1266,61,1815,G43.909,"Migraine, unspecified, not intractable",moderate,2025-02-17,false
+1267,339,2436,R10.9,Unspecified abdominal pain,moderate,2025-05-26,false
+1268,627,1888,E78.5,"Hyperlipidaemia, unspecified",mild,2025-02-28,true
+1269,301,438,Z00.00,General adult medical examination without abnormal findings,moderate,2024-02-19,false
+1270,491,1173,O80,Encounter for full-term uncomplicated delivery,severe,2024-10-14,false
+1271,732,3,R10.9,Unspecified abdominal pain,mild,2023-01-27,false
+1272,197,580,M54.5,Low back pain,mild,2024-04-22,false
+1273,379,2359,I48.91,Unspecified atrial fibrillation,mild,2025-05-12,true
+1274,234,1693,E03.9,"Hypothyroidism, unspecified",mild,2025-01-28,true
+1275,389,2108,I10,Essential (primary) hypertension,moderate,2025-04-02,true
+1276,619,1360,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-11-25,true
+1277,317,2117,M54.5,Low back pain,severe,2025-04-04,false
+1278,478,841,I48.91,Unspecified atrial fibrillation,mild,2024-07-15,true
+1279,361,1105,I63.9,"Cerebral infarction, unspecified",moderate,2024-09-30,false
+1280,571,914,N18.3,"Chronic kidney disease, stage 3",severe,2024-08-12,true
+1281,495,1551,T78.40,"Allergy, unspecified",moderate,2025-01-01,false
+1282,95,1282,M54.5,Low back pain,mild,2024-11-06,false
+1283,121,1916,F41.1,Generalized anxiety disorder,moderate,2025-03-05,true
+1284,605,1424,M54.5,Low back pain,moderate,2024-12-09,false
+1285,424,1,G47.33,Obstructive sleep apnoea,mild,2023-01-23,true
+1286,62,810,F32.9,"Major depressive disorder, single episode",moderate,2024-07-02,true
+1287,388,2492,R51.9,"Headache, unspecified",severe,2025-06-02,false
+1288,227,1486,M54.5,Low back pain,severe,2024-12-20,false
+1289,30,1024,S52.501,Unspecified fracture of lower end of right radius,mild,2024-09-09,false
+1290,696,824,K57.30,Diverticulosis of large intestine without perforation,moderate,2024-07-08,false
+1291,653,1939,E03.9,"Hypothyroidism, unspecified",moderate,2025-03-10,true
+1292,476,200,E11.9,Type 2 diabetes mellitus without complications,severe,2023-10-09,true
+1293,624,2060,E11.9,Type 2 diabetes mellitus without complications,severe,2025-03-26,true
+1294,633,1472,I10,Essential (primary) hypertension,moderate,2024-12-17,true
+1295,149,765,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-06-20,true
+1296,554,2398,H25.9,"Age-related cataract, unspecified",moderate,2025-05-19,false
+1297,785,1038,F41.1,Generalized anxiety disorder,moderate,2024-09-13,true
+1298,318,2181,E78.5,"Hyperlipidaemia, unspecified",severe,2025-04-14,true
+1299,311,1197,Z00.00,General adult medical examination without abnormal findings,moderate,2024-10-18,false
+1300,372,1818,G47.33,Obstructive sleep apnoea,moderate,2025-02-17,true
+1301,577,1862,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-02-24,true
+1302,199,2675,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-06-30,true
+1303,90,2628,H25.9,"Age-related cataract, unspecified",moderate,2025-06-23,false
+1304,791,1624,M54.5,Low back pain,mild,2025-01-14,false
+1305,305,2031,M54.5,Low back pain,moderate,2025-03-24,false
+1306,714,945,H25.9,"Age-related cataract, unspecified",mild,2024-08-21,false
+1307,117,2567,I10,Essential (primary) hypertension,severe,2025-06-16,true
+1308,208,1190,S52.501,Unspecified fracture of lower end of right radius,mild,2024-10-16,false
+1309,255,171,O80,Encounter for full-term uncomplicated delivery,moderate,2023-09-18,false
+1310,240,789,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2024-06-26,true
+1311,695,1543,H25.9,"Age-related cataract, unspecified",moderate,2024-12-31,false
+1312,681,1636,I10,Essential (primary) hypertension,severe,2025-01-17,true
+1313,649,1160,N18.3,"Chronic kidney disease, stage 3",mild,2024-10-08,true
+1314,331,2378,S52.501,Unspecified fracture of lower end of right radius,moderate,2025-05-13,false
+1315,616,1350,N39.0,"Urinary tract infection, site not specified",severe,2024-11-25,false
+1316,155,1330,S52.501,Unspecified fracture of lower end of right radius,mild,2024-11-18,false
+1317,60,1471,E11.9,Type 2 diabetes mellitus without complications,mild,2024-12-17,true
+1318,569,1168,E11.9,Type 2 diabetes mellitus without complications,severe,2024-10-10,true
+1319,660,1047,E11.9,Type 2 diabetes mellitus without complications,mild,2024-09-17,true
+1320,505,2343,T78.40,"Allergy, unspecified",mild,2025-05-08,false
+1321,153,1877,I10,Essential (primary) hypertension,moderate,2025-02-27,true
+1322,446,2668,Z00.00,General adult medical examination without abnormal findings,moderate,2025-06-30,false
+1323,410,1270,E03.9,"Hypothyroidism, unspecified",mild,2024-11-04,true
+1324,203,2520,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-06-09,true
+1325,44,2621,I10,Essential (primary) hypertension,moderate,2025-06-23,true
+1326,27,2454,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2025-05-27,true
+1327,163,361,D50.9,"Iron deficiency anaemia, unspecified",mild,2024-01-09,false
+1328,582,1957,M54.5,Low back pain,mild,2025-03-11,false
+1329,740,4,I48.91,Unspecified atrial fibrillation,moderate,2023-02-01,true
+1330,388,1169,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-10-11,false
+1331,645,1352,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2024-11-25,true
+1332,72,890,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-08-05,false
+1333,326,640,K57.30,Diverticulosis of large intestine without perforation,moderate,2024-05-06,false
+1334,281,2001,M17.9,"Osteoarthritis of knee, unspecified",severe,2025-03-18,true
+1335,36,2126,K57.30,Diverticulosis of large intestine without perforation,mild,2025-04-07,false
+1336,272,783,S52.501,Unspecified fracture of lower end of right radius,mild,2024-06-25,false
+1337,506,70,I10,Essential (primary) hypertension,mild,2023-06-22,true
+1338,353,1279,O80,Encounter for full-term uncomplicated delivery,moderate,2024-11-05,false
+1339,209,1084,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-09-25,true
+1340,358,1553,J45.909,"Unspecified asthma, uncomplicated",mild,2025-01-01,true
+1341,412,1257,E11.9,Type 2 diabetes mellitus without complications,mild,2024-10-31,true
+1342,232,1518,J45.909,"Unspecified asthma, uncomplicated",mild,2024-12-26,true
+1343,170,1922,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2025-03-06,true
+1344,451,2474,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-05-30,true
+1345,20,2340,I10,Essential (primary) hypertension,moderate,2025-05-07,true
+1346,620,599,K57.30,Diverticulosis of large intestine without perforation,moderate,2024-04-25,false
+1347,744,192,D50.9,"Iron deficiency anaemia, unspecified",mild,2023-10-02,false
+1348,418,2484,E03.9,"Hypothyroidism, unspecified",mild,2025-06-02,true
+1349,708,2533,M54.5,Low back pain,mild,2025-06-09,false
+1350,260,185,J06.9,"Acute upper respiratory infection, unspecified",moderate,2023-09-27,false
+1351,320,827,F32.9,"Major depressive disorder, single episode",mild,2024-07-08,true
+1352,526,617,O80,Encounter for full-term uncomplicated delivery,mild,2024-04-29,false
+1353,29,98,O80,Encounter for full-term uncomplicated delivery,mild,2023-07-24,false
+1354,560,119,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2023-08-07,true
+1355,637,2296,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2025-05-01,true
+1356,528,1459,E03.9,"Hypothyroidism, unspecified",moderate,2024-12-16,true
+1357,695,1232,M54.5,Low back pain,severe,2024-10-25,false
+1358,183,2491,F41.1,Generalized anxiety disorder,mild,2025-06-02,true
+1359,719,2148,Z00.00,General adult medical examination without abnormal findings,mild,2025-04-09,false
+1360,238,103,F32.9,"Major depressive disorder, single episode",moderate,2023-07-25,true
+1361,755,1775,R51.9,"Headache, unspecified",moderate,2025-02-10,false
+1362,658,804,Z00.00,General adult medical examination without abnormal findings,moderate,2024-07-01,false
+1363,439,1226,K57.30,Diverticulosis of large intestine without perforation,mild,2024-10-24,false
+1364,408,2532,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-06-09,true
+1365,490,756,N39.0,"Urinary tract infection, site not specified",mild,2024-06-17,false
+1366,623,2403,E03.9,"Hypothyroidism, unspecified",moderate,2025-05-19,true
+1367,710,2427,I10,Essential (primary) hypertension,mild,2025-05-23,true
+1368,476,859,F41.1,Generalized anxiety disorder,severe,2024-07-23,true
+1369,515,2176,Z00.00,General adult medical examination without abnormal findings,mild,2025-04-14,false
+1370,204,898,E11.9,Type 2 diabetes mellitus without complications,severe,2024-08-05,true
+1371,153,304,J45.909,"Unspecified asthma, uncomplicated",severe,2023-12-12,true
+1372,296,1887,R51.9,"Headache, unspecified",moderate,2025-02-28,false
+1373,711,2475,E11.9,Type 2 diabetes mellitus without complications,mild,2025-05-30,true
+1374,496,1749,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-02-04,true
+1375,597,1882,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-02-27,true
+1376,337,989,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-09-02,true
+1377,182,1079,O80,Encounter for full-term uncomplicated delivery,mild,2024-09-24,false
+1378,356,872,J45.909,"Unspecified asthma, uncomplicated",mild,2024-07-29,true
+1379,515,2220,Z00.00,General adult medical examination without abnormal findings,severe,2025-04-21,false
+1380,468,63,R10.9,Unspecified abdominal pain,mild,2023-06-12,false
+1381,282,1214,G43.909,"Migraine, unspecified, not intractable",mild,2024-10-21,false
+1382,476,859,R10.9,Unspecified abdominal pain,mild,2024-07-23,false
+1383,626,1001,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-09-03,true
+1384,4,1641,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-01-20,true
+1385,31,1900,E11.9,Type 2 diabetes mellitus without complications,mild,2025-03-03,true
+1386,690,1454,M54.5,Low back pain,moderate,2024-12-13,false
+1387,569,1406,R51.9,"Headache, unspecified",severe,2024-12-04,false
+1388,609,965,E78.5,"Hyperlipidaemia, unspecified",severe,2024-08-26,true
+1389,743,2685,E78.5,"Hyperlipidaemia, unspecified",mild,2025-06-30,true
+1390,453,693,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2024-05-27,true
+1391,378,2242,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-04-23,true
+1392,395,1707,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2025-01-28,true
+1393,663,28,R51.9,"Headache, unspecified",moderate,2023-04-28,false
+1394,316,1548,T78.40,"Allergy, unspecified",mild,2025-01-01,false
+1395,232,459,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-02-26,true
+1396,507,228,J45.909,"Unspecified asthma, uncomplicated",moderate,2023-10-24,true
+1397,91,2453,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2025-05-27,true
+1398,280,1696,Z00.00,General adult medical examination without abnormal findings,moderate,2025-01-28,false
+1399,651,854,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-07-22,true
+1400,755,1853,I48.91,Unspecified atrial fibrillation,mild,2025-02-24,true
+1401,396,2446,Z00.00,General adult medical examination without abnormal findings,mild,2025-05-26,false
+1402,225,1629,O80,Encounter for full-term uncomplicated delivery,mild,2025-01-16,false
+1403,383,1758,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-02-05,false
+1404,245,670,J45.909,"Unspecified asthma, uncomplicated",severe,2024-05-17,true
+1405,527,663,S52.501,Unspecified fracture of lower end of right radius,moderate,2024-05-13,false
+1406,431,2662,E78.5,"Hyperlipidaemia, unspecified",mild,2025-06-30,true
+1407,174,372,F41.1,Generalized anxiety disorder,moderate,2024-01-15,true
+1408,72,890,E11.9,Type 2 diabetes mellitus without complications,mild,2024-08-05,true
+1409,40,322,D50.9,"Iron deficiency anaemia, unspecified",moderate,2023-12-20,false
+1410,610,1346,N18.3,"Chronic kidney disease, stage 3",mild,2024-11-22,true
+1411,454,972,K57.30,Diverticulosis of large intestine without perforation,mild,2024-08-29,false
+1412,462,534,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-03-27,false
+1413,722,133,I10,Essential (primary) hypertension,moderate,2023-08-18,true
+1414,632,969,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-08-27,false
+1415,260,2336,E11.9,Type 2 diabetes mellitus without complications,mild,2025-05-07,true
+1416,603,2537,H25.9,"Age-related cataract, unspecified",moderate,2025-06-09,false
+1417,349,2027,F41.1,Generalized anxiety disorder,severe,2025-03-21,true
+1418,211,2222,R51.9,"Headache, unspecified",severe,2025-04-21,false
+1419,290,1146,D50.9,"Iron deficiency anaemia, unspecified",moderate,2024-10-07,false
+1420,796,918,O80,Encounter for full-term uncomplicated delivery,mild,2024-08-12,false
+1421,381,1255,F32.9,"Major depressive disorder, single episode",mild,2024-10-31,true
+1422,743,2685,E03.9,"Hypothyroidism, unspecified",mild,2025-06-30,true
+1423,213,838,M54.5,Low back pain,severe,2024-07-12,false
+1424,189,1960,I10,Essential (primary) hypertension,moderate,2025-03-11,true
+1425,381,1255,I10,Essential (primary) hypertension,mild,2024-10-31,true
+1426,137,2360,J06.9,"Acute upper respiratory infection, unspecified",severe,2025-05-12,false
+1427,16,224,G47.33,Obstructive sleep apnoea,mild,2023-10-23,true
+1428,471,551,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-04-05,true
+1429,78,1353,N18.3,"Chronic kidney disease, stage 3",moderate,2024-11-25,true
+1430,456,324,E03.9,"Hypothyroidism, unspecified",moderate,2023-12-21,true
+1431,108,999,J45.909,"Unspecified asthma, uncomplicated",severe,2024-09-03,true
+1432,490,1277,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-11-05,false
+1433,504,155,J06.9,"Acute upper respiratory infection, unspecified",mild,2023-09-01,false
+1434,663,336,L20.9,"Atopic dermatitis, unspecified",mild,2023-12-28,true
+1435,363,382,F41.1,Generalized anxiety disorder,moderate,2024-01-18,true
+1436,143,2099,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-03-31,false
+1437,519,1509,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-12-25,true
+1438,40,322,M54.5,Low back pain,mild,2023-12-20,false
+1439,380,1494,E11.9,Type 2 diabetes mellitus without complications,mild,2024-12-23,true
+1440,609,965,F32.9,"Major depressive disorder, single episode",mild,2024-08-26,true
+1441,426,62,I10,Essential (primary) hypertension,severe,2023-06-12,true
+1442,656,2331,M54.5,Low back pain,mild,2025-05-06,false
+1443,302,1072,O80,Encounter for full-term uncomplicated delivery,moderate,2024-09-23,false
+1444,635,937,M54.5,Low back pain,moderate,2024-08-19,false
+1445,307,2142,Z00.00,General adult medical examination without abnormal findings,severe,2025-04-08,false
+1446,650,695,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-05-27,true
+1447,488,1345,L20.9,"Atopic dermatitis, unspecified",mild,2024-11-22,true
+1448,213,838,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-07-12,false
+1449,364,1885,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-02-28,true
+1450,247,1537,L20.9,"Atopic dermatitis, unspecified",moderate,2024-12-30,true
+1451,621,2445,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-05-26,true
+1452,121,1916,E11.9,Type 2 diabetes mellitus without complications,mild,2025-03-05,true
+1453,135,2536,M54.5,Low back pain,mild,2025-06-09,false
+1454,366,497,R10.9,Unspecified abdominal pain,mild,2024-03-13,false
+1455,265,520,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-03-25,true
+1456,596,2081,H25.9,"Age-related cataract, unspecified",severe,2025-03-31,false
+1457,357,2210,D50.9,"Iron deficiency anaemia, unspecified",mild,2025-04-18,false
+1458,301,438,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-02-19,true
+1459,598,2590,J45.909,"Unspecified asthma, uncomplicated",moderate,2025-06-17,true
+1460,379,343,G43.909,"Migraine, unspecified, not intractable",mild,2024-01-01,false
+1461,583,856,M54.5,Low back pain,mild,2024-07-22,false
+1462,690,1454,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-12-13,false
+1463,479,146,Z00.00,General adult medical examination without abnormal findings,mild,2023-08-29,false
+1464,116,2000,N39.0,"Urinary tract infection, site not specified",severe,2025-03-18,false
+1465,279,370,J45.909,"Unspecified asthma, uncomplicated",mild,2024-01-15,true
+1466,361,718,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-06-04,false
+1467,91,2179,R10.9,Unspecified abdominal pain,severe,2025-04-14,false
+1468,475,2326,G43.909,"Migraine, unspecified, not intractable",mild,2025-05-05,false
+1469,366,1000,C50.911,Malignant neoplasm of unspecified site of right breast,moderate,2024-09-03,true
+1470,415,2410,E11.9,Type 2 diabetes mellitus without complications,mild,2025-05-20,true
+1471,202,532,F32.9,"Major depressive disorder, single episode",severe,2024-03-26,true
+1472,416,1597,D50.9,"Iron deficiency anaemia, unspecified",moderate,2025-01-09,false
+1473,519,1986,M54.5,Low back pain,severe,2025-03-17,false
+1474,624,2060,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-03-26,true
+1475,301,438,S52.501,Unspecified fracture of lower end of right radius,mild,2024-02-19,false
+1476,387,2221,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-04-21,true
+1477,444,641,Z00.00,General adult medical examination without abnormal findings,mild,2024-05-06,false
+1478,219,812,R10.9,Unspecified abdominal pain,mild,2024-07-02,false
+1479,641,2043,O80,Encounter for full-term uncomplicated delivery,moderate,2025-03-24,false
+1480,695,2311,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-05-05,true
+1481,86,2327,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-05-05,true
+1482,722,374,N39.0,"Urinary tract infection, site not specified",mild,2024-01-16,false
+1483,463,891,N39.0,"Urinary tract infection, site not specified",moderate,2024-08-05,false
+1484,426,34,J06.9,"Acute upper respiratory infection, unspecified",mild,2023-05-11,false
+1485,210,982,R51.9,"Headache, unspecified",mild,2024-09-02,false
+1486,560,119,J06.9,"Acute upper respiratory infection, unspecified",severe,2023-08-07,false
+1487,456,217,E03.9,"Hypothyroidism, unspecified",moderate,2023-10-16,true
+1488,696,824,M54.5,Low back pain,mild,2024-07-08,false
+1489,151,1681,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-01-27,true
+1490,603,1588,R10.9,Unspecified abdominal pain,moderate,2025-01-08,false
+1491,266,1799,R51.9,"Headache, unspecified",moderate,2025-02-13,false
+1492,106,76,M54.5,Low back pain,moderate,2023-07-03,false
+1493,583,1824,M54.5,Low back pain,mild,2025-02-18,false
+1494,443,1761,I10,Essential (primary) hypertension,mild,2025-02-06,true
+1495,103,2207,E03.9,"Hypothyroidism, unspecified",moderate,2025-04-17,true
+1496,705,193,M54.5,Low back pain,severe,2023-10-02,false
+1497,464,1260,I10,Essential (primary) hypertension,severe,2024-11-01,true
+1498,656,2402,I10,Essential (primary) hypertension,moderate,2025-05-19,true
+1499,737,36,I10,Essential (primary) hypertension,mild,2023-05-12,true
+1500,97,1030,E78.5,"Hyperlipidaemia, unspecified",severe,2024-09-11,true
+1501,695,1543,N39.0,"Urinary tract infection, site not specified",moderate,2024-12-31,false
+1502,167,729,G47.33,Obstructive sleep apnoea,mild,2024-06-07,true
+1503,226,1578,R51.9,"Headache, unspecified",moderate,2025-01-07,false
+1504,501,2423,I63.9,"Cerebral infarction, unspecified",mild,2025-05-22,false
+1505,140,1492,E11.9,Type 2 diabetes mellitus without complications,mild,2024-12-23,true
+1506,120,115,E11.9,Type 2 diabetes mellitus without complications,mild,2023-08-02,true
+1507,495,2313,O80,Encounter for full-term uncomplicated delivery,moderate,2025-05-05,false
+1508,225,1657,J45.909,"Unspecified asthma, uncomplicated",moderate,2025-01-21,true
+1509,101,1872,T78.40,"Allergy, unspecified",moderate,2025-02-26,false
+1510,504,155,I10,Essential (primary) hypertension,mild,2023-09-01,true
+1511,18,106,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2023-07-27,true
+1512,527,160,R10.9,Unspecified abdominal pain,mild,2023-09-04,false
+1513,265,853,N18.3,"Chronic kidney disease, stage 3",mild,2024-07-22,true
+1514,25,2541,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-06-10,true
+1515,265,2428,I10,Essential (primary) hypertension,moderate,2025-05-23,true
+1516,303,2166,D50.9,"Iron deficiency anaemia, unspecified",moderate,2025-04-11,false
+1517,4,1550,E78.5,"Hyperlipidaemia, unspecified",mild,2025-01-01,true
+1518,153,1877,M54.5,Low back pain,moderate,2025-02-27,false
+1519,762,1120,C50.911,Malignant neoplasm of unspecified site of right breast,moderate,2024-09-30,true
+1520,681,2178,J45.909,"Unspecified asthma, uncomplicated",moderate,2025-04-14,true
+1521,361,289,G43.909,"Migraine, unspecified, not intractable",moderate,2023-11-30,false
+1522,800,2437,C50.911,Malignant neoplasm of unspecified site of right breast,moderate,2025-05-26,true
+1523,725,369,M54.5,Low back pain,moderate,2024-01-12,false
+1524,288,1182,L20.9,"Atopic dermatitis, unspecified",severe,2024-10-14,true
+1525,77,814,L20.9,"Atopic dermatitis, unspecified",severe,2024-07-03,true
+1526,213,1753,E11.9,Type 2 diabetes mellitus without complications,severe,2025-02-05,true
+1527,351,509,M54.5,Low back pain,moderate,2024-03-18,false
+1528,786,1864,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2025-02-25,true
+1529,325,53,E11.9,Type 2 diabetes mellitus without complications,severe,2023-06-05,true
+1530,370,261,E03.9,"Hypothyroidism, unspecified",mild,2023-11-17,true
+1531,416,2401,E78.5,"Hyperlipidaemia, unspecified",mild,2025-05-19,true
+1532,361,2571,F41.1,Generalized anxiety disorder,severe,2025-06-16,true
+1533,360,744,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2024-06-11,true
+1534,313,1289,F32.9,"Major depressive disorder, single episode",moderate,2024-11-08,true
+1535,27,2517,E78.5,"Hyperlipidaemia, unspecified",mild,2025-06-09,true
+1536,151,1241,R51.9,"Headache, unspecified",moderate,2024-10-28,false
+1537,203,2520,O80,Encounter for full-term uncomplicated delivery,mild,2025-06-09,false
+1538,724,2464,F41.1,Generalized anxiety disorder,severe,2025-05-29,true
+1539,31,1900,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-03-03,true
+1540,10,2080,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2025-03-31,true
+1541,561,2205,G43.909,"Migraine, unspecified, not intractable",moderate,2025-04-17,false
+1542,751,2154,E03.9,"Hypothyroidism, unspecified",mild,2025-04-09,true
+1543,728,1755,E03.9,"Hypothyroidism, unspecified",mild,2025-02-05,true
+1544,358,1553,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2025-01-01,true
+1545,570,262,O80,Encounter for full-term uncomplicated delivery,mild,2023-11-20,false
+1546,313,1289,I10,Essential (primary) hypertension,mild,2024-11-08,true
+1547,234,158,F41.1,Generalized anxiety disorder,mild,2023-09-04,true
+1548,94,852,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-07-22,true
+1549,412,862,R51.9,"Headache, unspecified",mild,2024-07-24,false
+1550,59,1699,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-01-28,true
+1551,120,115,M54.5,Low back pain,mild,2023-08-02,false
+1552,75,2478,E11.9,Type 2 diabetes mellitus without complications,mild,2025-06-02,true
+1553,518,1115,O80,Encounter for full-term uncomplicated delivery,severe,2024-09-30,false
+1554,245,670,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-05-17,true
+1555,59,2647,F41.1,Generalized anxiety disorder,moderate,2025-06-25,true
+1556,571,914,I10,Essential (primary) hypertension,mild,2024-08-12,true
+1557,211,2222,G43.909,"Migraine, unspecified, not intractable",mild,2025-04-21,false
+1558,608,2598,D50.9,"Iron deficiency anaemia, unspecified",severe,2025-06-18,false
+1559,152,1419,F32.9,"Major depressive disorder, single episode",mild,2024-12-09,true
+1560,795,1792,M54.5,Low back pain,mild,2025-02-12,false
+1561,187,896,O80,Encounter for full-term uncomplicated delivery,mild,2024-08-05,false
+1562,151,2625,F41.1,Generalized anxiety disorder,severe,2025-06-23,true
+1563,321,1936,H25.9,"Age-related cataract, unspecified",severe,2025-03-10,false
+1564,272,783,I10,Essential (primary) hypertension,moderate,2024-06-25,true
+1565,97,152,M54.5,Low back pain,severe,2023-08-31,false
+1566,211,2222,I10,Essential (primary) hypertension,mild,2025-04-21,true
+1567,30,1024,M54.5,Low back pain,moderate,2024-09-09,false
+1568,295,1265,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-11-04,true
+1569,77,734,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-06-10,false
+1570,532,131,Z00.00,General adult medical examination without abnormal findings,moderate,2023-08-18,false
+1571,518,238,I48.91,Unspecified atrial fibrillation,moderate,2023-11-03,true
+1572,768,2516,R51.9,"Headache, unspecified",moderate,2025-06-06,false
+1573,396,2133,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-04-07,true
+1574,320,379,G47.33,Obstructive sleep apnoea,mild,2024-01-17,true
+1575,387,1675,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-01-27,true
+1576,250,1253,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-10-30,false
+1577,304,1731,I10,Essential (primary) hypertension,mild,2025-02-03,true
+1578,501,1860,I48.91,Unspecified atrial fibrillation,moderate,2025-02-24,true
+1579,655,626,J06.9,"Acute upper respiratory infection, unspecified",severe,2024-05-02,false
+1580,284,1386,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-12-02,false
+1581,517,409,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-01-31,false
+1582,480,545,F41.1,Generalized anxiety disorder,mild,2024-04-01,true
+1583,344,656,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2024-05-10,true
+1584,386,405,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-01-31,true
+1585,572,1538,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-12-30,true
+1586,249,2602,F41.1,Generalized anxiety disorder,moderate,2025-06-18,true
+1587,519,1509,G47.33,Obstructive sleep apnoea,mild,2024-12-25,true
+1588,207,2199,F32.9,"Major depressive disorder, single episode",mild,2025-04-15,true
+1589,408,2532,M54.5,Low back pain,mild,2025-06-09,false
+1590,98,1422,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-12-09,false
+1591,30,2083,I10,Essential (primary) hypertension,moderate,2025-03-31,true
+1592,320,359,Z00.00,General adult medical examination without abnormal findings,mild,2024-01-08,false
+1593,328,2258,R51.9,"Headache, unspecified",mild,2025-04-28,false
+1594,79,2285,E11.9,Type 2 diabetes mellitus without complications,mild,2025-04-29,true
+1595,561,1447,F41.1,Generalized anxiety disorder,severe,2024-12-12,true
+1596,489,1542,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-12-31,true
+1597,243,1544,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-12-31,false
+1598,510,1740,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2025-02-03,true
+1599,566,351,M54.5,Low back pain,mild,2024-01-05,false
+1600,87,651,M54.5,Low back pain,mild,2024-05-09,false
+1601,549,1276,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-11-05,true
+1602,125,107,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2023-07-27,true
+1603,715,1684,L20.9,"Atopic dermatitis, unspecified",moderate,2025-01-27,true
+1604,183,1845,I48.91,Unspecified atrial fibrillation,mild,2025-02-21,true
+1605,460,1923,G47.33,Obstructive sleep apnoea,mild,2025-03-06,true
+1606,574,870,E03.9,"Hypothyroidism, unspecified",mild,2024-07-26,true
+1607,288,2263,I10,Essential (primary) hypertension,moderate,2025-04-28,true
+1608,10,99,M54.5,Low back pain,mild,2023-07-24,false
+1609,177,1582,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-01-08,true
+1610,62,2276,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-04-28,true
+1611,573,1088,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-09-25,true
+1612,38,1767,F41.1,Generalized anxiety disorder,mild,2025-02-10,true
+1613,566,1478,O80,Encounter for full-term uncomplicated delivery,mild,2024-12-18,false
+1614,659,2653,I10,Essential (primary) hypertension,moderate,2025-06-26,true
+1615,40,519,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-03-25,true
+1616,573,1088,I10,Essential (primary) hypertension,mild,2024-09-25,true
+1617,552,1062,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-09-20,false
+1618,416,1233,Z00.00,General adult medical examination without abnormal findings,moderate,2024-10-28,false
+1619,732,1307,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-11-12,true
+1620,639,1911,E11.9,Type 2 diabetes mellitus without complications,severe,2025-03-04,true
+1621,310,170,M54.5,Low back pain,moderate,2023-09-15,false
+1622,500,1660,K57.30,Diverticulosis of large intestine without perforation,severe,2025-01-22,false
+1623,524,1944,I25.10,Atherosclerotic heart disease of native coronary artery,severe,2025-03-10,true
+1624,542,2266,M54.5,Low back pain,moderate,2025-04-28,false
+1625,579,847,J44.9,"Chronic obstructive pulmonary disease, unspecified",severe,2024-07-18,true
+1626,734,553,L20.9,"Atopic dermatitis, unspecified",severe,2024-04-08,true
+1627,580,222,O80,Encounter for full-term uncomplicated delivery,moderate,2023-10-20,false
+1628,125,107,J45.909,"Unspecified asthma, uncomplicated",severe,2023-07-27,true
+1629,244,1305,M54.5,Low back pain,mild,2024-11-11,false
+1630,55,2275,I25.10,Atherosclerotic heart disease of native coronary artery,severe,2025-04-28,true
+1631,651,183,E03.9,"Hypothyroidism, unspecified",mild,2023-09-26,true
+1632,389,2108,F41.1,Generalized anxiety disorder,moderate,2025-04-02,true
+1633,240,1709,R10.9,Unspecified abdominal pain,mild,2025-01-29,false
+1634,427,1929,I10,Essential (primary) hypertension,mild,2025-03-07,true
+1635,264,1144,L20.9,"Atopic dermatitis, unspecified",severe,2024-10-04,true
+1636,48,750,E03.9,"Hypothyroidism, unspecified",moderate,2024-06-14,true
+1637,511,974,M54.5,Low back pain,mild,2024-08-29,false
+1638,680,2609,F32.9,"Major depressive disorder, single episode",mild,2025-06-19,true
+1639,663,336,I25.10,Atherosclerotic heart disease of native coronary artery,moderate,2023-12-28,true
+1640,85,1901,E03.9,"Hypothyroidism, unspecified",moderate,2025-03-03,true
+1641,352,622,N39.0,"Urinary tract infection, site not specified",severe,2024-05-01,false
+1642,782,20,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2023-03-31,true
+1643,697,1239,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-10-28,true
+1644,70,2487,N39.0,"Urinary tract infection, site not specified",moderate,2025-06-02,false
+1645,70,2487,L20.9,"Atopic dermatitis, unspecified",mild,2025-06-02,true
+1646,613,2314,M54.5,Low back pain,severe,2025-05-05,false
+1647,567,450,M54.5,Low back pain,mild,2024-02-22,false
+1648,710,236,I10,Essential (primary) hypertension,moderate,2023-11-02,true
+1649,570,1482,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-12-20,true
+1650,113,1730,R10.9,Unspecified abdominal pain,mild,2025-02-03,false
+1651,60,2062,M54.5,Low back pain,severe,2025-03-26,false
+1652,630,1417,R10.9,Unspecified abdominal pain,severe,2024-12-06,false
+1653,356,2580,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-06-16,true
+1654,143,1996,E03.9,"Hypothyroidism, unspecified",mild,2025-03-17,true
+1655,206,2165,E78.5,"Hyperlipidaemia, unspecified",severe,2025-04-10,true
+1656,283,2486,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-06-02,true
+1657,456,109,F41.1,Generalized anxiety disorder,moderate,2023-07-28,true
+1658,57,2626,M54.5,Low back pain,severe,2025-06-23,false
+1659,80,1064,E11.9,Type 2 diabetes mellitus without complications,mild,2024-09-23,true
+1660,510,1740,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-02-03,true
+1661,556,2056,I10,Essential (primary) hypertension,moderate,2025-03-26,true
+1662,748,2511,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-06-06,true
+1663,713,548,Z00.00,General adult medical examination without abnormal findings,mild,2024-04-04,false
+1664,656,2552,N39.0,"Urinary tract infection, site not specified",mild,2025-06-12,false
+1665,116,2412,N39.0,"Urinary tract infection, site not specified",mild,2025-05-20,false
+1666,299,886,M54.5,Low back pain,mild,2024-08-02,false
+1667,782,323,G43.909,"Migraine, unspecified, not intractable",severe,2023-12-20,false
+1668,234,1693,Z00.00,General adult medical examination without abnormal findings,mild,2025-01-28,false
+1669,446,2668,I10,Essential (primary) hypertension,moderate,2025-06-30,true
+1670,82,1069,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2024-09-23,true
+1671,468,797,E78.5,"Hyperlipidaemia, unspecified",severe,2024-06-28,true
+1672,331,2378,I10,Essential (primary) hypertension,moderate,2025-05-13,true
+1673,726,2216,F41.1,Generalized anxiety disorder,mild,2025-04-21,true
+1674,226,1578,Z00.00,General adult medical examination without abnormal findings,mild,2025-01-07,false
+1675,721,569,F32.9,"Major depressive disorder, single episode",mild,2024-04-15,true
+1676,50,615,D50.9,"Iron deficiency anaemia, unspecified",moderate,2024-04-29,false
+1677,579,1187,T78.40,"Allergy, unspecified",mild,2024-10-15,false
+1678,798,2387,R51.9,"Headache, unspecified",mild,2025-05-15,false
+1679,402,421,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-02-07,false
+1680,311,1197,Z00.00,General adult medical examination without abnormal findings,moderate,2024-10-18,false
+1681,695,1852,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-02-24,true
+1682,209,1376,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-11-29,true
+1683,504,1096,G47.33,Obstructive sleep apnoea,moderate,2024-09-27,true
+1684,722,133,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2023-08-18,true
+1685,533,1119,F41.1,Generalized anxiety disorder,moderate,2024-09-30,true
+1686,88,2286,D50.9,"Iron deficiency anaemia, unspecified",mild,2025-04-29,false
+1687,136,1994,M54.5,Low back pain,moderate,2025-03-17,false
+1688,67,2171,E11.9,Type 2 diabetes mellitus without complications,mild,2025-04-11,true
+1689,213,838,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-07-12,true
+1690,749,303,K57.30,Diverticulosis of large intestine without perforation,mild,2023-12-11,false
+1691,58,629,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-05-03,false
+1692,66,55,N18.3,"Chronic kidney disease, stage 3",moderate,2023-06-08,true
+1693,221,1090,T78.40,"Allergy, unspecified",moderate,2024-09-26,false
+1694,524,1944,H25.9,"Age-related cataract, unspecified",moderate,2025-03-10,false
+1695,680,2609,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-06-19,true
+1696,601,922,R51.9,"Headache, unspecified",mild,2024-08-13,false
+1697,416,904,F41.1,Generalized anxiety disorder,moderate,2024-08-07,true
+1698,151,2625,I63.9,"Cerebral infarction, unspecified",severe,2025-06-23,false
+1699,40,322,J06.9,"Acute upper respiratory infection, unspecified",moderate,2023-12-20,false
+1700,312,2655,J45.909,"Unspecified asthma, uncomplicated",severe,2025-06-27,true
+1701,382,311,E03.9,"Hypothyroidism, unspecified",moderate,2023-12-15,true
+1702,355,83,Z00.00,General adult medical examination without abnormal findings,moderate,2023-07-10,false
+1703,81,2265,S52.501,Unspecified fracture of lower end of right radius,moderate,2025-04-28,false
+1704,619,1485,O80,Encounter for full-term uncomplicated delivery,moderate,2024-12-20,false
+1705,693,1510,E78.5,"Hyperlipidaemia, unspecified",severe,2024-12-25,true
+1706,607,889,L20.9,"Atopic dermatitis, unspecified",moderate,2024-08-02,true
+1707,453,367,M54.5,Low back pain,moderate,2024-01-11,false
+1708,695,1543,G47.33,Obstructive sleep apnoea,mild,2024-12-31,true
+1709,555,536,E03.9,"Hypothyroidism, unspecified",moderate,2024-03-27,true
+1710,218,2374,F41.1,Generalized anxiety disorder,moderate,2025-05-13,true
+1711,727,1954,Z00.00,General adult medical examination without abnormal findings,moderate,2025-03-11,false
+1712,748,2511,T78.40,"Allergy, unspecified",mild,2025-06-06,false
+1713,747,17,F32.9,"Major depressive disorder, single episode",mild,2023-03-27,true
+1714,303,2595,L20.9,"Atopic dermatitis, unspecified",mild,2025-06-18,true
+1715,284,759,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-06-18,true
+1716,67,2171,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-04-11,false
+1717,666,58,F41.1,Generalized anxiety disorder,mild,2023-06-09,true
+1718,57,2626,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-06-23,true
+1719,212,1671,H25.9,"Age-related cataract, unspecified",mild,2025-01-24,false
+1720,487,2288,I10,Essential (primary) hypertension,severe,2025-04-29,true
+1721,81,2265,I63.9,"Cerebral infarction, unspecified",mild,2025-04-28,false
+1722,351,763,O80,Encounter for full-term uncomplicated delivery,moderate,2024-06-20,false
+1723,172,258,E78.5,"Hyperlipidaemia, unspecified",moderate,2023-11-15,true
+1724,384,662,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-05-13,true
+1725,260,620,J06.9,"Acute upper respiratory infection, unspecified",severe,2024-04-30,false
+1726,284,759,N18.3,"Chronic kidney disease, stage 3",mild,2024-06-18,true
+1727,189,1892,S52.501,Unspecified fracture of lower end of right radius,severe,2025-02-28,false
+1728,611,1894,M54.5,Low back pain,moderate,2025-03-03,false
+1729,543,2601,E11.9,Type 2 diabetes mellitus without complications,severe,2025-06-18,true
+1730,91,2092,Z00.00,General adult medical examination without abnormal findings,mild,2025-03-31,false
+1731,598,840,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-07-15,true
+1732,216,416,T78.40,"Allergy, unspecified",mild,2024-02-05,false
+1733,797,1383,N39.0,"Urinary tract infection, site not specified",mild,2024-12-02,false
+1734,329,1125,L20.9,"Atopic dermatitis, unspecified",moderate,2024-10-01,true
+1735,372,1818,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-02-17,false
+1736,695,716,O80,Encounter for full-term uncomplicated delivery,mild,2024-06-04,false
+1737,728,339,E78.5,"Hyperlipidaemia, unspecified",mild,2024-01-01,true
+1738,624,2026,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-03-21,true
+1739,770,2429,I10,Essential (primary) hypertension,mild,2025-05-23,true
+1740,635,233,J44.9,"Chronic obstructive pulmonary disease, unspecified",severe,2023-10-30,true
+1741,56,341,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-01-01,true
+1742,679,2100,M54.5,Low back pain,moderate,2025-04-01,false
+1743,157,1347,S52.501,Unspecified fracture of lower end of right radius,mild,2024-11-22,false
+1744,381,2363,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-05-12,true
+1745,740,4,I10,Essential (primary) hypertension,mild,2023-02-01,true
+1746,559,1552,N39.0,"Urinary tract infection, site not specified",moderate,2025-01-01,false
+1747,172,407,E11.9,Type 2 diabetes mellitus without complications,mild,2024-01-31,true
+1748,392,2201,N39.0,"Urinary tract infection, site not specified",severe,2025-04-16,false
+1749,754,2106,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2025-04-02,true
+1750,86,2327,N18.3,"Chronic kidney disease, stage 3",severe,2025-05-05,true
+1751,660,2011,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-03-19,true
+1752,24,2177,N39.0,"Urinary tract infection, site not specified",moderate,2025-04-14,false
+1753,390,72,J45.909,"Unspecified asthma, uncomplicated",mild,2023-06-30,true
+1754,204,898,K57.30,Diverticulosis of large intestine without perforation,mild,2024-08-05,false
+1755,505,2297,M17.9,"Osteoarthritis of knee, unspecified",severe,2025-05-01,true
+1756,227,383,E03.9,"Hypothyroidism, unspecified",mild,2024-01-18,true
+1757,221,2566,F41.1,Generalized anxiety disorder,mild,2025-06-16,true
+1758,573,1088,I25.10,Atherosclerotic heart disease of native coronary artery,moderate,2024-09-25,true
+1759,40,519,N18.3,"Chronic kidney disease, stage 3",severe,2024-03-25,true
+1760,676,2162,G43.909,"Migraine, unspecified, not intractable",mild,2025-04-10,false
+1761,392,2201,D50.9,"Iron deficiency anaemia, unspecified",mild,2025-04-16,false
+1762,26,2687,I63.9,"Cerebral infarction, unspecified",severe,2025-06-30,false
+1763,613,187,F41.1,Generalized anxiety disorder,mild,2023-09-28,true
+1764,735,2209,R10.9,Unspecified abdominal pain,moderate,2025-04-17,false
+1765,245,670,F41.1,Generalized anxiety disorder,mild,2024-05-17,true
+1766,487,2288,G43.909,"Migraine, unspecified, not intractable",moderate,2025-04-29,false
+1767,5,633,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2024-05-06,true
+1768,202,2457,E11.9,Type 2 diabetes mellitus without complications,mild,2025-05-28,true
+1769,521,2673,E03.9,"Hypothyroidism, unspecified",moderate,2025-06-30,true
+1770,675,1843,R51.9,"Headache, unspecified",moderate,2025-02-21,false
+1771,372,2597,M54.5,Low back pain,severe,2025-06-18,false
+1772,583,1263,F41.1,Generalized anxiety disorder,mild,2024-11-01,true
+1773,178,953,F41.1,Generalized anxiety disorder,mild,2024-08-22,true
+1774,91,2179,L20.9,"Atopic dermatitis, unspecified",moderate,2025-04-14,true
+1775,478,2380,E11.9,Type 2 diabetes mellitus without complications,mild,2025-05-14,true
+1776,133,2240,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-04-23,true
+1777,267,1771,S52.501,Unspecified fracture of lower end of right radius,moderate,2025-02-10,false
+1778,649,1160,I48.91,Unspecified atrial fibrillation,mild,2024-10-08,true
+1779,597,175,E03.9,"Hypothyroidism, unspecified",moderate,2023-09-19,true
+1780,66,2029,L20.9,"Atopic dermatitis, unspecified",mild,2025-03-21,true
+1781,301,800,I10,Essential (primary) hypertension,moderate,2024-07-01,true
+1782,32,2330,M54.5,Low back pain,mild,2025-05-06,false
+1783,598,947,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-08-21,true
+1784,295,1265,E78.5,"Hyperlipidaemia, unspecified",severe,2024-11-04,true
+1785,251,1066,I48.91,Unspecified atrial fibrillation,mild,2024-09-23,true
+1786,519,1986,M17.9,"Osteoarthritis of knee, unspecified",moderate,2025-03-17,true
+1787,468,63,M54.5,Low back pain,moderate,2023-06-12,false
+1788,249,2602,M17.9,"Osteoarthritis of knee, unspecified",moderate,2025-06-18,true
+1789,457,2089,R51.9,"Headache, unspecified",mild,2025-03-31,false
+1790,409,1209,J45.909,"Unspecified asthma, uncomplicated",mild,2024-10-21,true
+1791,80,778,E11.9,Type 2 diabetes mellitus without complications,mild,2024-06-24,true
+1792,62,1228,R10.9,Unspecified abdominal pain,mild,2024-10-24,false
+1793,189,1739,R10.9,Unspecified abdominal pain,moderate,2025-02-03,false
+1794,398,226,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2023-10-23,true
+1795,153,210,L20.9,"Atopic dermatitis, unspecified",mild,2023-10-11,true
+1796,646,660,D50.9,"Iron deficiency anaemia, unspecified",severe,2024-05-13,false
+1797,81,360,S52.501,Unspecified fracture of lower end of right radius,severe,2024-01-09,false
+1798,374,2184,G43.909,"Migraine, unspecified, not intractable",mild,2025-04-14,false
+1799,540,153,E11.9,Type 2 diabetes mellitus without complications,moderate,2023-08-31,true
+1800,665,410,I10,Essential (primary) hypertension,severe,2024-02-01,true
+1801,253,577,G47.33,Obstructive sleep apnoea,severe,2024-04-19,true
+1802,792,920,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-08-13,true
+1803,356,1153,D50.9,"Iron deficiency anaemia, unspecified",mild,2024-10-07,false
+1804,589,2493,R10.9,Unspecified abdominal pain,mild,2025-06-02,false
+1805,502,344,Z00.00,General adult medical examination without abnormal findings,moderate,2024-01-01,false
+1806,360,2636,O80,Encounter for full-term uncomplicated delivery,severe,2025-06-23,false
+1807,249,2602,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-06-18,true
+1808,653,2397,I10,Essential (primary) hypertension,mild,2025-05-19,true
+1809,246,408,I10,Essential (primary) hypertension,mild,2024-01-31,true
+1810,666,58,E78.5,"Hyperlipidaemia, unspecified",mild,2023-06-09,true
+1811,665,111,N39.0,"Urinary tract infection, site not specified",mild,2023-07-31,false
+1812,681,1636,J45.909,"Unspecified asthma, uncomplicated",mild,2025-01-17,true
+1813,597,1882,K57.30,Diverticulosis of large intestine without perforation,moderate,2025-02-27,false
+1814,11,1655,I25.10,Atherosclerotic heart disease of native coronary artery,severe,2025-01-21,true
+1815,320,813,E11.9,Type 2 diabetes mellitus without complications,mild,2024-07-03,true
+1816,356,550,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-04-05,true
+1817,517,1512,T78.40,"Allergy, unspecified",moderate,2024-12-25,false
+1818,110,2156,O80,Encounter for full-term uncomplicated delivery,mild,2025-04-10,false
+1819,250,1253,N39.0,"Urinary tract infection, site not specified",mild,2024-10-30,false
+1820,106,581,N39.0,"Urinary tract infection, site not specified",mild,2024-04-22,false
+1821,23,2151,I48.91,Unspecified atrial fibrillation,moderate,2025-04-09,true
+1822,121,1916,R51.9,"Headache, unspecified",moderate,2025-03-05,false
+1823,430,912,E11.9,Type 2 diabetes mellitus without complications,mild,2024-08-12,true
+1824,650,695,G43.909,"Migraine, unspecified, not intractable",mild,2024-05-27,false
+1825,251,1324,J45.909,"Unspecified asthma, uncomplicated",mild,2024-11-18,true
+1826,377,1789,I63.9,"Cerebral infarction, unspecified",severe,2025-02-11,false
+1827,542,1234,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2024-10-28,true
+1828,318,2661,J06.9,"Acute upper respiratory infection, unspecified",severe,2025-06-30,false
+1829,197,558,E11.9,Type 2 diabetes mellitus without complications,mild,2024-04-08,true
+1830,94,852,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-07-22,false
+1831,112,1966,G47.33,Obstructive sleep apnoea,moderate,2025-03-12,true
+1832,273,2399,G47.33,Obstructive sleep apnoea,mild,2025-05-19,true
+1833,380,1494,N39.0,"Urinary tract infection, site not specified",mild,2024-12-23,false
+1834,441,609,D50.9,"Iron deficiency anaemia, unspecified",moderate,2024-04-26,false
+1835,455,2521,N39.0,"Urinary tract infection, site not specified",mild,2025-06-09,false
+1836,474,134,K57.30,Diverticulosis of large intestine without perforation,moderate,2023-08-18,false
+1837,38,2023,M54.5,Low back pain,severe,2025-03-21,false
+1838,344,1497,G43.909,"Migraine, unspecified, not intractable",mild,2024-12-23,false
+1839,284,1349,G43.909,"Migraine, unspecified, not intractable",moderate,2024-11-25,false
+1840,330,14,N39.0,"Urinary tract infection, site not specified",moderate,2023-03-17,false
+1841,189,1739,F41.1,Generalized anxiety disorder,severe,2025-02-03,true
+1842,496,1689,E11.9,Type 2 diabetes mellitus without complications,severe,2025-01-27,true
+1843,619,317,N39.0,"Urinary tract infection, site not specified",moderate,2023-12-19,false
+1844,241,2212,E11.9,Type 2 diabetes mellitus without complications,mild,2025-04-18,true
+1845,620,1174,E11.9,Type 2 diabetes mellitus without complications,mild,2024-10-14,true
+1846,719,2192,J45.909,"Unspecified asthma, uncomplicated",moderate,2025-04-14,true
+1847,565,296,M54.5,Low back pain,severe,2023-12-04,false
+1848,398,1473,F41.1,Generalized anxiety disorder,severe,2024-12-18,true
+1849,260,185,E78.5,"Hyperlipidaemia, unspecified",moderate,2023-09-27,true
+1850,515,2176,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-04-14,true
+1851,331,2158,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2025-04-10,true
+1852,168,893,E03.9,"Hypothyroidism, unspecified",mild,2024-08-05,true
+1853,469,2480,G47.33,Obstructive sleep apnoea,mild,2025-06-02,true
+1854,232,1518,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-12-26,true
+1855,357,2322,S52.501,Unspecified fracture of lower end of right radius,mild,2025-05-05,false
+1856,307,2291,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-04-30,true
+1857,97,1030,J45.909,"Unspecified asthma, uncomplicated",mild,2024-09-11,true
+1858,355,59,R10.9,Unspecified abdominal pain,mild,2023-06-12,false
+1859,781,1487,Z00.00,General adult medical examination without abnormal findings,mild,2024-12-20,false
+1860,684,277,R51.9,"Headache, unspecified",severe,2023-11-27,false
+1861,177,1582,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-01-08,true
+1862,444,819,N39.0,"Urinary tract infection, site not specified",mild,2024-07-05,false
+1863,419,1040,F41.1,Generalized anxiety disorder,moderate,2024-09-13,true
+1864,328,132,J06.9,"Acute upper respiratory infection, unspecified",mild,2023-08-18,false
+1865,515,2176,F32.9,"Major depressive disorder, single episode",mild,2025-04-14,true
+1866,71,1220,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-10-23,true
+1867,710,69,Z00.00,General adult medical examination without abnormal findings,moderate,2023-06-21,false
+1868,695,2298,I48.91,Unspecified atrial fibrillation,severe,2025-05-01,true
+1869,219,1787,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-02-11,true
+1870,153,1877,N39.0,"Urinary tract infection, site not specified",mild,2025-02-27,false
+1871,635,937,M54.5,Low back pain,moderate,2024-08-19,false
+1872,270,456,I48.91,Unspecified atrial fibrillation,moderate,2024-02-26,true
+1873,659,2653,K57.30,Diverticulosis of large intestine without perforation,moderate,2025-06-26,false
+1874,356,1189,I10,Essential (primary) hypertension,severe,2024-10-16,true
+1875,555,440,E11.9,Type 2 diabetes mellitus without complications,mild,2024-02-19,true
+1876,767,2015,I10,Essential (primary) hypertension,mild,2025-03-20,true
+1877,781,1487,E78.5,"Hyperlipidaemia, unspecified",mild,2024-12-20,true
+1878,680,2463,N18.3,"Chronic kidney disease, stage 3",mild,2025-05-29,true
+1879,418,1098,F32.9,"Major depressive disorder, single episode",mild,2024-09-27,true
+1880,396,1369,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-11-27,true
+1881,680,2463,G43.909,"Migraine, unspecified, not intractable",mild,2025-05-29,false
+1882,468,1184,Z00.00,General adult medical examination without abnormal findings,moderate,2024-10-15,false
+1883,356,1153,O80,Encounter for full-term uncomplicated delivery,mild,2024-10-07,false
+1884,775,1229,I48.91,Unspecified atrial fibrillation,mild,2024-10-24,true
+1885,665,410,F41.1,Generalized anxiety disorder,moderate,2024-02-01,true
+1886,451,2474,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2025-05-30,true
+1887,697,1239,N39.0,"Urinary tract infection, site not specified",severe,2024-10-28,false
+1888,242,1747,D50.9,"Iron deficiency anaemia, unspecified",mild,2025-02-04,false
+1889,710,69,L20.9,"Atopic dermatitis, unspecified",moderate,2023-06-21,true
+1890,690,1454,I10,Essential (primary) hypertension,moderate,2024-12-13,true
+1891,165,276,E78.5,"Hyperlipidaemia, unspecified",mild,2023-11-27,true
+1892,161,875,I10,Essential (primary) hypertension,moderate,2024-07-29,true
+1893,682,495,F41.1,Generalized anxiety disorder,mild,2024-03-12,true
+1894,163,439,R51.9,"Headache, unspecified",mild,2024-02-19,false
+1895,491,1111,K21.9,Gastro-oesophageal reflux disease without oesophagitis,mild,2024-09-30,true
+1896,547,2432,T78.40,"Allergy, unspecified",mild,2025-05-23,false
+1897,667,636,E11.9,Type 2 diabetes mellitus without complications,mild,2024-05-06,true
+1898,212,1508,Z00.00,General adult medical examination without abnormal findings,mild,2024-12-25,false
+1899,621,2445,I48.91,Unspecified atrial fibrillation,severe,2025-05-26,true
+1900,87,651,Z00.00,General adult medical examination without abnormal findings,moderate,2024-05-09,false
+1901,749,357,E03.9,"Hypothyroidism, unspecified",mild,2024-01-08,true
+1902,616,1992,I10,Essential (primary) hypertension,mild,2025-03-17,true
+1903,323,1453,F41.1,Generalized anxiety disorder,severe,2024-12-13,true
+1904,47,1865,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-02-25,true
+1905,701,1614,D50.9,"Iron deficiency anaemia, unspecified",moderate,2025-01-13,false
+1906,159,2299,F32.9,"Major depressive disorder, single episode",moderate,2025-05-01,true
+1907,519,1986,N39.0,"Urinary tract infection, site not specified",moderate,2025-03-17,false
+1908,316,2017,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-03-20,true
+1909,327,544,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2024-04-01,true
+1910,419,941,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-08-20,true
+1911,656,2402,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-05-19,false
+1912,179,866,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-07-25,false
+1913,602,1722,S52.501,Unspecified fracture of lower end of right radius,severe,2025-01-31,false
+1914,10,2080,E11.9,Type 2 diabetes mellitus without complications,moderate,2025-03-31,true
+1915,111,2253,J06.9,"Acute upper respiratory infection, unspecified",severe,2025-04-25,false
+1916,496,2041,F32.9,"Major depressive disorder, single episode",mild,2025-03-24,true
+1917,647,1078,I10,Essential (primary) hypertension,severe,2024-09-24,true
+1918,191,2140,R10.9,Unspecified abdominal pain,moderate,2025-04-07,false
+1919,672,1797,J06.9,"Acute upper respiratory infection, unspecified",severe,2025-02-13,false
+1920,681,2178,L20.9,"Atopic dermatitis, unspecified",mild,2025-04-14,true
+1921,305,137,F41.1,Generalized anxiety disorder,mild,2023-08-21,true
+1922,514,613,E03.9,"Hypothyroidism, unspecified",mild,2024-04-29,true
+1923,245,1561,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2025-01-06,true
+1924,142,1596,I48.91,Unspecified atrial fibrillation,moderate,2025-01-09,true
+1925,175,476,T78.40,"Allergy, unspecified",mild,2024-03-04,false
+1926,619,1485,T78.40,"Allergy, unspecified",moderate,2024-12-20,false
+1927,271,2648,I63.9,"Cerebral infarction, unspecified",mild,2025-06-25,false
+1928,583,1263,I25.10,Atherosclerotic heart disease of native coronary artery,moderate,2024-11-01,true
+1929,273,2679,L20.9,"Atopic dermatitis, unspecified",moderate,2025-06-30,true
+1930,62,1339,E78.5,"Hyperlipidaemia, unspecified",mild,2024-11-19,true
+1931,795,1792,M54.5,Low back pain,mild,2025-02-12,false
+1932,646,660,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-05-13,true
+1933,617,2295,Z00.00,General adult medical examination without abnormal findings,mild,2025-04-30,false
+1934,344,1497,E78.5,"Hyperlipidaemia, unspecified",mild,2024-12-23,true
+1935,471,2413,R51.9,"Headache, unspecified",mild,2025-05-20,false
+1936,648,1436,F32.9,"Major depressive disorder, single episode",moderate,2024-12-10,true
+1937,283,128,I10,Essential (primary) hypertension,moderate,2023-08-14,true
+1938,520,1686,G47.33,Obstructive sleep apnoea,mild,2025-01-27,true
+1939,426,34,O80,Encounter for full-term uncomplicated delivery,mild,2023-05-11,false
+1940,728,469,C50.911,Malignant neoplasm of unspecified site of right breast,moderate,2024-02-29,true
+1941,476,498,Z00.00,General adult medical examination without abnormal findings,moderate,2024-03-13,false
+1942,204,1215,I10,Essential (primary) hypertension,moderate,2024-10-21,true
+1943,445,720,I10,Essential (primary) hypertension,moderate,2024-06-04,true
+1944,120,2200,I10,Essential (primary) hypertension,mild,2025-04-15,true
+1945,158,49,E03.9,"Hypothyroidism, unspecified",severe,2023-05-26,true
+1946,693,1400,J45.909,"Unspecified asthma, uncomplicated",severe,2024-12-03,true
+1947,177,1972,N18.3,"Chronic kidney disease, stage 3",mild,2025-03-13,true
+1948,217,646,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-05-08,true
+1949,337,989,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2024-09-02,true
+1950,751,524,N39.0,"Urinary tract infection, site not specified",mild,2024-03-25,false
+1951,327,544,F32.9,"Major depressive disorder, single episode",mild,2024-04-01,true
+1952,310,170,N18.3,"Chronic kidney disease, stage 3",mild,2023-09-15,true
+1953,616,1116,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-09-30,false
+1954,255,171,G47.33,Obstructive sleep apnoea,mild,2023-09-18,true
+1955,315,1448,F41.1,Generalized anxiety disorder,mild,2024-12-12,true
+1956,127,2044,J45.909,"Unspecified asthma, uncomplicated",moderate,2025-03-24,true
+1957,472,752,E11.9,Type 2 diabetes mellitus without complications,severe,2024-06-14,true
+1958,108,999,E11.9,Type 2 diabetes mellitus without complications,mild,2024-09-03,true
+1959,602,775,O80,Encounter for full-term uncomplicated delivery,severe,2024-06-24,false
+1960,512,1213,K57.30,Diverticulosis of large intestine without perforation,mild,2024-10-21,false
+1961,398,226,M54.5,Low back pain,mild,2023-10-23,false
+1962,80,1064,M54.5,Low back pain,mild,2024-09-23,false
+1963,291,1724,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2025-01-31,true
+1964,674,424,D50.9,"Iron deficiency anaemia, unspecified",mild,2024-02-12,false
+1965,647,1052,I25.10,Atherosclerotic heart disease of native coronary artery,moderate,2024-09-18,true
+1966,795,1792,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-02-12,false
+1967,768,227,E78.5,"Hyperlipidaemia, unspecified",moderate,2023-10-23,true
+1968,187,2073,H25.9,"Age-related cataract, unspecified",moderate,2025-03-28,false
+1969,326,640,I48.91,Unspecified atrial fibrillation,severe,2024-05-06,true
+1970,732,3,R10.9,Unspecified abdominal pain,mild,2023-01-27,false
+1971,584,1940,G43.909,"Migraine, unspecified, not intractable",mild,2025-03-10,false
+1972,349,2027,N39.0,"Urinary tract infection, site not specified",moderate,2025-03-21,false
+1973,85,1445,I10,Essential (primary) hypertension,mild,2024-12-12,true
+1974,613,1154,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-10-07,true
+1975,79,2285,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-04-29,true
+1976,361,2575,N18.3,"Chronic kidney disease, stage 3",mild,2025-06-16,true
+1977,377,2160,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-04-10,false
+1978,713,1425,I48.91,Unspecified atrial fibrillation,mild,2024-12-09,true
+1979,603,1083,E11.9,Type 2 diabetes mellitus without complications,mild,2024-09-25,true
+1980,130,2127,N18.3,"Chronic kidney disease, stage 3",mild,2025-04-07,true
+1981,322,235,F32.9,"Major depressive disorder, single episode",mild,2023-11-01,true
+1982,468,63,H25.9,"Age-related cataract, unspecified",mild,2023-06-12,false
+1983,402,384,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-01-19,true
+1984,588,446,N18.3,"Chronic kidney disease, stage 3",moderate,2024-02-21,true
+1985,748,2511,H25.9,"Age-related cataract, unspecified",moderate,2025-06-06,false
+1986,517,294,R10.9,Unspecified abdominal pain,mild,2023-12-04,false
+1987,555,1575,S52.501,Unspecified fracture of lower end of right radius,moderate,2025-01-07,false
+1988,277,1697,E78.5,"Hyperlipidaemia, unspecified",mild,2025-01-28,true
+1989,392,2201,N39.0,"Urinary tract infection, site not specified",moderate,2025-04-16,false
+1990,424,9,J06.9,"Acute upper respiratory infection, unspecified",mild,2023-03-02,false
+1991,221,2566,E11.9,Type 2 diabetes mellitus without complications,mild,2025-06-16,true
+1992,311,1250,E11.9,Type 2 diabetes mellitus without complications,mild,2024-10-30,true
+1993,792,920,R51.9,"Headache, unspecified",moderate,2024-08-13,false
+1994,245,670,M54.5,Low back pain,mild,2024-05-17,false
+1995,182,667,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-05-15,false
+1996,606,250,N39.0,"Urinary tract infection, site not specified",mild,2023-11-13,false
+1997,542,1179,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2024-10-14,true
+1998,580,222,E11.9,Type 2 diabetes mellitus without complications,moderate,2023-10-20,true
+1999,377,845,I10,Essential (primary) hypertension,moderate,2024-07-17,true
+2000,567,584,N18.3,"Chronic kidney disease, stage 3",moderate,2024-04-22,true
+2001,131,2619,I48.91,Unspecified atrial fibrillation,moderate,2025-06-20,true
+2002,271,2648,I10,Essential (primary) hypertension,mild,2025-06-25,true
+2003,408,2532,N39.0,"Urinary tract infection, site not specified",mild,2025-06-09,false
+2004,752,1108,C50.911,Malignant neoplasm of unspecified site of right breast,mild,2024-09-30,true
+2005,647,1078,M54.5,Low back pain,mild,2024-09-24,false
+2006,567,412,N39.0,"Urinary tract infection, site not specified",moderate,2024-02-05,false
+2007,346,715,N39.0,"Urinary tract infection, site not specified",mild,2024-06-03,false
+2008,116,27,L20.9,"Atopic dermatitis, unspecified",severe,2023-04-28,true
+2009,561,2205,Z00.00,General adult medical examination without abnormal findings,mild,2025-04-17,false
+2010,346,715,G47.33,Obstructive sleep apnoea,mild,2024-06-03,true
+2011,797,1383,N39.0,"Urinary tract infection, site not specified",severe,2024-12-02,false
+2012,613,342,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-01-01,true
+2013,590,878,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2024-07-30,true
+2014,260,586,R51.9,"Headache, unspecified",moderate,2024-04-22,false
+2015,361,1105,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-09-30,false
+2016,359,704,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-05-29,true
+2017,166,2472,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-05-30,true
+2018,490,910,L20.9,"Atopic dermatitis, unspecified",mild,2024-08-09,true
+2019,424,57,J44.9,"Chronic obstructive pulmonary disease, unspecified",severe,2023-06-09,true
+2020,521,2554,H25.9,"Age-related cataract, unspecified",mild,2025-06-13,false
+2021,528,793,E11.9,Type 2 diabetes mellitus without complications,mild,2024-06-28,true
+2022,315,1489,Z00.00,General adult medical examination without abnormal findings,moderate,2024-12-20,false
+2023,227,1708,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2025-01-29,true
+2024,712,1056,T78.40,"Allergy, unspecified",mild,2024-09-19,false
+2025,523,968,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-08-27,true
+2026,304,568,J45.909,"Unspecified asthma, uncomplicated",mild,2024-04-15,true
+2027,737,1070,I48.91,Unspecified atrial fibrillation,mild,2024-09-23,true
+2028,641,2043,M54.5,Low back pain,mild,2025-03-24,false
+2029,62,2280,N18.3,"Chronic kidney disease, stage 3",mild,2025-04-29,true
+2030,656,2552,J45.909,"Unspecified asthma, uncomplicated",mild,2025-06-12,true
+2031,566,1204,I63.9,"Cerebral infarction, unspecified",mild,2024-10-21,false
+2032,535,1245,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-10-28,true
+2033,706,1991,F32.9,"Major depressive disorder, single episode",mild,2025-03-17,true
+2034,446,1176,I10,Essential (primary) hypertension,mild,2024-10-14,true
+2035,30,2083,Z00.00,General adult medical examination without abnormal findings,mild,2025-03-31,false
+2036,86,2327,D50.9,"Iron deficiency anaemia, unspecified",moderate,2025-05-05,false
+2037,72,1607,R10.9,Unspecified abdominal pain,moderate,2025-01-13,false
+2038,116,1325,E11.9,Type 2 diabetes mellitus without complications,mild,2024-11-18,true
+2039,363,382,M17.9,"Osteoarthritis of knee, unspecified",moderate,2024-01-18,true
+2040,768,2516,E78.5,"Hyperlipidaemia, unspecified",severe,2025-06-06,true
+2041,491,1391,N18.3,"Chronic kidney disease, stage 3",mild,2024-12-02,true
+2042,40,422,E78.5,"Hyperlipidaemia, unspecified",mild,2024-02-09,true
+2043,501,2423,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-05-22,true
+2044,47,2021,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2025-03-20,true
+2045,482,571,F41.1,Generalized anxiety disorder,moderate,2024-04-16,true
+2046,707,1046,M17.9,"Osteoarthritis of knee, unspecified",mild,2024-09-16,true
+2047,398,1473,L20.9,"Atopic dermatitis, unspecified",moderate,2024-12-18,true
+2048,295,522,E03.9,"Hypothyroidism, unspecified",mild,2024-03-25,true
+2049,393,1034,F32.9,"Major depressive disorder, single episode",moderate,2024-09-11,true
+2050,338,1951,E78.5,"Hyperlipidaemia, unspecified",moderate,2025-03-10,true
+2051,617,2295,I10,Essential (primary) hypertension,moderate,2025-04-30,true
+2052,203,2520,N39.0,"Urinary tract infection, site not specified",mild,2025-06-09,false
+2053,72,2301,I10,Essential (primary) hypertension,mild,2025-05-01,true
+2054,217,646,R10.9,Unspecified abdominal pain,mild,2024-05-08,false
+2055,755,2028,F32.9,"Major depressive disorder, single episode",moderate,2025-03-21,true
+2056,367,1733,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-02-03,false
+2057,792,894,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-08-05,false
+2058,394,2479,G47.33,Obstructive sleep apnoea,severe,2025-06-02,true
+2059,131,2619,E11.9,Type 2 diabetes mellitus without complications,mild,2025-06-20,true
+2060,672,1261,E78.5,"Hyperlipidaemia, unspecified",mild,2024-11-01,true
+2061,145,930,I10,Essential (primary) hypertension,moderate,2024-08-16,true
+2062,780,1006,I48.91,Unspecified atrial fibrillation,moderate,2024-09-04,true
+2063,690,1454,Z00.00,General adult medical examination without abnormal findings,mild,2024-12-13,false
+2064,416,904,G47.33,Obstructive sleep apnoea,moderate,2024-08-07,true
+2065,695,2298,I48.91,Unspecified atrial fibrillation,moderate,2025-05-01,true
+2066,488,1002,L20.9,"Atopic dermatitis, unspecified",moderate,2024-09-03,true
+2067,284,1349,G43.909,"Migraine, unspecified, not intractable",moderate,2024-11-25,false
+2068,559,1552,N39.0,"Urinary tract infection, site not specified",mild,2025-01-01,false
+2069,350,541,E78.5,"Hyperlipidaemia, unspecified",mild,2024-04-01,true
+2070,339,2436,M17.9,"Osteoarthritis of knee, unspecified",moderate,2025-05-26,true
+2071,97,1262,J45.909,"Unspecified asthma, uncomplicated",mild,2024-11-01,true
+2072,616,1350,S52.501,Unspecified fracture of lower end of right radius,moderate,2024-11-25,false
+2073,250,1253,E78.5,"Hyperlipidaemia, unspecified",mild,2024-10-30,true
+2074,637,2296,C50.911,Malignant neoplasm of unspecified site of right breast,moderate,2025-05-01,true
+2075,118,1863,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-02-25,false
+2076,655,626,J06.9,"Acute upper respiratory infection, unspecified",mild,2024-05-02,false
+2077,590,878,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-07-30,true
+2078,672,1797,I10,Essential (primary) hypertension,moderate,2025-02-13,true
+2079,597,175,F41.1,Generalized anxiety disorder,mild,2023-09-19,true
+2080,477,2257,R51.9,"Headache, unspecified",mild,2025-04-28,false
+2081,18,2495,E78.5,"Hyperlipidaemia, unspecified",severe,2025-06-02,true
+2082,420,631,M54.5,Low back pain,mild,2024-05-06,false
+2083,693,1073,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-09-23,true
+2084,423,877,N39.0,"Urinary tract infection, site not specified",mild,2024-07-29,false
+2085,183,1455,I10,Essential (primary) hypertension,moderate,2024-12-13,true
+2086,754,1823,Z00.00,General adult medical examination without abnormal findings,mild,2025-02-17,false
+2087,241,1178,I10,Essential (primary) hypertension,moderate,2024-10-14,true
+2088,726,2216,I10,Essential (primary) hypertension,moderate,2025-04-21,true
+2089,255,466,I48.91,Unspecified atrial fibrillation,mild,2024-02-29,true
+2090,388,1169,E03.9,"Hypothyroidism, unspecified",moderate,2024-10-11,true
+2091,366,1827,F41.1,Generalized anxiety disorder,mild,2025-02-18,true
+2092,16,224,F32.9,"Major depressive disorder, single episode",severe,2023-10-23,true
+2093,751,524,J06.9,"Acute upper respiratory infection, unspecified",moderate,2024-03-25,false
+2094,184,219,M17.9,"Osteoarthritis of knee, unspecified",mild,2023-10-19,true
+2095,284,1041,R51.9,"Headache, unspecified",moderate,2024-09-16,false
+2096,636,1134,E11.9,Type 2 diabetes mellitus without complications,severe,2024-10-02,true
+2097,189,1786,M17.9,"Osteoarthritis of knee, unspecified",mild,2025-02-11,true
+2098,299,1712,L20.9,"Atopic dermatitis, unspecified",moderate,2025-01-30,true
+2099,610,1650,R51.9,"Headache, unspecified",mild,2025-01-20,false
+2100,354,1500,F41.1,Generalized anxiety disorder,severe,2024-12-23,true
+2101,245,1967,I10,Essential (primary) hypertension,moderate,2025-03-12,true
+2102,234,1693,I48.91,Unspecified atrial fibrillation,mild,2025-01-28,true
+2103,49,1288,I10,Essential (primary) hypertension,mild,2024-11-07,true
+2104,277,1697,F41.1,Generalized anxiety disorder,mild,2025-01-28,true
+2105,675,1843,E11.9,Type 2 diabetes mellitus without complications,mild,2025-02-21,true
+2106,18,106,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2023-07-27,true
+2107,281,2001,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-03-18,false
+2108,509,2384,F41.1,Generalized anxiety disorder,moderate,2025-05-14,true
+2109,232,1898,O80,Encounter for full-term uncomplicated delivery,mild,2025-03-03,false
+2110,27,2551,G43.909,"Migraine, unspecified, not intractable",mild,2025-06-12,false
+2111,11,884,R51.9,"Headache, unspecified",mild,2024-08-01,false
+2112,17,209,N18.3,"Chronic kidney disease, stage 3",severe,2023-10-11,true
+2113,374,2564,F41.1,Generalized anxiety disorder,moderate,2025-06-16,true
+2114,284,759,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2024-06-18,true
+2115,46,100,M17.9,"Osteoarthritis of knee, unspecified",moderate,2023-07-24,true
+2116,626,929,G43.909,"Migraine, unspecified, not intractable",mild,2024-08-16,false
+2117,561,1447,N39.0,"Urinary tract infection, site not specified",mild,2024-12-12,false
+2118,607,889,G47.33,Obstructive sleep apnoea,moderate,2024-08-02,true
+2119,498,2318,J45.909,"Unspecified asthma, uncomplicated",mild,2025-05-05,true
+2120,35,290,I10,Essential (primary) hypertension,severe,2023-11-30,true
+2121,711,2475,D50.9,"Iron deficiency anaemia, unspecified",mild,2025-05-30,false
+2122,4,1344,J06.9,"Acute upper respiratory infection, unspecified",severe,2024-11-21,false
+2123,240,789,F32.9,"Major depressive disorder, single episode",mild,2024-06-26,true
+2124,245,256,Z00.00,General adult medical examination without abnormal findings,moderate,2023-11-14,false
+2125,736,1952,F32.9,"Major depressive disorder, single episode",mild,2025-03-11,true
+2126,122,2267,T78.40,"Allergy, unspecified",mild,2025-04-28,false
+2127,87,651,J45.909,"Unspecified asthma, uncomplicated",severe,2024-05-09,true
+2128,4,1641,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2025-01-20,true
+2129,388,926,M17.9,"Osteoarthritis of knee, unspecified",severe,2024-08-15,true
+2130,389,2108,I10,Essential (primary) hypertension,mild,2025-04-02,true
+2131,407,46,J45.909,"Unspecified asthma, uncomplicated",mild,2023-05-24,true
+2132,356,1153,F41.1,Generalized anxiety disorder,moderate,2024-10-07,true
+2133,480,535,S52.501,Unspecified fracture of lower end of right radius,mild,2024-03-27,false
+2134,645,1352,G43.909,"Migraine, unspecified, not intractable",mild,2024-11-25,false
+2135,10,1285,E78.5,"Hyperlipidaemia, unspecified",moderate,2024-11-07,true
+2136,701,1048,F32.9,"Major depressive disorder, single episode",moderate,2024-09-18,true
+2137,501,2423,E78.5,"Hyperlipidaemia, unspecified",mild,2025-05-22,true
+2138,507,228,N39.0,"Urinary tract infection, site not specified",moderate,2023-10-24,false
+2139,163,361,F32.9,"Major depressive disorder, single episode",moderate,2024-01-09,true
+2140,532,131,T78.40,"Allergy, unspecified",mild,2023-08-18,false
+2141,473,694,F41.1,Generalized anxiety disorder,moderate,2024-05-27,true
+2142,377,1789,Z00.00,General adult medical examination without abnormal findings,moderate,2025-02-11,false
+2143,344,102,J06.9,"Acute upper respiratory infection, unspecified",mild,2023-07-25,false
+2144,90,2628,F41.1,Generalized anxiety disorder,moderate,2025-06-23,true
+2145,260,1292,R10.9,Unspecified abdominal pain,mild,2024-11-08,false
+2146,314,1367,I10,Essential (primary) hypertension,moderate,2024-11-27,true
+2147,216,416,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-02-05,true
+2148,2,2232,I63.9,"Cerebral infarction, unspecified",moderate,2025-04-22,false
+2149,95,1049,I10,Essential (primary) hypertension,moderate,2024-09-18,true
+2150,427,1929,G47.33,Obstructive sleep apnoea,moderate,2025-03-07,true
+2151,17,209,F41.1,Generalized anxiety disorder,moderate,2023-10-11,true
+2152,202,2457,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2025-05-28,true
+2153,583,856,I10,Essential (primary) hypertension,moderate,2024-07-22,true
+2154,724,2123,E03.9,"Hypothyroidism, unspecified",mild,2025-04-07,true
+2155,722,259,Z00.00,General adult medical examination without abnormal findings,mild,2023-11-15,false
+2156,64,1942,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-03-10,false
+2157,698,2284,Z00.00,General adult medical examination without abnormal findings,severe,2025-04-29,false
+2158,53,157,M54.5,Low back pain,mild,2023-09-04,false
+2159,430,912,G43.909,"Migraine, unspecified, not intractable",moderate,2024-08-12,false
+2160,240,627,I25.10,Atherosclerotic heart disease of native coronary artery,mild,2024-05-02,true
+2161,299,1559,O80,Encounter for full-term uncomplicated delivery,mild,2025-01-06,false
+2162,48,1616,J06.9,"Acute upper respiratory infection, unspecified",mild,2025-01-13,false
+2163,58,1013,T78.40,"Allergy, unspecified",mild,2024-09-06,false
+2164,175,508,D50.9,"Iron deficiency anaemia, unspecified",moderate,2024-03-18,false
+2165,388,926,E78.5,"Hyperlipidaemia, unspecified",severe,2024-08-15,true
+2166,373,1609,J06.9,"Acute upper respiratory infection, unspecified",moderate,2025-01-13,false
+2167,396,2133,R10.9,Unspecified abdominal pain,moderate,2025-04-07,false
+2168,455,2658,M17.9,"Osteoarthritis of knee, unspecified",severe,2025-06-27,true
+2169,251,1066,R10.9,Unspecified abdominal pain,mild,2024-09-23,false
+2170,197,558,E78.5,"Hyperlipidaemia, unspecified",mild,2024-04-08,true
+2171,30,2119,C50.911,Malignant neoplasm of unspecified site of right breast,severe,2025-04-04,true
+2172,88,2286,N39.0,"Urinary tract infection, site not specified",mild,2025-04-29,false
+2173,567,412,J45.909,"Unspecified asthma, uncomplicated",moderate,2024-02-05,true
+2174,152,1337,J45.909,"Unspecified asthma, uncomplicated",mild,2024-11-18,true
+2175,360,1259,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-11-01,true
+2176,776,10,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2023-03-08,true
+2177,748,2511,K21.9,Gastro-oesophageal reflux disease without oesophagitis,severe,2025-06-06,true
+2178,292,1715,D50.9,"Iron deficiency anaemia, unspecified",moderate,2025-01-30,false
+2179,151,2625,R10.9,Unspecified abdominal pain,moderate,2025-06-23,false
+2180,619,317,J44.9,"Chronic obstructive pulmonary disease, unspecified",moderate,2023-12-19,true
+2181,78,582,F41.1,Generalized anxiety disorder,mild,2024-04-22,true
+2182,386,405,E11.9,Type 2 diabetes mellitus without complications,moderate,2024-01-31,true
+2183,178,321,I63.9,"Cerebral infarction, unspecified",mild,2023-12-20,false
+2184,606,1065,J44.9,"Chronic obstructive pulmonary disease, unspecified",mild,2024-09-23,true
+2185,199,199,K21.9,Gastro-oesophageal reflux disease without oesophagitis,moderate,2023-10-06,true
+2186,70,305,E03.9,"Hypothyroidism, unspecified",moderate,2023-12-12,true
+2187,260,347,J45.909,"Unspecified asthma, uncomplicated",mild,2024-01-03,true
+2188,360,1259,G43.909,"Migraine, unspecified, not intractable",severe,2024-11-01,false
+2189,158,602,G43.909,"Migraine, unspecified, not intractable",mild,2024-04-25,false
+2190,80,1064,D50.9,"Iron deficiency anaemia, unspecified",moderate,2024-09-23,false
+2191,87,651,M54.5,Low back pain,mild,2024-05-09,false
+2192,468,797,N39.0,"Urinary tract infection, site not specified",moderate,2024-06-28,false
+2193,28,113,T78.40,"Allergy, unspecified",mild,2023-08-01,false
+2194,131,1399,R51.9,"Headache, unspecified",mild,2024-12-03,false
+2195,60,2062,K57.30,Diverticulosis of large intestine without perforation,mild,2025-03-26,false
+2196,253,610,F41.1,Generalized anxiety disorder,moderate,2024-04-29,true
+2197,456,324,E78.5,"Hyperlipidaemia, unspecified",severe,2023-12-21,true
+2198,75,1620,T78.40,"Allergy, unspecified",moderate,2025-01-14,false
+2199,112,1602,N39.0,"Urinary tract infection, site not specified",mild,2025-01-10,false
+2200,66,2029,N39.0,"Urinary tract infection, site not specified",moderate,2025-03-21,false

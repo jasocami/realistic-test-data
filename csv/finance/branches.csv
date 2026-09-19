@@ -1,0 +1,26 @@
+id,branch_code,name,city,province,address,postal_code,phone,opened_at
+1,7558,Banco Meridiano Terrassa Oeste,Terrassa,Barcelona,"Avenida de San José, 109, 6º B",08073,+34 933 653 722,2004-12-05
+2,1665,Banco Meridiano Santander Oeste,Santander,Cantabria,"Avenida de los Olivos, 130",39054,+34 942 039 414,2015-06-28
+3,2166,Banco Meridiano Valencia La Alameda,Valencia,Valencia,"Calle de la Iglesia, 95, 7º Izq.",46029,+34 960 931 903,1985-09-16
+4,1342,Banco Meridiano Málaga Casco Antiguo,Málaga,Málaga,"Calle del Carmen, 117",29037,+34 952 692 271,2018-10-23
+5,8264,Banco Meridiano Córdoba Ensanche,Córdoba,Córdoba,"Calle de la Constitución, 48",14052,+34 957 970 900,2009-11-13
+6,1179,Banco Meridiano Barcelona Oeste,Barcelona,Barcelona,"Carrer de la Libertad, 13",08055,+34 935 892 193,1993-07-01
+7,1403,Banco Meridiano Vigo Norte,Vigo,Pontevedra,"Calle de Antonio Machado, 171, 9º C",36038,+34 986 182 879,2002-03-01
+8,3061,Banco Meridiano Badajoz Oeste,Badajoz,Badajoz,"Calle de Galicia, 99",06047,+34 924 610 052,2019-04-04
+9,4497,Banco Meridiano Alcorcón Oeste,Alcorcón,Madrid,"Calle de la Libertad, 178, 7º Dcha.",28030,+34 910 081 864,1987-12-26
+10,6763,Banco Meridiano Sevilla Este,Sevilla,Sevilla,"Calle de la Merced, 137",41080,+34 954 897 745,1985-12-08
+11,3597,Banco Meridiano Córdoba Nuevos Ministerios,Córdoba,Córdoba,"Calle de la Libertad, 35, 2º C",14052,+34 957 498 623,1994-04-09
+12,5015,Banco Meridiano Ourense Casco Antiguo,Ourense,Ourense,"Calle de la Estación, 136",32011,+34 988 224 088,2004-01-10
+13,5954,Banco Meridiano Tarragona Nuevos Ministerios,Tarragona,Tarragona,"Calle de la Paz, 136, 7º C",43078,+34 977 463 893,1992-03-07
+14,3240,Banco Meridiano Barcelona Este,Barcelona,Barcelona,"Carrer Colón, 175",08080,+34 935 969 816,2019-09-24
+15,0800,Banco Meridiano Salamanca Casco Antiguo,Salamanca,Salamanca,"Calle de la Libertad, 53",37006,+34 923 603 317,2013-10-31
+16,8644,Banco Meridiano Logroño Este,Logroño,La Rioja,"Calle de Andalucía, 29, 6º C",26047,+34 941 063 091,2019-09-08
+17,9087,Banco Meridiano Las Palmas de Gran Canaria Este,Las Palmas de Gran Canaria,Las Palmas,"Avenida Velázquez, 82",35013,+34 928 158 653,1987-10-17
+18,9997,Banco Meridiano Madrid Casco Antiguo,Madrid,Madrid,"Calle Real, 100, 2º B",28029,+34 916 831 869,2008-05-13
+19,9984,Banco Meridiano Guadalajara Norte,Guadalajara,Guadalajara,"Calle del Ebro, 6",19024,+34 949 775 374,1994-08-25
+20,6710,Banco Meridiano Huesca Casco Antiguo,Huesca,Huesca,"Calle de San Antonio, 34",22016,+34 974 649 117,1998-02-19
+21,9623,Banco Meridiano Madrid Oeste,Madrid,Madrid,"Plaza de las Acacias, 171, 6º D",28062,+34 914 133 217,2004-02-04
+22,9590,Banco Meridiano Almería Este,Almería,Almería,"Calle de Blas de Otero, 157",04010,+34 950 659 931,2003-12-27
+23,2753,Banco Meridiano Murcia Oeste,Murcia,Murcia,"Plaza del Duero, 135",30031,+34 968 023 143,2008-10-13
+24,7096,Banco Meridiano Madrid Casco Antiguo,Madrid,Madrid,"Calle de la Rosa, 113",28047,+34 919 386 166,2000-12-08
+25,4896,Banco Meridiano Madrid Oeste,Madrid,Madrid,"Avenida Goya, 127",28036,+34 919 881 137,2017-04-30

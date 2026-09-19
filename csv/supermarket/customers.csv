@@ -1,0 +1,901 @@
+id,loyalty_card,full_name,email,phone,city,province,postal_code,birth_date,segment,signed_up_at
+1,LC-000000001,Amelia Porras Duran,amelia.porras@example.com,+34 624 278 159,Gijón,Asturias,33055,,occasional,2023-04-14
+2,LC-000000002,Rolando Terrón Ocaña,rolando.terron@example.com,+34 752 207 249,Alicante,Alicante,03068,1979-11-25,regular,2022-05-11
+3,LC-000000003,Emiliano Escrivá,emiliano.escriva@example.com,,Cádiz,Cádiz,11050,2002-12-21,premium,2022-09-20
+4,LC-000000004,Lupe Guerra-Grau,lupe.guerra-grau@example.com,+34 765 158 270,Barcelona,Barcelona,08017,1948-04-22,occasional,2022-07-25
+5,LC-000000005,Aníbal Barbero Casanova,anibal.barbero@example.com,+34 696 428 863,Huelva,Huelva,21076,1970-01-04,regular,2023-10-24
+6,LC-000000006,Morena Lobato,morena.lobato@example.com,,San Sebastián,Gipuzkoa,20042,,regular,2023-03-09
+7,LC-000000007,Moisés Lozano-Manrique,,+34 648 217 123,Madrid,Madrid,28071,1954-04-27,premium,2022-12-17
+8,LC-000000008,Teo Porcel,,+34 747 685 821,Santander,Cantabria,39032,1989-12-10,regular,2022-10-02
+9,LC-000000009,Miguela Moliner-Conde,miguela.moliner-conde@example.com,+34 699 649 143,Logroño,La Rioja,26058,1963-08-27,premium,2024-09-23
+10,LC-000000010,Hilda Abad Marín,hilda.abad@example.com,+34 660 237 743,Barcelona,Barcelona,08065,1999-11-06,occasional,2022-08-28
+11,LC-000000011,Teófila Herranz Gimenez,teofila.herranz@example.com,+34 657 564 334,Getafe,Madrid,28001,1995-03-06,occasional,2022-11-06
+12,LC-000000012,Aristides Correa Cañete,aristides.correa@example.com,+34 762 927 838,Zaragoza,Zaragoza,50001,1954-11-04,regular,2023-11-05
+13,LC-000000013,Rufina Porras,rufina.porras@example.com,+34 689 736 655,Elche,Alicante,03051,2005-05-19,new,2023-12-28
+14,LC-000000014,Vidal Benavides,vidal.benavides@example.com,+34 717 836 179,Bilbao,Bizkaia,48047,2001-03-10,occasional,2023-03-30
+15,LC-000000015,América Rocamora Medina,,+34 696 250 613,Sabadell,Barcelona,08012,1977-04-04,regular,2023-02-06
+16,LC-000000016,Emilio Andres Catalán,emilio.andres@example.com,+34 741 994 161,Zaragoza,Zaragoza,50043,1962-12-23,occasional,2023-09-28
+17,LC-000000017,Zaida Ruperta Calvet Castrillo,,+34 747 413 779,Jerez de la Frontera,Cádiz,11050,2001-11-21,regular,2021-12-26
+18,LC-000000018,Vera Julieta Ayllón Gimenez,vera.julieta@example.com,+34 724 097 743,Valencia,Valencia,46052,2001-02-20,occasional,2023-11-13
+19,LC-000000019,Estefanía Rosa Querol Arcos,estefania.rosa@example.com,+34 701 960 720,Zaragoza,Zaragoza,50038,2003-09-21,regular,2024-10-31
+20,LC-000000020,Victoria Arnal Gomis,victoria.arnal@example.com,+34 671 952 005,Alicante,Alicante,03077,1967-12-12,regular,2021-05-25
+21,LC-000000021,Teófilo Giner Cisneros,teofilo.giner@example.com,+34 792 122 459,Jerez de la Frontera,Cádiz,11012,2006-09-04,premium,2022-02-28
+22,LC-000000022,Abraham Barral,abraham.barral@example.com,+34 711 380 733,Barcelona,Barcelona,08011,1981-09-19,regular,2021-11-22
+23,LC-000000023,María Andrés Peralta,maria.andres@example.com,+34 749 603 051,Zaragoza,Zaragoza,50008,1979-05-14,regular,2024-06-29
+24,LC-000000024,Leyre Rodríguez Ortega,,+34 786 235 306,Madrid,Madrid,28053,1979-08-04,premium,2021-07-11
+25,LC-000000025,Celestina Calista Cantón Rico,celestina.calista@example.com,+34 614 207 592,Murcia,Murcia,30062,1971-01-02,occasional,2024-06-14
+26,LC-000000026,Mariana Espada Llorente,,+34 700 695 647,Castellón de la Plana,Castellón,12024,1957-12-18,regular,2023-10-11
+27,LC-000000027,Anastasia Haro Osuna,anastasia.haro4@example.com,+34 607 058 379,Madrid,Madrid,28051,1992-01-29,occasional,2024-12-12
+28,LC-000000028,Bernardita Valverde-Carbonell,bernardita.valverde-carbonell@example.com,+34 610 588 359,Salamanca,Salamanca,37050,1973-08-21,occasional,2022-11-19
+29,LC-000000029,Anastasia Alarcón Farré,anastasia.alarcon@example.com,+34 677 619 961,Madrid,Madrid,28078,1956-07-27,regular,2021-02-16
+30,LC-000000030,Chucho Porras Juan,chucho.porras9@example.com,+34 753 814 687,Lleida,Lleida,25022,1969-12-31,regular,2023-04-14
+31,LC-000000031,Santos Lasa Valencia,santos.lasa@example.com,,Sevilla,Sevilla,41066,1977-06-20,premium,2024-01-14
+32,LC-000000032,Jessica Echevarría Quirós,jessica.echevarria@example.com,+34 649 451 212,Huelva,Huelva,21079,1985-06-21,regular,2021-02-21
+33,LC-000000033,Malena Toro Palomar,malena.toro@example.com,+34 629 491 460,León,León,24077,1999-10-11,occasional,2021-07-17
+34,LC-000000034,Corona Armas Gaya,corona.armas@example.com,+34 761 214 240,Ceuta,Ceuta,51006,1949-07-07,regular,2023-06-15
+35,LC-000000035,Lina Zamora-Olmedo,,+34 747 761 683,Madrid,Madrid,28051,1985-03-14,regular,2023-06-16
+36,LC-000000036,Seve Reyes Espinosa Leon,seve.reyes@example.com,+34 671 185 034,Cáceres,Cáceres,10003,1951-04-04,occasional,2021-05-15
+37,LC-000000037,Olga Leiva Azorin,olga.leiva@example.com,+34 671 281 365,Sabadell,Barcelona,08057,2004-04-29,new,2024-10-10
+38,LC-000000038,Sandalio Fortuny Huerta,sandalio.fortuny@example.com,+34 619 949 260,Madrid,Madrid,28048,,occasional,2024-10-15
+39,LC-000000039,Pascual Arnaiz Macias,pascual.arnaiz@example.com,+34 608 872 602,Granada,Granada,18056,,regular,2022-02-02
+40,LC-000000040,Ofelia Ramirez Ramírez,,+34 719 400 922,Córdoba,Córdoba,14024,1978-02-12,occasional,2022-03-09
+41,LC-000000041,Josefa Miguel Piña,josefa.miguel@example.com,+34 728 662 279,Madrid,Madrid,28024,1988-09-06,regular,2024-02-18
+42,LC-000000042,Teodora Arnaiz Rosales,,+34 695 131 121,Cartagena,Murcia,30017,1956-05-27,new,2023-08-18
+43,LC-000000043,Candelario del Castro,candelario.del@example.com,+34 727 777 642,Terrassa,Barcelona,08002,,occasional,2024-02-02
+44,LC-000000044,Jacinta Alfonso Manzano,,+34 700 436 071,Barcelona,Barcelona,08054,1999-07-03,regular,2021-12-11
+45,LC-000000045,Duilio de Nadal,duilio.de@example.com,+34 612 582 314,Granada,Granada,18076,1995-07-01,premium,2022-11-07
+46,LC-000000046,Vinicio de Huertas,vinicio.de8@example.com,+34 689 152 876,Granada,Granada,18034,1988-10-31,regular,2022-01-08
+47,LC-000000047,Joel Hernández Vendrell,,+34 620 704 720,Almería,Almería,04010,1970-05-09,occasional,2023-07-06
+48,LC-000000048,Jacobo Tenorio Marquez,jacobo.tenorio@example.com,+34 687 694 919,Madrid,Madrid,28025,1973-05-23,regular,2022-03-30
+49,LC-000000049,Pelayo Manuel Requena,pelayo.manuel@example.com,,Zaragoza,Zaragoza,50011,1993-10-30,occasional,2021-04-27
+50,LC-000000050,Andrés Felipe Manzano Julián,andres.felipe@example.com,+34 741 169 450,Palma,Baleares,07061,,regular,2022-12-09
+51,LC-000000051,Salud Acosta-Lorenzo,salud.acosta-lorenzo@example.com,+34 609 790 794,L'Hospitalet de Llobregat,Barcelona,08017,,occasional,2025-02-27
+52,LC-000000052,Rosa María Castañeda,rosa.maria@example.com,+34 752 579 975,Logroño,La Rioja,26045,1948-11-02,regular,2021-04-10
+53,LC-000000053,Lucas Marcelino Esteve Padilla,lucas.marcelino@example.com,+34 639 281 181,Málaga,Málaga,29032,1986-06-28,occasional,2021-06-01
+54,LC-000000054,Viviana Mur-Peláez,,+34 784 765 042,Madrid,Madrid,28026,1968-01-29,new,2023-01-29
+55,LC-000000055,Nilo Silva Soria,nilo.silva2@example.com,+34 605 246 200,Sevilla,Sevilla,41004,1951-12-11,occasional,2022-03-20
+56,LC-000000056,Baldomero Acuña-Somoza,baldomero.acuna-somoza@example.com,+34 614 137 235,Madrid,Madrid,28079,1954-02-20,regular,2023-09-15
+57,LC-000000057,Sol Montalbán Mendizábal,sol.montalban@example.com,+34 662 378 373,Madrid,Madrid,28080,,regular,2023-01-01
+58,LC-000000058,Ariadna Borrego Collado,ariadna.borrego7@example.com,+34 799 400 759,Murcia,Murcia,30051,1990-07-23,regular,2022-03-24
+59,LC-000000059,Lilia Emperatriz Aparicio Agustín,lilia.emperatriz@example.com,+34 616 424 367,Madrid,Madrid,28076,1949-11-04,regular,2024-08-18
+60,LC-000000060,Ale Blanes,ale.blanes@example.com,,Alcorcón,Madrid,28032,,premium,2024-11-09
+61,LC-000000061,Anabel Prieto Mate,anabel.prieto@example.com,,Madrid,Madrid,28064,1948-03-20,regular,2025-02-13
+62,LC-000000062,Jose Miguel Cardona Somoza,jose.miguel@example.com,+34 741 652 834,Barcelona,Barcelona,08062,2005-11-20,regular,2022-08-05
+63,LC-000000063,Paz Yáñez-Egea,paz.yanez-egea@example.com,+34 623 100 017,Girona,Girona,17055,1976-01-26,regular,2021-04-20
+64,LC-000000064,Guadalupe Ricart Vázquez,guadalupe.ricart@example.com,+34 699 928 620,Lleida,Lleida,25008,2001-06-02,regular,2021-07-08
+65,LC-000000065,Natalia Cañas Cañas,natalia.canas3@example.com,+34 617 184 694,Jerez de la Frontera,Cádiz,11076,1975-01-13,regular,2024-08-28
+66,LC-000000066,Samuel Ruano Navarro,samuel.ruano@example.com,,Valencia,Valencia,46021,2002-09-05,regular,2024-04-08
+67,LC-000000067,Gabriel Gisbert Doménech,gabriel.gisbert@example.com,+34 649 327 693,Sevilla,Sevilla,41028,1953-07-21,occasional,2023-04-15
+68,LC-000000068,Elisa Ramírez,elisa.ramirez@example.com,+34 646 782 413,Badalona,Barcelona,08028,1971-08-05,occasional,2024-03-06
+69,LC-000000069,Paulino José Antonio Linares Franch,paulino.jose@example.com,+34 678 692 600,Madrid,Madrid,28076,1971-10-02,regular,2023-01-13
+70,LC-000000070,Cloe Villalba España,cloe.villalba@example.com,+34 679 371 533,Málaga,Málaga,29011,1979-05-11,regular,2021-03-21
+71,LC-000000071,Antonio Simó Bustos,antonio.simo7@example.com,+34 692 743 780,L'Hospitalet de Llobregat,Barcelona,08057,,regular,2024-03-13
+72,LC-000000072,Teodosio Martín Valero,teodosio.martin@example.com,,Almería,Almería,04048,1948-11-01,premium,2024-02-20
+73,LC-000000073,Albino Perelló Barroso,albino.perello@example.com,+34 722 758 665,Madrid,Madrid,28050,1947-07-19,regular,2023-02-02
+74,LC-000000074,María Jesús Gilabert,maria.jesus@example.com,+34 757 218 549,A Coruña,A Coruña,15042,1953-01-13,regular,2022-10-19
+75,LC-000000075,Jimena Bibiana Pastor Carbajo,jimena.bibiana@example.com,+34 703 801 911,Sevilla,Sevilla,41057,1989-01-13,occasional,2024-11-24
+76,LC-000000076,Esperanza Méndez,,+34 783 293 868,Melilla,Melilla,52052,1979-07-30,regular,2024-04-13
+77,LC-000000077,Estefanía Llano-Diez,estefania.llano-diez@example.com,,Córdoba,Córdoba,14036,1966-02-03,regular,2021-12-30
+78,LC-000000078,Fortunato Cornejo-Torres,,,Murcia,Murcia,30054,1992-01-12,regular,2024-10-22
+79,LC-000000079,Amaya Casal Gálvez,amaya.casal@example.com,+34 674 321 567,Madrid,Madrid,28069,1996-11-23,regular,2024-09-29
+80,LC-000000080,Cayetana Vargas Domínguez,cayetana.vargas@example.com,,Madrid,Madrid,28013,1971-04-15,occasional,2023-07-13
+81,LC-000000081,Gabriela Osuna Carrasco,gabriela.osuna@example.com,+34 685 705 182,Oviedo,Asturias,33062,1968-07-11,new,2022-09-14
+82,LC-000000082,Mariana Gimenez Palma,mariana.gimenez@example.com,+34 773 971 204,L'Hospitalet de Llobregat,Barcelona,08009,1946-06-05,premium,2023-12-12
+83,LC-000000083,Chucho Pedrero Mateos,,+34 622 365 386,Oviedo,Asturias,33047,1997-07-18,regular,2021-05-21
+84,LC-000000084,Valerio Sans Serna,valerio.sans@example.com,,Madrid,Madrid,28076,,new,2025-03-04
+85,LC-000000085,Fermín Soria Quintero,fermin.soria@example.com,+34 675 480 098,Zaragoza,Zaragoza,50070,,premium,2023-05-18
+86,LC-000000086,Vilma Cabañas Santana,vilma.cabanas@example.com,+34 617 595 742,Madrid,Madrid,28009,1962-12-05,occasional,2021-10-19
+87,LC-000000087,Candela Porcel Requena,candela.porcel@example.com,+34 617 341 975,Terrassa,Barcelona,08064,1977-07-15,regular,2022-10-04
+88,LC-000000088,Bartolomé del Valls,,+34 713 119 350,Santander,Cantabria,39042,1949-02-19,regular,2021-09-17
+89,LC-000000089,Luz Bertrán,luz.bertran@example.com,+34 621 743 212,Málaga,Málaga,29044,1949-03-13,occasional,2024-07-28
+90,LC-000000090,Eligio Perez-Gomez,,+34 660 630 348,Málaga,Málaga,29007,1971-04-09,occasional,2022-09-20
+91,LC-000000091,Calixta del Alcaraz,calixta.del@example.com,+34 723 540 185,Málaga,Málaga,29040,1949-01-26,occasional,2024-03-26
+92,LC-000000092,Leocadia Miguel-Peinado,leocadia.miguel-peinado@example.com,+34 625 272 140,Elche,Alicante,03065,1945-12-21,occasional,2022-03-01
+93,LC-000000093,Jafet Seguí-Reina,jafet.segui-reina3@example.com,+34 640 155 316,Córdoba,Córdoba,14039,2002-01-01,regular,2025-02-14
+94,LC-000000094,Carla Mayoral-Amo,,+34 647 743 507,Madrid,Madrid,28040,1947-01-19,occasional,2025-03-07
+95,LC-000000095,Brunilda Aguilar Roldan,brunilda.aguilar@example.com,+34 722 642 041,Madrid,Madrid,28041,,premium,2021-12-19
+96,LC-000000096,Marcelo Sosimo Arjona Olivares,,+34 782 275 585,Bilbao,Bizkaia,48030,,occasional,2024-09-30
+97,LC-000000097,Rosalina Albero Aroca,rosalina.albero@example.com,+34 716 790 888,Zaragoza,Zaragoza,50056,1961-03-13,regular,2021-09-14
+98,LC-000000098,Rosalía Bejarano Sureda,rosalia.bejarano6@example.com,+34 709 176 773,Madrid,Madrid,28008,1949-09-22,regular,2023-11-10
+99,LC-000000099,Lorena Cisneros,lorena.cisneros@example.com,+34 783 419 671,León,León,24001,1985-02-21,occasional,2024-04-21
+100,LC-000000100,Leonardo Macias Botella,leonardo.macias@example.com,+34 705 270 064,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38010,1974-06-30,regular,2021-09-02
+101,LC-000000101,Olegario Toledo-Hurtado,olegario.toledo-hurtado@example.com,+34 656 704 624,Valencia,Valencia,46060,1979-07-13,new,2021-12-16
+102,LC-000000102,Hector Gabino Garcia Giralt,,+34 798 109 019,Las Palmas de Gran Canaria,Las Palmas,35027,1990-03-29,regular,2024-10-23
+103,LC-000000103,Cristian Llamas Zabala,cristian.llamas@example.com,+34 704 508 380,Alicante,Alicante,03067,1986-05-14,occasional,2023-07-10
+104,LC-000000104,Gisela del Cárdenas,gisela.del@example.com,+34 711 599 156,Zaragoza,Zaragoza,50020,1975-10-04,occasional,2023-11-01
+105,LC-000000105,Bibiana Vera Goicoechea Bernat,bibiana.vera@example.com,+34 773 413 867,Vitoria-Gasteiz,Álava,01066,1970-08-06,occasional,2022-04-10
+106,LC-000000106,Marcia Vicens Sebastián,marcia.vicens@example.com,+34 749 905 071,Elche,Alicante,03017,,regular,2021-04-06
+107,LC-000000107,Camilo Olivé-Jove,,+34 603 080 261,Sevilla,Sevilla,41012,1955-10-13,regular,2024-03-14
+108,LC-000000108,Cebrián Garay Correa,cebrian.garay@example.com,+34 664 518 101,Barcelona,Barcelona,08074,,premium,2024-01-10
+109,LC-000000109,Juanita Valls Gilabert,juanita.valls@example.com,+34 621 320 900,San Sebastián,Gipuzkoa,20023,1953-10-20,premium,2021-09-24
+110,LC-000000110,Pío Pina Barriga,pio.pina@example.com,+34 661 936 032,Ciudad Real,Ciudad Real,13052,1975-08-14,premium,2021-07-10
+111,LC-000000111,Gil Juan-Reyes,gil.juan-reyes@example.com,+34 712 964 468,Madrid,Madrid,28075,,regular,2024-08-03
+112,LC-000000112,Venceslás Calderon Torrents,venceslas.calderon@example.com,+34 693 014 470,Toledo,Toledo,45019,1948-10-21,occasional,2023-08-01
+113,LC-000000113,Bernabé Recio Pujol,bernabe.recio@example.com,+34 670 991 679,Getafe,Madrid,28069,1970-06-30,occasional,2023-03-18
+114,LC-000000114,Abigaíl Baños Gimeno,abigail.banos@example.com,+34 683 851 015,Barcelona,Barcelona,08040,1948-01-03,regular,2021-02-18
+115,LC-000000115,Ernesto Raya Ángel,ernesto.raya@example.com,+34 608 116 416,Málaga,Málaga,29056,1950-04-26,occasional,2024-10-25
+116,LC-000000116,Ignacia Mayo-Amaya,ignacia.mayo-amaya@example.com,+34 684 988 908,Sabadell,Barcelona,08075,1992-05-18,regular,2023-06-30
+117,LC-000000117,Adrián Bueno Soria,,+34 767 909 013,Málaga,Málaga,29018,,occasional,2024-08-12
+118,LC-000000118,Javiera del Mármol,javiera.del@example.com,+34 621 090 713,Terrassa,Barcelona,08045,1996-08-09,occasional,2024-03-16
+119,LC-000000119,Jennifer Martin-Tello,jennifer.martin-tello3@example.com,+34 641 280 548,Segovia,Segovia,40040,,regular,2022-10-01
+120,LC-000000120,Ascensión Robles Acedo,ascension.robles@example.com,+34 615 227 428,Sevilla,Sevilla,41045,,regular,2024-10-22
+121,LC-000000121,Gregorio Nicolás Fuertes,gregorio.nicolas@example.com,+34 691 167 451,Madrid,Madrid,28078,1953-05-24,regular,2024-07-11
+122,LC-000000122,María Manuela de Morales,maria.manuela@example.com,+34 673 691 716,Madrid,Madrid,28038,2002-09-13,premium,2023-09-27
+123,LC-000000123,Juanita del Hervia,juanita.del@example.com,+34 721 669 801,Valladolid,Valladolid,47021,1978-07-24,regular,2025-03-07
+124,LC-000000124,Liliana Arranz Esteve,liliana.arranz@example.com,+34 630 344 258,Sevilla,Sevilla,41060,,occasional,2021-03-19
+125,LC-000000125,Abilio Figueroa-Donoso,abilio.figueroa-donoso@example.com,+34 778 331 397,Salamanca,Salamanca,37062,,occasional,2023-10-22
+126,LC-000000126,Soledad Pla Viñas,soledad.pla@example.com,+34 622 306 783,Madrid,Madrid,28058,1993-01-02,regular,2023-10-31
+127,LC-000000127,Bernardo Uría Gordillo,bernardo.uria@example.com,+34 750 153 898,Valencia,Valencia,46029,,premium,2024-01-15
+128,LC-000000128,Guadalupe Matas Bonet,,+34 734 854 247,Almería,Almería,04020,1955-04-27,occasional,2023-11-10
+129,LC-000000129,María Fernanda del Pou,maria.fernanda@example.com,+34 729 306 161,Madrid,Madrid,28078,1991-03-17,occasional,2021-12-19
+130,LC-000000130,Amaya Baquero,amaya.baquero7@example.com,+34 665 319 561,Madrid,Madrid,28046,1976-05-25,new,2023-06-04
+131,LC-000000131,Candela Olivé Tamarit,candela.olive@example.com,+34 712 789 445,Albacete,Albacete,02057,1948-10-07,regular,2024-11-01
+132,LC-000000132,Ofelia Córdoba Alcaraz,ofelia.cordoba@example.com,+34 688 098 534,Málaga,Málaga,29041,1972-12-17,occasional,2024-03-22
+133,LC-000000133,Juana Pont Carrasco,juana.pont@example.com,+34 717 814 436,León,León,24002,1961-12-03,regular,2021-06-06
+134,LC-000000134,Jacinto Santos Vizcaíno,jacinto.santos@example.com,+34 736 258 547,Málaga,Málaga,29019,1995-02-22,occasional,2024-06-29
+135,LC-000000135,Lina del Novoa,lina.del@example.com,+34 615 553 467,Alcorcón,Madrid,28068,1983-11-27,premium,2023-02-28
+136,LC-000000136,Mateo del Narváez,mateo.del@example.com,+34 613 426 698,Barcelona,Barcelona,08064,1952-11-15,premium,2024-12-11
+137,LC-000000137,Aureliano Iriarte Barberá,aureliano.iriarte@example.com,+34 659 840 330,Zaragoza,Zaragoza,50043,1980-03-28,premium,2023-04-28
+138,LC-000000138,Olimpia Berenguer Estevez,olimpia.berenguer@example.com,+34 690 191 194,Madrid,Madrid,28062,,premium,2024-06-20
+139,LC-000000139,Raúl Villalonga,,+34 739 744 248,L'Hospitalet de Llobregat,Barcelona,08077,,premium,2023-01-12
+140,LC-000000140,Quique Estevez-Iglesias,quique.estevez-iglesias8@example.com,+34 708 773 587,Las Palmas de Gran Canaria,Las Palmas,35008,1947-07-21,regular,2022-08-08
+141,LC-000000141,Sol Narváez Segovia,sol.narvaez@example.com,+34 604 405 609,Madrid,Madrid,28062,,regular,2024-11-06
+142,LC-000000142,Jose de Porta,jose.de@example.com,+34 698 124 542,Ceuta,Ceuta,51001,,regular,2021-10-04
+143,LC-000000143,Guadalupe Cañellas Dominguez,guadalupe.canellas@example.com,+34 660 993 885,Barcelona,Barcelona,08056,1956-10-30,premium,2021-08-26
+144,LC-000000144,Gregorio Aguado,gregorio.aguado@example.com,+34 619 640 537,Guadalajara,Guadalajara,19009,1987-12-17,new,2024-01-06
+145,LC-000000145,Tamara Tomé-Coronado,tamara.tome-coronado@example.com,+34 772 294 436,Madrid,Madrid,28069,1990-04-03,occasional,2024-07-23
+146,LC-000000146,Fabio Eustaquio Osuna Ramírez,fabio.eustaquio@example.com,+34 662 448 306,Madrid,Madrid,28072,,premium,2023-10-15
+147,LC-000000147,Evita Álamo Ribera,evita.alamo5@example.com,,Granada,Granada,18078,1962-01-26,regular,2021-03-31
+148,LC-000000148,Maristela Rosado Villalba,,+34 754 267 381,Segovia,Segovia,40056,,occasional,2024-10-14
+149,LC-000000149,Cayetana Vilanova Méndez,cayetana.vilanova@example.com,+34 698 289 443,Madrid,Madrid,28065,,occasional,2021-08-09
+150,LC-000000150,Hermenegildo Adadia,hermenegildo.adadia@example.com,+34 674 288 002,Sabadell,Barcelona,08035,1993-01-17,occasional,2024-03-14
+151,LC-000000151,Viviana Posada Quiroga,viviana.posada@example.com,+34 716 911 036,Murcia,Murcia,30035,,regular,2024-04-29
+152,LC-000000152,Melisa de Lledó,melisa.de@example.com,+34 651 701 330,Badajoz,Badajoz,06071,,occasional,2021-10-17
+153,LC-000000153,Amor Peral Pedrosa,amor.peral@example.com,+34 680 472 201,Madrid,Madrid,28012,1977-03-03,regular,2024-06-28
+154,LC-000000154,Rubén Escamilla Tejero,ruben.escamilla@example.com,+34 655 118 414,Cartagena,Murcia,30008,1978-03-22,premium,2021-01-21
+155,LC-000000155,Ulises Pozo Sarabia,ulises.pozo@example.com,+34 757 353 195,Las Palmas de Gran Canaria,Las Palmas,35043,,regular,2021-02-09
+156,LC-000000156,Lourdes Rey Díez,lourdes.rey@example.com,+34 681 421 735,Madrid,Madrid,28032,1999-06-11,occasional,2021-11-01
+157,LC-000000157,Ramón Guardiola Benitez,ramon.guardiola@example.com,+34 613 901 582,Valencia,Valencia,46016,1962-03-30,regular,2024-02-22
+158,LC-000000158,Palmira Sacristán Araujo,palmira.sacristan@example.com,,Almería,Almería,04070,1961-04-12,occasional,2021-01-23
+159,LC-000000159,Jordana Constanza Conde Rosselló,jordana.constanza@example.com,+34 625 811 687,Barcelona,Barcelona,08044,,occasional,2024-08-22
+160,LC-000000160,Atilio Balaguer Sobrino,atilio.balaguer@example.com,,Zaragoza,Zaragoza,50040,1974-01-11,occasional,2021-12-06
+161,LC-000000161,María Luisa Isern Téllez,maria.luisa5@example.com,+34 672 157 062,Valencia,Valencia,46069,1975-06-01,premium,2024-02-16
+162,LC-000000162,Flor Armas-Sastre,flor.armas-sastre@example.com,+34 687 303 357,Toledo,Toledo,45026,1988-11-15,regular,2022-04-04
+163,LC-000000163,Flavia Calvet Puig,flavia.calvet@example.com,+34 625 789 039,Albacete,Albacete,02080,1967-06-10,regular,2022-02-07
+164,LC-000000164,Manuela de Molina,manuela.de@example.com,+34 670 519 291,Barcelona,Barcelona,08015,1983-01-31,premium,2023-07-05
+165,LC-000000165,Reinaldo Ruiz Vilar,reinaldo.ruiz@example.com,+34 761 453 981,Terrassa,Barcelona,08057,1996-03-07,regular,2024-10-01
+166,LC-000000166,Carlito Riba Ángel,,+34 622 877 799,Zaragoza,Zaragoza,50055,1984-12-16,regular,2024-10-20
+167,LC-000000167,Javi del Rius,javi.del@example.com,+34 701 093 592,Alicante,Alicante,03020,1984-10-06,regular,2024-06-09
+168,LC-000000168,Heliodoro Pagès,heliodoro.pages@example.com,,Vigo,Pontevedra,36032,1980-08-14,occasional,2023-02-08
+169,LC-000000169,Efraín Carmona Agudo,efrain.carmona@example.com,+34 624 586 030,Burgos,Burgos,09071,1991-04-03,new,2023-01-27
+170,LC-000000170,Odalys Real Garzón,odalys.real@example.com,+34 627 675 435,Sevilla,Sevilla,41074,1961-01-13,regular,2024-09-11
+171,LC-000000171,Nadia de Mendez,nadia.de@example.com,+34 603 394 239,Burgos,Burgos,09042,,regular,2024-08-09
+172,LC-000000172,Mauricio Casas Baños,mauricio.casas@example.com,+34 674 077 244,Zamora,Zamora,49039,2001-06-27,regular,2022-02-01
+173,LC-000000173,Ainoa Arana,ainoa.arana@example.com,+34 762 280 714,Barcelona,Barcelona,08059,2004-11-18,premium,2021-05-07
+174,LC-000000174,Armida Esparza-Elías,,+34 618 904 625,Vigo,Pontevedra,36036,1946-06-17,regular,2021-07-26
+175,LC-000000175,Lupe Ramirez Jimenez,lupe.ramirez@example.com,+34 766 076 273,Palma,Baleares,07033,1950-04-15,regular,2023-02-03
+176,LC-000000176,Feliciano Anacleto Álvarez Torres,feliciano.anacleto@example.com,+34 774 874 568,Barcelona,Barcelona,08003,1954-03-14,new,2021-11-16
+177,LC-000000177,Graciana Montero Fiol,,+34 615 683 376,Barcelona,Barcelona,08046,1951-11-25,occasional,2022-12-09
+178,LC-000000178,Estefanía Sainz Alcántara,estefania.sainz@example.com,+34 635 078 516,Sevilla,Sevilla,41019,,premium,2021-07-04
+179,LC-000000179,Íñigo Guillen-Cerezo,,+34 687 302 661,Málaga,Málaga,29025,1948-07-11,new,2023-11-09
+180,LC-000000180,Mercedes Calvet,mercedes.calvet@example.com,+34 690 236 875,Albacete,Albacete,02041,2003-03-12,premium,2022-04-22
+181,LC-000000181,Elías Cornejo-Ferrándiz,elias.cornejo-ferrandiz@example.com,+34 625 712 770,Valencia,Valencia,46043,1988-07-20,occasional,2024-08-09
+182,LC-000000182,Paca Maura Porras Ortiz,paca.maura@example.com,+34 609 046 478,Lugo,Lugo,27061,,regular,2025-02-10
+183,LC-000000183,Goyo Peinado Cabo,goyo.peinado@example.com,+34 647 527 966,Alcorcón,Madrid,28014,1966-03-20,regular,2021-03-15
+184,LC-000000184,Edmundo Mate Velasco,edmundo.mate@example.com,+34 794 925 753,Murcia,Murcia,30002,,regular,2024-07-22
+185,LC-000000185,Clotilde Castillo Requena,clotilde.castillo@example.com,+34 608 162 621,Guadalajara,Guadalajara,19021,2004-06-24,occasional,2021-02-09
+186,LC-000000186,Angélica Blanch Rincón,angelica.blanch@example.com,+34 671 726 294,Barcelona,Barcelona,08079,1986-01-21,occasional,2024-02-08
+187,LC-000000187,Florencia Pina Esteban,florencia.pina@example.com,+34 689 583 037,L'Hospitalet de Llobregat,Barcelona,08049,1948-10-03,occasional,2024-08-23
+188,LC-000000188,Sergio Ramirez,sergio.ramirez@example.com,+34 635 305 509,Huelva,Huelva,21011,,regular,2024-04-01
+189,LC-000000189,Carlito Castellanos Palmer,carlito.castellanos@example.com,+34 624 054 911,Zaragoza,Zaragoza,50012,1979-08-18,regular,2023-10-22
+190,LC-000000190,Inés Botella Méndez,ines.botella@example.com,+34 613 890 082,Madrid,Madrid,28009,1970-09-20,regular,2021-05-28
+191,LC-000000191,Calista Blanch Guerra,calista.blanch@example.com,+34 728 542 594,Las Palmas de Gran Canaria,Las Palmas,35026,1981-10-05,premium,2024-04-10
+192,LC-000000192,Charo de Montenegro,charo.de@example.com,+34 751 157 765,Palma,Baleares,07052,1956-06-22,occasional,2022-09-04
+193,LC-000000193,María Carmen de Escudero,maria.carmen@example.com,+34 636 232 922,Las Palmas de Gran Canaria,Las Palmas,35007,1971-05-07,occasional,2022-09-11
+194,LC-000000194,Camilo Álamo-Blanch,camilo.alamo-blanch@example.com,+34 790 387 923,Madrid,Madrid,28067,1961-09-07,occasional,2024-11-12
+195,LC-000000195,Bernabé Lopez Zabala,bernabe.lopez@example.com,+34 678 512 182,Córdoba,Córdoba,14045,1987-12-02,occasional,2024-11-07
+196,LC-000000196,Rebeca Román Galván,rebeca.roman@example.com,+34 631 254 120,Palma,Baleares,07045,1985-04-25,premium,2021-11-13
+197,LC-000000197,Concepción Chico Pont,,,A Coruña,A Coruña,15046,1948-10-08,regular,2022-03-08
+198,LC-000000198,Amanda Briones Romeu,amanda.briones@example.com,+34 622 552 303,Madrid,Madrid,28006,2003-05-10,premium,2022-07-27
+199,LC-000000199,Yésica Esteve García,yesica.esteve@example.com,+34 708 135 399,Palma,Baleares,07066,1968-04-20,occasional,2022-04-16
+200,LC-000000200,Estrella de Lerma,estrella.de@example.com,+34 656 702 855,Barcelona,Barcelona,08069,,regular,2021-11-12
+201,LC-000000201,Otilia Melisa Escribano Lago,otilia.melisa@example.com,+34 610 667 985,Málaga,Málaga,29018,1985-04-14,occasional,2022-11-16
+202,LC-000000202,Carmen Varela-Vizcaíno,carmen.varela-vizcaino@example.com,+34 733 584 576,Ávila,Ávila,05074,1984-10-04,regular,2022-10-02
+203,LC-000000203,Nicanor Castrillo Anaya,,+34 692 007 341,Murcia,Murcia,30062,1949-05-23,occasional,2021-05-05
+204,LC-000000204,Elvira Infante Conesa,elvira.infante@example.com,+34 710 504 378,Teruel,Teruel,44072,1977-09-30,premium,2022-02-27
+205,LC-000000205,Selena Lasa Falcón,selena.lasa@example.com,+34 602 099 302,Madrid,Madrid,28046,1995-07-31,regular,2023-01-01
+206,LC-000000206,Nazaret de Iglesia,nazaret.de@example.com,+34 652 721 898,Oviedo,Asturias,33019,1975-06-21,regular,2024-03-24
+207,LC-000000207,Martina Adelina Bautista Tejero,martina.adelina@example.com,+34 789 926 841,Castellón de la Plana,Castellón,12017,2000-08-24,new,2022-06-25
+208,LC-000000208,Pastor Tello Agustín,,,Palma,Baleares,07051,1969-09-22,regular,2024-08-17
+209,LC-000000209,Victor Quesada Villaverde,victor.quesada@example.com,+34 663 240 395,Oviedo,Asturias,33017,1981-01-15,premium,2021-08-27
+210,LC-000000210,Josué Ariño Pazos,josue.arino@example.com,+34 608 556 442,Oviedo,Asturias,33058,1945-07-06,regular,2022-05-08
+211,LC-000000211,Malena Valenzuela Fuente,malena.valenzuela@example.com,+34 782 969 377,Las Palmas de Gran Canaria,Las Palmas,35036,1970-11-14,regular,2024-06-10
+212,LC-000000212,Manuelita Menéndez Bernal,manuelita.menendez@example.com,,Getafe,Madrid,28012,2003-12-18,premium,2025-03-15
+213,LC-000000213,Miguel Jose Antonio Patiño Rivas,miguel.jose@example.com,+34 695 194 901,Valladolid,Valladolid,47037,1977-07-24,regular,2021-12-01
+214,LC-000000214,Susana Pallarès Marin,susana.pallares@example.com,+34 729 133 058,Melilla,Melilla,52067,1951-12-23,regular,2021-10-19
+215,LC-000000215,Candelario Castillo Diéguez,candelario.castillo@example.com,+34 789 738 513,Madrid,Madrid,28055,1986-02-07,occasional,2024-10-17
+216,LC-000000216,Plinio Soto Pavón,plinio.soto@example.com,+34 658 805 191,Madrid,Madrid,28047,1971-01-13,regular,2023-09-04
+217,LC-000000217,Damián Revilla Diéguez,damian.revilla@example.com,+34 660 023 862,Barcelona,Barcelona,08047,,regular,2022-04-04
+218,LC-000000218,Maristela Lledó Bueno,maristela.lledo@example.com,+34 726 300 139,Terrassa,Barcelona,08003,1973-08-30,premium,2022-05-25
+219,LC-000000219,David Tirado Solano,david.tirado3@example.com,+34 698 144 201,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38060,,regular,2024-12-05
+220,LC-000000220,Guillermo Murcia Manjón,guillermo.murcia@example.com,+34 677 835 317,Zaragoza,Zaragoza,50057,1986-10-23,occasional,2023-05-26
+221,LC-000000221,Emilio Sobrino Espinosa,emilio.sobrino@example.com,+34 687 171 842,Lleida,Lleida,25066,1993-06-17,new,2021-07-23
+222,LC-000000222,Eligio Eligio Andrade Pavón,,+34 628 040 002,Madrid,Madrid,28013,2006-02-13,new,2024-05-24
+223,LC-000000223,Perlita Donaire,perlita.donaire@example.com,+34 685 039 645,Alicante,Alicante,03075,,regular,2024-09-15
+224,LC-000000224,Lorena Alberto,lorena.alberto@example.com,+34 747 950 109,Alicante,Alicante,03036,1963-04-25,regular,2024-07-30
+225,LC-000000225,Ciriaco Moliner Cantero,ciriaco.moliner@example.com,+34 602 024 791,Madrid,Madrid,28073,1996-04-22,premium,2021-10-16
+226,LC-000000226,Cayetana Ricart Beltran,cayetana.ricart@example.com,+34 713 943 003,Elche,Alicante,03052,,premium,2021-06-10
+227,LC-000000227,Calista del Iglesias,calista.del@example.com,+34 682 184 174,Almería,Almería,04044,1960-09-05,regular,2023-07-30
+228,LC-000000228,Balduino Egea Peña,balduino.egea@example.com,,Barcelona,Barcelona,08026,1989-03-01,occasional,2025-03-25
+229,LC-000000229,Toño Campo Salvà,tono.campo@example.com,+34 785 690 533,Madrid,Madrid,28010,,premium,2022-01-14
+230,LC-000000230,Amarilis Pellicer Lorenzo,amarilis.pellicer@example.com,+34 699 462 201,Jerez de la Frontera,Cádiz,11025,1958-04-05,occasional,2023-05-06
+231,LC-000000231,Herminia Feijoo Valbuena,herminia.feijoo@example.com,+34 612 894 024,Valencia,Valencia,46049,,occasional,2025-03-03
+232,LC-000000232,Emilio del Sanabria,emilio.del@example.com,+34 605 997 305,Madrid,Madrid,28059,2002-08-19,regular,2025-02-22
+233,LC-000000233,Mariana de Sabater,mariana.de@example.com,+34 739 586 742,Jerez de la Frontera,Cádiz,11071,1945-02-11,premium,2025-03-27
+234,LC-000000234,Consuela Reyes Pulido Feijoo,consuela.reyes@example.com,+34 725 580 225,Huelva,Huelva,21050,1956-03-18,regular,2022-06-01
+235,LC-000000235,Valeria Hidalgo Cerdá,valeria.hidalgo@example.com,+34 773 505 402,Logroño,La Rioja,26058,1992-08-25,occasional,2025-03-18
+236,LC-000000236,Herminia Garzón Riera,herminia.garzon@example.com,+34 700 660 630,Terrassa,Barcelona,08007,2001-06-07,regular,2024-07-01
+237,LC-000000237,Pacífica Ámbar Baños Pomares,pacifica.ambar@example.com,+34 690 905 126,Vigo,Pontevedra,36067,1945-12-06,regular,2021-11-13
+238,LC-000000238,Manuel Barberá Flores,manuel.barbera@example.com,+34 621 685 625,Cuenca,Cuenca,16026,,regular,2022-01-01
+239,LC-000000239,Octavia de Monreal,octavia.de@example.com,,Vigo,Pontevedra,36024,,premium,2023-04-23
+240,LC-000000240,Jimena Conde-Rosa,jimena.conde-rosa@example.com,+34 677 155 970,Logroño,La Rioja,26011,1978-02-17,occasional,2023-05-24
+241,LC-000000241,Nieves Somoza Melero,nieves.somoza9@example.com,+34 600 942 260,Barcelona,Barcelona,08023,1951-06-18,regular,2023-08-17
+242,LC-000000242,Eugenia Cañas Arroyo,eugenia.canas@example.com,+34 719 987 123,Las Palmas de Gran Canaria,Las Palmas,35072,1969-02-20,regular,2023-04-26
+243,LC-000000243,Antonio Pancho Ojeda Canals,antonio.pancho@example.com,+34 656 663 366,Valencia,Valencia,46006,,regular,2023-07-04
+244,LC-000000244,Josefa Delfina Zurita Vazquez,josefa.delfina@example.com,+34 643 650 613,Madrid,Madrid,28001,2004-11-05,new,2023-09-22
+245,LC-000000245,Basilio Hidalgo Macías,basilio.hidalgo@example.com,+34 702 855 298,Sabadell,Barcelona,08041,1970-10-03,regular,2024-08-21
+246,LC-000000246,Adela Castellanos-Coca,adela.castellanos-coca@example.com,+34 748 942 358,Huesca,Huesca,22077,1975-01-29,occasional,2023-01-09
+247,LC-000000247,Piedad Mora Bernat,piedad.mora@example.com,+34 654 437 379,Madrid,Madrid,28028,1984-05-17,occasional,2021-09-26
+248,LC-000000248,Alfonso del Diaz,alfonso.del@example.com,,Sevilla,Sevilla,41042,1995-04-27,new,2022-05-10
+249,LC-000000249,Bruno Villalba Lillo,bruno.villalba@example.com,+34 736 802 327,Castellón de la Plana,Castellón,12022,,regular,2023-11-15
+250,LC-000000250,Ciriaco Zamora Aliaga,ciriaco.zamora@example.com,,Pamplona,Navarra,31046,,occasional,2023-03-07
+251,LC-000000251,Isidora Arteaga,isidora.arteaga@example.com,+34 668 310 602,Valencia,Valencia,46023,1977-09-27,premium,2022-07-02
+252,LC-000000252,Daniel Bautista Oller Pou,daniel.bautista@example.com,+34 656 561 788,Valencia,Valencia,46006,1955-04-25,regular,2022-09-16
+253,LC-000000253,María Belén Gascón Bru,maria.belen@example.com,+34 637 288 165,Huelva,Huelva,21056,2005-04-21,regular,2023-05-26
+254,LC-000000254,Dulce Barragán,dulce.barragan@example.com,+34 737 554 622,Zaragoza,Zaragoza,50063,1996-03-24,regular,2024-11-09
+255,LC-000000255,Víctor Nogués Reyes,victor.nogues@example.com,+34 673 274 330,Madrid,Madrid,28023,2003-02-17,regular,2022-05-10
+256,LC-000000256,Lucho Aparicio Galván,lucho.aparicio@example.com,+34 782 181 615,Granada,Granada,18026,2001-06-27,regular,2024-12-28
+257,LC-000000257,Fernanda Marco Oller,,+34 683 851 356,León,León,24044,1976-03-12,premium,2023-10-29
+258,LC-000000258,Isaac Arcos Miranda,isaac.arcos@example.com,+34 643 187 888,Valladolid,Valladolid,47007,1995-08-03,regular,2022-04-30
+259,LC-000000259,Clotilde Rosario Benavent Villalba,clotilde.rosario5@example.com,+34 661 731 176,Guadalajara,Guadalajara,19006,1947-10-05,regular,2024-07-02
+260,LC-000000260,Rebeca Ayala Hidalgo,rebeca.ayala@example.com,+34 658 794 454,Murcia,Murcia,30030,1995-04-30,regular,2023-08-09
+261,LC-000000261,Chita Palomares Ballesteros,chita.palomares@example.com,+34 605 302 526,Zamora,Zamora,49044,1951-05-10,occasional,2021-10-07
+262,LC-000000262,Agapito Larrañaga Coll,agapito.larranaga@example.com,+34 689 339 558,Sevilla,Sevilla,41068,,regular,2024-08-15
+263,LC-000000263,Gil Quintero Morante,,+34 603 623 248,Bilbao,Bizkaia,48008,1976-02-24,occasional,2023-01-17
+264,LC-000000264,Sandra Alemany-Maestre,sandra.alemany-maestre@example.com,+34 617 649 186,Barcelona,Barcelona,08066,1995-01-09,new,2021-09-14
+265,LC-000000265,Albina España,albina.espana@example.com,+34 687 201 301,Madrid,Madrid,28020,1995-09-30,regular,2023-01-05
+266,LC-000000266,Arcelia Artigas Alcalá,arcelia.artigas@example.com,+34 668 401 010,Madrid,Madrid,28065,2002-05-30,occasional,2022-07-26
+267,LC-000000267,Rita Figueras-Valcárcel,rita.figueras-valcarcel@example.com,+34 677 189 762,Alicante,Alicante,03078,1980-07-07,premium,2021-03-15
+268,LC-000000268,Marino Gascón Chamorro,marino.gascon@example.com,+34 633 266 116,Málaga,Málaga,29047,1980-05-22,occasional,2024-10-25
+269,LC-000000269,Josué Girón Pallarès,josue.giron@example.com,+34 654 023 380,Córdoba,Córdoba,14033,2005-08-07,regular,2024-01-11
+270,LC-000000270,Cristian del Raya,cristian.del7@example.com,,Palma,Baleares,07013,1977-09-15,occasional,2024-06-28
+271,LC-000000271,Anita Aránzazu Contreras Cabezas,anita.aranzazu@example.com,+34 675 632 399,Pamplona,Navarra,31001,1982-06-05,regular,2022-05-15
+272,LC-000000272,Raimundo Barrios Gras,raimundo.barrios@example.com,+34 613 853 028,Sevilla,Sevilla,41036,1985-12-06,occasional,2022-05-11
+273,LC-000000273,Federico de Arranz,federico.de@example.com,+34 645 524 014,Madrid,Madrid,28042,1960-08-11,regular,2022-01-20
+274,LC-000000274,Héctor Villanueva Carbajo,hector.villanueva@example.com,+34 741 257 628,Zaragoza,Zaragoza,50018,1990-02-08,regular,2022-02-25
+275,LC-000000275,Aránzazu Jordana Conesa Rodríguez,aranzazu.jordana@example.com,+34 634 704 077,Bilbao,Bizkaia,48022,1957-05-11,premium,2024-12-04
+276,LC-000000276,Paco Olmo Cerezo,paco.olmo@example.com,+34 724 480 119,Sevilla,Sevilla,41070,1948-08-02,occasional,2021-09-22
+277,LC-000000277,Amado Palacios,amado.palacios@example.com,+34 631 180 214,Valencia,Valencia,46067,1973-04-14,regular,2024-07-09
+278,LC-000000278,Fabiana Sainz Galiano,fabiana.sainz@example.com,+34 694 929 680,Madrid,Madrid,28074,1953-12-09,regular,2022-02-15
+279,LC-000000279,Alberto Colomer Álvaro,alberto.colomer@example.com,,Murcia,Murcia,30072,,occasional,2024-02-11
+280,LC-000000280,Gustavo Puerta,gustavo.puerta@example.com,,Huesca,Huesca,22044,1956-06-16,regular,2023-07-06
+281,LC-000000281,Claudia Múñiz Caparrós,claudia.muniz@example.com,,Castellón de la Plana,Castellón,12028,1979-08-23,occasional,2021-11-17
+282,LC-000000282,Manu del Barrena,,+34 649 963 456,Alicante,Alicante,03046,,occasional,2021-08-01
+283,LC-000000283,Concha Morillo Benito,concha.morillo@example.com,+34 778 149 298,Alicante,Alicante,03051,1976-02-27,occasional,2021-02-20
+284,LC-000000284,Constanza Morán Tapia,,+34 639 820 921,Sevilla,Sevilla,41071,,new,2021-03-25
+285,LC-000000285,Ceferino Boix Córdoba,ceferino.boix@example.com,+34 653 605 251,Tarragona,Tarragona,43064,1998-12-09,premium,2023-04-09
+286,LC-000000286,Antonio Girona Gonzalez,antonio.girona7@example.com,+34 746 843 824,Vitoria-Gasteiz,Álava,01005,1987-01-18,premium,2022-10-04
+287,LC-000000287,Melisa Bermúdez Arnaiz,melisa.bermudez@example.com,+34 754 470 527,Cartagena,Murcia,30036,1981-06-20,occasional,2023-02-01
+288,LC-000000288,Miriam del Ugarte,miriam.del@example.com,+34 794 235 956,Elche,Alicante,03009,,premium,2022-04-10
+289,LC-000000289,Socorro del Tomás,,+34 753 435 340,Barcelona,Barcelona,08060,1996-03-16,regular,2022-02-09
+290,LC-000000290,Chuy Pérez Román,chuy.perez@example.com,+34 618 641 297,Getafe,Madrid,28034,1993-02-22,occasional,2022-01-21
+291,LC-000000291,Amada de Font,,+34 786 447 628,Las Palmas de Gran Canaria,Las Palmas,35012,1956-04-10,occasional,2021-01-11
+292,LC-000000292,Anastasia Pallarès-Pinedo,,+34 791 707 213,Madrid,Madrid,28078,1986-06-05,new,2022-01-04
+293,LC-000000293,María Cristina Arribas Somoza,maria.cristina@example.com,+34 692 212 767,Granada,Granada,18061,1958-02-03,new,2022-09-22
+294,LC-000000294,Ámbar Uría-Adadia,ambar.uria-adadia@example.com,+34 629 670 679,Badajoz,Badajoz,06077,1977-06-02,regular,2024-11-15
+295,LC-000000295,Casemiro Naranjo Díaz,casemiro.naranjo@example.com,+34 704 308 387,Barcelona,Barcelona,08026,2003-09-01,premium,2024-08-26
+296,LC-000000296,Amaro Herrero Alfonso,amaro.herrero8@example.com,+34 797 224 418,Terrassa,Barcelona,08026,1956-03-24,occasional,2024-01-28
+297,LC-000000297,Paulina Gutierrez Benítez,paulina.gutierrez6@example.com,+34 728 000 451,Madrid,Madrid,28060,1946-08-31,regular,2021-11-23
+298,LC-000000298,Maristela Tomé Menéndez,maristela.tome@example.com,,Sevilla,Sevilla,41037,1979-08-17,occasional,2025-01-01
+299,LC-000000299,Ligia del Iñiguez,ligia.del@example.com,+34 796 216 223,Madrid,Madrid,28024,1965-07-03,regular,2021-03-02
+300,LC-000000300,Hermenegildo Luz,hermenegildo.luz@example.com,+34 667 353 831,Guadalajara,Guadalajara,19006,1979-11-27,occasional,2021-05-12
+301,LC-000000301,Pelayo Ibáñez Arcos,pelayo.ibanez@example.com,+34 612 265 305,Sabadell,Barcelona,08056,,regular,2024-06-10
+302,LC-000000302,Blanca Carballo Espejo,,+34 649 757 908,Gijón,Asturias,33058,1948-01-30,regular,2024-09-13
+303,LC-000000303,José Mari Roldan-Torrijos,,+34 787 065 659,Jerez de la Frontera,Cádiz,11047,1970-09-20,occasional,2024-05-17
+304,LC-000000304,Jose Carlos Avilés Calderón,jose.carlos8@example.com,+34 617 135 253,Cartagena,Murcia,30009,1955-03-23,occasional,2022-12-27
+305,LC-000000305,Cleto del Osorio,,,Madrid,Madrid,28034,,occasional,2024-03-31
+306,LC-000000306,Maximiliano Baeza Rey,maximiliano.baeza@example.com,+34 633 967 469,Alicante,Alicante,03020,2000-10-14,premium,2022-12-21
+307,LC-000000307,Ruth Fiol-Barba,,+34 783 078 347,Málaga,Málaga,29033,1959-03-09,premium,2024-06-25
+308,LC-000000308,Ruy Martín,ruy.martin@example.com,+34 720 979 424,Pamplona,Navarra,31070,1982-10-19,regular,2021-07-19
+309,LC-000000309,Espiridión Vendrell Riquelme,espiridion.vendrell@example.com,+34 695 521 673,Madrid,Madrid,28060,1959-09-03,new,2021-02-06
+310,LC-000000310,Eugenia Hierro Olmedo,,+34 684 909 876,Alicante,Alicante,03009,1970-11-02,regular,2023-11-15
+311,LC-000000311,Tecla Briones Benitez,,+34 721 263 278,Madrid,Madrid,28023,,occasional,2023-11-14
+312,LC-000000312,Pepita Luna Morante Carro,pepita.luna@example.com,+34 658 349 339,Murcia,Murcia,30071,,regular,2021-12-25
+313,LC-000000313,Balduino Cisneros Gárate,balduino.cisneros@example.com,+34 760 872 693,Barcelona,Barcelona,08046,1970-06-15,regular,2023-09-09
+314,LC-000000314,Joel Amat Benavente,joel.amat@example.com,+34 603 764 292,Málaga,Málaga,29038,,regular,2022-09-10
+315,LC-000000315,Asdrubal Atienza Vazquez,asdrubal.atienza@example.com,+34 644 647 911,Pamplona,Navarra,31042,1946-05-07,premium,2024-09-04
+316,LC-000000316,Emilio Riba Goicoechea,emilio.riba@example.com,+34 659 619 030,Almería,Almería,04037,1993-10-28,regular,2021-05-19
+317,LC-000000317,Aurelio Erasmo Miranda Riera,,+34 689 962 286,Jerez de la Frontera,Cádiz,11075,2001-07-07,regular,2022-02-06
+318,LC-000000318,Epifanio Parejo Herrera,epifanio.parejo@example.com,+34 690 869 251,Valencia,Valencia,46057,1984-08-01,occasional,2021-08-04
+319,LC-000000319,Obdulia Cáceres Tomás,,+34 636 673 735,Jaén,Jaén,23038,,premium,2023-07-16
+320,LC-000000320,Calista Bermejo Almansa,,+34 616 360 747,Zaragoza,Zaragoza,50015,1995-12-19,regular,2023-09-22
+321,LC-000000321,Valerio de Nogueira,valerio.de@example.com,+34 625 093 640,Jerez de la Frontera,Cádiz,11037,1995-03-26,regular,2021-03-19
+322,LC-000000322,Eleuterio del Llorente,eleuterio.del@example.com,+34 674 233 947,Teruel,Teruel,44032,1991-05-15,regular,2024-02-09
+323,LC-000000323,Azahar Garzón Rodriguez,azahar.garzon@example.com,+34 655 640 279,Girona,Girona,17033,1987-02-09,regular,2024-05-29
+324,LC-000000324,Buenaventura Prado Higueras,,+34 795 718 109,Zaragoza,Zaragoza,50035,1986-10-22,regular,2024-02-14
+325,LC-000000325,Maribel Manjón Ramón,maribel.manjon@example.com,+34 638 946 425,Barcelona,Barcelona,08011,1971-04-19,regular,2022-12-16
+326,LC-000000326,Nélida Aguado Blanch,,+34 688 561 213,Madrid,Madrid,28047,1991-08-30,premium,2022-06-17
+327,LC-000000327,Dionisio Velázquez-Cabrero,dionisio.velazquez-cabrero@example.com,+34 613 506 090,Oviedo,Asturias,33012,,premium,2025-01-11
+328,LC-000000328,Fulgencio Olivé Reig,fulgencio.olive@example.com,+34 753 281 936,Granada,Granada,18010,1959-06-16,regular,2023-02-18
+329,LC-000000329,Anselma Gimenez,anselma.gimenez@example.com,+34 754 330 748,Madrid,Madrid,28048,,regular,2024-02-18
+330,LC-000000330,Olalla Moya Bas,olalla.moya3@example.com,+34 778 403 195,Valladolid,Valladolid,47080,,occasional,2022-06-19
+331,LC-000000331,Marcelino Carbó Bermúdez,marcelino.carbo@example.com,+34 793 924 713,Huelva,Huelva,21053,,premium,2023-12-17
+332,LC-000000332,Asdrubal Hervia Garriga,asdrubal.hervia@example.com,+34 635 124 073,Bilbao,Bizkaia,48022,1973-07-27,premium,2023-04-27
+333,LC-000000333,Horacio Julio Ramos Baeza,,+34 651 578 205,Cartagena,Murcia,30074,1949-08-22,regular,2023-09-19
+334,LC-000000334,Conrado Hervás Samper,,+34 789 448 159,L'Hospitalet de Llobregat,Barcelona,08075,1974-04-22,occasional,2022-06-19
+335,LC-000000335,Alejandro Julián Quero,alejandro.julian@example.com,+34 666 778 836,Getafe,Madrid,28039,1945-06-02,new,2024-09-23
+336,LC-000000336,Noé Carreño Martin,noe.carreno@example.com,,Las Palmas de Gran Canaria,Las Palmas,35014,1970-08-25,occasional,2021-10-05
+337,LC-000000337,Leandro Rico Blanco Paniagua,leandro.rico@example.com,+34 737 996 084,Granada,Granada,18035,1946-02-27,regular,2022-06-21
+338,LC-000000338,Macarena Dominga Rovira Marquez,,,Girona,Girona,17009,1972-08-02,occasional,2023-01-02
+339,LC-000000339,María Arias Galvez,maria.arias@example.com,+34 639 382 522,Madrid,Madrid,28012,,regular,2021-07-21
+340,LC-000000340,Maricruz Burgos Ordóñez,maricruz.burgos4@example.com,+34 653 792 493,Valencia,Valencia,46040,2004-12-23,new,2023-02-02
+341,LC-000000341,Galo Sacristán-Barón,galo.sacristan-baron@example.com,+34 709 313 836,Málaga,Málaga,29009,1970-01-19,regular,2021-08-29
+342,LC-000000342,Silvestre Martín Benavides,silvestre.martin@example.com,+34 696 402 659,Las Palmas de Gran Canaria,Las Palmas,35010,,occasional,2023-11-10
+343,LC-000000343,Marcela Moreno Giménez,marcela.moreno@example.com,+34 671 308 838,Barcelona,Barcelona,08027,1996-02-08,regular,2023-09-20
+344,LC-000000344,Bernardita Hoyos,bernardita.hoyos@example.com,+34 659 904 646,Alicante,Alicante,03068,,new,2022-06-11
+345,LC-000000345,Lucas Barberá Guillén,lucas.barbera@example.com,+34 603 115 625,Madrid,Madrid,28038,1992-10-11,new,2024-06-27
+346,LC-000000346,Olimpia del Mulet,olimpia.del@example.com,+34 742 343 484,Madrid,Madrid,28056,1954-06-07,regular,2024-01-20
+347,LC-000000347,Américo Roura Ferrer,,+34 788 501 199,Las Palmas de Gran Canaria,Las Palmas,35062,1970-03-02,regular,2023-09-17
+348,LC-000000348,María Belén Abad Maza,maria.belen@example.com,+34 614 770 511,Soria,Soria,42008,2002-05-16,regular,2022-07-02
+349,LC-000000349,Sabina Gabaldón Cervera,sabina.gabaldon@example.com,+34 759 279 930,Cáceres,Cáceres,10056,2003-02-24,occasional,2021-04-30
+350,LC-000000350,Delia Vilalta Gárate,delia.vilalta@example.com,+34 608 416 202,Madrid,Madrid,28018,,regular,2022-09-26
+351,LC-000000351,Miriam Doménech,miriam.domenech@example.com,+34 603 955 375,Murcia,Murcia,30027,1951-02-15,premium,2023-11-18
+352,LC-000000352,Rosaura Porta Gimeno,rosaura.porta@example.com,+34 690 252 399,Terrassa,Barcelona,08031,1984-10-25,regular,2024-04-24
+353,LC-000000353,Lupe Galiano Alcázar,lupe.galiano@example.com,+34 752 547 331,Madrid,Madrid,28043,,new,2021-03-08
+354,LC-000000354,Nuria Alegre-Olivares,nuria.alegre-olivares5@example.com,+34 725 643 332,Vigo,Pontevedra,36020,1957-08-29,premium,2023-11-24
+355,LC-000000355,Alba Miró Bermudez,alba.miro@example.com,+34 721 351 229,Las Palmas de Gran Canaria,Las Palmas,35001,1976-12-05,occasional,2022-11-13
+356,LC-000000356,Eva Pombo Mosquera,eva.pombo6@example.com,+34 718 521 641,Córdoba,Córdoba,14068,1949-09-22,occasional,2022-04-22
+357,LC-000000357,Bernardino Amador,bernardino.amador@example.com,+34 730 098 922,Salamanca,Salamanca,37075,1950-09-29,regular,2021-02-21
+358,LC-000000358,Sonia Leon Alvarez,sonia.leon@example.com,+34 604 527 509,Sevilla,Sevilla,41038,,regular,2021-09-22
+359,LC-000000359,Amanda Estrella Abril Montes,amanda.estrella@example.com,+34 610 204 197,Madrid,Madrid,28025,,regular,2021-11-13
+360,LC-000000360,Vera Olivares Sáez,vera.olivares2@example.com,+34 676 705 778,Valencia,Valencia,46008,1981-12-04,new,2022-03-02
+361,LC-000000361,Viviana del Expósito,viviana.del@example.com,+34 603 071 384,Córdoba,Córdoba,14026,2001-11-09,regular,2023-06-10
+362,LC-000000362,Socorro de Amador,socorro.de@example.com,+34 797 873 124,Valencia,Valencia,46061,,regular,2021-02-23
+363,LC-000000363,Plinio Martí,plinio.marti@example.com,,Jerez de la Frontera,Cádiz,11071,2006-12-14,regular,2024-04-09
+364,LC-000000364,Olalla Álvaro Agullo,,+34 740 006 790,Madrid,Madrid,28002,1972-05-19,regular,2021-05-03
+365,LC-000000365,Adán Guardia Alegria,,+34 602 016 862,Madrid,Madrid,28001,1949-01-19,occasional,2024-01-08
+366,LC-000000366,Purificación Zabala,purificacion.zabala@example.com,+34 647 330 226,Barcelona,Barcelona,08063,1950-11-16,regular,2023-04-24
+367,LC-000000367,Kike Hernán Neira Campillo,kike.hernan@example.com,+34 662 162 368,Sevilla,Sevilla,41032,,occasional,2023-07-24
+368,LC-000000368,Patricia Sancho-Lladó,patricia.sancho-llado@example.com,+34 690 106 960,Sevilla,Sevilla,41040,1997-09-06,occasional,2025-02-08
+369,LC-000000369,Che Lillo Vicens,che.lillo@example.com,+34 632 185 000,Ceuta,Ceuta,51011,,occasional,2021-02-04
+370,LC-000000370,Martina Requena-Gordillo,martina.requena-gordillo@example.com,+34 618 652 565,Logroño,La Rioja,26051,1998-07-02,regular,2022-04-26
+371,LC-000000371,Tito Torre,tito.torre@example.com,+34 670 130 684,Valencia,Valencia,46018,,occasional,2021-01-16
+372,LC-000000372,Inocencio Frutos Murillo,inocencio.frutos@example.com,+34 688 452 340,Madrid,Madrid,28039,1992-10-27,occasional,2022-04-16
+373,LC-000000373,Atilio Luján Pérez,atilio.lujan@example.com,,Madrid,Madrid,28026,,regular,2021-07-31
+374,LC-000000374,Abilio Balaguer Elías,abilio.balaguer@example.com,+34 772 084 511,Valladolid,Valladolid,47006,,occasional,2023-06-21
+375,LC-000000375,Irma Mora Cuevas,irma.mora@example.com,+34 698 690 806,Barcelona,Barcelona,08024,1951-02-23,occasional,2021-03-26
+376,LC-000000376,Nayara Moya,nayara.moya@example.com,+34 634 842 535,Valencia,Valencia,46015,1996-08-01,occasional,2021-06-22
+377,LC-000000377,José Ángel Casas Saldaña,jose.angel@example.com,+34 686 000 586,Las Palmas de Gran Canaria,Las Palmas,35014,1983-02-20,occasional,2022-12-08
+378,LC-000000378,Amor Benavente Arce,amor.benavente@example.com,+34 652 373 495,Sabadell,Barcelona,08046,1949-04-21,regular,2025-02-14
+379,LC-000000379,Nicolasa Escamilla,nicolasa.escamilla@example.com,+34 655 591 848,Madrid,Madrid,28007,1946-01-31,new,2023-01-07
+380,LC-000000380,Fabricio de Sandoval,,,Madrid,Madrid,28046,1962-07-25,regular,2024-04-06
+381,LC-000000381,Nidia Palomino Macias,nidia.palomino@example.com,+34 725 793 613,Zaragoza,Zaragoza,50039,2001-03-30,premium,2021-10-19
+382,LC-000000382,Eliseo Quintero-Ropero,eliseo.quintero-ropero@example.com,+34 755 505 981,Madrid,Madrid,28051,1998-07-20,regular,2023-08-18
+383,LC-000000383,Emilia Huguet Escrivá,emilia.huguet@example.com,+34 650 533 934,Ourense,Ourense,32064,1997-10-16,premium,2024-09-25
+384,LC-000000384,Nazario Orozco Recio,nazario.orozco@example.com,+34 698 508 306,San Sebastián,Gipuzkoa,20028,1967-05-09,occasional,2021-02-03
+385,LC-000000385,Cipriano Vigil Verdejo,cipriano.vigil@example.com,+34 787 260 024,Alicante,Alicante,03001,1971-11-21,premium,2023-08-28
+386,LC-000000386,Asdrubal Reina,asdrubal.reina5@example.com,+34 728 516 934,Jaén,Jaén,23066,,regular,2023-09-08
+387,LC-000000387,Jose Manuel Ávila Alcalá,jose.manuel@example.com,+34 653 327 086,Oviedo,Asturias,33077,,regular,2021-05-02
+388,LC-000000388,Sandra Sureda Girona,sandra.sureda@example.com,+34 746 537 306,Badalona,Barcelona,08053,2006-06-11,new,2023-02-28
+389,LC-000000389,Enrique del Lumbreras,,+34 669 210 911,Granada,Granada,18040,,occasional,2025-03-10
+390,LC-000000390,Lucio del Verdú,lucio.del@example.com,+34 608 623 318,Castellón de la Plana,Castellón,12036,1983-08-08,premium,2021-08-19
+391,LC-000000391,Virginia Tapia Jove,virginia.tapia@example.com,+34 634 499 216,Alcorcón,Madrid,28067,1956-03-07,occasional,2024-12-25
+392,LC-000000392,Viviana Peña Antón,viviana.pena@example.com,+34 727 056 899,Alicante,Alicante,03071,1959-09-24,occasional,2022-10-19
+393,LC-000000393,Jose Miguel del Alsina,jose.miguel@example.com,+34 690 557 872,Zaragoza,Zaragoza,50023,1975-10-18,regular,2024-12-09
+394,LC-000000394,Tristán Tomás Villegas Ramón,tristan.tomas@example.com,+34 728 056 526,Madrid,Madrid,28034,,premium,2022-11-29
+395,LC-000000395,Eli Palmer Soler,,+34 680 345 234,Alicante,Alicante,03009,2006-12-27,occasional,2024-12-31
+396,LC-000000396,Nacio Amador Mateu,nacio.amador@example.com,+34 725 120 410,Madrid,Madrid,28056,2001-09-06,regular,2023-01-14
+397,LC-000000397,Rita Mosquera Zapata,rita.mosquera@example.com,+34 691 478 901,Madrid,Madrid,28030,1990-01-25,regular,2021-09-16
+398,LC-000000398,Candelas Nuria Cisneros Porras,,+34 681 608 198,Murcia,Murcia,30047,1974-06-29,regular,2024-10-03
+399,LC-000000399,Diego Arce Anguita,diego.arce@example.com,+34 681 181 995,Córdoba,Córdoba,14039,1984-04-02,occasional,2023-02-27
+400,LC-000000400,Fabio Bernardo Paz Aramburu,,+34 790 660 085,Sevilla,Sevilla,41051,1966-07-13,occasional,2024-08-16
+401,LC-000000401,Samanta Ponce Vélez,samanta.ponce@example.com,+34 769 933 632,Madrid,Madrid,28055,1953-07-08,regular,2024-06-16
+402,LC-000000402,Luisa Pérez Ayuso,,+34 603 257 947,Jaén,Jaén,23059,1963-11-07,regular,2024-09-20
+403,LC-000000403,Anastasia Carballo,anastasia.carballo@example.com,+34 631 580 133,Melilla,Melilla,52035,1986-08-04,premium,2021-01-18
+404,LC-000000404,Gregorio Rubio Talavera,gregorio.rubio@example.com,+34 630 822 802,Sevilla,Sevilla,41061,2002-11-14,occasional,2024-07-11
+405,LC-000000405,Rita Roldan,rita.roldan@example.com,+34 646 468 142,Murcia,Murcia,30021,1983-02-18,regular,2022-12-14
+406,LC-000000406,Piedad Polo Cantón,piedad.polo@example.com,+34 702 225 688,Sevilla,Sevilla,41016,1958-11-18,regular,2024-07-11
+407,LC-000000407,Bautista Bermúdez Coloma,bautista.bermudez@example.com,+34 690 401 659,Vitoria-Gasteiz,Álava,01019,,premium,2021-08-27
+408,LC-000000408,Norberto Asensio,norberto.asensio@example.com,+34 636 492 925,Girona,Girona,17006,,premium,2024-09-22
+409,LC-000000409,Cirino Uría Castejón,cirino.uria@example.com,+34 710 845 529,Oviedo,Asturias,33076,1994-09-19,occasional,2024-12-12
+410,LC-000000410,Leandro Iglesias Carnero,leandro.iglesias@example.com,,Cáceres,Cáceres,10031,2004-12-29,premium,2023-01-01
+411,LC-000000411,Ibán de Isern,,,Madrid,Madrid,28014,,regular,2023-04-16
+412,LC-000000412,Pelayo Roda Franco,pelayo.roda@example.com,+34 620 446 550,L'Hospitalet de Llobregat,Barcelona,08029,1962-01-07,regular,2022-01-18
+413,LC-000000413,Carolina Sabater,carolina.sabater@example.com,+34 708 875 322,L'Hospitalet de Llobregat,Barcelona,08018,,occasional,2021-05-12
+414,LC-000000414,Clímaco Castro Llamas,climaco.castro@example.com,+34 711 146 578,Valladolid,Valladolid,47066,1951-04-17,premium,2022-10-23
+415,LC-000000415,Teodora Marqués Pavón,teodora.marques@example.com,+34 791 303 800,Getafe,Madrid,28080,1955-04-08,regular,2024-09-22
+416,LC-000000416,Pepe Wilfredo Cisneros Ordóñez,pepe.wilfredo5@example.com,+34 728 873 246,Getafe,Madrid,28003,1994-01-30,occasional,2021-03-18
+417,LC-000000417,Prudencio Joaquín Higueras Quevedo,prudencio.joaquin@example.com,+34 781 074 811,Las Palmas de Gran Canaria,Las Palmas,35022,1958-10-09,occasional,2021-04-03
+418,LC-000000418,Manolo Josep Bayón Castelló,manolo.josep@example.com,+34 629 427 026,Sevilla,Sevilla,41058,1945-01-16,regular,2021-03-16
+419,LC-000000419,Graciano Sancho-Mendez,graciano.sancho-mendez@example.com,+34 646 715 770,Bilbao,Bizkaia,48052,1989-07-11,regular,2024-04-27
+420,LC-000000420,Candelaria Alcolea Millán,candelaria.alcolea@example.com,+34 639 695 342,Toledo,Toledo,45037,1984-11-09,regular,2024-08-05
+421,LC-000000421,Seve del Solé,seve.del@example.com,+34 632 429 527,Castellón de la Plana,Castellón,12017,1985-06-18,regular,2021-10-14
+422,LC-000000422,Jacobo Barco Carnero,jacobo.barco@example.com,+34 797 294 757,Getafe,Madrid,28068,1964-10-07,regular,2022-09-11
+423,LC-000000423,Zoraida Cabañas Baños,zoraida.cabanas@example.com,+34 658 755 624,Córdoba,Córdoba,14017,2001-06-09,regular,2023-07-22
+424,LC-000000424,Aurora Aramburu Blanco,aurora.aramburu@example.com,+34 648 175 491,Madrid,Madrid,28060,2001-07-13,premium,2021-08-03
+425,LC-000000425,Pastor Lluch Garzón,pastor.lluch@example.com,+34 681 272 591,Valladolid,Valladolid,47012,,regular,2025-02-10
+426,LC-000000426,Belén Roma Duque,,+34 639 438 786,Castellón de la Plana,Castellón,12005,1964-03-15,new,2022-04-01
+427,LC-000000427,Eliana Balaguer,eliana.balaguer@example.com,+34 741 538 479,Madrid,Madrid,28015,1990-03-19,occasional,2023-05-20
+428,LC-000000428,Chus Navarro-Méndez,chus.navarro-mendez@example.com,+34 763 023 093,Melilla,Melilla,52054,1955-04-10,occasional,2022-06-12
+429,LC-000000429,Antonio Chaparro Ballesteros,antonio.chaparro@example.com,+34 646 486 357,Córdoba,Córdoba,14007,1989-10-19,regular,2024-11-26
+430,LC-000000430,Alberto Abascal,alberto.abascal@example.com,+34 763 068 394,Barcelona,Barcelona,08040,1966-08-12,regular,2021-12-19
+431,LC-000000431,Pepito Carbonell Gracia,pepito.carbonell@example.com,+34 729 361 422,Madrid,Madrid,28015,,occasional,2024-08-12
+432,LC-000000432,Galo Campoy,galo.campoy@example.com,+34 620 658 798,Valladolid,Valladolid,47013,1999-05-24,new,2021-08-01
+433,LC-000000433,Azeneth Miró-Barragán,azeneth.miro-barragan@example.com,+34 797 987 727,Madrid,Madrid,28073,1981-06-16,regular,2021-07-28
+434,LC-000000434,Alma Sans Raya,alma.sans@example.com,+34 622 490 855,Murcia,Murcia,30067,1959-09-08,regular,2023-08-17
+435,LC-000000435,Ámbar Canals Bauzà,ambar.canals@example.com,+34 656 325 601,Córdoba,Córdoba,14049,1952-11-24,premium,2023-12-11
+436,LC-000000436,Eliana Rius Medina,eliana.rius@example.com,+34 670 380 498,Barcelona,Barcelona,08067,2003-10-10,regular,2024-09-02
+437,LC-000000437,Dan Redondo Buendía,dan.redondo@example.com,+34 646 489 017,Guadalajara,Guadalajara,19039,1949-01-25,occasional,2021-10-06
+438,LC-000000438,Apolonia Pujol,apolonia.pujol@example.com,+34 668 702 218,Alicante,Alicante,03020,1963-07-02,premium,2022-10-25
+439,LC-000000439,Ruy Diaz Mayol,ruy.diaz6@example.com,+34 669 058 092,Valencia,Valencia,46032,1952-09-05,regular,2023-03-22
+440,LC-000000440,Angelita Avilés Ponce,angelita.aviles@example.com,+34 663 439 531,Vigo,Pontevedra,36030,2006-06-26,regular,2024-10-08
+441,LC-000000441,Melania Camps Cantero,melania.camps@example.com,+34 616 364 532,Madrid,Madrid,28054,1972-07-27,occasional,2022-05-21
+442,LC-000000442,Ainoa Amalia Merino González,ainoa.amalia@example.com,+34 659 908 389,Madrid,Madrid,28035,1994-07-06,occasional,2023-08-26
+443,LC-000000443,Silvestre Tejedor Vendrell,silvestre.tejedor@example.com,+34 693 055 672,L'Hospitalet de Llobregat,Barcelona,08079,,regular,2023-11-05
+444,LC-000000444,Ciríaco Adadia,ciriaco.adadia@example.com,+34 673 862 544,Alicante,Alicante,03039,1998-02-02,premium,2024-11-02
+445,LC-000000445,Ainoa Bauzà Matas,ainoa.bauza@example.com,+34 607 452 311,Tarragona,Tarragona,43007,1993-07-15,premium,2022-10-18
+446,LC-000000446,Mauricio Vendrell-Baró,mauricio.vendrell-baro@example.com,+34 668 357 076,Madrid,Madrid,28079,1962-01-04,occasional,2025-03-17
+447,LC-000000447,María Del Carmen Juan Escalona,maria.del@example.com,+34 613 312 226,Málaga,Málaga,29040,1976-03-09,occasional,2021-02-06
+448,LC-000000448,Inés Mateos Cardona,ines.mateos@example.com,+34 787 457 842,Barcelona,Barcelona,08067,2001-03-06,regular,2021-06-03
+449,LC-000000449,Victor Manuel Abella Abascal,,+34 708 125 015,A Coruña,A Coruña,15048,1963-02-26,occasional,2021-07-10
+450,LC-000000450,Asunción Pi-Villaverde,asuncion.pi-villaverde@example.com,+34 632 850 289,Barcelona,Barcelona,08030,2001-05-18,regular,2024-06-07
+451,LC-000000451,María Manuela Hernandez,maria.manuela@example.com,+34 779 629 102,Málaga,Málaga,29068,1949-07-02,regular,2024-05-20
+452,LC-000000452,Trinidad Bernal Iriarte,trinidad.bernal@example.com,+34 674 042 994,Madrid,Madrid,28078,,occasional,2023-08-11
+453,LC-000000453,Manuelita Arranz Miguel,manuelita.arranz@example.com,+34 799 191 139,Tarragona,Tarragona,43005,1982-07-19,occasional,2021-11-11
+454,LC-000000454,Gaspar Ariza Aranda,gaspar.ariza@example.com,+34 655 060 948,Girona,Girona,17021,1966-07-30,occasional,2023-09-12
+455,LC-000000455,Toni Pagès Bermejo,toni.pages4@example.com,+34 607 925 123,Málaga,Málaga,29055,1965-11-23,premium,2024-11-04
+456,LC-000000456,Luis Ayllón Mateos,luis.ayllon@example.com,+34 627 386 305,Las Palmas de Gran Canaria,Las Palmas,35073,1972-06-09,regular,2022-03-24
+457,LC-000000457,Eli Zamorano,eli.zamorano@example.com,+34 645 927 971,Barcelona,Barcelona,08070,1973-01-17,premium,2023-08-30
+458,LC-000000458,María Ángeles Domingo Pareja,maria.angeles@example.com,+34 668 200 563,Castellón de la Plana,Castellón,12034,1955-12-05,occasional,2024-06-23
+459,LC-000000459,Azahar del Díez,azahar.del@example.com,+34 655 023 851,Madrid,Madrid,28016,,occasional,2024-08-07
+460,LC-000000460,Clara Trujillo Dueñas,clara.trujillo@example.com,+34 750 665 227,Madrid,Madrid,28056,2003-07-26,regular,2023-12-27
+461,LC-000000461,Juan Bautista Benet Casado,juan.bautista@example.com,+34 683 071 243,Palma,Baleares,07008,1950-03-07,occasional,2022-08-26
+462,LC-000000462,Leticia Alcázar Mateos,,+34 602 602 881,Salamanca,Salamanca,37032,,regular,2022-03-08
+463,LC-000000463,Anunciación Nogués-Guardiola,,+34 673 942 640,Toledo,Toledo,45028,1949-04-30,premium,2024-02-14
+464,LC-000000464,Mariano Ezequiel Rosales Berenguer,,+34 682 508 216,Madrid,Madrid,28032,1958-07-29,premium,2022-12-09
+465,LC-000000465,Porfirio Vizcaíno Almeida,porfirio.vizcaino@example.com,+34 602 518 576,Palma,Baleares,07009,1991-10-21,occasional,2025-03-25
+466,LC-000000466,Olivia Aragonés-Patiño,olivia.aragones-patino@example.com,+34 713 213 270,Barcelona,Barcelona,08032,1976-11-21,occasional,2024-11-18
+467,LC-000000467,Aura Miró-Luís,,+34 658 659 905,Melilla,Melilla,52067,1998-05-02,occasional,2022-09-26
+468,LC-000000468,Ramiro de Rovira,,+34 665 614 543,Málaga,Málaga,29080,,occasional,2022-06-17
+469,LC-000000469,Begoña Dionisia Chaves Coloma,begona.dionisia@example.com,+34 654 246 484,Madrid,Madrid,28043,1987-09-14,regular,2023-02-15
+470,LC-000000470,Valentina Palomino Colomer,valentina.palomino@example.com,+34 677 497 529,Sabadell,Barcelona,08045,1954-12-19,occasional,2021-08-10
+471,LC-000000471,Eloy Bellido-Casares,eloy.bellido-casares5@example.com,+34 772 694 471,Alcorcón,Madrid,28012,1959-11-18,regular,2023-05-19
+472,LC-000000472,Aura Almazán Esteve,aura.almazan@example.com,+34 631 796 396,Sevilla,Sevilla,41072,1996-12-13,regular,2021-07-17
+473,LC-000000473,Íñigo Santos Acedo,inigo.santos@example.com,+34 643 615 207,Madrid,Madrid,28026,1967-06-07,regular,2024-04-09
+474,LC-000000474,Aarón Ballesteros Bayona,aaron.ballesteros9@example.com,+34 742 453 166,Badajoz,Badajoz,06023,1952-06-22,occasional,2021-12-07
+475,LC-000000475,Juan Agudo Lopez,juan.agudo@example.com,+34 687 397 077,Madrid,Madrid,28072,1945-09-28,occasional,2025-02-28
+476,LC-000000476,Sancho Federico Acevedo Comas,sancho.federico@example.com,+34 630 093 062,Gijón,Asturias,33019,,regular,2023-12-23
+477,LC-000000477,Liliana Garcia Lobo,liliana.garcia@example.com,,Tarragona,Tarragona,43045,2002-09-02,regular,2022-05-22
+478,LC-000000478,Lilia Mate Ferrán,,+34 731 350 264,Elche,Alicante,03002,1988-03-19,occasional,2022-02-21
+479,LC-000000479,Amarilis María Manuela Sedano Valls,amarilis.maria@example.com,+34 711 196 186,Elche,Alicante,03034,1961-04-29,occasional,2023-01-31
+480,LC-000000480,Lorena Cabrero Cases,lorena.cabrero4@example.com,+34 646 016 406,Alcorcón,Madrid,28022,1975-10-05,regular,2021-12-26
+481,LC-000000481,Daniela Noguera Luna,daniela.noguera@example.com,+34 628 089 674,León,León,24011,,regular,2021-09-12
+482,LC-000000482,Tomás Casanovas Riba,tomas.casanovas@example.com,+34 662 433 004,Alicante,Alicante,03033,1982-04-13,regular,2021-02-22
+483,LC-000000483,Federico Correa Real,federico.correa@example.com,+34 623 344 892,Tarragona,Tarragona,43010,1999-08-20,new,2021-01-18
+484,LC-000000484,Pastor Ariza Silva,,+34 654 142 632,Zaragoza,Zaragoza,50075,1987-03-20,occasional,2024-12-19
+485,LC-000000485,Javiera Diéguez Carreras,,+34 778 976 535,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38016,1985-02-08,regular,2024-07-25
+486,LC-000000486,Emiliana Maestre Recio,emiliana.maestre@example.com,+34 657 846 174,Cádiz,Cádiz,11063,1945-10-06,regular,2024-08-28
+487,LC-000000487,Cruz Jordán Sola Gomez,cruz.jordan@example.com,+34 687 327 716,Madrid,Madrid,28037,1970-10-01,occasional,2022-08-28
+488,LC-000000488,Juan Pablo Pinedo,,+34 630 747 427,Murcia,Murcia,30061,1984-04-17,premium,2025-02-11
+489,LC-000000489,Valerio Canals-Donaire,valerio.canals-donaire@example.com,+34 675 262 452,Madrid,Madrid,28061,1964-11-14,occasional,2022-02-12
+490,LC-000000490,Elisabet Leocadia Ricart Pozuelo,elisabet.leocadia@example.com,+34 724 296 341,Madrid,Madrid,28015,1968-12-14,new,2022-05-07
+491,LC-000000491,Nereida Angelita Riera Morata,,+34 720 815 345,Granada,Granada,18056,1965-11-02,occasional,2022-01-14
+492,LC-000000492,Rosenda Gallardo,rosenda.gallardo@example.com,+34 641 068 499,León,León,24006,1998-05-30,occasional,2024-04-16
+493,LC-000000493,Patricia Olimpia Duarte Rodrigo,patricia.olimpia@example.com,+34 686 626 829,Palma,Baleares,07067,2000-07-31,regular,2024-05-26
+494,LC-000000494,Alfredo Asdrubal Céspedes Iriarte,alfredo.asdrubal@example.com,+34 609 885 521,Zaragoza,Zaragoza,50022,1964-08-15,regular,2024-07-21
+495,LC-000000495,Guadalupe Hernando Baeza,guadalupe.hernando@example.com,+34 662 477 103,Murcia,Murcia,30001,1962-12-05,regular,2025-02-28
+496,LC-000000496,Joel Azorin-Zurita,joel.azorin-zurita@example.com,+34 665 636 462,Palma,Baleares,07037,1984-06-19,occasional,2023-07-21
+497,LC-000000497,Nando Meléndez Andrade,nando.melendez@example.com,+34 637 306 668,Valladolid,Valladolid,47018,1999-08-07,regular,2022-03-26
+498,LC-000000498,Tristán Villanueva,tristan.villanueva@example.com,+34 625 579 630,Málaga,Málaga,29069,,premium,2022-09-22
+499,LC-000000499,Ale Julián-Porcel,ale.julian-porcel@example.com,+34 685 349 797,Málaga,Málaga,29070,1999-01-17,regular,2024-05-10
+500,LC-000000500,Erasmo Jove Sancho,erasmo.jove@example.com,,Málaga,Málaga,29008,1975-02-25,regular,2021-06-06
+501,LC-000000501,Vanesa Peña-Anglada,vanesa.pena-anglada@example.com,+34 744 905 734,Valladolid,Valladolid,47067,,premium,2021-06-08
+502,LC-000000502,Irene Borrás Contreras,irene.borras@example.com,+34 661 103 808,Bilbao,Bizkaia,48023,1975-01-22,occasional,2021-11-22
+503,LC-000000503,Antonia Suarez-Hidalgo,antonia.suarez-hidalgo@example.com,+34 647 286 548,San Sebastián,Gipuzkoa,20028,1958-12-24,occasional,2023-03-01
+504,LC-000000504,Abigaíl Palmer Peiró,,+34 693 861 539,Melilla,Melilla,52064,,occasional,2023-07-21
+505,LC-000000505,Jerónimo Milla Vazquez,jeronimo.milla@example.com,+34 734 539 819,Madrid,Madrid,28038,1977-05-31,occasional,2024-01-02
+506,LC-000000506,Mirta Redondo Téllez,mirta.redondo@example.com,+34 793 402 335,Bilbao,Bizkaia,48007,1986-08-24,occasional,2025-01-17
+507,LC-000000507,Rosalía Novoa Vilanova,rosalia.novoa@example.com,+34 615 384 659,Pamplona,Navarra,31001,1995-07-25,regular,2023-05-11
+508,LC-000000508,Heliodoro Rodríguez-Prado,heliodoro.rodriguez-prado@example.com,+34 687 782 971,Badalona,Barcelona,08002,1963-06-07,premium,2022-07-04
+509,LC-000000509,Mario Martorell Serrano,mario.martorell@example.com,+34 756 564 587,Madrid,Madrid,28066,1990-04-28,premium,2021-01-24
+510,LC-000000510,Olimpia Corona Enríquez Noriega,olimpia.corona@example.com,+34 727 945 013,Vitoria-Gasteiz,Álava,01029,1992-08-05,new,2024-09-23
+511,LC-000000511,Pastor Baena Llorens,pastor.baena@example.com,+34 702 793 294,Burgos,Burgos,09031,1956-07-20,occasional,2021-03-25
+512,LC-000000512,Anabel Fábregas Castrillo,anabel.fabregas@example.com,+34 634 550 091,Terrassa,Barcelona,08080,1949-02-10,occasional,2024-06-12
+513,LC-000000513,Teófila Peral-Ros,teofila.peral-ros@example.com,+34 648 877 535,Almería,Almería,04026,1966-01-29,regular,2023-02-03
+514,LC-000000514,Leticia Vazquez Román,leticia.vazquez@example.com,+34 710 862 315,Madrid,Madrid,28006,1946-04-28,regular,2023-07-25
+515,LC-000000515,Leonel Marqués Artigas,leonel.marques@example.com,+34 668 119 740,Palma,Baleares,07022,1980-09-22,occasional,2022-07-10
+516,LC-000000516,Galo Albano Aroca Arias,galo.albano@example.com,+34 668 894 709,A Coruña,A Coruña,15073,1966-05-10,regular,2023-01-01
+517,LC-000000517,Paz Martina Vaquero Bueno,paz.martina@example.com,+34 787 163 741,Almería,Almería,04042,1973-02-25,regular,2023-04-17
+518,LC-000000518,Ainoa Donaire Arnaiz,ainoa.donaire@example.com,+34 603 882 269,Zaragoza,Zaragoza,50007,1983-02-27,regular,2021-07-03
+519,LC-000000519,René Benavides Barros,,+34 658 594 734,Cáceres,Cáceres,10056,1984-11-09,occasional,2021-05-01
+520,LC-000000520,Lucho Lázaro Verdú Gallardo,,,Cartagena,Murcia,30058,1952-12-21,premium,2024-03-21
+521,LC-000000521,Cecilia Pozuelo Morillo,,+34 676 468 003,Barcelona,Barcelona,08080,1994-10-11,occasional,2022-05-02
+522,LC-000000522,María Viñas Pineda,maria.vinas@example.com,+34 788 645 906,Lleida,Lleida,25063,1980-01-28,premium,2021-03-15
+523,LC-000000523,Tania de Macías,tania.de@example.com,+34 705 549 322,Barcelona,Barcelona,08020,1945-12-29,regular,2023-11-01
+524,LC-000000524,Bernardino Campillo Marin,bernardino.campillo@example.com,+34 665 950 587,Soria,Soria,42071,1965-11-28,regular,2024-09-13
+525,LC-000000525,Luz del Luján,luz.del@example.com,+34 615 622 245,Guadalajara,Guadalajara,19047,1994-11-15,occasional,2024-08-10
+526,LC-000000526,Ana Belén Elorza Ferreras,ana.belen@example.com,+34 674 817 879,Sabadell,Barcelona,08013,1953-02-20,occasional,2024-09-17
+527,LC-000000527,Chema Chacón Cuenca,chema.chacon@example.com,+34 780 843 892,Zaragoza,Zaragoza,50055,1991-03-04,occasional,2024-08-22
+528,LC-000000528,Sarita Rojas Ibáñez,sarita.rojas@example.com,+34 749 888 014,Salamanca,Salamanca,37025,1977-10-12,occasional,2024-10-07
+529,LC-000000529,Bárbara Escudero-Castillo,barbara.escudero-castillo@example.com,+34 703 878 786,Sabadell,Barcelona,08015,1958-08-30,new,2021-10-04
+530,LC-000000530,Daniel Mena Casas,daniel.mena@example.com,+34 647 451 538,Madrid,Madrid,28078,1947-01-05,regular,2023-08-16
+531,LC-000000531,Mauricio de Carpio,mauricio.de@example.com,+34 659 469 130,Córdoba,Córdoba,14052,1998-12-13,occasional,2021-03-01
+532,LC-000000532,Pablo Gerardo Quintana Barral,pablo.gerardo@example.com,+34 688 552 148,Cádiz,Cádiz,11047,1981-04-02,occasional,2021-11-12
+533,LC-000000533,Jorge del Ramos,jorge.del@example.com,+34 765 989 736,Cartagena,Murcia,30080,1965-04-27,regular,2023-03-09
+534,LC-000000534,Ariel Luís Marin,ariel.luis@example.com,+34 672 470 316,Burgos,Burgos,09079,1980-01-10,regular,2023-11-03
+535,LC-000000535,Sonia Antonia Buendía Chaparro,sonia.antonia@example.com,,Málaga,Málaga,29052,1996-01-02,regular,2022-05-11
+536,LC-000000536,Piedad Martin,piedad.martin@example.com,+34 663 633 626,Almería,Almería,04052,,premium,2024-12-29
+537,LC-000000537,Carlota Bárcena Polo,carlota.barcena@example.com,+34 627 558 747,Barcelona,Barcelona,08023,,regular,2023-08-02
+538,LC-000000538,Berta Figueroa Olivera,,+34 612 923 082,Palma,Baleares,07055,1969-03-09,premium,2021-05-15
+539,LC-000000539,Leonor de Pomares,leonor.de@example.com,+34 691 041 534,Vitoria-Gasteiz,Álava,01062,1946-09-15,new,2021-01-13
+540,LC-000000540,Clarisa Leocadia Mateo Chico,clarisa.leocadia@example.com,+34 635 346 551,Valencia,Valencia,46050,1998-12-13,premium,2021-05-11
+541,LC-000000541,Nydia Barrio,nydia.barrio@example.com,+34 765 244 023,Barcelona,Barcelona,08015,1999-05-29,occasional,2025-03-03
+542,LC-000000542,Olegario Luis Santana Vera,olegario.luis@example.com,+34 624 144 185,A Coruña,A Coruña,15060,,occasional,2024-12-15
+543,LC-000000543,Marco del Doménech,marco.del@example.com,+34 671 227 021,Valladolid,Valladolid,47010,,regular,2025-02-02
+544,LC-000000544,Lucio Camino Benavent,lucio.camino@example.com,+34 631 129 666,Barcelona,Barcelona,08037,1962-11-07,regular,2022-08-25
+545,LC-000000545,Hector Osorio-Sedano,hector.osorio-sedano8@example.com,+34 627 137 392,Ciudad Real,Ciudad Real,13048,1974-05-10,regular,2022-03-03
+546,LC-000000546,Eva del Vega,eva.del@example.com,+34 746 257 258,Barcelona,Barcelona,08033,1949-05-20,regular,2024-01-10
+547,LC-000000547,José Antonio del Cardona,,+34 759 098 393,Huesca,Huesca,22049,1986-06-30,new,2024-11-11
+548,LC-000000548,Encarnacion Ferrán Manzano,encarnacion.ferran@example.com,+34 607 708 953,Terrassa,Barcelona,08077,1959-11-29,regular,2023-10-13
+549,LC-000000549,Jovita de Aparicio,jovita.de@example.com,+34 676 286 286,Madrid,Madrid,28036,1996-06-17,occasional,2024-08-23
+550,LC-000000550,Lázaro Puente Menéndez,lazaro.puente@example.com,+34 629 341 428,Valladolid,Valladolid,47026,,occasional,2024-06-02
+551,LC-000000551,Violeta Barriga Adadia,violeta.barriga@example.com,+34 697 859 895,Melilla,Melilla,52061,,occasional,2023-06-08
+552,LC-000000552,Jordana Pizarro Sandoval,jordana.pizarro6@example.com,+34 776 383 271,Huelva,Huelva,21025,2002-12-23,occasional,2021-06-12
+553,LC-000000553,Alexandra Alvarez Ribera,alexandra.alvarez@example.com,+34 638 801 026,Málaga,Málaga,29046,,regular,2024-01-27
+554,LC-000000554,Cosme de Lledó,cosme.de@example.com,,Zaragoza,Zaragoza,50028,1995-01-10,occasional,2024-11-19
+555,LC-000000555,Vera Ballesteros Royo,vera.ballesteros@example.com,+34 638 592 773,Gijón,Asturias,33039,1973-06-21,regular,2025-01-08
+556,LC-000000556,Amor Boada Gonzalez,amor.boada@example.com,+34 620 085 680,Murcia,Murcia,30055,1994-05-14,regular,2023-05-04
+557,LC-000000557,Reyes Cáceres Galvez,reyes.caceres@example.com,+34 602 521 592,Sevilla,Sevilla,41029,1985-06-14,occasional,2021-05-23
+558,LC-000000558,Américo Falcó-Castillo,americo.falco-castillo@example.com,+34 728 071 511,Badalona,Barcelona,08057,1956-03-16,occasional,2021-09-04
+559,LC-000000559,Moisés Pina Márquez,moises.pina@example.com,+34 661 859 303,Granada,Granada,18020,1963-02-23,occasional,2024-01-17
+560,LC-000000560,Lucho Plana Cardona,lucho.plana@example.com,+34 760 231 103,Terrassa,Barcelona,08014,1983-08-31,regular,2022-12-29
+561,LC-000000561,Concha Páez Mur,concha.paez@example.com,+34 607 389 107,Tarragona,Tarragona,43021,1978-03-25,regular,2023-05-04
+562,LC-000000562,Kike Barroso-Mena,kike.barroso-mena@example.com,+34 796 478 200,Palma,Baleares,07070,1953-12-31,regular,2023-12-25
+563,LC-000000563,Ramiro del Reguera,ramiro.del@example.com,+34 673 982 537,Jerez de la Frontera,Cádiz,11053,1986-12-08,occasional,2022-08-24
+564,LC-000000564,Melania del Balaguer,melania.del@example.com,+34 655 339 900,Barcelona,Barcelona,08011,,occasional,2024-12-02
+565,LC-000000565,Bruno Julián Velasco Otero,bruno.julian@example.com,+34 624 796 535,L'Hospitalet de Llobregat,Barcelona,08049,1968-03-25,regular,2021-10-30
+566,LC-000000566,Bartolomé Tolosa Castillo,bartolome.tolosa@example.com,+34 690 776 570,Vitoria-Gasteiz,Álava,01067,1987-11-04,regular,2021-06-16
+567,LC-000000567,Emelina Avilés Iñiguez,emelina.aviles5@example.com,,Málaga,Málaga,29044,,premium,2024-11-01
+568,LC-000000568,Milagros Donoso Román,milagros.donoso@example.com,+34 637 392 608,Madrid,Madrid,28020,2001-10-04,occasional,2021-03-08
+569,LC-000000569,Sonia Pereira Agustín,,+34 762 946 469,Logroño,La Rioja,26074,1993-02-24,regular,2025-01-16
+570,LC-000000570,Claudio Gargallo Ochoa,claudio.gargallo@example.com,+34 604 219 611,Bilbao,Bizkaia,48042,,premium,2023-11-15
+571,LC-000000571,Cayetano Rosselló Cuervo,cayetano.rossello@example.com,+34 654 046 298,Madrid,Madrid,28031,1979-02-19,regular,2025-01-07
+572,LC-000000572,Julia Tomé Valero,julia.tome@example.com,+34 633 226 631,Castellón de la Plana,Castellón,12058,1951-06-11,new,2025-01-05
+573,LC-000000573,José Felicidad Dávila Palomo,jose.felicidad@example.com,+34 699 097 343,Gijón,Asturias,33077,1963-12-31,regular,2023-04-23
+574,LC-000000574,Juan Antonio Blanch Menéndez,juan.antonio@example.com,+34 607 660 949,Madrid,Madrid,28034,,occasional,2024-10-28
+575,LC-000000575,Encarnita Azorin,,+34 616 993 709,Málaga,Málaga,29015,1992-11-18,occasional,2024-07-08
+576,LC-000000576,Lourdes de Cuenca,,+34 605 084 805,Sabadell,Barcelona,08028,,premium,2021-07-27
+577,LC-000000577,Itziar Cid Guerrero,,,León,León,24028,1955-03-19,regular,2021-05-28
+578,LC-000000578,Áurea Mesa Mesa,,+34 639 187 402,Murcia,Murcia,30059,,new,2021-06-17
+579,LC-000000579,Timoteo Leiva Toro,timoteo.leiva@example.com,+34 611 038 350,Barcelona,Barcelona,08046,1963-06-01,occasional,2022-07-20
+580,LC-000000580,Charo Santiago Arce,charo.santiago@example.com,+34 748 737 084,Madrid,Madrid,28042,1999-11-09,regular,2021-07-07
+581,LC-000000581,Felicia Miranda Carballo,felicia.miranda8@example.com,+34 602 337 025,Alcorcón,Madrid,28016,,occasional,2024-06-23
+582,LC-000000582,Mirta Villa Carrasco,,+34 659 721 414,Barcelona,Barcelona,08014,,regular,2024-11-16
+583,LC-000000583,Daniel Colom Amor,daniel.colom@example.com,+34 661 095 622,Badalona,Barcelona,08014,1957-02-17,premium,2022-08-29
+584,LC-000000584,Urbano Mario Nogueira Cañas,urbano.mario8@example.com,+34 779 830 556,Valencia,Valencia,46079,1957-11-13,regular,2023-07-14
+585,LC-000000585,Araceli Manuel Murillo,,+34 608 758 893,Barcelona,Barcelona,08046,1957-03-26,premium,2023-05-03
+586,LC-000000586,Pía Lozano Hernando,pia.lozano@example.com,+34 624 261 428,Madrid,Madrid,28008,1994-02-06,regular,2023-02-22
+587,LC-000000587,Mamen Lozano Pol,mamen.lozano@example.com,,Albacete,Albacete,02074,1950-02-14,regular,2024-10-21
+588,LC-000000588,Francisco Javier Morales Dávila,francisco.javier@example.com,,Getafe,Madrid,28048,1961-06-25,occasional,2023-02-28
+589,LC-000000589,Dorita Casanova Catalán,dorita.casanova6@example.com,+34 694 435 863,Granada,Granada,18029,1981-05-03,new,2023-05-22
+590,LC-000000590,María Manuela del Barragán,maria.manuela@example.com,+34 650 826 043,Jerez de la Frontera,Cádiz,11023,,premium,2021-05-28
+591,LC-000000591,Violeta Valero-Quiroga,violeta.valero-quiroga@example.com,+34 705 268 472,Badalona,Barcelona,08037,,regular,2023-10-09
+592,LC-000000592,Segismundo de Arrieta,segismundo.de@example.com,+34 615 275 074,Ciudad Real,Ciudad Real,13060,1968-05-08,regular,2022-04-08
+593,LC-000000593,Jordán Torrents Real,jordan.torrents6@example.com,+34 762 856 528,Madrid,Madrid,28051,,regular,2023-01-13
+594,LC-000000594,Andrés Felipe Hipólito Gómez Guerrero,andres.felipe7@example.com,+34 702 379 309,Madrid,Madrid,28031,1994-01-18,regular,2021-06-08
+595,LC-000000595,Carmelo Blasco Céspedes,carmelo.blasco@example.com,+34 723 926 388,Zaragoza,Zaragoza,50022,1995-01-16,regular,2022-11-25
+596,LC-000000596,Candelaria Villaverde-Pujol,candelaria.villaverde-pujol@example.com,+34 643 859 545,Zaragoza,Zaragoza,50072,1999-02-08,regular,2021-03-22
+597,LC-000000597,María Luisa Jiménez Báez,,,Barcelona,Barcelona,08071,1963-06-22,premium,2022-08-24
+598,LC-000000598,María Cristina Nevado Ugarte,maria.cristina@example.com,+34 645 741 278,Murcia,Murcia,30070,1974-03-10,occasional,2021-07-07
+599,LC-000000599,Daniel del Quintanilla,daniel.del@example.com,+34 794 751 904,Córdoba,Córdoba,14023,,regular,2021-07-11
+600,LC-000000600,Isabela de Mayoral,isabela.de4@example.com,+34 602 958 304,Granada,Granada,18008,1984-08-17,regular,2021-11-27
+601,LC-000000601,Ariel de Tamarit,ariel.de@example.com,+34 669 403 474,Lugo,Lugo,27066,1960-11-28,occasional,2024-05-24
+602,LC-000000602,Belen Vélez Solera,belen.velez7@example.com,,Madrid,Madrid,28006,1950-09-13,regular,2023-08-04
+603,LC-000000603,Feliciano de Orozco,,+34 635 706 879,Ceuta,Ceuta,51061,1948-05-05,premium,2023-02-18
+604,LC-000000604,Coral Arellano-Verdugo,,+34 665 422 909,Getafe,Madrid,28039,1989-04-20,occasional,2025-02-18
+605,LC-000000605,Flavio Alcolea,flavio.alcolea@example.com,,Valladolid,Valladolid,47036,1953-09-22,regular,2024-04-26
+606,LC-000000606,Cornelio Gisbert Jaén,cornelio.gisbert@example.com,,Huelva,Huelva,21015,,regular,2021-01-29
+607,LC-000000607,Pepe de Cabezas,pepe.de@example.com,+34 767 482 898,Madrid,Madrid,28048,2006-04-11,regular,2024-12-01
+608,LC-000000608,María Fernanda Clavero Vall,maria.fernanda@example.com,+34 604 643 954,Vigo,Pontevedra,36016,1974-11-18,regular,2022-05-10
+609,LC-000000609,Simón Coloma,simon.coloma@example.com,+34 635 793 342,Madrid,Madrid,28011,1981-10-03,regular,2022-12-06
+610,LC-000000610,Marianela Borrell Ibañez,,+34 624 477 255,Teruel,Teruel,44041,1951-01-11,occasional,2022-09-03
+611,LC-000000611,Marcela Salvador Huertas,marcela.salvador@example.com,+34 750 188 793,Badalona,Barcelona,08057,1975-12-01,occasional,2023-11-30
+612,LC-000000612,René Acevedo Posada,rene.acevedo@example.com,+34 618 743 925,Pamplona,Navarra,31079,1954-02-25,regular,2024-07-07
+613,LC-000000613,Agapito Guillén-Bustos,agapito.guillen-bustos@example.com,+34 658 913 727,Valencia,Valencia,46016,1956-03-12,regular,2024-04-09
+614,LC-000000614,Ligia Montenegro Bellido,ligia.montenegro@example.com,+34 764 725 823,Granada,Granada,18026,,new,2021-04-27
+615,LC-000000615,Chelo Pozuelo,chelo.pozuelo@example.com,+34 778 441 016,Bilbao,Bizkaia,48078,1989-05-02,new,2022-05-09
+616,LC-000000616,Pepito Cordero-Gonzalez,pepito.cordero-gonzalez@example.com,+34 779 098 766,Madrid,Madrid,28076,1972-04-20,occasional,2025-03-21
+617,LC-000000617,Régulo Pereira-Prado,regulo.pereira-prado@example.com,+34 685 951 410,Gijón,Asturias,33052,1985-10-03,regular,2021-10-23
+618,LC-000000618,Lilia Abellán Benavent,,+34 612 533 556,Valencia,Valencia,46012,2002-02-19,regular,2021-08-25
+619,LC-000000619,Gerónimo Araujo-Alcázar,geronimo.araujo-alcazar@example.com,+34 741 540 658,Bilbao,Bizkaia,48026,1948-11-22,new,2023-11-06
+620,LC-000000620,Melchor Iglesia Rosell,melchor.iglesia@example.com,+34 648 671 277,Soria,Soria,42035,,occasional,2022-06-12
+621,LC-000000621,Leonardo Corbacho-Jover,leonardo.corbacho-jover@example.com,+34 625 797 660,Cartagena,Murcia,30005,1966-12-26,occasional,2023-06-11
+622,LC-000000622,Danilo Falcó Porta,,+34 682 718 173,Toledo,Toledo,45059,1996-04-11,regular,2022-03-03
+623,LC-000000623,Ruperta Nicolau Viña,ruperta.nicolau@example.com,+34 633 308 797,Barcelona,Barcelona,08066,,occasional,2023-11-11
+624,LC-000000624,Iván Aragón-Lerma,ivan.aragon-lerma@example.com,+34 673 707 269,Las Palmas de Gran Canaria,Las Palmas,35037,1994-06-05,regular,2024-03-26
+625,LC-000000625,Mirta Trillo Porta,mirta.trillo2@example.com,+34 617 812 587,Las Palmas de Gran Canaria,Las Palmas,35026,1984-10-23,occasional,2021-11-16
+626,LC-000000626,Nidia Gil Coloma,nidia.gil@example.com,+34 781 471 633,L'Hospitalet de Llobregat,Barcelona,08010,1982-06-05,regular,2022-03-07
+627,LC-000000627,Rosaura Mendez Ribas,rosaura.mendez@example.com,+34 629 490 708,Sevilla,Sevilla,41032,1986-01-20,regular,2021-02-16
+628,LC-000000628,Fabio Ortiz-Egea,fabio.ortiz-egea@example.com,+34 660 744 540,L'Hospitalet de Llobregat,Barcelona,08066,1960-08-03,regular,2024-05-16
+629,LC-000000629,Juan Carlos Dominguez Calvet,,+34 630 206 444,Granada,Granada,18051,1949-02-25,regular,2022-07-20
+630,LC-000000630,Lupita Garcia,lupita.garcia@example.com,+34 613 234 252,Vitoria-Gasteiz,Álava,01057,1987-10-06,new,2024-04-10
+631,LC-000000631,Áurea del Palmer,aurea.del@example.com,+34 612 036 187,Cádiz,Cádiz,11080,1964-09-16,occasional,2021-06-26
+632,LC-000000632,Rosendo Torrecilla,rosendo.torrecilla@example.com,+34 616 626 893,Granada,Granada,18059,,regular,2022-10-08
+633,LC-000000633,Erasmo de Herrera,erasmo.de@example.com,+34 688 334 586,Jaén,Jaén,23045,1996-12-19,regular,2023-11-11
+634,LC-000000634,Marta Julián Sierra,marta.julian@example.com,+34 700 490 845,Vigo,Pontevedra,36018,,occasional,2021-06-10
+635,LC-000000635,Marisol Rosales Plana,marisol.rosales@example.com,+34 623 552 042,Alcorcón,Madrid,28050,1954-06-28,occasional,2024-09-08
+636,LC-000000636,Salud Pol-Simó,salud.pol-simo@example.com,+34 689 577 616,Córdoba,Córdoba,14032,,regular,2024-06-13
+637,LC-000000637,Benita Pavón,benita.pavon@example.com,+34 704 799 121,Las Palmas de Gran Canaria,Las Palmas,35076,1988-09-23,new,2023-12-25
+638,LC-000000638,Carolina Sabater Bustos,carolina.sabater@example.com,+34 667 798 791,San Sebastián,Gipuzkoa,20067,1994-12-05,occasional,2025-03-09
+639,LC-000000639,Maite Diego Salamanca,maite.diego@example.com,+34 633 864 047,Segovia,Segovia,40073,1972-09-29,occasional,2023-04-05
+640,LC-000000640,Victor Manuel Montero Ramos,victor.manuel@example.com,+34 744 401 330,Bilbao,Bizkaia,48076,1953-05-22,premium,2022-07-23
+641,LC-000000641,Irene Marin,irene.marin@example.com,+34 773 226 295,Murcia,Murcia,30033,,regular,2021-11-01
+642,LC-000000642,Régulo Anastasio Sarabia Luján,,+34 639 817 176,Barcelona,Barcelona,08080,1977-12-20,occasional,2022-10-16
+643,LC-000000643,Vicenta Moliner Lerma,vicenta.moliner@example.com,+34 780 583 497,Barcelona,Barcelona,08053,1979-08-03,occasional,2021-09-04
+644,LC-000000644,Noelia Campoy,noelia.campoy2@example.com,,Barcelona,Barcelona,08057,,new,2022-06-09
+645,LC-000000645,María Prada-Costa,maria.prada-costa@example.com,+34 625 539 364,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38004,1973-07-30,premium,2022-01-13
+646,LC-000000646,David Joaquín Pizarro Mena,david.joaquin@example.com,+34 671 459 121,Madrid,Madrid,28056,2006-05-17,occasional,2021-12-07
+647,LC-000000647,Demetrio Casanova-Atienza,demetrio.casanova-atienza@example.com,+34 679 031 307,L'Hospitalet de Llobregat,Barcelona,08032,1963-08-15,regular,2023-02-08
+648,LC-000000648,Kike del Alba,kike.del@example.com,+34 683 752 146,Badalona,Barcelona,08046,1987-06-16,occasional,2022-07-09
+649,LC-000000649,Vinicio Cazorla-Juan,vinicio.cazorla-juan@example.com,+34 613 884 899,Córdoba,Córdoba,14062,1950-03-09,regular,2023-08-14
+650,LC-000000650,Ildefonso Machado Solana,ildefonso.machado@example.com,+34 745 942 127,Lugo,Lugo,27048,2004-04-25,regular,2023-05-24
+651,LC-000000651,Lina Benito Bárcena,lina.benito@example.com,,Jerez de la Frontera,Cádiz,11034,1990-03-18,regular,2023-10-10
+652,LC-000000652,Calixta Esteve,calixta.esteve@example.com,+34 675 632 492,Madrid,Madrid,28047,2001-09-13,occasional,2023-01-22
+653,LC-000000653,Pía Cantón,pia.canton@example.com,+34 613 741 219,Alcorcón,Madrid,28014,,occasional,2023-08-14
+654,LC-000000654,Nicodemo León Calderon,nicodemo.leon@example.com,+34 632 573 372,L'Hospitalet de Llobregat,Barcelona,08018,1965-12-28,new,2021-05-09
+655,LC-000000655,Liliana del Vergara,liliana.del@example.com,,Madrid,Madrid,28036,1994-03-15,regular,2022-02-15
+656,LC-000000656,Custodia Guadalupe Gomila Pont,custodia.guadalupe@example.com,+34 753 215 702,Madrid,Madrid,28069,2005-09-20,regular,2024-07-01
+657,LC-000000657,Salomé Maristela Gomila Carmona,salome.maristela@example.com,+34 688 318 046,Barcelona,Barcelona,08061,,occasional,2022-12-18
+658,LC-000000658,Mireia Paola Garzón Ramis,mireia.paola@example.com,+34 769 707 731,Cuenca,Cuenca,16016,1999-08-12,occasional,2021-07-16
+659,LC-000000659,Juanita Parra Montenegro,juanita.parra@example.com,+34 673 522 715,Badajoz,Badajoz,06052,1993-05-04,new,2023-04-05
+660,LC-000000660,Miguel Chamorro,miguel.chamorro@example.com,+34 657 953 745,Vigo,Pontevedra,36035,1997-01-02,occasional,2023-01-20
+661,LC-000000661,Luis Miguel Carbajo Aller,luis.miguel@example.com,+34 678 911 927,Murcia,Murcia,30021,1957-08-14,regular,2022-05-11
+662,LC-000000662,Gertrudis Alcalde Rodrigo,gertrudis.alcalde@example.com,+34 673 458 384,Sevilla,Sevilla,41022,2005-04-13,premium,2022-04-24
+663,LC-000000663,Josep Miralles Cabo,josep.miralles@example.com,+34 673 749 523,L'Hospitalet de Llobregat,Barcelona,08025,1998-08-07,new,2022-08-10
+664,LC-000000664,Matilde Frías Jordán,matilde.frias@example.com,+34 720 917 383,Cuenca,Cuenca,16011,1952-01-12,regular,2023-10-27
+665,LC-000000665,Vito Rocha Velázquez,vito.rocha@example.com,+34 653 049 635,Elche,Alicante,03001,2006-08-25,occasional,2023-07-01
+666,LC-000000666,Genoveva Ariza Barriga,genoveva.ariza@example.com,+34 730 432 437,Vigo,Pontevedra,36023,1988-02-03,regular,2024-03-28
+667,LC-000000667,Dan Batlle Lillo,dan.batlle@example.com,,Madrid,Madrid,28021,,occasional,2021-01-28
+668,LC-000000668,Fidel Chamorro Salmerón,fidel.chamorro@example.com,+34 605 394 602,Madrid,Madrid,28013,,occasional,2023-03-07
+669,LC-000000669,Che Villalobos-Diaz,che.villalobos-diaz@example.com,+34 697 720 775,Madrid,Madrid,28026,1946-07-31,occasional,2023-01-17
+670,LC-000000670,Febe Canales-Riba,,+34 791 087 670,Madrid,Madrid,28037,1995-09-28,occasional,2025-03-26
+671,LC-000000671,Iris Dávila Llobet,iris.davila@example.com,+34 669 232 536,A Coruña,A Coruña,15053,1956-02-24,regular,2022-11-01
+672,LC-000000672,Chuy Cueto Reyes,chuy.cueto5@example.com,+34 626 188 787,Valencia,Valencia,46041,1958-11-19,regular,2022-06-10
+673,LC-000000673,Nereida Ropero Estrada,nereida.ropero@example.com,+34 650 631 006,Jerez de la Frontera,Cádiz,11026,1969-04-26,regular,2021-03-27
+674,LC-000000674,Purificación del Tudela,purificacion.del@example.com,+34 769 294 582,Córdoba,Córdoba,14029,2005-08-05,regular,2024-07-23
+675,LC-000000675,Epifanio Miralles,,+34 684 235 787,Valencia,Valencia,46021,2005-08-19,regular,2023-06-03
+676,LC-000000676,Chus Campos-Uribe,chus.campos-uribe@example.com,+34 603 460 744,Alcorcón,Madrid,28042,1959-07-07,regular,2022-01-20
+677,LC-000000677,Asdrubal Anglada Mayoral,asdrubal.anglada@example.com,+34 683 405 763,Valladolid,Valladolid,47021,,premium,2022-01-15
+678,LC-000000678,Jose Ignacio Sevillano Marti,jose.ignacio@example.com,+34 671 515 621,Vigo,Pontevedra,36014,1949-04-14,occasional,2023-12-08
+679,LC-000000679,Leonardo Antón Cerezo,leonardo.anton@example.com,+34 695 694 968,Alcorcón,Madrid,28066,1965-07-01,regular,2022-09-11
+680,LC-000000680,Vasco de Cañizares,vasco.de@example.com,+34 676 562 690,Valladolid,Valladolid,47016,1954-11-15,occasional,2022-07-25
+681,LC-000000681,Gerardo Collado Valencia,gerardo.collado@example.com,+34 605 226 474,Albacete,Albacete,02016,1959-07-13,regular,2021-12-03
+682,LC-000000682,Horacio Lobo Caparrós,horacio.lobo@example.com,+34 732 031 513,Burgos,Burgos,09062,,regular,2023-04-05
+683,LC-000000683,Rebeca Calatayud Barrios,,+34 693 390 181,Sevilla,Sevilla,41021,,premium,2022-10-14
+684,LC-000000684,Anacleto Arco-Pozuelo,anacleto.arco-pozuelo@example.com,+34 628 872 950,Palencia,Palencia,34075,1963-05-13,premium,2022-10-02
+685,LC-000000685,Daniela Quesada Contreras,daniela.quesada4@example.com,+34 652 178 109,Las Palmas de Gran Canaria,Las Palmas,35044,1954-06-26,regular,2022-02-18
+686,LC-000000686,Dominga Duran Mayo,dominga.duran@example.com,+34 694 758 740,Barcelona,Barcelona,08012,1998-08-05,regular,2022-07-08
+687,LC-000000687,Antonio Alfaro Machado,,+34 695 161 423,Granada,Granada,18048,1982-01-09,occasional,2023-06-22
+688,LC-000000688,Ámbar Echeverría Berrocal,ambar.echeverria@example.com,+34 763 220 243,Córdoba,Córdoba,14077,,regular,2024-05-05
+689,LC-000000689,Maribel Marin Terrón,maribel.marin@example.com,+34 634 066 448,Castellón de la Plana,Castellón,12042,1972-08-18,regular,2021-05-10
+690,LC-000000690,Alcides Ponce Mas,alcides.ponce@example.com,,Barcelona,Barcelona,08066,1956-05-22,regular,2024-08-11
+691,LC-000000691,Dan Estevez,dan.estevez@example.com,,Santander,Cantabria,39032,1973-06-04,regular,2023-11-26
+692,LC-000000692,Anita Rueda Vallés,,+34 753 713 420,Cáceres,Cáceres,10056,1948-03-31,occasional,2021-09-12
+693,LC-000000693,Rosa Cervera Viana,rosa.cervera@example.com,+34 622 475 742,Huesca,Huesca,22062,1997-10-10,occasional,2021-11-09
+694,LC-000000694,David Colomer Aguado,david.colomer@example.com,+34 611 915 869,Madrid,Madrid,28062,1975-05-28,occasional,2024-02-22
+695,LC-000000695,Patricia Lastra,,+34 692 391 563,Madrid,Madrid,28005,1960-04-10,regular,2023-02-21
+696,LC-000000696,Federico Carnero Carro,federico.carnero@example.com,+34 615 061 131,L'Hospitalet de Llobregat,Barcelona,08043,1959-02-04,regular,2022-09-28
+697,LC-000000697,Gerardo de Font,gerardo.de2@example.com,,Badalona,Barcelona,08070,2003-06-25,occasional,2021-12-14
+698,LC-000000698,Ruy Camps Sainz,,,Madrid,Madrid,28040,1981-02-28,regular,2023-12-31
+699,LC-000000699,Susanita Alcántara Rovira,susanita.alcantara@example.com,,Gijón,Asturias,33077,,regular,2023-09-12
+700,LC-000000700,Javi Escamilla Guardiola,javi.escamilla@example.com,+34 773 917 326,Málaga,Málaga,29056,2003-10-31,occasional,2025-01-31
+701,LC-000000701,Pancho Botella Macías,pancho.botella@example.com,+34 794 554 705,Ourense,Ourense,32012,1965-03-31,new,2021-07-28
+702,LC-000000702,Hector Bolaños Fonseca,,+34 668 103 358,Huesca,Huesca,22069,1947-05-17,regular,2023-07-11
+703,LC-000000703,Chuy Casal Feijoo,chuy.casal@example.com,+34 709 998 644,Murcia,Murcia,30073,1947-01-28,regular,2021-07-06
+704,LC-000000704,Quique Bautista Gisbert,quique.bautista@example.com,,Madrid,Madrid,28014,1962-11-23,occasional,2022-05-02
+705,LC-000000705,Nadia Zurita Pera,,+34 685 842 782,Madrid,Madrid,28031,1971-04-17,occasional,2024-07-10
+706,LC-000000706,Adora Vaquero Escrivá,adora.vaquero@example.com,+34 649 213 551,Badajoz,Badajoz,06056,1973-11-15,regular,2024-05-28
+707,LC-000000707,Ciríaco Josué Leal Cuenca,ciriaco.josue@example.com,+34 663 338 867,Ourense,Ourense,32016,1950-02-08,regular,2023-09-16
+708,LC-000000708,Régulo Blasco-Calleja,regulo.blasco-calleja@example.com,+34 703 366 189,Ávila,Ávila,05005,1974-03-14,occasional,2025-03-23
+709,LC-000000709,Perla Tudela Ramirez,perla.tudela@example.com,+34 634 797 773,Madrid,Madrid,28038,1949-04-28,regular,2022-10-17
+710,LC-000000710,Celestina Amo Sola,,+34 620 412 880,Murcia,Murcia,30027,,regular,2023-01-20
+711,LC-000000711,Daniel Águila Valle,daniel.aguila@example.com,+34 676 387 270,Vigo,Pontevedra,36059,,occasional,2022-02-23
+712,LC-000000712,Desiderio Chaves Valdés,,+34 684 986 894,Barcelona,Barcelona,08032,,regular,2024-03-30
+713,LC-000000713,Amanda Cánovas Maestre,amanda.canovas@example.com,+34 674 975 446,Madrid,Madrid,28036,1962-04-27,occasional,2024-02-28
+714,LC-000000714,Fabio Ugarte,fabio.ugarte@example.com,+34 659 493 562,Santander,Cantabria,39050,1989-02-12,new,2024-12-19
+715,LC-000000715,Miguel Ángel Cruz Lastra Avilés,miguel.angel@example.com,+34 706 904 506,Madrid,Madrid,28001,2000-02-01,occasional,2024-06-02
+716,LC-000000716,Cesar Guillen Guardiola,cesar.guillen@example.com,+34 728 134 076,Barcelona,Barcelona,08018,1996-02-13,occasional,2023-11-08
+717,LC-000000717,Alba Vicens Galván,alba.vicens@example.com,+34 650 192 001,Palma,Baleares,07011,1997-07-05,occasional,2022-08-13
+718,LC-000000718,Gracia Arranz Alba,gracia.arranz@example.com,+34 617 847 696,Terrassa,Barcelona,08055,1961-06-29,regular,2023-06-10
+719,LC-000000719,Abril del Ricart,abril.del@example.com,+34 629 424 573,Valladolid,Valladolid,47064,1980-07-30,regular,2024-09-01
+720,LC-000000720,Celso Ramirez Giménez,,+34 720 731 947,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38079,1961-03-02,regular,2024-08-22
+721,LC-000000721,Nazaret Quiroga,nazaret.quiroga@example.com,+34 623 324 750,Barcelona,Barcelona,08049,1978-06-26,premium,2023-11-13
+722,LC-000000722,Eligia Jessica Badía Andreu,eligia.jessica@example.com,+34 660 046 886,L'Hospitalet de Llobregat,Barcelona,08046,,occasional,2022-05-04
+723,LC-000000723,Vanesa de Herrero,vanesa.de@example.com,+34 617 469 995,Burgos,Burgos,09027,1978-10-18,regular,2023-07-18
+724,LC-000000724,Reynaldo Sabater-Camino,,+34 739 466 716,Barcelona,Barcelona,08046,2006-03-21,regular,2022-03-05
+725,LC-000000725,Aníbal de Caro,anibal.de4@example.com,+34 788 163 724,Madrid,Madrid,28048,1971-08-23,regular,2024-11-01
+726,LC-000000726,Mario de Pozo,mario.de6@example.com,+34 660 233 768,Castellón de la Plana,Castellón,12023,1980-10-21,premium,2022-05-07
+727,LC-000000727,Daniel Gaya Mata,daniel.gaya@example.com,+34 684 319 022,Madrid,Madrid,28016,1963-11-14,regular,2022-04-02
+728,LC-000000728,Demetrio Polo Campos,,+34 792 547 336,Málaga,Málaga,29057,2005-03-21,occasional,2023-05-09
+729,LC-000000729,Piedad Carvajal Martinez,piedad.carvajal@example.com,+34 640 652 611,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38059,,regular,2023-08-10
+730,LC-000000730,Maura Ortuño Larrea,maura.ortuno@example.com,+34 648 320 209,Sevilla,Sevilla,41013,1973-04-06,occasional,2022-09-28
+731,LC-000000731,Leonel Antúnez Olivares,leonel.antunez@example.com,+34 601 914 318,Córdoba,Córdoba,14057,2001-10-22,regular,2021-06-03
+732,LC-000000732,Ricarda Mariscal Almagro,ricarda.mariscal@example.com,+34 715 077 300,Valencia,Valencia,46022,1992-10-11,new,2023-11-21
+733,LC-000000733,Bárbara Otilia Sebastián Figueras,barbara.otilia@example.com,+34 626 799 336,Málaga,Málaga,29041,,regular,2021-01-21
+734,LC-000000734,Etelvina Borrego,etelvina.borrego@example.com,+34 638 728 051,Cáceres,Cáceres,10006,1992-03-22,regular,2024-06-10
+735,LC-000000735,Heraclio Linares-Cases,heraclio.linares-cases@example.com,+34 726 193 340,Madrid,Madrid,28002,,regular,2023-01-08
+736,LC-000000736,Lourdes Galván Rosales,,+34 714 535 520,Gijón,Asturias,33022,,occasional,2023-06-06
+737,LC-000000737,Amaya de Peinado,amaya.de@example.com,+34 790 205 935,Logroño,La Rioja,26039,,occasional,2024-05-16
+738,LC-000000738,Irma Carmina Planas Fuentes,irma.carmina@example.com,+34 659 132 818,Murcia,Murcia,30032,2003-09-13,premium,2025-01-16
+739,LC-000000739,María Manuela Pizarro,,+34 737 016 118,Palma,Baleares,07077,1967-06-03,occasional,2022-01-15
+740,LC-000000740,Olegario del Manso,olegario.del@example.com,+34 750 623 540,Zaragoza,Zaragoza,50038,1978-12-27,regular,2022-06-23
+741,LC-000000741,Azahar Tejero Sánchez,azahar.tejero@example.com,+34 649 200 520,Madrid,Madrid,28001,1990-08-20,regular,2021-07-18
+742,LC-000000742,Constanza Barberá Barreda,constanza.barbera@example.com,+34 751 486 190,L'Hospitalet de Llobregat,Barcelona,08009,1979-05-09,regular,2024-07-20
+743,LC-000000743,Germán Barral Mendez,german.barral@example.com,+34 704 094 315,Gijón,Asturias,33015,1994-02-11,regular,2024-04-17
+744,LC-000000744,Isaías Vallejo Carrillo,isaias.vallejo@example.com,+34 635 458 277,Barcelona,Barcelona,08030,1963-12-02,regular,2023-10-31
+745,LC-000000745,Sabas Victor Prat Guillén,sabas.victor@example.com,+34 791 590 534,Valencia,Valencia,46048,1973-12-29,new,2023-03-24
+746,LC-000000746,Cloe Botella Viñas,cloe.botella@example.com,+34 609 418 804,Sevilla,Sevilla,41070,1992-08-03,regular,2022-06-17
+747,LC-000000747,Amaro Fito Reig Zabala,,+34 772 890 165,Zaragoza,Zaragoza,50051,,regular,2024-07-27
+748,LC-000000748,Jaime Ávila Antón,jaime.avila@example.com,+34 759 304 614,Sevilla,Sevilla,41079,,occasional,2021-06-24
+749,LC-000000749,Marc Vega Huguet,marc.vega@example.com,+34 745 305 573,Terrassa,Barcelona,08033,1979-02-25,premium,2023-10-31
+750,LC-000000750,Yéssica Valenciano Posada,yessica.valenciano@example.com,+34 759 801 841,Madrid,Madrid,28078,1961-06-03,occasional,2021-07-07
+751,LC-000000751,Duilio Solana Torre,duilio.solana@example.com,+34 697 386 557,Valencia,Valencia,46032,,regular,2022-09-20
+752,LC-000000752,Nazaret Peinado Múñiz,,,San Sebastián,Gipuzkoa,20051,1977-10-25,regular,2021-02-09
+753,LC-000000753,Inmaculada Sancho-Sans,inmaculada.sancho-sans@example.com,+34 640 433 791,Cuenca,Cuenca,16064,1994-06-07,occasional,2022-11-06
+754,LC-000000754,Omar Baeza Navas,omar.baeza@example.com,+34 689 765 640,Almería,Almería,04030,2001-05-15,occasional,2023-08-27
+755,LC-000000755,Victoriano Aliaga,victoriano.aliaga@example.com,,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38009,1985-04-01,premium,2024-02-28
+756,LC-000000756,Basilio Chaparro Galán,basilio.chaparro@example.com,+34 726 199 935,Vitoria-Gasteiz,Álava,01032,,new,2021-06-19
+757,LC-000000757,Anselma Belén Anguita Mas,anselma.belen@example.com,+34 617 307 524,Sevilla,Sevilla,41069,1976-03-26,regular,2021-02-23
+758,LC-000000758,Zaida Eligia Sáenz Hidalgo,,+34 648 407 283,Madrid,Madrid,28027,2000-11-19,occasional,2023-11-25
+759,LC-000000759,María Dolores Miró Mayoral,,+34 619 661 409,Jaén,Jaén,23006,,occasional,2024-05-22
+760,LC-000000760,Leandro Castillo-Manuel,leandro.castillo-manuel@example.com,+34 779 485 444,Cádiz,Cádiz,11036,1953-09-14,regular,2023-12-26
+761,LC-000000761,Claudia Mendizábal Comas,claudia.mendizabal@example.com,,Barcelona,Barcelona,08057,1957-04-27,occasional,2025-02-09
+762,LC-000000762,Emma Coll Tur,,+34 647 514 489,Málaga,Málaga,29034,1953-02-28,occasional,2021-10-15
+763,LC-000000763,Bernardita Rosales Doménech,bernardita.rosales@example.com,+34 647 856 465,Albacete,Albacete,02034,1972-01-31,new,2023-12-26
+764,LC-000000764,Alma Vidal Albero,alma.vidal@example.com,+34 656 085 326,Murcia,Murcia,30020,1968-02-24,regular,2023-03-31
+765,LC-000000765,Haydée Calleja Leal,haydee.calleja@example.com,+34 688 863 570,Cáceres,Cáceres,10052,1990-08-27,premium,2021-09-10
+766,LC-000000766,Leticia Cañete Julián,leticia.canete@example.com,+34 662 884 585,Barcelona,Barcelona,08053,1998-03-18,regular,2021-05-30
+767,LC-000000767,Irma Cobos-Nevado,,+34 788 974 431,San Sebastián,Gipuzkoa,20054,1976-02-06,occasional,2023-04-05
+768,LC-000000768,Rosario Asensio Santiago,rosario.asensio@example.com,+34 651 575 471,Madrid,Madrid,28026,,regular,2023-08-13
+769,LC-000000769,Patricio Tamayo-Llanos,patricio.tamayo-llanos@example.com,+34 679 645 628,Madrid,Madrid,28005,1970-01-01,regular,2024-07-30
+770,LC-000000770,Conrado Requena Arce,conrado.requena@example.com,+34 686 489 438,Jerez de la Frontera,Cádiz,11036,2002-09-20,occasional,2023-03-06
+771,LC-000000771,Clotilde Bellido Alba,clotilde.bellido@example.com,,Vitoria-Gasteiz,Álava,01059,2001-06-25,occasional,2023-08-04
+772,LC-000000772,Emiliana Jove Saez,emiliana.jove@example.com,+34 606 592 509,Murcia,Murcia,30012,1957-02-12,occasional,2022-04-28
+773,LC-000000773,Leonel Aliaga Planas,leonel.aliaga@example.com,+34 680 481 820,Madrid,Madrid,28040,1963-06-16,occasional,2022-01-08
+774,LC-000000774,Adelina Cepeda Romero,adelina.cepeda@example.com,+34 691 219 629,Valencia,Valencia,46044,1969-10-08,new,2022-05-24
+775,LC-000000775,Jimena Fernandez Borrell,jimena.fernandez9@example.com,+34 749 895 389,Ávila,Ávila,05041,1952-07-29,occasional,2024-03-02
+776,LC-000000776,Teodosio Cañellas Ayuso,,+34 635 135 023,Murcia,Murcia,30015,1947-10-14,occasional,2024-03-05
+777,LC-000000777,René Arjona Infante,rene.arjona@example.com,+34 674 210 118,Girona,Girona,17058,1990-05-05,regular,2023-08-29
+778,LC-000000778,Omar Rodriguez,omar.rodriguez@example.com,+34 697 739 935,Zaragoza,Zaragoza,50020,1986-12-28,occasional,2024-05-27
+779,LC-000000779,Inmaculada de Villalobos,,+34 680 136 304,Madrid,Madrid,28030,1952-08-08,occasional,2023-02-21
+780,LC-000000780,Encarnita Mata Santana,encarnita.mata@example.com,+34 608 304 265,Zaragoza,Zaragoza,50029,,regular,2024-12-12
+781,LC-000000781,Álvaro Mate Bautista,alvaro.mate@example.com,+34 778 099 031,Huelva,Huelva,21028,1955-08-17,occasional,2023-06-06
+782,LC-000000782,Daniel de Daza,daniel.de@example.com,+34 631 426 277,Vigo,Pontevedra,36032,1988-05-31,occasional,2021-08-13
+783,LC-000000783,Óscar Luna Vazquez,oscar.luna@example.com,+34 693 724 999,Almería,Almería,04021,1974-07-02,regular,2024-12-26
+784,LC-000000784,Lucho Coello Alegria,lucho.coello@example.com,+34 632 422 568,Las Palmas de Gran Canaria,Las Palmas,35067,1970-07-29,regular,2022-09-11
+785,LC-000000785,Ema Poza,ema.poza9@example.com,+34 624 132 765,Granada,Granada,18062,1945-08-14,regular,2021-11-14
+786,LC-000000786,Claudio de Soria,claudio.de@example.com,+34 656 330 968,Cáceres,Cáceres,10059,1991-02-24,regular,2024-06-06
+787,LC-000000787,Alba Rincón Farré,alba.rincon@example.com,+34 629 838 714,Vitoria-Gasteiz,Álava,01041,1977-08-09,occasional,2023-04-05
+788,LC-000000788,Melania Peralta Vega,melania.peralta@example.com,+34 669 825 679,Barcelona,Barcelona,08029,1996-09-16,regular,2024-08-06
+789,LC-000000789,José Pazos-Agustí,,+34 766 617 543,Granada,Granada,18078,2003-04-22,premium,2024-04-18
+790,LC-000000790,Noa Tejero Rubio,noa.tejero@example.com,+34 666 257 295,Barcelona,Barcelona,08071,1991-02-19,occasional,2023-12-17
+791,LC-000000791,Silvio Cal Nebot,,+34 694 081 751,Valladolid,Valladolid,47024,2002-12-03,occasional,2025-01-05
+792,LC-000000792,Antonia Elorza Cornejo,antonia.elorza4@example.com,+34 663 313 781,Palma,Baleares,07014,1996-02-04,occasional,2021-06-16
+793,LC-000000793,Malena Blazquez Zorrilla,malena.blazquez@example.com,+34 667 370 135,Málaga,Málaga,29037,1958-08-10,occasional,2024-06-21
+794,LC-000000794,Armando Nogués Garzón,armando.nogues@example.com,,Badajoz,Badajoz,06027,1960-10-17,premium,2022-12-31
+795,LC-000000795,Álvaro Guillermo Fernandez Ocaña,,+34 680 951 682,Sevilla,Sevilla,41049,1987-11-13,occasional,2021-03-09
+796,LC-000000796,Luis Ángel Perez Tejedor,luis.angel@example.com,+34 678 825 825,Almería,Almería,04030,1982-04-01,occasional,2024-07-08
+797,LC-000000797,Casandra Feliciana Ferrándiz Querol,,+34 621 741 299,Valencia,Valencia,46002,1970-11-10,occasional,2025-03-22
+798,LC-000000798,Salud Rivas Martin,salud.rivas@example.com,+34 701 155 459,Zaragoza,Zaragoza,50019,1992-09-16,regular,2021-04-12
+799,LC-000000799,Edgardo Rosa Caparrós,,+34 626 714 936,Madrid,Madrid,28059,,new,2023-08-02
+800,LC-000000800,Juan José Barral Quirós,juan.jose@example.com,+34 790 406 550,Guadalajara,Guadalajara,19033,1967-02-01,regular,2024-02-23
+801,LC-000000801,Sigfrido de Salvador,sigfrido.de@example.com,+34 606 053 948,Zamora,Zamora,49042,,occasional,2021-12-11
+802,LC-000000802,Maristela Paola Roig Garrido,maristela.paola@example.com,+34 653 625 530,Girona,Girona,17062,1951-07-03,new,2021-12-22
+803,LC-000000803,Eloy del Hervás,eloy.del@example.com,+34 676 770 164,Madrid,Madrid,28010,1991-04-21,occasional,2022-09-02
+804,LC-000000804,Máxima del Castilla,maxima.del@example.com,,Valencia,Valencia,46056,1983-11-28,premium,2021-02-16
+805,LC-000000805,Pilar de Collado,pilar.de@example.com,+34 607 709 522,Valladolid,Valladolid,47039,1994-11-05,regular,2021-07-07
+806,LC-000000806,Nicanor Bernardino Pazos Antúnez,nicanor.bernardino@example.com,,Madrid,Madrid,28009,1977-01-13,occasional,2022-03-10
+807,LC-000000807,Fernando Roldán,fernando.roldan@example.com,+34 687 128 986,Madrid,Madrid,28030,2006-05-23,regular,2021-12-03
+808,LC-000000808,Carlota Barrios Montaña,carlota.barrios@example.com,+34 735 277 451,Las Palmas de Gran Canaria,Las Palmas,35013,,regular,2024-03-12
+809,LC-000000809,Simón Valenzuela-Robles,simon.valenzuela-robles@example.com,,Sevilla,Sevilla,41053,1947-05-21,occasional,2024-02-20
+810,LC-000000810,Nidia Revilla Boada,,+34 616 583 611,Madrid,Madrid,28040,1972-07-21,occasional,2024-01-30
+811,LC-000000811,Loreto Comas Villalba,,+34 770 971 584,Zaragoza,Zaragoza,50075,1958-10-19,premium,2022-03-12
+812,LC-000000812,María Arévalo Cerdá,maria.arevalo@example.com,,Murcia,Murcia,30069,2001-11-10,regular,2021-11-26
+813,LC-000000813,Sigfrido Núñez Portillo,sigfrido.nunez@example.com,+34 791 264 570,Cádiz,Cádiz,11041,1964-10-14,new,2022-06-22
+814,LC-000000814,Bruno Eloy Oller Ibarra,bruno.eloy@example.com,+34 625 579 432,Valladolid,Valladolid,47064,1949-05-07,occasional,2023-02-27
+815,LC-000000815,Epifanio Salas Carrillo,epifanio.salas@example.com,+34 651 057 202,Salamanca,Salamanca,37016,1946-11-11,premium,2023-11-04
+816,LC-000000816,Pancho Asenjo Piquer,pancho.asenjo@example.com,+34 660 741 067,Sevilla,Sevilla,41065,1956-10-21,occasional,2024-11-17
+817,LC-000000817,América Yuste Perez,america.yuste@example.com,+34 613 234 580,Madrid,Madrid,28048,1999-02-10,regular,2023-05-19
+818,LC-000000818,Espiridión Salomón Tamayo Esteban,espiridion.salomon@example.com,+34 673 389 856,Madrid,Madrid,28024,1999-02-13,regular,2024-05-19
+819,LC-000000819,Fabiola Olivia Capdevila Camino,fabiola.olivia@example.com,+34 678 282 775,Vigo,Pontevedra,36067,,occasional,2024-11-20
+820,LC-000000820,Pastora Escudero Jurado,pastora.escudero@example.com,+34 691 714 803,Las Palmas de Gran Canaria,Las Palmas,35014,,premium,2023-01-16
+821,LC-000000821,Flora Larrañaga Barriga,flora.larranaga@example.com,,Madrid,Madrid,28006,,occasional,2021-12-24
+822,LC-000000822,Silvia Peiró Durán,silvia.peiro@example.com,,Madrid,Madrid,28011,1991-07-08,regular,2022-07-15
+823,LC-000000823,Eva María Cerdán Rodrigo,eva.maria@example.com,+34 729 725 466,Sevilla,Sevilla,41007,1969-09-24,occasional,2021-11-06
+824,LC-000000824,Pía Noriega Villaverde,pia.noriega3@example.com,+34 665 789 889,Alcorcón,Madrid,28051,1995-10-11,premium,2021-01-04
+825,LC-000000825,Úrsula Padilla Fábregas,ursula.padilla@example.com,+34 728 704 108,Lleida,Lleida,25061,1955-01-13,occasional,2023-10-31
+826,LC-000000826,Albano Marí Vall,albano.mari@example.com,+34 632 187 835,Ceuta,Ceuta,51017,1997-09-18,regular,2024-01-21
+827,LC-000000827,Florentino Yuste Duarte,florentino.yuste@example.com,,Toledo,Toledo,45035,,regular,2021-05-23
+828,LC-000000828,María José Diana Clemente Tormo,maria.jose9@example.com,,Málaga,Málaga,29010,1957-01-08,regular,2023-03-21
+829,LC-000000829,Claudio Amaya Andreu,claudio.amaya@example.com,+34 747 827 137,Bilbao,Bizkaia,48066,1978-10-06,premium,2022-05-21
+830,LC-000000830,Lina Bilbao Viñas,lina.bilbao@example.com,+34 620 400 232,Alicante,Alicante,03057,1988-08-28,regular,2024-12-03
+831,LC-000000831,Román Bosch Garay,roman.bosch@example.com,+34 634 767 669,Granada,Granada,18021,1992-12-25,regular,2023-03-07
+832,LC-000000832,Ofelia Ureña Márquez,ofelia.urena@example.com,+34 738 916 869,Getafe,Madrid,28051,2003-11-06,regular,2023-01-29
+833,LC-000000833,Florencio Olivares Aguado,florencio.olivares@example.com,+34 695 642 546,Madrid,Madrid,28008,2006-02-25,premium,2021-12-13
+834,LC-000000834,Vicente Sastre Bernat,vicente.sastre@example.com,+34 777 361 880,Burgos,Burgos,09070,,premium,2022-08-20
+835,LC-000000835,Serafina Ferrer Robles,,+34 659 155 340,Granada,Granada,18052,1972-01-06,occasional,2024-05-02
+836,LC-000000836,Domingo del Amat,,+34 686 160 561,Pamplona,Navarra,31052,1948-09-20,occasional,2024-12-23
+837,LC-000000837,Vito Apolinar Ortiz Vendrell,vito.apolinar@example.com,+34 615 908 746,Valencia,Valencia,46076,1985-04-06,regular,2023-03-09
+838,LC-000000838,Javier Simó Recio,javier.simo@example.com,+34 616 227 565,Córdoba,Córdoba,14018,1955-12-22,regular,2025-01-10
+839,LC-000000839,Erasmo Torralba-Ocaña,erasmo.torralba-ocana@example.com,,Vitoria-Gasteiz,Álava,01051,2006-04-15,regular,2022-01-16
+840,LC-000000840,Carmelita Ávila Doménech,carmelita.avila@example.com,+34 782 771 795,Madrid,Madrid,28006,2002-07-07,new,2022-06-16
+841,LC-000000841,Enrique Royo Chico,enrique.royo@example.com,+34 771 086 811,Madrid,Madrid,28029,1999-06-15,new,2021-02-10
+842,LC-000000842,Santos Morán Sanmiguel,santos.moran@example.com,+34 683 337 916,Melilla,Melilla,52068,,occasional,2023-07-31
+843,LC-000000843,Adelardo de Cornejo,,+34 608 332 037,Madrid,Madrid,28079,1993-05-17,regular,2024-06-22
+844,LC-000000844,Victor Manuel Simó Higueras,,+34 693 468 681,Badajoz,Badajoz,06055,1951-05-20,regular,2024-10-27
+845,LC-000000845,Eladio Pánfilo Solís Castillo,eladio.panfilo@example.com,+34 677 225 387,Gijón,Asturias,33015,1947-05-13,occasional,2024-01-18
+846,LC-000000846,Segismundo Infante Sanjuan,segismundo.infante@example.com,+34 732 228 922,Girona,Girona,17025,1977-05-07,premium,2023-02-22
+847,LC-000000847,Olimpia Ugarte Bernat,olimpia.ugarte3@example.com,+34 757 340 849,Sevilla,Sevilla,41074,1976-03-23,occasional,2021-06-05
+848,LC-000000848,Blas Alfaro Sainz,,+34 683 929 423,Alicante,Alicante,03036,1958-02-06,regular,2023-01-13
+849,LC-000000849,Cristina del Bernat,,+34 727 689 430,Madrid,Madrid,28055,1972-06-21,regular,2021-04-05
+850,LC-000000850,Gilberto González Baró,gilberto.gonzalez@example.com,+34 697 115 959,Soria,Soria,42075,1999-01-27,occasional,2023-06-11
+851,LC-000000851,Salud Orozco Miguel,salud.orozco@example.com,+34 637 013 339,Barcelona,Barcelona,08018,1962-04-10,regular,2023-05-17
+852,LC-000000852,Adán Coronado Cifuentes,adan.coronado2@example.com,+34 608 152 301,León,León,24026,1990-08-15,premium,2022-02-08
+853,LC-000000853,Loreto Cortina,loreto.cortina@example.com,,Valladolid,Valladolid,47005,1988-06-05,regular,2022-09-06
+854,LC-000000854,Ciro Barbero Fajardo,ciro.barbero7@example.com,+34 634 368 864,Madrid,Madrid,28033,1964-09-23,premium,2021-09-21
+855,LC-000000855,Lino Salcedo Briones,lino.salcedo@example.com,+34 654 604 288,Madrid,Madrid,28048,2003-12-27,regular,2022-06-01
+856,LC-000000856,Clara Carrión Mosquera,clara.carrion@example.com,+34 688 550 262,L'Hospitalet de Llobregat,Barcelona,08039,1993-07-11,occasional,2024-12-18
+857,LC-000000857,Raúl del Muñoz,raul.del@example.com,,Madrid,Madrid,28036,2003-08-17,regular,2023-09-05
+858,LC-000000858,Ariadna Abad Miguel,ariadna.abad@example.com,+34 653 679 933,Santander,Cantabria,39007,2006-05-31,regular,2024-05-31
+859,LC-000000859,Herminia Valls Ojeda,,+34 780 959 454,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38060,1972-03-28,regular,2022-12-25
+860,LC-000000860,Eutimio Narváez Haro,eutimio.narvaez3@example.com,+34 658 400 217,Málaga,Málaga,29059,,occasional,2023-07-11
+861,LC-000000861,Gregorio Meléndez,gregorio.melendez@example.com,+34 791 223 919,Ourense,Ourense,32043,1992-12-16,regular,2022-06-20
+862,LC-000000862,Amada Codina-Alcántara,amada.codina-alcantara@example.com,+34 706 308 427,Vigo,Pontevedra,36068,1998-06-06,new,2023-10-01
+863,LC-000000863,Ana Torre Prieto,ana.torre@example.com,+34 671 993 379,Valencia,Valencia,46002,1997-08-29,occasional,2023-11-27
+864,LC-000000864,Jafet Calvo Marí,jafet.calvo@example.com,+34 775 241 010,Valladolid,Valladolid,47018,1953-10-08,occasional,2025-01-03
+865,LC-000000865,Apolonia del Lobo,apolonia.del@example.com,+34 600 985 824,A Coruña,A Coruña,15072,1959-10-10,occasional,2021-02-21
+866,LC-000000866,Laura Emelina Español Fabra,laura.emelina@example.com,+34 660 708 417,Toledo,Toledo,45046,1996-05-16,premium,2024-09-10
+867,LC-000000867,Máximo Azorin Perez,maximo.azorin@example.com,+34 685 411 044,Madrid,Madrid,28072,2003-06-15,regular,2021-10-18
+868,LC-000000868,Arcelia Adelina Carmona Verdugo,arcelia.adelina@example.com,+34 727 513 759,Gijón,Asturias,33061,1968-07-24,regular,2022-12-16
+869,LC-000000869,Rómulo Verdú Botella,romulo.verdu@example.com,+34 601 374 513,Ceuta,Ceuta,51060,1983-12-09,occasional,2021-04-10
+870,LC-000000870,Sebastian del Noguera,sebastian.del@example.com,+34 700 633 785,Pamplona,Navarra,31065,1994-07-04,new,2021-05-23
+871,LC-000000871,Cristina Tomé Montenegro,cristina.tome@example.com,+34 616 025 726,Zaragoza,Zaragoza,50045,,occasional,2024-04-21
+872,LC-000000872,Susana Cervantes,susana.cervantes@example.com,+34 625 547 105,Zaragoza,Zaragoza,50026,,occasional,2025-02-12
+873,LC-000000873,Ezequiel Arellano Pardo,ezequiel.arellano@example.com,+34 787 827 335,Vitoria-Gasteiz,Álava,01008,2004-07-01,premium,2024-01-13
+874,LC-000000874,Nicodemo Figueroa Melero,nicodemo.figueroa@example.com,+34 694 459 516,Ceuta,Ceuta,51050,1995-07-23,premium,2025-03-28
+875,LC-000000875,Américo Ordóñez Uría,americo.ordonez@example.com,+34 624 238 137,Madrid,Madrid,28066,1985-12-23,premium,2021-01-31
+876,LC-000000876,Urbano Lloret,urbano.lloret@example.com,+34 623 870 877,Ourense,Ourense,32043,1986-06-16,regular,2022-12-07
+877,LC-000000877,Carmen Feliu Prada,carmen.feliu@example.com,+34 659 280 248,Sevilla,Sevilla,41004,2000-12-03,regular,2022-08-19
+878,LC-000000878,José Mari Carreras,jose.mari@example.com,,Barcelona,Barcelona,08051,1993-02-10,premium,2022-04-07
+879,LC-000000879,Anselma Sarmiento,,+34 617 306 747,Barcelona,Barcelona,08049,1970-12-22,occasional,2021-04-09
+880,LC-000000880,Maxi Almansa Pallarès,maxi.almansa@example.com,+34 689 252 588,Valencia,Valencia,46017,1995-03-16,regular,2024-01-01
+881,LC-000000881,Bautista Piñol Robledo,bautista.pinol@example.com,+34 689 931 827,Pamplona,Navarra,31005,2005-08-15,premium,2022-05-07
+882,LC-000000882,Jordi Tomas-Bauzà,jordi.tomas-bauza@example.com,+34 710 523 692,Madrid,Madrid,28036,1950-08-22,regular,2022-02-15
+883,LC-000000883,Tomasa Saura Naranjo,tomasa.saura@example.com,+34 748 215 837,Murcia,Murcia,30031,1959-11-21,occasional,2021-03-28
+884,LC-000000884,Milagros Arias Alvarez,milagros.arias@example.com,,Vitoria-Gasteiz,Álava,01009,1993-01-18,new,2021-10-07
+885,LC-000000885,Rosa María Casado,,+34 753 015 036,Vitoria-Gasteiz,Álava,01054,1964-08-30,premium,2021-09-04
+886,LC-000000886,Curro Cuenca Barceló,curro.cuenca@example.com,+34 613 369 509,Elche,Alicante,03057,1957-05-23,regular,2022-07-27
+887,LC-000000887,Ana Pablo Nevado,ana.pablo3@example.com,+34 712 831 130,Murcia,Murcia,30076,1990-09-08,regular,2024-05-29
+888,LC-000000888,Regina Santamaria Santamaría,regina.santamaria@example.com,+34 735 239 031,Granada,Granada,18056,1975-12-02,occasional,2021-12-31
+889,LC-000000889,Pepito Carlos-Pazos,,+34 789 667 534,Almería,Almería,04008,1948-11-01,new,2023-05-01
+890,LC-000000890,Marita Saavedra Vilanova,,+34 747 866 901,Elche,Alicante,03027,1974-10-29,premium,2023-06-05
+891,LC-000000891,Marcio Miró Alvarez,marcio.miro@example.com,+34 708 347 879,Zaragoza,Zaragoza,50077,2003-04-12,regular,2022-05-27
+892,LC-000000892,Luis Miguel Alcalá-Vives,luis.miguel@example.com,+34 715 990 379,Las Palmas de Gran Canaria,Las Palmas,35020,2006-07-22,occasional,2024-11-06
+893,LC-000000893,René Fernández Vidal,rene.fernandez@example.com,+34 758 538 093,Madrid,Madrid,28052,,occasional,2022-07-21
+894,LC-000000894,Ana Sofía Cadenas Marqués,ana.sofia8@example.com,+34 627 226 512,Jerez de la Frontera,Cádiz,11011,1976-08-10,regular,2023-10-02
+895,LC-000000895,Flora Sanz Godoy,flora.sanz@example.com,+34 600 965 751,Gijón,Asturias,33058,1959-10-22,new,2023-01-17
+896,LC-000000896,Cesar Espejo-Urrutia,cesar.espejo-urrutia@example.com,+34 640 423 429,Oviedo,Asturias,33033,1979-05-14,regular,2021-07-18
+897,LC-000000897,Eliana Barrera Nuñez,eliana.barrera@example.com,,Sevilla,Sevilla,41080,,occasional,2022-06-05
+898,LC-000000898,José Luis Sevillano Cabrera,jose.luis@example.com,+34 679 011 242,Madrid,Madrid,28041,1947-03-11,regular,2022-11-25
+899,LC-000000899,Leopoldo Cabanillas Aliaga,,+34 743 646 086,Pamplona,Navarra,31054,1960-05-04,occasional,2021-03-17
+900,LC-000000900,Bernardita Gallego Castillo,bernardita.gallego@example.com,+34 694 898 888,Málaga,Málaga,29042,,regular,2022-04-28

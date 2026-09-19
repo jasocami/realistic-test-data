@@ -1,0 +1,71 @@
+id,manufacturer_id,name,segment,body_type,year_from,year_to,base_price
+1,7,Belmonte Corso,SUV,SUV,2011,2014,59100.00
+2,10,Ondara Mistral,A,hatchback,2013,2018,14900.00
+3,2,Velmar Espiga,MPV,MPV,2014,2021,24700.00
+4,10,Ondara Tramonte,SUV,SUV,2015,2023,35800.00
+5,6,Aurion Lumen,A,hatchback,2010,2017,13500.00
+6,3,Corvera Duna,C,saloon,2010,,26600.00
+7,7,Belmonte Cielo,B,hatchback,2022,2025,15000.00
+8,2,Velmar Astro,SUV,SUV,2010,2014,47600.00
+9,12,Solane Tramonte,SUV,SUV,2022,2025,47600.00
+10,4,Nordika Sierra,C,estate,2019,2023,26100.00
+11,7,Belmonte Aria,C,saloon,2011,2016,23300.00
+12,3,Corvera Lince,B,hatchback,2012,,19800.00
+13,1,Altaria Aria,C,saloon,2015,,24000.00
+14,8,Kestrel Aria,E,coupe,2022,2025,81800.00
+15,8,Kestrel Verde,SUV,SUV,2012,2021,51000.00
+16,6,Aurion Aria,SUV,SUV,2022,2025,49000.00
+17,7,Belmonte Lince,A,hatchback,2022,2025,14700.00
+18,12,Solane Bruma,C,saloon,2017,2021,26900.00
+19,2,Velmar Vento,C,saloon,2016,2020,23100.00
+20,4,Nordika Grava,B,hatchback,2017,2025,22800.00
+21,12,Solane Astro,C,estate,2011,2017,21100.00
+22,10,Ondara Bruma,D,estate,2014,,45900.00
+23,8,Kestrel Nevada,B,estate,2018,2025,17800.00
+24,2,Velmar Ribera,B,estate,2020,2023,15900.00
+25,7,Belmonte Nevada 3,A,hatchback,2016,,13100.00
+26,9,Marova Duna,SUV,SUV,2013,2022,49300.00
+27,3,Corvera Cielo 8,B,estate,2011,,22000.00
+28,8,Kestrel Cobalto,MPV,MPV,2014,2021,35700.00
+29,12,Solane Grava 4,SUV,SUV,2012,,25100.00
+30,6,Aurion Corso,B,estate,2022,2025,19700.00
+31,5,Tessera Alba,E,saloon,2020,,79500.00
+32,7,Belmonte Delta 3,E,coupe,2014,,58500.00
+33,5,Tessera Corso,Van,van,2014,,22600.00
+34,11,Rivenna Marea,SUV,SUV,2013,2016,33500.00
+35,6,Aurion Bruma,D,estate,2021,2025,45900.00
+36,3,Corvera Horizonte,SUV,SUV,2019,2024,25000.00
+37,11,Rivenna Grava,C,hatchback,2017,2022,27900.00
+38,7,Belmonte Zenit 2,C,hatchback,2021,,30100.00
+39,12,Solane Sierra,A,hatchback,2016,2025,11000.00
+40,2,Velmar Nevada,SUV,SUV,2017,,57500.00
+41,3,Corvera Orion,B,estate,2022,,18200.00
+42,2,Velmar Zenit,B,estate,2010,2013,16400.00
+43,1,Altaria Horizonte,A,hatchback,2015,2020,12100.00
+44,5,Tessera Espiga,C,estate,2011,2015,23400.00
+45,11,Rivenna Cielo,C,saloon,2022,2025,29300.00
+46,12,Solane Aria,SUV,SUV,2022,,50800.00
+47,4,Nordika Marea,SUV,SUV,2013,,49100.00
+48,6,Aurion Delta,SUV,SUV,2018,2025,46000.00
+49,5,Tessera Cobalto,C,estate,2015,2021,31700.00
+50,7,Belmonte Nevada,B,estate,2012,,16200.00
+51,9,Marova Sierra,C,saloon,2021,2025,21300.00
+52,7,Belmonte Cobalto 4,SUV,SUV,2022,2025,55900.00
+53,11,Rivenna Faro,SUV,SUV,2021,,49800.00
+54,2,Velmar Fuego,SUV,SUV,2014,2018,30100.00
+55,1,Altaria Cobalto,B,hatchback,2014,2022,18200.00
+56,11,Rivenna Orion,SUV,SUV,2017,,51700.00
+57,3,Corvera Mistral,C,hatchback,2020,,21700.00
+58,11,Rivenna Zenit,B,estate,2010,,19200.00
+59,2,Velmar Duna,B,estate,2019,2025,17500.00
+60,10,Ondara Ribera,B,estate,2012,,20400.00
+61,2,Velmar Ribera 3,SUV,SUV,2021,2025,56800.00
+62,4,Nordika Horizonte 8,Van,van,2016,2025,29400.00
+63,12,Solane Delta,C,hatchback,2012,2021,31800.00
+64,6,Aurion Sendero,D,estate,2010,,44500.00
+65,10,Ondara Sendero,A,hatchback,2020,2024,11900.00
+66,3,Corvera Bruma,SUV,SUV,2020,,32900.00
+67,3,Corvera Lumen,B,estate,2019,,22100.00
+68,9,Marova Faro,B,estate,2014,2019,21100.00
+69,3,Corvera Tramonte,SUV,SUV,2017,2022,25500.00
+70,7,Belmonte Duna,SUV,SUV,2011,,47100.00

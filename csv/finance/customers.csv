@@ -1,0 +1,801 @@
+id,customer_number,full_name,national_id,birth_date,email,phone,city,province,postal_code,kyc_status,risk_score,annual_income,customer_since
+1,CLI-0000001,Gastón del Villegas,65260410A,2004-03-24,gaston.del@example.com,+34 632 936 148,Sevilla,Sevilla,41080,verified,57,9477.24,2006-05-21
+2,CLI-0000002,Natalio Ruano-Higueras,03750908E,1966-03-18,natalio.ruano-higueras@example.com,+34 608 124 219,Madrid,Madrid,28042,verified,57,,2007-04-14
+3,CLI-0000003,Julieta Camps Morera,99940217L,1969-09-26,julieta.camps@example.com,+34 758 144 187,Barcelona,Barcelona,08080,verified,20,28104.91,2015-01-16
+4,CLI-0000004,Anacleto Barrio Camino,61837605N,1972-06-03,,+34 667 791 622,Madrid,Madrid,28074,verified,41,23723.20,2021-04-29
+5,CLI-0000005,Roque Pacheco Vallés,19921794E,1989-10-06,roque.pacheco@example.com,+34 641 459 055,Valencia,Valencia,46057,verified,80,14969.47,2012-05-31
+6,CLI-0000006,Felipe Pellicer,59681834P,1965-06-23,felipe.pellicer@example.com,+34 765 651 727,Madrid,Madrid,28052,verified,2,,2010-03-09
+7,CLI-0000007,Valentín Mora Lluch,76014256S,1965-06-30,valentin.mora@example.com,+34 669 933 640,Murcia,Murcia,30024,verified,57,,2007-10-25
+8,CLI-0000008,Brígida Anaya Gual,25776016P,1982-07-03,brigida.anaya@example.com,+34 633 739 565,Córdoba,Córdoba,14077,verified,37,49709.93,2013-05-04
+9,CLI-0000009,Dani Calvet Aguado,23828135C,1998-02-18,dani.calvet6@example.com,+34 783 990 960,Almería,Almería,04043,verified,37,,2020-09-16
+10,CLI-0000010,Ariel Real Gámez,07691687G,1997-08-13,ariel.real@example.com,+34 638 917 572,Madrid,Madrid,28020,verified,53,27133.25,2012-01-30
+11,CLI-0000011,Roque Pascual Chamorro,30890600J,1986-04-02,roque.pascual@example.com,+34 784 945 894,Bilbao,Bizkaia,48063,verified,47,,2018-09-26
+12,CLI-0000012,Aureliano Castillo,87754162P,1993-05-23,,+34 735 303 307,Bilbao,Bizkaia,48045,verified,23,9000.00,2021-04-23
+13,CLI-0000013,Silvestre Villa,64590143W,1973-02-24,silvestre.villa@example.com,+34 787 339 270,L'Hospitalet de Llobregat,Barcelona,08052,verified,42,10952.93,2020-07-31
+14,CLI-0000014,Luciana Borrás,30281851M,1974-03-22,luciana.borras@example.com,+34 703 302 651,Granada,Granada,18080,expired,48,32339.81,2021-06-09
+15,CLI-0000015,Carlito Dominguez Salvà,07817772A,2007-11-01,carlito.dominguez@example.com,+34 624 512 682,Albacete,Albacete,02001,verified,49,,2015-04-24
+16,CLI-0000016,Gaspar Balduino Castillo Ibarra,27441024T,1974-07-16,gaspar.balduino@example.com,+34 735 189 959,León,León,24006,verified,59,14921.39,2023-09-14
+17,CLI-0000017,José Luis Segovia Batlle,96448505Y,1995-10-12,jose.luis@example.com,+34 679 561 555,Barcelona,Barcelona,08031,verified,39,27146.96,2017-11-25
+18,CLI-0000018,Eutropio Serna-Estévez,93267908X,1986-02-21,eutropio.serna-estevez@example.com,+34 767 632 465,Madrid,Madrid,28010,verified,40,44954.77,2023-09-15
+19,CLI-0000019,Américo Cuéllar,52146716N,1996-02-14,americo.cuellar@example.com,+34 646 931 892,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38033,verified,69,19945.27,2022-09-18
+20,CLI-0000020,Dalila Cantero Bayona,37655445Y,2000-04-26,dalila.cantero@example.com,+34 708 132 931,A Coruña,A Coruña,15003,verified,6,53510.47,2012-04-29
+21,CLI-0000021,Elba Pérez Vergara,30576528Y,1969-03-23,elba.perez@example.com,+34 615 430 387,Jerez de la Frontera,Cádiz,11072,verified,25,12473.24,2009-04-26
+22,CLI-0000022,Ceferino Carnero Andres,04650563D,1978-04-01,ceferino.carnero@example.com,+34 771 054 991,A Coruña,A Coruña,15019,verified,34,29306.82,2005-06-13
+23,CLI-0000023,Isabel Sobrino,39491908B,2007-05-11,isabel.sobrino@example.com,+34 633 418 013,Terrassa,Barcelona,08010,verified,50,21197.65,2015-11-26
+24,CLI-0000024,Macaria Colomer Fiol,82371326T,1976-02-17,macaria.colomer@example.com,+34 762 827 512,Sevilla,Sevilla,41047,verified,38,28910.54,2012-08-17
+25,CLI-0000025,Adela del Escobar,93478015N,1960-10-30,adela.del@example.com,+34 756 470 097,Madrid,Madrid,28037,expired,65,29313.89,2019-08-23
+26,CLI-0000026,Perla Alcalde Alvarado,76276332Y,1967-06-12,perla.alcalde@example.com,+34 733 618 229,Málaga,Málaga,29014,expired,67,21993.14,2007-04-20
+27,CLI-0000027,Rufino Vigil Aramburu,26112651S,1972-07-28,rufino.vigil@example.com,+34 665 338 385,Barcelona,Barcelona,08042,verified,29,14271.12,2009-08-10
+28,CLI-0000028,Zacarías Villa,21457275T,1995-08-24,zacarias.villa@example.com,+34 652 829 770,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38008,verified,41,53862.78,2020-11-25
+29,CLI-0000029,Graciana del Nicolau,55756768F,1973-03-25,graciana.del@example.com,+34 666 931 104,Madrid,Madrid,28031,verified,49,22582.02,2015-06-20
+30,CLI-0000030,Ángel de Alcalde,41245093K,2007-10-11,angel.de@example.com,+34 680 083 094,Valencia,Valencia,46042,verified,30,43127.04,2012-05-28
+31,CLI-0000031,Victorino Guardia-Sarabia,74853005B,1942-04-15,victorino.guardia-sarabia4@example.com,+34 618 486 063,Las Palmas de Gran Canaria,Las Palmas,35006,verified,39,27321.33,2022-03-15
+32,CLI-0000032,Luisina Sevilla Luque,45701263X,1998-12-04,luisina.sevilla@example.com,+34 645 479 518,Huesca,Huesca,22072,verified,80,19846.95,2013-08-20
+33,CLI-0000033,Patricio Hurtado-Espada,93907789P,1979-08-22,patricio.hurtado-espada8@example.com,+34 747 733 973,Elche,Alicante,03061,verified,33,,2005-11-25
+34,CLI-0000034,Loreto Osorio Abad,48625917F,1972-12-12,loreto.osorio@example.com,+34 634 082 243,Tarragona,Tarragona,43041,pending,88,22731.45,2014-12-22
+35,CLI-0000035,Custodio Manuel Alcántara,42418174X,1981-08-17,custodio.manuel@example.com,+34 728 543 303,Palma,Baleares,07001,verified,27,29233.13,2015-08-13
+36,CLI-0000036,Hipólito Iglesia Menendez,13063966N,1993-02-28,hipolito.iglesia@example.com,+34 625 372 995,San Sebastián,Gipuzkoa,20007,verified,51,52317.33,2014-10-02
+37,CLI-0000037,Aurora Charo Amat Iriarte,44766374W,1996-01-29,aurora.charo@example.com,+34 614 829 787,Jerez de la Frontera,Cádiz,11017,pending,66,25314.75,2021-07-18
+38,CLI-0000038,Dominga Dionisia Palmer Fernandez,92967101C,1979-08-27,dominga.dionisia@example.com,+34 760 331 462,Sevilla,Sevilla,41006,verified,55,21840.19,2017-02-19
+39,CLI-0000039,Juan Bautista Palomino,18121770R,1986-08-25,juan.bautista@example.com,+34 793 583 186,Cartagena,Murcia,30077,verified,62,20353.61,2008-07-02
+40,CLI-0000040,Jovita Cándida Peral Garmendia,79445030V,1966-09-25,jovita.candida@example.com,+34 680 935 526,Sabadell,Barcelona,08035,verified,48,31422.43,2021-11-29
+41,CLI-0000041,Rosalinda Luisa Bartolomé Figuerola,34772529W,1971-05-19,rosalinda.luisa@example.com,+34 682 181 033,Madrid,Madrid,28045,verified,37,52240.91,2021-02-03
+42,CLI-0000042,Horacio Herrera Contreras,62629511M,1963-03-25,horacio.herrera@example.com,+34 673 858 706,Barcelona,Barcelona,08069,verified,60,33157.43,2006-05-04
+43,CLI-0000043,María Carmen Burgos Elías,20864459D,1977-07-30,,+34 667 848 669,Sabadell,Barcelona,08027,verified,43,,2009-01-28
+44,CLI-0000044,Micaela Lasa Carvajal,33561239F,1996-07-12,micaela.lasa@example.com,+34 639 490 640,Albacete,Albacete,02080,verified,54,9000.00,2007-05-17
+45,CLI-0000045,Eustaquio Bernat,38966586D,1982-07-28,eustaquio.bernat@example.com,+34 765 640 457,Alcorcón,Madrid,28026,verified,40,30921.49,2014-07-04
+46,CLI-0000046,Amparo Revilla Ribera,79545385T,1988-07-04,amparo.revilla@example.com,+34 612 839 869,Cuenca,Cuenca,16034,verified,49,57506.01,2018-05-14
+47,CLI-0000047,Ernesto Corral,19141842T,1967-10-28,ernesto.corral3@example.com,+34 763 822 904,L'Hospitalet de Llobregat,Barcelona,08009,pending,23,38979.39,2017-12-22
+48,CLI-0000048,Montserrat Correa,38732171X,2007-08-18,montserrat.correa@example.com,+34 661 758 331,Logroño,La Rioja,26070,verified,75,14767.21,2006-06-25
+49,CLI-0000049,Ema Río Barceló,67770066Z,1968-12-29,ema.rio@example.com,+34 770 147 869,Valencia,Valencia,46017,verified,57,22253.13,2019-10-27
+50,CLI-0000050,Osvaldo Alemán Pavón,67266441C,1995-05-11,osvaldo.aleman@example.com,+34 675 224 917,Palma,Baleares,07040,verified,69,25460.15,2019-04-28
+51,CLI-0000051,Marc Moreno Zabaleta,18380628V,1987-06-11,marc.moreno@example.com,+34 722 830 616,Alicante,Alicante,03031,pending,41,62650.69,2011-10-03
+52,CLI-0000052,Teodora Sainz Nicolau,52929431Z,1974-05-08,teodora.sainz@example.com,+34 786 483 064,Valencia,Valencia,46039,verified,21,,2023-03-02
+53,CLI-0000053,Cándida Gaya Mateo,68389611P,1996-07-09,candida.gaya@example.com,+34 740 061 189,Alicante,Alicante,03018,verified,18,39601.00,2006-07-09
+54,CLI-0000054,Valeria Torrijos Escobar,04679017N,1989-12-17,valeria.torrijos6@example.com,+34 613 428 606,Valladolid,Valladolid,47016,verified,22,,2013-08-02
+55,CLI-0000055,Godofredo Viñas Escamilla,46364172J,1973-07-16,godofredo.vinas@example.com,+34 799 861 452,Logroño,La Rioja,26004,verified,69,,2012-09-03
+56,CLI-0000056,María José Cañete Viana,89864170L,1961-11-28,maria.jose@example.com,+34 750 028 425,Zamora,Zamora,49042,verified,30,30665.92,2008-07-28
+57,CLI-0000057,Lino Piñeiro Salgado,52915088T,1998-10-18,lino.pineiro@example.com,+34 685 143 958,Albacete,Albacete,02049,verified,48,36866.70,2010-12-16
+58,CLI-0000058,Fulgencio Tena Riera,76795258Y,1979-02-17,fulgencio.tena@example.com,+34 716 349 156,Madrid,Madrid,28005,verified,34,27819.23,2007-10-09
+59,CLI-0000059,Tamara Jódar Lobo,93702205K,1980-12-18,tamara.jodar@example.com,+34 770 906 961,Vitoria-Gasteiz,Álava,01004,expired,42,,2008-02-27
+60,CLI-0000060,Cleto de Capdevila,11385309X,1959-05-27,cleto.de@example.com,+34 616 399 835,Ceuta,Ceuta,51045,verified,37,11818.36,2018-12-29
+61,CLI-0000061,Rosenda Ferrán Lladó,92263974A,1952-06-22,rosenda.ferran8@example.com,+34 733 328 491,Bilbao,Bizkaia,48026,verified,15,39914.98,2018-12-31
+62,CLI-0000062,Agustín del Quesada,70920556X,1950-08-08,agustin.del@example.com,+34 755 094 540,Jerez de la Frontera,Cádiz,11052,verified,25,,2018-05-14
+63,CLI-0000063,Salomón Máximo Campo Teruel,06581275D,1958-11-18,salomon.maximo@example.com,+34 617 375 407,Valladolid,Valladolid,47065,verified,21,36119.01,2019-06-04
+64,CLI-0000064,Estrella de Lobo,58459612Y,2007-05-20,estrella.de@example.com,+34 713 194 332,Madrid,Madrid,28059,verified,55,14859.20,2006-02-26
+65,CLI-0000065,Alondra Godoy-Cobos,55338657J,1981-12-01,alondra.godoy-cobos@example.com,+34 679 655 957,L'Hospitalet de Llobregat,Barcelona,08023,verified,76,12352.63,2008-04-01
+66,CLI-0000066,Verónica Remedios Amat Cruz,91434597Y,1972-12-21,,+34 665 837 515,Getafe,Madrid,28001,verified,53,25531.38,2022-01-21
+67,CLI-0000067,Ricarda Sacristán Collado,13348824S,2007-12-09,ricarda.sacristan@example.com,+34 612 114 461,Las Palmas de Gran Canaria,Las Palmas,35001,verified,63,22691.60,2005-01-05
+68,CLI-0000068,Fernando Ibarra Vicente,14332945N,1958-07-05,fernando.ibarra@example.com,+34 716 265 224,Sevilla,Sevilla,41064,expired,52,27393.71,2018-04-27
+69,CLI-0000069,Florentina Cerdán Correa,73917993H,1981-02-28,florentina.cerdan@example.com,+34 762 780 538,A Coruña,A Coruña,15004,verified,33,9000.00,2022-08-03
+70,CLI-0000070,Cintia España Barragán,84826443M,1991-06-02,cintia.espana6@example.com,+34 615 111 566,Sevilla,Sevilla,41017,verified,25,31776.83,2017-09-02
+71,CLI-0000071,Cornelio Zabaleta Torrent,56521433Z,1968-10-25,cornelio.zabaleta@example.com,+34 673 260 603,Badajoz,Badajoz,06052,pending,54,15668.61,2006-08-06
+72,CLI-0000072,Rafael Segura Gallart,12866017R,1971-03-20,rafael.segura@example.com,+34 642 251 692,Bilbao,Bizkaia,48080,verified,42,15700.91,2024-05-14
+73,CLI-0000073,Jessica Bayona,56063032A,1970-10-19,jessica.bayona@example.com,+34 662 363 303,Murcia,Murcia,30071,pending,5,,2015-03-17
+74,CLI-0000074,Florina Jódar-Frutos,04915119L,2002-05-29,florina.jodar-frutos@example.com,+34 699 202 792,Madrid,Madrid,28043,verified,16,29180.54,2019-04-03
+75,CLI-0000075,Rosenda Amalia Juárez Piñol,68758122J,1988-07-02,rosenda.amalia@example.com,+34 699 108 329,Cádiz,Cádiz,11010,verified,35,60209.56,2005-10-24
+76,CLI-0000076,Lilia Torrent Comas,80703247L,1975-01-13,lilia.torrent@example.com,+34 720 506 330,L'Hospitalet de Llobregat,Barcelona,08042,verified,56,,2014-10-13
+77,CLI-0000077,Régulo del Ballesteros,03772182K,1982-11-19,regulo.del@example.com,+34 750 371 325,Córdoba,Córdoba,14069,expired,57,12099.93,2020-10-10
+78,CLI-0000078,Adán Jaén Ávila,39738372F,2007-05-05,adan.jaen@example.com,+34 605 430 380,Zaragoza,Zaragoza,50011,verified,53,16852.23,2010-12-21
+79,CLI-0000079,Zaida Dafne Navas Ángel,06786826D,1964-05-08,zaida.dafne@example.com,+34 767 101 365,Badajoz,Badajoz,06019,verified,34,39609.21,2023-08-04
+80,CLI-0000080,Kike Olivares Zurita,56838228F,1997-11-19,kike.olivares@example.com,+34 705 148 122,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38055,verified,48,21837.45,2011-06-07
+81,CLI-0000081,Anunciación Gómez Cuervo,93342663S,1951-12-23,anunciacion.gomez@example.com,+34 626 759 400,Gijón,Asturias,33017,verified,52,,2017-07-25
+82,CLI-0000082,Morena Cortina Beltran,28036642X,1972-12-06,morena.cortina@example.com,+34 674 836 297,Barcelona,Barcelona,08029,verified,82,16445.81,2008-09-16
+83,CLI-0000083,Armida Juliá-Solís,00477491B,1986-04-29,armida.julia-solis@example.com,+34 739 711 930,Madrid,Madrid,28057,expired,22,14727.03,2019-11-14
+84,CLI-0000084,Teresita Garmendia Castañeda,01664345L,2004-02-20,teresita.garmendia@example.com,+34 755 975 081,Barcelona,Barcelona,08010,verified,61,13945.89,2011-08-17
+85,CLI-0000085,Samu del Esteve,06532472N,1973-09-23,samu.del@example.com,+34 618 040 120,Madrid,Madrid,28035,verified,61,14123.23,2005-12-17
+86,CLI-0000086,Tatiana Carranza Olmo,87634579W,1952-02-29,tatiana.carranza@example.com,+34 753 911 492,Las Palmas de Gran Canaria,Las Palmas,35034,verified,100,,2015-03-15
+87,CLI-0000087,Gala Montalbán Rios,37315187X,1972-08-07,gala.montalban@example.com,+34 687 454 021,Cáceres,Cáceres,10056,verified,57,12567.16,2010-12-27
+88,CLI-0000088,Petrona Navarro Busquets,15292156P,1999-09-20,petrona.navarro@example.com,+34 614 951 523,Sabadell,Barcelona,08079,verified,26,27997.49,2022-11-09
+89,CLI-0000089,Andrés Felipe Sacristán Escrivá,08370155H,1970-03-10,andres.felipe@example.com,+34 693 665 081,Córdoba,Córdoba,14055,verified,23,18684.61,2019-03-04
+90,CLI-0000090,Amancio Flor Miranda,80765355G,2007-08-21,amancio.flor@example.com,+34 781 786 560,Murcia,Murcia,30019,expired,72,14306.64,2008-08-16
+91,CLI-0000091,Rosario Barrera González,44340343T,1970-12-22,rosario.barrera@example.com,+34 657 223 704,Barcelona,Barcelona,08033,verified,16,28918.09,2013-01-13
+92,CLI-0000092,Rufina Marí Zabaleta,41182409N,1959-04-07,rufina.mari@example.com,+34 632 054 309,Sevilla,Sevilla,41004,expired,37,40810.68,2024-09-05
+93,CLI-0000093,Isabel Tello Mosquera,06511677D,1997-05-15,isabel.tello@example.com,+34 649 442 345,Elche,Alicante,03023,verified,21,22589.78,2013-06-18
+94,CLI-0000094,Encarnación Viñas Acedo,67405176L,1955-01-18,encarnacion.vinas@example.com,+34 616 387 344,Gijón,Asturias,33026,verified,30,,2020-02-06
+95,CLI-0000095,Candela Goñi Mata,73529261D,1969-08-26,candela.goni@example.com,+34 690 514 725,Sevilla,Sevilla,41041,verified,41,47008.67,2005-10-29
+96,CLI-0000096,Iker Cabrero Fernández,50376707Z,1962-12-10,iker.cabrero@example.com,+34 628 699 944,Castellón de la Plana,Castellón,12011,verified,7,84109.31,2017-07-16
+97,CLI-0000097,Merche Roca Cervera,36599950G,1973-10-30,merche.roca@example.com,+34 608 357 603,Madrid,Madrid,28017,verified,50,37474.48,2014-04-13
+98,CLI-0000098,Iván Gomis Blasco,49882442L,1970-02-20,,+34 656 733 376,Las Palmas de Gran Canaria,Las Palmas,35071,verified,54,,2008-07-30
+99,CLI-0000099,Febe Encarnación Clemente Villalobos,21208521Z,1981-03-14,febe.encarnacion@example.com,+34 617 852 776,Madrid,Madrid,28052,verified,1,64876.16,2024-09-26
+100,CLI-0000100,Carmen Aramburu-Pascual,46313053T,1993-12-22,carmen.aramburu-pascual@example.com,+34 699 691 503,Valencia,Valencia,46039,verified,56,13117.40,2011-03-23
+101,CLI-0000101,Otilia Colomer,49406752S,1958-05-02,otilia.colomer@example.com,+34 642 802 092,Sabadell,Barcelona,08030,verified,71,,2020-06-14
+102,CLI-0000102,Florinda Gracia Aller,88809928M,1978-07-10,florinda.gracia@example.com,+34 695 586 777,Barcelona,Barcelona,08055,verified,53,35605.63,2008-03-28
+103,CLI-0000103,Pablo Lucena Alcolea,79224407X,1961-01-31,pablo.lucena@example.com,+34 756 443 440,Málaga,Málaga,29052,verified,34,30808.88,2015-07-21
+104,CLI-0000104,Jerónimo Ibarra Jaume,70067291E,2007-05-01,jeronimo.ibarra@example.com,+34 677 479 336,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38045,verified,61,13296.22,2019-05-05
+105,CLI-0000105,Gaspar Hoyos Prieto,58030934W,1998-11-24,gaspar.hoyos@example.com,+34 650 589 943,Salamanca,Salamanca,37015,verified,38,28213.61,2015-06-21
+106,CLI-0000106,Francisco Javier Oller Vicens,84686591Q,1990-03-05,francisco.javier@example.com,+34 692 378 536,Zaragoza,Zaragoza,50036,pending,55,22237.46,2012-01-20
+107,CLI-0000107,Jorge del Osuna,86889207Z,1953-01-22,jorge.del@example.com,+34 691 838 919,Jaén,Jaén,23079,pending,44,15713.81,2019-06-01
+108,CLI-0000108,Paco Cuesta Cepeda,03746636M,1979-03-21,paco.cuesta@example.com,+34 608 083 565,Getafe,Madrid,28018,verified,26,16011.86,2023-04-14
+109,CLI-0000109,Saturnino Pagès Palomo,72192882E,1973-07-08,saturnino.pages@example.com,+34 626 341 752,Segovia,Segovia,40077,verified,53,15414.40,2023-06-22
+110,CLI-0000110,Régulo de Roman,55827117E,1969-11-29,regulo.de@example.com,+34 732 454 227,Madrid,Madrid,28066,verified,49,,2008-02-11
+111,CLI-0000111,Diego Bou,26023769M,1977-07-21,diego.bou@example.com,+34 645 119 685,L'Hospitalet de Llobregat,Barcelona,08015,verified,73,21024.31,2023-04-09
+112,CLI-0000112,Nereida Requena Nieto,29121086G,1968-11-14,nereida.requena@example.com,+34 624 546 090,Madrid,Madrid,28062,pending,100,,2009-11-15
+113,CLI-0000113,Isidora de Roura,29360328T,1997-05-31,isidora.de@example.com,+34 725 621 983,Las Palmas de Gran Canaria,Las Palmas,35054,verified,35,22731.50,2008-12-16
+114,CLI-0000114,Mercedes Batlle Solé,32417666V,2007-10-09,mercedes.batlle@example.com,+34 656 847 246,Vitoria-Gasteiz,Álava,01055,pending,78,29707.86,2023-10-07
+115,CLI-0000115,Hernán Machado Rivero,88459937M,1996-12-23,hernan.machado@example.com,+34 668 786 507,Elche,Alicante,03020,pending,69,25765.79,2014-03-18
+116,CLI-0000116,Obdulia Perla Patiño Ávila,89680739J,1977-01-31,obdulia.perla@example.com,+34 639 886 410,Bilbao,Bizkaia,48003,verified,43,20658.11,2019-07-17
+117,CLI-0000117,Mauricio Mayo Méndez,80511009S,1960-10-07,mauricio.mayo2@example.com,+34 700 080 892,Badalona,Barcelona,08013,verified,34,26129.44,2006-04-27
+118,CLI-0000118,Arcelia Frutos,56647619E,1963-09-19,arcelia.frutos7@example.com,+34 621 414 741,Huelva,Huelva,21043,verified,47,19907.54,2016-10-26
+119,CLI-0000119,Javier Cal Ibáñez,16446133Y,1973-11-16,javier.cal@example.com,+34 638 248 591,Sabadell,Barcelona,08008,verified,46,35609.92,2017-01-03
+120,CLI-0000120,Samanta Roldan Pujol,74997913L,2006-06-05,samanta.roldan@example.com,+34 774 615 130,Ávila,Ávila,05041,verified,55,32561.42,2018-08-29
+121,CLI-0000121,Lalo Moreno Calatayud,59422551G,1986-07-14,lalo.moreno@example.com,+34 604 293 944,Salamanca,Salamanca,37037,verified,62,16302.26,2009-01-29
+122,CLI-0000122,Diego Rius Mayo,96528415Z,1966-07-23,diego.rius@example.com,+34 604 160 719,Vitoria-Gasteiz,Álava,01057,verified,40,25251.20,2005-03-23
+123,CLI-0000123,Sosimo de Tirado,44834992B,1986-11-04,sosimo.de@example.com,+34 764 839 013,Palencia,Palencia,34036,verified,43,9925.71,2017-03-23
+124,CLI-0000124,Estrella Torrecilla Rebollo,68282687B,1969-05-09,estrella.torrecilla@example.com,+34 624 741 478,Madrid,Madrid,28020,verified,35,13818.64,2009-11-16
+125,CLI-0000125,Narciso Salcedo Gascón,58819987V,1958-07-26,narciso.salcedo@example.com,+34 741 434 835,Madrid,Madrid,28074,verified,64,32852.16,2021-07-13
+126,CLI-0000126,Clímaco Fuertes Adadia,48006854N,1979-11-29,climaco.fuertes@example.com,+34 621 331 900,Gijón,Asturias,33003,verified,34,65365.25,2009-04-28
+127,CLI-0000127,Rosalía Alvarez Barbero,38012214E,1958-04-26,rosalia.alvarez@example.com,+34 696 134 544,Madrid,Madrid,28037,verified,36,15154.24,2017-02-15
+128,CLI-0000128,Américo Martin Prada,53463882Z,1967-05-01,americo.martin@example.com,+34 670 325 850,Málaga,Málaga,29046,verified,67,,2019-11-24
+129,CLI-0000129,Soraya de Cañellas,42674976V,2001-08-31,soraya.de@example.com,+34 739 376 968,Barcelona,Barcelona,08027,verified,90,18041.55,2011-01-31
+130,CLI-0000130,Lucila Naranjo Pera,57547023B,1970-05-07,lucila.naranjo@example.com,+34 627 193 446,Palma,Baleares,07054,verified,15,31476.92,2005-11-16
+131,CLI-0000131,Angelina Duran,09196561B,1998-04-06,angelina.duran@example.com,+34 657 946 019,Jerez de la Frontera,Cádiz,11020,expired,44,22494.70,2015-02-21
+132,CLI-0000132,Adoración de Gibert,54735068J,1971-11-29,adoracion.de@example.com,+34 643 621 302,Ávila,Ávila,05064,verified,86,32817.22,2023-07-21
+133,CLI-0000133,Dionisio Fuentes Valenzuela,84380809L,1981-08-10,dionisio.fuentes@example.com,+34 653 575 788,Vigo,Pontevedra,36039,verified,44,18847.48,2023-06-04
+134,CLI-0000134,Herminia Bayo Benítez,62988121E,1997-12-30,herminia.bayo@example.com,+34 647 810 092,San Sebastián,Gipuzkoa,20002,verified,77,17049.41,2005-03-26
+135,CLI-0000135,Joan Martínez Cabañas,84907467T,1976-04-08,joan.martinez@example.com,+34 611 431 184,Zaragoza,Zaragoza,50040,pending,25,,2013-04-21
+136,CLI-0000136,Fortunata Gallo Navas,75706654S,1974-06-17,fortunata.gallo@example.com,+34 619 864 067,Oviedo,Asturias,33032,verified,77,9000.00,2010-05-05
+137,CLI-0000137,Federico César Morcillo Barba,61861308W,1971-06-22,federico.cesar@example.com,+34 680 665 288,Burgos,Burgos,09011,verified,74,,2015-04-12
+138,CLI-0000138,Yaiza Manola Meléndez Borrego,55592729G,1994-10-19,,+34 655 436 006,Málaga,Málaga,29031,verified,44,43720.75,2022-12-05
+139,CLI-0000139,Amaro Gutierrez Varela,97763131K,1954-06-30,amaro.gutierrez@example.com,+34 724 981 514,Málaga,Málaga,29006,verified,50,20685.68,2012-05-21
+140,CLI-0000140,Eusebia del Real,12686803A,1988-05-17,eusebia.del@example.com,+34 663 138 601,Pamplona,Navarra,31033,verified,50,17462.19,2018-04-24
+141,CLI-0000141,Andrés Felipe Sancho Arroyo,43178996S,1994-05-18,andres.felipe@example.com,+34 654 531 331,A Coruña,A Coruña,15028,verified,49,14832.36,2023-10-17
+142,CLI-0000142,Bernardita Frías Benítez,91189006D,1962-05-31,bernardita.frias@example.com,+34 760 612 568,Málaga,Málaga,29064,verified,32,26064.74,2013-12-29
+143,CLI-0000143,Mireia Carmela Luján Clavero,69136181K,1967-03-21,mireia.carmela@example.com,+34 683 053 035,Valencia,Valencia,46076,verified,34,47047.42,2024-07-09
+144,CLI-0000144,Miguela Puig,71195734Q,2001-08-26,miguela.puig@example.com,+34 738 391 654,Badajoz,Badajoz,06073,verified,42,,2005-05-22
+145,CLI-0000145,Raquel Rocha Aznar,06989871X,1961-01-29,raquel.rocha8@example.com,+34 692 254 286,San Sebastián,Gipuzkoa,20074,verified,61,11980.65,2020-12-06
+146,CLI-0000146,Lilia Uribe Casares,98167665P,1956-09-03,lilia.uribe@example.com,+34 603 909 529,Córdoba,Córdoba,14012,verified,50,,2010-05-24
+147,CLI-0000147,Lisandro Fajardo-Nevado,45379768D,1979-11-16,lisandro.fajardo-nevado@example.com,+34 682 065 225,Albacete,Albacete,02080,verified,22,24318.96,2018-05-04
+148,CLI-0000148,Guiomar Ayuso Saldaña,96483097Y,2005-11-18,guiomar.ayuso@example.com,+34 637 273 032,Ciudad Real,Ciudad Real,13014,expired,12,64187.04,2023-11-16
+149,CLI-0000149,Raquel Plaza Salvà,91080058N,1976-03-05,raquel.plaza@example.com,+34 698 957 233,Lleida,Lleida,25054,verified,58,20009.93,2010-04-20
+150,CLI-0000150,Desiderio Goicoechea,64989491R,1970-07-01,desiderio.goicoechea@example.com,+34 716 321 040,A Coruña,A Coruña,15043,verified,43,35043.51,2024-09-16
+151,CLI-0000151,Jovita Pagès Sarabia,42288891X,1962-11-21,jovita.pages@example.com,+34 711 764 629,Castellón de la Plana,Castellón,12013,verified,42,54745.68,2012-08-27
+152,CLI-0000152,Florencio Rius Saldaña,40104928N,1971-04-13,florencio.rius@example.com,+34 625 835 784,Madrid,Madrid,28055,verified,23,96637.64,2023-04-29
+153,CLI-0000153,Angelita Arjona Calatayud,60991453F,1974-06-13,angelita.arjona@example.com,+34 636 342 985,San Sebastián,Gipuzkoa,20022,verified,27,17155.05,2021-10-30
+154,CLI-0000154,Víctor de Cuéllar,49252625B,1982-03-15,victor.de@example.com,+34 675 542 457,Pamplona,Navarra,31026,verified,34,61086.54,2005-10-04
+155,CLI-0000155,Petrona Palmer Porta,43567406R,2006-07-21,petrona.palmer@example.com,+34 674 866 588,Madrid,Madrid,28003,pending,14,24822.70,2012-02-12
+156,CLI-0000156,Dani Izquierdo Paredes,23139658W,1958-08-03,dani.izquierdo@example.com,+34 710 342 128,Palma,Baleares,07063,verified,66,14065.38,2024-06-25
+157,CLI-0000157,Sabas Gonzalo,75609551H,1989-10-07,sabas.gonzalo@example.com,+34 672 563 192,Madrid,Madrid,28060,verified,62,15120.40,2022-01-25
+158,CLI-0000158,Lupita de Seguí,40832025X,1974-01-23,lupita.de@example.com,+34 682 368 017,L'Hospitalet de Llobregat,Barcelona,08030,verified,22,39390.53,2015-03-21
+159,CLI-0000159,Ani Franch Morante,71777436W,1987-03-14,ani.franch@example.com,+34 637 055 281,Las Palmas de Gran Canaria,Las Palmas,35079,pending,1,109196.00,2013-09-20
+160,CLI-0000160,Cosme Higueras-Mateo,26491517W,1974-06-15,cosme.higueras-mateo@example.com,+34 669 421 532,Badajoz,Badajoz,06021,verified,32,,2021-01-07
+161,CLI-0000161,Edelmira Aguilera-Garcia,98484768X,1972-03-14,,+34 654 262 622,Zaragoza,Zaragoza,50020,verified,39,13817.32,2021-03-21
+162,CLI-0000162,Estela de Ferrándiz,37372837E,2007-02-11,estela.de@example.com,+34 650 937 221,Terrassa,Barcelona,08019,verified,65,14267.70,2009-03-27
+163,CLI-0000163,Juana Villalonga Garay,59747416V,1990-12-27,,+34 600 578 637,Logroño,La Rioja,26057,verified,37,57927.14,2006-04-11
+164,CLI-0000164,Jennifer Azcona Llabrés,28311787Y,1982-02-02,jennifer.azcona@example.com,+34 758 494 609,A Coruña,A Coruña,15071,expired,49,47874.46,2012-08-22
+165,CLI-0000165,Baudelio Cabanillas Capdevila,88010113S,1964-02-01,baudelio.cabanillas@example.com,+34 712 030 501,Madrid,Madrid,28057,verified,51,12907.01,2024-03-02
+166,CLI-0000166,Alfonso Ribera Royo,06355857Z,1979-09-28,alfonso.ribera@example.com,+34 618 800 127,Cartagena,Murcia,30028,verified,44,17836.70,2019-07-02
+167,CLI-0000167,Francisco Ros Bonet,71605335X,1954-01-06,francisco.ros@example.com,+34 704 639 982,Córdoba,Córdoba,14066,verified,34,38484.43,2006-11-28
+168,CLI-0000168,Alfredo Peñas Gimenez,09653419C,1975-03-02,alfredo.penas@example.com,+34 752 315 398,Las Palmas de Gran Canaria,Las Palmas,35009,verified,76,,2011-03-03
+169,CLI-0000169,Dan Cano Barbero,69366326M,1967-09-10,dan.cano@example.com,+34 647 315 295,Madrid,Madrid,28046,verified,31,19766.08,2024-06-27
+170,CLI-0000170,Salomón Bárcena Canet,92653830D,1985-08-25,,+34 607 248 787,Alcorcón,Madrid,28016,verified,36,56242.81,2007-10-05
+171,CLI-0000171,Rafa Landa Palacios,19860999Q,1997-09-08,rafa.landa@example.com,+34 730 669 647,Madrid,Madrid,28005,verified,61,22727.69,2008-11-26
+172,CLI-0000172,Valeria Martirio Zaragoza Arnal,15124524T,1970-10-25,valeria.martirio@example.com,+34 663 922 847,Madrid,Madrid,28003,verified,17,10852.00,2015-08-07
+173,CLI-0000173,Josefa del Ferrer,51673091A,1991-12-12,josefa.del@example.com,+34 752 455 941,Barcelona,Barcelona,08034,verified,43,,2019-10-26
+174,CLI-0000174,Yaiza Trillo Llorente,33817880Z,1997-10-06,yaiza.trillo@example.com,+34 710 190 721,Barcelona,Barcelona,08080,expired,52,,2013-06-04
+175,CLI-0000175,Mirta Teodora Sevilla Cepeda,63365484R,1976-04-06,mirta.teodora@example.com,+34 654 228 343,Ourense,Ourense,32024,verified,16,20898.59,2006-03-22
+176,CLI-0000176,Ligia Caballero Costa,02734417Q,1965-02-09,ligia.caballero@example.com,+34 613 392 650,Valencia,Valencia,46040,verified,18,15102.45,2021-04-03
+177,CLI-0000177,Graciano Espinosa,76588160T,1953-10-09,graciano.espinosa@example.com,+34 676 688 275,Pamplona,Navarra,31074,verified,48,44517.22,2013-09-23
+178,CLI-0000178,Emiliana del Coca,14411053N,1951-09-14,emiliana.del@example.com,+34 668 501 116,Valladolid,Valladolid,47066,verified,36,,2017-09-20
+179,CLI-0000179,María Juan Carlos Lillo Marqués,25025651H,2007-11-30,maria.juan@example.com,+34 642 809 685,Lleida,Lleida,25019,expired,51,,2009-08-06
+180,CLI-0000180,Teo Juan Carlos Zabaleta Chamorro,60898579F,1978-12-10,teo.juan@example.com,+34 653 606 674,Bilbao,Bizkaia,48037,verified,39,23514.23,2022-12-27
+181,CLI-0000181,Cecilia de Verdejo,46997856R,1963-02-20,cecilia.de@example.com,+34 693 036 844,Zaragoza,Zaragoza,50033,verified,37,23320.27,2011-03-16
+182,CLI-0000182,Cecilio Corominas Carro,38712563K,1957-08-21,cecilio.corominas@example.com,+34 662 578 694,Madrid,Madrid,28012,verified,37,30407.72,2019-01-03
+183,CLI-0000183,Pilar Ojeda Iborra,29157192T,1955-01-30,pilar.ojeda@example.com,+34 724 762 525,Melilla,Melilla,52011,pending,69,19422.93,2024-09-15
+184,CLI-0000184,Elpidio Efraín Reyes Lucena,59823647A,1970-07-17,,+34 718 824 936,Cádiz,Cádiz,11049,verified,73,20695.24,2022-03-28
+185,CLI-0000185,Camilo Iriarte Morán,21435901Q,1994-04-24,camilo.iriarte@example.com,+34 658 857 956,Teruel,Teruel,44030,verified,45,41108.11,2016-12-07
+186,CLI-0000186,Tania Riba Tudela,61226100P,1982-03-16,tania.riba@example.com,+34 669 992 690,Zaragoza,Zaragoza,50016,verified,90,,2005-07-17
+187,CLI-0000187,Rafaela Andreu,33767734P,1990-01-12,rafaela.andreu@example.com,+34 647 905 479,Terrassa,Barcelona,08056,verified,65,30409.73,2012-10-26
+188,CLI-0000188,Pepito Cámara-Soler,03468430F,1980-12-01,pepito.camara-soler@example.com,+34 679 476 604,Granada,Granada,18060,verified,63,20273.66,2006-12-06
+189,CLI-0000189,Nidia Nuñez Bravo,27266794H,1940-06-14,nidia.nunez@example.com,+34 687 840 512,Madrid,Madrid,28070,verified,53,25512.92,2009-05-28
+190,CLI-0000190,Diego Iñiguez Doménech,02546166C,1968-04-07,diego.iniguez@example.com,+34 655 499 185,Málaga,Málaga,29029,verified,62,21814.05,2011-09-17
+191,CLI-0000191,Clotilde Pozo Gabaldón,98021401R,1998-03-26,clotilde.pozo@example.com,+34 776 639 697,Madrid,Madrid,28073,verified,62,23256.69,2015-07-02
+192,CLI-0000192,Severino Vega Reina,05579169J,2003-02-07,severino.vega@example.com,+34 651 022 179,Guadalajara,Guadalajara,19035,verified,37,29194.72,2009-05-09
+193,CLI-0000193,Jordana Artigas Porta,20878947F,2007-10-05,jordana.artigas@example.com,+34 656 068 975,Tarragona,Tarragona,43058,verified,19,,2011-09-24
+194,CLI-0000194,Angelina Encarnita Espada Cuéllar,17875602W,1987-03-16,angelina.encarnita@example.com,+34 624 976 537,Vitoria-Gasteiz,Álava,01018,verified,60,41708.46,2016-03-18
+195,CLI-0000195,Salomón Alfaro Roma,17207443Q,1976-02-25,salomon.alfaro@example.com,+34 759 393 815,Sevilla,Sevilla,41033,verified,65,24047.67,2013-10-06
+196,CLI-0000196,Antonia Frías Pereira,15543804J,1999-07-23,antonia.frias@example.com,+34 686 471 327,San Sebastián,Gipuzkoa,20080,verified,69,21236.90,2013-11-05
+197,CLI-0000197,Florinda Ibáñez Cuéllar,01771885B,1975-10-26,florinda.ibanez@example.com,+34 781 032 532,Barcelona,Barcelona,08005,verified,74,20046.62,2015-04-30
+198,CLI-0000198,Reynaldo del Ferrán,48576040V,1966-10-17,reynaldo.del@example.com,+34 664 686 306,Madrid,Madrid,28053,verified,55,19198.41,2011-02-03
+199,CLI-0000199,Mario Valero Zamorano,74817804T,1975-12-06,mario.valero@example.com,+34 653 037 989,Madrid,Madrid,28037,verified,39,70104.89,2010-04-11
+200,CLI-0000200,Modesta Martí Fortuny,55181642L,1958-06-04,modesta.marti@example.com,+34 602 171 266,Alicante,Alicante,03049,verified,38,18560.04,2024-06-06
+201,CLI-0000201,Griselda del Sacristán,59833564F,1985-04-02,griselda.del3@example.com,+34 752 843 965,Ourense,Ourense,32066,verified,61,,2012-01-04
+202,CLI-0000202,Ileana Bayón Rivero,87192438J,1974-09-06,ileana.bayon@example.com,+34 765 032 081,Barcelona,Barcelona,08020,verified,48,25290.02,2012-07-09
+203,CLI-0000203,Jose Ramón Matas Jordán,21238523R,2007-12-07,jose.ramon@example.com,+34 628 607 028,Zaragoza,Zaragoza,50004,verified,55,10955.15,2011-05-12
+204,CLI-0000204,Arcelia Paredes Villalobos,85028475M,1974-11-08,arcelia.paredes@example.com,+34 679 254 810,Las Palmas de Gran Canaria,Las Palmas,35002,verified,5,73565.22,2017-05-03
+205,CLI-0000205,Aurelia de Estrada,53454322E,2007-09-15,aurelia.de@example.com,+34 618 746 811,Elche,Alicante,03046,verified,47,21476.54,2024-09-29
+206,CLI-0000206,Javiera Lucena Múgica,21560889E,1978-04-09,javiera.lucena@example.com,+34 725 836 589,Vigo,Pontevedra,36041,verified,56,,2011-02-13
+207,CLI-0000207,Celia Bayón,81930884P,2007-09-26,celia.bayon@example.com,+34 678 091 648,Salamanca,Salamanca,37022,verified,63,,2023-02-10
+208,CLI-0000208,Maristela de Acuña,27780354B,1993-02-16,,+34 751 141 429,Santander,Cantabria,39074,verified,40,15564.72,2012-06-08
+209,CLI-0000209,Perlita Camps Lamas,70785233L,1994-12-05,perlita.camps@example.com,+34 646 229 796,Cádiz,Cádiz,11040,expired,40,,2023-11-21
+210,CLI-0000210,Jose Miguel Martin Menéndez Gordillo,41801121R,1997-11-25,jose.miguel@example.com,+34 754 533 144,Terrassa,Barcelona,08049,verified,40,9000.00,2010-03-20
+211,CLI-0000211,Eusebio Seguí-Sanabria,13137137C,1967-05-30,eusebio.segui-sanabria@example.com,+34 624 423 357,Teruel,Teruel,44074,verified,66,,2007-03-01
+212,CLI-0000212,Marco Cordero Pont,38621445Y,1952-02-16,marco.cordero@example.com,+34 655 236 710,Palma,Baleares,07057,verified,54,20224.41,2017-09-02
+213,CLI-0000213,Alma Baeza Batalla,96444531B,1965-09-20,alma.baeza4@example.com,+34 709 540 317,Badajoz,Badajoz,06068,verified,30,28571.69,2011-04-21
+214,CLI-0000214,Serafina Luján Palomo,53700691S,1994-08-13,serafina.lujan@example.com,+34 610 198 855,Madrid,Madrid,28071,verified,51,,2022-07-01
+215,CLI-0000215,Blas Valero Expósito Rincón,96578393J,1981-02-06,blas.valero@example.com,+34 799 981 631,Valencia,Valencia,46073,verified,66,16741.96,2009-02-13
+216,CLI-0000216,Belen Yáñez-Vazquez,77067135T,1971-02-10,belen.yanez-vazquez@example.com,+34 651 411 558,Valencia,Valencia,46019,verified,24,21997.37,2021-11-27
+217,CLI-0000217,Antonia Merino-Ortega,76035272D,1995-09-21,antonia.merino-ortega@example.com,+34 702 306 453,Zaragoza,Zaragoza,50049,verified,25,39995.17,2012-11-01
+218,CLI-0000218,Graciana del Seguí,20564281G,1992-11-04,graciana.del@example.com,+34 634 981 770,Bilbao,Bizkaia,48020,verified,55,,2015-08-21
+219,CLI-0000219,Gabino Alcántara Pinto,89011600J,1953-10-21,gabino.alcantara@example.com,+34 675 625 158,Barcelona,Barcelona,08033,verified,6,53748.44,2014-11-05
+220,CLI-0000220,Blanca Escrivá Guardia,80442553F,1992-07-01,blanca.escriva@example.com,+34 612 099 583,Madrid,Madrid,28056,verified,44,38376.60,2011-08-10
+221,CLI-0000221,Germán Jara Vallejo,96404008Z,1966-11-23,german.jara@example.com,+34 628 730 608,Barcelona,Barcelona,08010,verified,46,23640.36,2014-03-09
+222,CLI-0000222,Cruz Cerezo-Galvez,11778730Q,2007-01-31,cruz.cerezo-galvez@example.com,+34 791 764 405,Alicante,Alicante,03062,verified,58,,2019-12-28
+223,CLI-0000223,Amaro Toño Quero Rosell,22767511H,1963-01-30,amaro.tono@example.com,+34 609 075 291,Sevilla,Sevilla,41079,verified,33,,2020-11-30
+224,CLI-0000224,Marcia Domínguez Miró,76773097V,1992-02-03,marcia.dominguez@example.com,+34 752 622 209,Jerez de la Frontera,Cádiz,11051,verified,41,25056.83,2010-10-15
+225,CLI-0000225,Fortunato Carlos Seguí,62561452A,2007-03-24,fortunato.carlos@example.com,+34 768 271 938,Santander,Cantabria,39073,verified,45,48502.40,2021-07-23
+226,CLI-0000226,Rosalinda Mascaró Domingo,68871817L,1983-12-13,rosalinda.mascaro@example.com,+34 712 503 573,Zaragoza,Zaragoza,50077,verified,13,40639.25,2011-01-18
+227,CLI-0000227,Adelaida Agullo Mora,34872948A,1999-02-01,adelaida.agullo4@example.com,+34 715 649 540,Madrid,Madrid,28027,verified,56,43658.45,2017-03-01
+228,CLI-0000228,Xiomara Ayuso Dominguez,52126027T,1971-08-12,xiomara.ayuso@example.com,+34 740 027 395,Valencia,Valencia,46019,verified,49,31208.91,2013-11-03
+229,CLI-0000229,Rosario Aguilera,39310844A,1987-05-26,rosario.aguilera@example.com,+34 618 085 268,Las Palmas de Gran Canaria,Las Palmas,35055,verified,60,23030.91,2014-01-30
+230,CLI-0000230,Ofelia del Ibarra,28721251R,1977-02-25,ofelia.del@example.com,+34 620 311 203,Palencia,Palencia,34002,verified,41,,2011-01-29
+231,CLI-0000231,Eugenia Madrigal,79479198F,1985-04-14,,+34 781 189 223,Valencia,Valencia,46021,verified,10,10682.41,2006-10-24
+232,CLI-0000232,Amando Cortes Planas,75384674N,1978-05-01,amando.cortes@example.com,+34 713 581 349,Las Palmas de Gran Canaria,Las Palmas,35014,verified,30,30089.09,2014-04-15
+233,CLI-0000233,Anita de Hurtado,35515903Q,1974-01-04,anita.de@example.com,+34 790 717 698,Huelva,Huelva,21031,verified,41,21224.78,2024-12-09
+234,CLI-0000234,Aránzazu Amorós Blázquez,26822052G,2007-03-29,aranzazu.amoros@example.com,+34 660 065 075,Badajoz,Badajoz,06052,pending,23,21594.20,2023-12-10
+235,CLI-0000235,Albert Pío Chaparro Martín,40500438Z,1980-06-25,albert.pio@example.com,+34 730 553 247,Ourense,Ourense,32027,verified,30,22263.09,2013-02-06
+236,CLI-0000236,José Manuel Jove Palau,16361947T,1965-12-30,jose.manuel@example.com,+34 626 478 003,Madrid,Madrid,28012,pending,35,38943.11,2018-04-08
+237,CLI-0000237,Julieta Mayoral Bauzà,34141998Q,1994-02-26,julieta.mayoral@example.com,+34 786 695 318,Ceuta,Ceuta,51062,verified,56,20131.99,2010-02-01
+238,CLI-0000238,Mauricio Llorens Sedano,39444059W,1975-04-07,mauricio.llorens@example.com,+34 627 283 687,Las Palmas de Gran Canaria,Las Palmas,35013,pending,69,29064.14,2006-06-17
+239,CLI-0000239,Eutropio Espejo-Canet,10771784X,1989-08-13,eutropio.espejo-canet4@example.com,+34 685 652 164,Sevilla,Sevilla,41068,verified,37,,2014-05-29
+240,CLI-0000240,Azeneth Cloe Cabo Arana,76020279N,2007-08-16,azeneth.cloe7@example.com,+34 710 898 906,L'Hospitalet de Llobregat,Barcelona,08001,verified,1,17457.21,2006-05-26
+241,CLI-0000241,Ernesto Noriega Gil,94884010V,1984-10-17,ernesto.noriega@example.com,+34 788 005 119,Madrid,Madrid,28063,verified,71,,2016-11-18
+242,CLI-0000242,Alba Piñeiro-Tormo,86558621F,1983-07-02,alba.pineiro-tormo@example.com,+34 642 008 637,Bilbao,Bizkaia,48038,verified,29,32429.90,2024-07-23
+243,CLI-0000243,Tania Padilla Sales,44063103W,2007-06-09,tania.padilla@example.com,+34 772 905 659,Zaragoza,Zaragoza,50008,expired,42,,2017-04-21
+244,CLI-0000244,Gracia Amat Zabaleta,29297331T,1948-06-14,gracia.amat@example.com,+34 684 907 628,Madrid,Madrid,28042,verified,53,39479.16,2009-09-24
+245,CLI-0000245,Francisco Jose Garay,68704132G,1971-04-07,francisco.jose@example.com,+34 611 542 312,Barcelona,Barcelona,08030,expired,69,,2010-05-18
+246,CLI-0000246,Celia Aragón Nogués,98999545R,1987-02-25,celia.aragon@example.com,+34 600 334 090,Jerez de la Frontera,Cádiz,11076,verified,44,52049.63,2013-04-12
+247,CLI-0000247,Santiago Jódar Valenciano,55024818D,1969-05-02,santiago.jodar@example.com,+34 655 981 564,Murcia,Murcia,30062,verified,42,34294.06,2005-03-31
+248,CLI-0000248,Asunción Valdés Mendizábal,10883334X,1972-04-18,asuncion.valdes@example.com,+34 622 960 078,Sabadell,Barcelona,08067,verified,53,,2023-12-18
+249,CLI-0000249,Telmo Morante Peralta,79361884Q,1987-03-29,telmo.morante@example.com,+34 654 883 143,Valencia,Valencia,46018,verified,3,80283.67,2015-03-04
+250,CLI-0000250,Casandra de Barragán,64344403V,1960-05-26,casandra.de@example.com,+34 626 115 246,Málaga,Málaga,29063,verified,40,52663.21,2020-03-09
+251,CLI-0000251,Baltasar Cebrián Crespi Calderón,59435631C,1993-10-07,baltasar.cebrian@example.com,+34 756 547 697,Las Palmas de Gran Canaria,Las Palmas,35002,verified,33,39014.20,2006-06-29
+252,CLI-0000252,Isabel Fuster,93041175B,1960-08-08,isabel.fuster@example.com,+34 723 321 593,Madrid,Madrid,28008,verified,43,14597.10,2006-12-28
+253,CLI-0000253,Feliciana Mir Farré,07025839Y,1992-04-29,feliciana.mir@example.com,+34 643 867 986,Madrid,Madrid,28008,verified,1,182517.30,2018-06-26
+254,CLI-0000254,Alcides Prado,57021211W,1955-12-22,alcides.prado@example.com,+34 620 842 940,Gijón,Asturias,33003,verified,33,20912.31,2009-04-18
+255,CLI-0000255,Valeria Barberá Redondo,98488906P,1958-01-11,valeria.barbera@example.com,+34 613 954 324,Elche,Alicante,03048,pending,83,17693.37,2019-07-24
+256,CLI-0000256,Eligio de Cerdá,38469534X,1983-02-10,eligio.de@example.com,+34 746 226 264,Elche,Alicante,03040,verified,41,38773.04,2013-04-22
+257,CLI-0000257,Enrique Mendoza-Rivero,19530205P,1981-07-12,enrique.mendoza-rivero@example.com,+34 795 129 770,Oviedo,Asturias,33032,verified,78,17690.11,2015-10-19
+258,CLI-0000258,Miguela Vilalta Grande,73999413H,1997-01-04,,+34 637 799 675,Sevilla,Sevilla,41027,verified,58,16459.15,2006-03-30
+259,CLI-0000259,Marciano Carro Buendía,41976051Q,2007-11-15,marciano.carro@example.com,+34 640 804 679,Valencia,Valencia,46040,verified,28,49462.37,2013-11-09
+260,CLI-0000260,Toni Lucas Herrera Ibañez,55551252L,1942-04-01,toni.lucas@example.com,+34 663 040 682,L'Hospitalet de Llobregat,Barcelona,08041,verified,59,23361.79,2012-11-06
+261,CLI-0000261,Nazaret Vizcaíno,33993261C,1962-03-30,nazaret.vizcaino@example.com,+34 700 821 085,Vigo,Pontevedra,36023,verified,1,82268.20,2019-10-07
+262,CLI-0000262,Alondra Sanabria Ramis,11960869H,1987-10-05,alondra.sanabria@example.com,+34 759 879 235,Barcelona,Barcelona,08011,verified,23,24664.94,2024-09-07
+263,CLI-0000263,Plinio Montaña Company,08877538K,1991-10-13,plinio.montana3@example.com,+34 602 932 083,Tarragona,Tarragona,43001,verified,53,34976.71,2014-03-02
+264,CLI-0000264,Florentina de Álvarez,54117991A,1997-04-03,florentina.de8@example.com,+34 721 739 826,Las Palmas de Gran Canaria,Las Palmas,35018,verified,49,12091.00,2014-02-08
+265,CLI-0000265,Blas Contreras Ferrándiz,86010604B,2007-03-12,blas.contreras@example.com,+34 652 625 519,Vigo,Pontevedra,36033,verified,34,63107.29,2010-08-23
+266,CLI-0000266,Rosalina Figueras Vall,50241962A,2000-09-23,rosalina.figueras@example.com,+34 665 732 033,Vigo,Pontevedra,36060,verified,71,38209.26,2024-10-05
+267,CLI-0000267,Juanita Gimenez Ochoa,95647274A,1983-01-09,juanita.gimenez@example.com,+34 615 377 465,Madrid,Madrid,28049,verified,45,24740.51,2007-12-03
+268,CLI-0000268,Benjamín Macias Blazquez,05920567E,1985-04-27,benjamin.macias@example.com,+34 767 894 373,Jerez de la Frontera,Cádiz,11035,verified,55,20838.14,2020-12-07
+269,CLI-0000269,Simón Martín Milla,17176438S,1985-01-16,simon.martin@example.com,+34 661 170 251,Guadalajara,Guadalajara,19046,verified,33,54207.54,2023-10-22
+270,CLI-0000270,Lola Soler Goicoechea,26338366P,1985-08-19,lola.soler@example.com,+34 686 977 319,Zaragoza,Zaragoza,50056,verified,58,,2007-09-08
+271,CLI-0000271,María Manuela Fortuny Hurtado,82178836C,1973-03-07,maria.manuela@example.com,+34 781 594 305,L'Hospitalet de Llobregat,Barcelona,08076,verified,42,17918.87,2016-01-01
+272,CLI-0000272,Noelia Barreda Higueras,82297751W,1968-08-05,noelia.barreda@example.com,+34 763 065 538,L'Hospitalet de Llobregat,Barcelona,08038,verified,42,21089.72,2023-11-16
+273,CLI-0000273,Ruy Simó,54665918R,1977-05-22,ruy.simo5@example.com,+34 607 965 290,Murcia,Murcia,30012,verified,27,16301.55,2018-01-28
+274,CLI-0000274,Anunciación Rosales,42038473Q,1977-03-20,anunciacion.rosales@example.com,+34 644 975 125,Barcelona,Barcelona,08049,verified,66,,2017-11-01
+275,CLI-0000275,Ricardo Campo Mateo,77622454F,1970-04-07,ricardo.campo@example.com,+34 657 880 334,Málaga,Málaga,29010,verified,39,9714.92,2020-07-02
+276,CLI-0000276,Hermenegildo Vizcaíno Reguera,37495363G,1977-09-19,hermenegildo.vizcaino@example.com,+34 605 906 474,Valencia,Valencia,46050,verified,33,27540.45,2013-04-23
+277,CLI-0000277,Juan Luis Girona,80999382Y,1972-05-07,juan.luis@example.com,+34 682 505 454,Ávila,Ávila,05059,verified,29,,2015-01-06
+278,CLI-0000278,Reyes Maza Casals,13944526V,1984-07-31,reyes.maza5@example.com,+34 789 472 468,Alicante,Alicante,03017,verified,53,14551.58,2019-06-27
+279,CLI-0000279,Amalia Alcalá Arana,49353549B,1961-10-17,amalia.alcala9@example.com,+34 681 101 338,L'Hospitalet de Llobregat,Barcelona,08050,verified,36,,2018-02-21
+280,CLI-0000280,Anastasia del Carbonell,36551269Z,1956-02-03,anastasia.del@example.com,+34 681 849 032,L'Hospitalet de Llobregat,Barcelona,08059,verified,62,32630.46,2019-10-08
+281,CLI-0000281,Teobaldo Velázquez Carbó,54460136T,1963-04-27,teobaldo.velazquez@example.com,+34 655 170 404,Zaragoza,Zaragoza,50064,verified,44,,2020-09-06
+282,CLI-0000282,Mauricio Avilés Nogués,46395818B,2005-09-15,mauricio.aviles@example.com,+34 695 303 136,Málaga,Málaga,29078,verified,63,18996.11,2023-03-31
+283,CLI-0000283,Benigna Colom Montaña,98300592H,1974-09-10,benigna.colom@example.com,+34 777 354 898,Jerez de la Frontera,Cádiz,11056,pending,40,35537.91,2021-07-07
+284,CLI-0000284,Carmela Segura Cabello,95580441P,1985-03-21,carmela.segura@example.com,+34 797 753 998,Valencia,Valencia,46029,pending,41,17314.38,2009-03-19
+285,CLI-0000285,Vanesa Ruano Llopis,71227104Z,1961-03-04,vanesa.ruano@example.com,+34 607 369 338,Murcia,Murcia,30029,pending,47,16862.02,2005-05-18
+286,CLI-0000286,Roberto Gordillo Aznar,31943820V,1975-01-05,roberto.gordillo@example.com,+34 769 556 277,Madrid,Madrid,28023,verified,56,17850.34,2013-03-30
+287,CLI-0000287,Mauricio Sanmartín Sanabria,50615599M,1990-10-30,mauricio.sanmartin@example.com,+34 699 046 223,Teruel,Teruel,44074,verified,62,10068.77,2007-03-30
+288,CLI-0000288,Gregorio Ros,65276219B,1992-10-09,gregorio.ros5@example.com,+34 735 667 563,Getafe,Madrid,28020,verified,75,18071.64,2010-01-27
+289,CLI-0000289,Delfina Dávila Lastra,25706819H,1966-01-12,delfina.davila@example.com,+34 786 838 937,Barcelona,Barcelona,08074,verified,63,11075.87,2015-06-23
+290,CLI-0000290,Montserrat Haydée Bernat Moliner,87727893M,1987-09-18,montserrat.haydee@example.com,+34 680 888 858,Alcorcón,Madrid,28071,verified,58,13596.12,2021-04-05
+291,CLI-0000291,Irma Céspedes Coca,56175547W,1948-05-10,irma.cespedes@example.com,+34 677 741 322,Elche,Alicante,03066,verified,56,21607.02,2023-01-13
+292,CLI-0000292,Lorenza de Castell,47774481P,1958-04-08,lorenza.de@example.com,+34 635 237 340,Zaragoza,Zaragoza,50002,verified,28,60188.61,2016-02-29
+293,CLI-0000293,Amelia Rafaela Pedro Méndez,80461737D,1961-02-14,amelia.rafaela@example.com,+34 600 234 613,Alicante,Alicante,03021,verified,29,33510.60,2018-09-08
+294,CLI-0000294,Agustín Trujillo Jaume,73968636S,1933-04-08,agustin.trujillo@example.com,+34 640 749 841,Valencia,Valencia,46030,expired,15,59492.24,2024-04-17
+295,CLI-0000295,Danilo Amores Espinosa,85825714H,1986-04-22,danilo.amores@example.com,+34 729 542 089,Pamplona,Navarra,31016,verified,67,28286.07,2019-01-30
+296,CLI-0000296,Jose Luis Cuevas Luís,81497920L,1999-08-09,jose.luis@example.com,+34 632 583 081,Cádiz,Cádiz,11073,verified,53,16882.32,2016-06-18
+297,CLI-0000297,Lupe Barroso Sabater,45991698R,2003-07-15,lupe.barroso@example.com,+34 653 677 247,L'Hospitalet de Llobregat,Barcelona,08033,verified,70,41624.83,2013-12-14
+298,CLI-0000298,Ildefonso Bosch Cabezas,07825471C,1974-05-31,ildefonso.bosch@example.com,+34 617 864 831,Cartagena,Murcia,30032,verified,24,,2013-04-15
+299,CLI-0000299,Javi Abad Villalba,28941225A,1963-02-20,javi.abad@example.com,+34 701 549 517,Jerez de la Frontera,Cádiz,11020,verified,31,32777.29,2016-07-05
+300,CLI-0000300,Verónica Cisneros Murcia,21288974J,2004-10-08,,+34 615 025 329,Cartagena,Murcia,30001,verified,78,16672.31,2007-05-26
+301,CLI-0000301,Javi Juan Bauzà León,35447715T,1980-08-18,javi.juan@example.com,+34 606 070 632,Madrid,Madrid,28057,verified,38,18833.43,2023-08-28
+302,CLI-0000302,Diana Múñiz Araujo,05961397G,1969-01-19,diana.muniz@example.com,+34 681 210 719,Almería,Almería,04022,verified,56,,2024-04-03
+303,CLI-0000303,Juan Luis de Parejo,85474024K,1988-09-22,juan.luis@example.com,+34 750 016 970,Madrid,Madrid,28054,verified,11,26753.90,2022-05-13
+304,CLI-0000304,Dulce Quero Lobo,37890497K,1995-10-09,dulce.quero2@example.com,+34 665 818 444,Barcelona,Barcelona,08053,verified,37,,2015-05-20
+305,CLI-0000305,Claudio Ibáñez Tomás,96056413H,1964-12-02,claudio.ibanez@example.com,+34 661 318 766,Madrid,Madrid,28023,expired,91,20313.35,2013-02-07
+306,CLI-0000306,Reyna Lobo Amador,85986959X,1965-01-18,reyna.lobo@example.com,+34 766 122 075,A Coruña,A Coruña,15068,verified,49,21064.22,2017-01-12
+307,CLI-0000307,Aurora del García,00125273S,1976-05-30,aurora.del@example.com,+34 721 922 796,Valencia,Valencia,46015,verified,58,13879.46,2009-01-12
+308,CLI-0000308,Balduino Gámez Dalmau,46865745W,1988-01-20,balduino.gamez@example.com,+34 698 018 338,L'Hospitalet de Llobregat,Barcelona,08024,verified,39,,2014-01-22
+309,CLI-0000309,Geraldo Vallejo Anglada,82428142Y,1992-03-25,geraldo.vallejo@example.com,+34 633 862 404,Palma,Baleares,07051,verified,44,24811.36,2008-02-06
+310,CLI-0000310,Diana Castañeda-Escrivá,77713261X,1986-02-02,diana.castaneda-escriva@example.com,+34 786 010 493,Ávila,Ávila,05015,verified,32,13661.54,2013-07-26
+311,CLI-0000311,Rosa Martorell Arnal,41126387H,1997-11-05,rosa.martorell@example.com,+34 706 711 441,Ourense,Ourense,32045,verified,48,19222.25,2022-05-04
+312,CLI-0000312,Domitila Nebot Olmedo,91181220C,1988-12-13,domitila.nebot@example.com,+34 681 513 735,Cartagena,Murcia,30041,verified,57,28626.72,2022-01-25
+313,CLI-0000313,Marcia Bello Ugarte,03938215V,1976-02-02,marcia.bello@example.com,+34 758 035 866,Valladolid,Valladolid,47066,verified,48,,2015-02-28
+314,CLI-0000314,Jose Manuel Ros Pombo,19055627N,2000-10-22,jose.manuel@example.com,+34 613 493 108,Barcelona,Barcelona,08043,verified,14,26609.75,2008-12-14
+315,CLI-0000315,Ruperto Gual,03926048V,1982-12-06,ruperto.gual@example.com,+34 741 105 736,A Coruña,A Coruña,15076,verified,1,28687.23,2016-09-13
+316,CLI-0000316,Marisela Robledo-Orozco,57897889N,1969-01-20,marisela.robledo-orozco@example.com,+34 687 156 120,Madrid,Madrid,28019,pending,40,19000.68,2018-01-31
+317,CLI-0000317,Juan Manuel de Carballo,95761405P,1985-03-24,juan.manuel@example.com,+34 789 467 630,Cartagena,Murcia,30015,verified,45,,2015-11-30
+318,CLI-0000318,Maite Morera-Montaña,04604265X,1987-03-19,maite.morera-montana@example.com,+34 656 721 602,Zaragoza,Zaragoza,50043,verified,61,49017.60,2013-08-05
+319,CLI-0000319,Fito Ordóñez Canals,65981343R,1982-10-18,fito.ordonez@example.com,+34 786 784 952,Gijón,Asturias,33052,verified,65,,2010-04-17
+320,CLI-0000320,Aitor Pineda,05523305Q,1966-06-15,aitor.pineda@example.com,+34 697 597 929,Vitoria-Gasteiz,Álava,01014,verified,51,45161.79,2010-09-01
+321,CLI-0000321,Calista Báez Noriega,21904303T,1983-12-08,calista.baez2@example.com,+34 763 229 199,Madrid,Madrid,28037,verified,50,30470.67,2007-12-30
+322,CLI-0000322,Cristian Barroso,87817517K,1994-07-05,cristian.barroso@example.com,+34 633 152 567,Salamanca,Salamanca,37020,expired,79,15989.80,2013-08-07
+323,CLI-0000323,Juanita Camacho Plaza,27512967E,1996-07-27,juanita.camacho@example.com,+34 726 325 419,Salamanca,Salamanca,37005,expired,94,,2022-09-02
+324,CLI-0000324,Irma Serna Jordá,48601370R,1970-12-05,irma.serna@example.com,+34 697 396 450,A Coruña,A Coruña,15036,verified,74,17446.13,2008-01-18
+325,CLI-0000325,Mireia Piñol Luján,25080041J,1973-06-04,mireia.pinol@example.com,+34 686 304 760,Zaragoza,Zaragoza,50049,pending,42,46635.48,2023-01-31
+326,CLI-0000326,Mariana del Crespo,08619412R,1989-04-25,mariana.del@example.com,+34 781 371 658,Madrid,Madrid,28029,verified,73,24254.71,2015-11-19
+327,CLI-0000327,Isa de Gámez,01122788C,1970-01-26,isa.de@example.com,+34 643 131 699,Madrid,Madrid,28074,verified,63,14196.88,2015-12-21
+328,CLI-0000328,Abril Dueñas Méndez,36757148C,1989-08-13,abril.duenas@example.com,+34 607 233 156,Lugo,Lugo,27066,verified,48,11226.71,2020-06-13
+329,CLI-0000329,Rafael Manjón Arce,88611202E,1969-07-09,rafael.manjon@example.com,+34 619 206 083,Girona,Girona,17024,pending,64,14980.51,2015-06-12
+330,CLI-0000330,Apolonia Feijoo Cuevas,34228910B,1987-11-24,apolonia.feijoo8@example.com,+34 600 826 353,Vitoria-Gasteiz,Álava,01014,verified,44,10533.95,2021-08-16
+331,CLI-0000331,Humberto Contreras-Pomares,70303614C,1976-04-09,humberto.contreras-pomares@example.com,+34 609 336 634,Granada,Granada,18043,verified,59,,2024-02-28
+332,CLI-0000332,Camila Elba Gibert Perea,38159122Y,1989-11-29,camila.elba@example.com,+34 648 315 507,Getafe,Madrid,28027,verified,44,20873.02,2010-12-08
+333,CLI-0000333,Rubén Benito Gálvez,14657537M,1990-04-28,ruben.benito@example.com,+34 604 345 607,Málaga,Málaga,29076,verified,47,31163.71,2017-02-06
+334,CLI-0000334,José María Barriga Narváez,49002675W,1964-07-17,jose.maria@example.com,+34 627 491 459,Barcelona,Barcelona,08059,verified,37,29971.45,2007-05-05
+335,CLI-0000335,Plácido Paz Arce,17217353J,1957-10-31,placido.paz@example.com,+34 686 554 417,Vigo,Pontevedra,36015,verified,30,28746.67,2017-04-16
+336,CLI-0000336,Marisela del Almagro,32395362T,1964-08-21,marisela.del@example.com,+34 736 441 373,Madrid,Madrid,28066,verified,64,27249.84,2021-04-29
+337,CLI-0000337,Odalys Ballesteros Barrios,58872348F,1991-10-18,odalys.ballesteros@example.com,+34 681 561 077,Madrid,Madrid,28022,verified,61,26961.28,2016-07-21
+338,CLI-0000338,Perla Osuna Montesinos,51293287K,1957-10-21,perla.osuna@example.com,+34 786 999 813,Málaga,Málaga,29060,expired,33,13604.55,2012-08-09
+339,CLI-0000339,Albano Chacón Pagès,08967691Z,1965-06-22,albano.chacon@example.com,+34 652 460 581,Madrid,Madrid,28006,verified,34,33859.05,2019-07-18
+340,CLI-0000340,Anita Rebollo,52120055P,1966-05-05,anita.rebollo@example.com,+34 603 565 126,Getafe,Madrid,28064,verified,19,57519.94,2013-11-08
+341,CLI-0000341,María Manuela Peinado,71115344B,1990-12-31,maria.manuela@example.com,+34 778 236 985,Cádiz,Cádiz,11022,verified,42,15926.24,2023-09-15
+342,CLI-0000342,Calista Pazos-Escolano,03770696F,1966-02-10,calista.pazos-escolano@example.com,+34 794 004 737,Getafe,Madrid,28035,verified,58,52249.86,2012-11-28
+343,CLI-0000343,Casemiro Dimas Barroso Alemany,76767767T,1976-06-23,casemiro.dimas6@example.com,+34 793 235 071,Madrid,Madrid,28018,pending,71,26624.83,2021-01-29
+344,CLI-0000344,María Belén Perez-Anaya,94541171Q,1990-10-12,maria.belen@example.com,+34 636 733 806,Madrid,Madrid,28038,verified,29,36709.20,2014-08-02
+345,CLI-0000345,Calixta Morera-Feijoo,93795431M,1996-04-24,,+34 615 580 372,Las Palmas de Gran Canaria,Las Palmas,35043,verified,25,21678.25,2022-09-09
+346,CLI-0000346,Pastor Feijoo Páez,69128535B,1988-06-09,pastor.feijoo@example.com,+34 619 750 439,Barcelona,Barcelona,08060,verified,29,40384.48,2022-03-02
+347,CLI-0000347,Esmeralda Gómez,39855587Z,1972-05-11,esmeralda.gomez7@example.com,+34 683 120 074,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38010,verified,68,21932.17,2014-07-24
+348,CLI-0000348,África Bilbao Sainz,50236907P,1970-10-25,africa.bilbao2@example.com,+34 758 949 895,Albacete,Albacete,02050,verified,63,29436.66,2016-06-23
+349,CLI-0000349,Trini Herrera Marti,21347483X,1969-10-02,trini.herrera@example.com,+34 709 130 714,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38010,verified,80,21503.48,2007-12-22
+350,CLI-0000350,África Irene Barriga Landa,31260899N,1992-12-26,africa.irene@example.com,+34 741 671 828,Getafe,Madrid,28076,pending,77,10879.25,2007-03-02
+351,CLI-0000351,Débora Esparza Gallo,95129353L,2007-08-27,debora.esparza@example.com,+34 664 737 737,Valencia,Valencia,46029,verified,60,20106.89,2005-09-24
+352,CLI-0000352,Rebeca Verdugo Pazos,84596082N,1963-01-06,rebeca.verdugo@example.com,+34 672 895 204,Granada,Granada,18072,verified,56,43315.85,2006-04-18
+353,CLI-0000353,Inmaculada Olivares Clemente,53415971N,1993-01-30,inmaculada.olivares@example.com,+34 691 631 375,Sevilla,Sevilla,41017,verified,77,13302.99,2006-12-22
+354,CLI-0000354,Josep Iglesia-Ayuso,84850917F,1942-05-12,josep.iglesia-ayuso@example.com,+34 787 276 474,Madrid,Madrid,28056,verified,5,,2009-07-04
+355,CLI-0000355,Lorenzo Guerra-Iñiguez,71903284V,1963-12-01,lorenzo.guerra-iniguez5@example.com,+34 787 605 496,Barcelona,Barcelona,08029,verified,20,62847.30,2024-10-04
+356,CLI-0000356,Paola Jara Céspedes,29427932F,1989-11-13,paola.jara@example.com,+34 663 075 812,Madrid,Madrid,28049,verified,31,,2006-10-15
+357,CLI-0000357,Ceferino Viñas Castro,95795438R,2007-04-14,ceferino.vinas6@example.com,+34 619 395 437,Madrid,Madrid,28064,verified,50,36820.83,2018-11-30
+358,CLI-0000358,Ángel Roca Arenas,94703828V,1973-04-13,angel.roca@example.com,+34 688 204 921,Madrid,Madrid,28002,verified,23,21235.53,2015-06-13
+359,CLI-0000359,Isa Matas,45193863J,1959-03-23,isa.matas@example.com,+34 629 361 718,Vigo,Pontevedra,36071,verified,66,39397.29,2012-05-12
+360,CLI-0000360,Regina Barranco Segovia,72395376R,1980-02-04,regina.barranco@example.com,+34 642 795 713,Palma,Baleares,07059,verified,25,,2008-08-25
+361,CLI-0000361,Haydée Reyes Antón,20336143A,1969-08-23,haydee.reyes@example.com,+34 729 469 988,Almería,Almería,04067,verified,50,11616.61,2020-02-21
+362,CLI-0000362,Mamen Catalán Cid,36818605K,1977-06-04,mamen.catalan@example.com,+34 672 050 942,Terrassa,Barcelona,08028,verified,59,18612.40,2015-12-05
+363,CLI-0000363,Pablo Salmerón Bárcena,81537056D,1977-04-23,pablo.salmeron@example.com,+34 704 547 136,Almería,Almería,04035,verified,65,11714.99,2020-06-02
+364,CLI-0000364,Edgardo Múñiz Llopis,31874872T,2007-02-12,edgardo.muniz@example.com,+34 699 674 055,Valladolid,Valladolid,47011,verified,39,25323.62,2016-08-20
+365,CLI-0000365,Bonifacio Zapata Castelló,14832572X,1982-12-08,bonifacio.zapata@example.com,+34 739 064 951,Málaga,Málaga,29079,expired,28,44797.96,2021-07-05
+366,CLI-0000366,Horacio Leon Berenguer,77759986E,1964-11-24,horacio.leon@example.com,+34 629 898 523,Santander,Cantabria,39027,verified,24,40775.47,2010-10-29
+367,CLI-0000367,Carlos Gallardo Blanch,06799761H,1978-05-07,,+34 724 045 083,Málaga,Málaga,29041,verified,77,10192.56,2005-04-07
+368,CLI-0000368,Manuel Serra Iglesias,59933444K,2005-09-28,manuel.serra@example.com,+34 753 782 007,Zaragoza,Zaragoza,50017,verified,41,16581.72,2024-09-06
+369,CLI-0000369,Caridad Garcés Angulo,43169274E,1980-03-19,caridad.garces@example.com,+34 601 245 080,A Coruña,A Coruña,15037,expired,46,,2009-12-13
+370,CLI-0000370,Delfina Sierra-Valencia,99135816C,1977-03-23,delfina.sierra-valencia@example.com,+34 600 619 522,Huelva,Huelva,21075,verified,56,18533.65,2014-07-11
+371,CLI-0000371,Lucila del Guardia,00363033R,1993-11-08,lucila.del@example.com,+34 657 511 935,Santander,Cantabria,39041,expired,59,23226.67,2023-04-11
+372,CLI-0000372,Bibiana Sanmartín Recio,83029281V,1950-08-01,bibiana.sanmartin@example.com,+34 647 798 878,Castellón de la Plana,Castellón,12013,verified,50,35840.60,2010-04-11
+373,CLI-0000373,Narcisa Carpio Rebollo,28272097Z,2007-05-04,narcisa.carpio@example.com,+34 649 067 191,San Sebastián,Gipuzkoa,20028,pending,35,26285.08,2023-07-06
+374,CLI-0000374,Ana Sofía Tomé Leon,05089582G,1968-12-26,ana.sofia@example.com,+34 677 146 355,Zaragoza,Zaragoza,50063,verified,91,34983.49,2012-05-11
+375,CLI-0000375,José Antonio Rincón Cabello,78933143H,1972-11-10,jose.antonio@example.com,+34 626 848 164,Bilbao,Bizkaia,48030,verified,47,19115.37,2012-09-05
+376,CLI-0000376,Olimpia Ros Fuster,65405276S,2007-09-04,olimpia.ros@example.com,+34 744 029 100,Córdoba,Córdoba,14041,pending,53,30107.46,2008-03-10
+377,CLI-0000377,Emiliana Castillo Marquez,22686725P,2004-01-27,emiliana.castillo@example.com,+34 710 103 249,León,León,24060,verified,42,,2010-10-18
+378,CLI-0000378,Agustín Humberto Diego Somoza,17065438J,2007-03-19,agustin.humberto@example.com,+34 647 922 161,Barcelona,Barcelona,08012,verified,53,17834.00,2020-01-03
+379,CLI-0000379,Ceferino Pulido Vicens,63445382C,1972-01-17,ceferino.pulido@example.com,+34 630 911 156,Zaragoza,Zaragoza,50014,verified,54,24053.91,2012-04-10
+380,CLI-0000380,Paz Llabrés Escobar,78758436L,1992-11-04,paz.llabres@example.com,+34 662 247 652,Getafe,Madrid,28055,verified,63,18575.71,2006-09-07
+381,CLI-0000381,Yaiza Villena Atienza,89552139Y,1982-10-17,yaiza.villena@example.com,+34 737 134 838,Cuenca,Cuenca,16023,verified,65,22559.45,2021-02-16
+382,CLI-0000382,Ricarda Vázquez Vázquez,59548002J,1982-07-24,,+34 720 225 991,Las Palmas de Gran Canaria,Las Palmas,35023,verified,40,47822.07,2013-02-25
+383,CLI-0000383,Pascual Arnau Coronado,60618683K,2005-09-09,pascual.arnau@example.com,+34 678 795 908,Madrid,Madrid,28059,verified,22,48169.42,2007-04-05
+384,CLI-0000384,Marisela del Soler,15046600T,1992-12-27,marisela.del@example.com,+34 610 799 955,Zaragoza,Zaragoza,50022,pending,65,18891.41,2009-12-07
+385,CLI-0000385,Calixto de Aguilar,03306123B,1979-06-15,,+34 662 197 983,Málaga,Málaga,29007,pending,55,14199.19,2008-09-19
+386,CLI-0000386,Efraín Querol,33173780Y,1976-02-21,efrain.querol@example.com,+34 651 889 588,Madrid,Madrid,28027,verified,43,22992.81,2024-04-22
+387,CLI-0000387,Nacho Cobo Mendez,27866916R,1983-07-30,nacho.cobo@example.com,+34 638 804 251,A Coruña,A Coruña,15060,verified,17,,2011-01-29
+388,CLI-0000388,Jimena de Ródenas,36355836N,1975-04-08,jimena.de@example.com,+34 657 830 296,Murcia,Murcia,30023,verified,62,15002.06,2018-01-23
+389,CLI-0000389,Eloísa del Andreu,41169468C,1979-12-25,eloisa.del@example.com,+34 672 094 286,Madrid,Madrid,28011,verified,41,58819.09,2010-12-24
+390,CLI-0000390,Ileana Graciela Vidal Rosell,29922475G,1956-05-17,ileana.graciela@example.com,+34 673 096 738,Madrid,Madrid,28037,verified,47,,2013-04-10
+391,CLI-0000391,Teodosio Romero Lobo,16128691X,1957-07-03,teodosio.romero@example.com,+34 762 361 360,Barcelona,Barcelona,08076,expired,73,18391.26,2013-08-18
+392,CLI-0000392,Federico Cuevas Hierro,90827626M,2007-10-04,federico.cuevas@example.com,+34 604 886 727,Madrid,Madrid,28034,verified,81,,2010-07-07
+393,CLI-0000393,Loreto Lasa Pareja,75107593N,1974-04-16,loreto.lasa@example.com,+34 675 683 952,Teruel,Teruel,44069,verified,62,49789.91,2009-12-26
+394,CLI-0000394,Elpidio Izquierdo Galindo,49769613M,1995-08-10,elpidio.izquierdo@example.com,+34 605 369 296,Valladolid,Valladolid,47078,expired,61,41613.21,2012-01-11
+395,CLI-0000395,Nicolás de Lerma,86056271T,1979-04-09,nicolas.de@example.com,+34 627 294 132,Valladolid,Valladolid,47068,verified,54,22382.31,2012-01-04
+396,CLI-0000396,Pacífica Dominguez,72174741M,2002-06-13,pacifica.dominguez@example.com,+34 627 279 848,Madrid,Madrid,28064,verified,43,15894.37,2005-01-28
+397,CLI-0000397,Loida Carbonell Requena,98003666E,1966-12-18,loida.carbonell@example.com,+34 689 019 843,Madrid,Madrid,28056,verified,51,,2023-12-02
+398,CLI-0000398,Cebrián del Rodriguez,87082993W,1982-05-09,cebrian.del5@example.com,+34 634 450 320,Madrid,Madrid,28022,verified,42,31261.48,2017-11-15
+399,CLI-0000399,Evangelina Gras-Botella,20360776A,1982-12-07,evangelina.gras-botella@example.com,+34 648 822 135,Madrid,Madrid,28007,verified,59,13127.20,2009-05-28
+400,CLI-0000400,Victor Manuel Morera,59451633Z,1987-04-23,victor.manuel@example.com,+34 745 029 120,Granada,Granada,18032,verified,45,40781.13,2015-08-15
+401,CLI-0000401,Casandra Cañas,95993474F,1971-12-25,casandra.canas@example.com,+34 698 438 438,Cartagena,Murcia,30013,verified,73,18640.21,2005-06-27
+402,CLI-0000402,Edgardo Fuente Arce,11836451F,2003-03-17,edgardo.fuente@example.com,+34 646 233 773,Salamanca,Salamanca,37071,pending,57,,2014-09-01
+403,CLI-0000403,Andrea Pujol Ramírez,43524041Z,1980-07-08,andrea.pujol@example.com,+34 655 264 183,Madrid,Madrid,28017,expired,50,19144.94,2022-09-21
+404,CLI-0000404,Carmela del Tolosa,81230479E,1977-05-20,carmela.del@example.com,+34 758 201 707,Madrid,Madrid,28010,verified,64,17961.20,2020-02-10
+405,CLI-0000405,Débora Chelo Araujo Coloma,06525878L,1970-10-10,debora.chelo@example.com,+34 660 350 537,Zaragoza,Zaragoza,50014,pending,75,21727.19,2020-03-10
+406,CLI-0000406,Jenny Tomasa Barranco Boada,14493585C,1989-10-22,jenny.tomasa@example.com,+34 797 720 306,Valencia,Valencia,46016,expired,62,44132.24,2007-10-25
+407,CLI-0000407,Celestina Candelaria Gomez Polo,00041803N,1994-03-15,celestina.candelaria@example.com,+34 754 335 324,Valladolid,Valladolid,47059,verified,42,56565.87,2023-12-29
+408,CLI-0000408,Jose Carlos Dueñas,10401727T,1997-05-03,jose.carlos@example.com,+34 659 994 147,Ciudad Real,Ciudad Real,13047,verified,45,21574.28,2019-09-24
+409,CLI-0000409,Laura Roldan Murillo,33469899T,1978-04-25,laura.roldan@example.com,+34 608 093 523,Jaén,Jaén,23004,verified,1,31573.69,2019-10-11
+410,CLI-0000410,Íñigo Roura Amador,72763788E,1955-06-10,inigo.roura8@example.com,+34 680 484 470,Madrid,Madrid,28080,verified,88,23673.00,2018-09-18
+411,CLI-0000411,Caridad Reina Murillo,13671627J,1986-08-30,,+34 759 742 184,Madrid,Madrid,28012,verified,47,44003.66,2021-12-08
+412,CLI-0000412,Ariadna Mayol Garrido,13881089Z,1984-08-21,ariadna.mayol@example.com,+34 737 592 948,Barcelona,Barcelona,08071,verified,38,13417.05,2023-11-29
+413,CLI-0000413,Albino Amorós-Haro,40273358J,1984-03-22,albino.amoros-haro6@example.com,+34 686 092 974,Vitoria-Gasteiz,Álava,01037,verified,21,32873.35,2019-05-18
+414,CLI-0000414,Fabio Báez Navarrete,39551538W,1966-04-17,fabio.baez@example.com,+34 670 729 760,Madrid,Madrid,28039,verified,66,12980.74,2007-11-12
+415,CLI-0000415,Kike García-Carretero,88834006W,1976-02-14,kike.garcia-carretero@example.com,+34 759 163 031,Valencia,Valencia,46014,verified,8,44668.90,2017-10-06
+416,CLI-0000416,Adolfo Chuy Adán Castilla,40184570M,1981-11-28,adolfo.chuy@example.com,+34 649 460 340,Las Palmas de Gran Canaria,Las Palmas,35019,verified,42,,2021-03-03
+417,CLI-0000417,Simón de Fonseca,25616721B,1955-07-19,simon.de@example.com,+34 640 125 696,Zaragoza,Zaragoza,50057,verified,36,25639.26,2010-11-08
+418,CLI-0000418,Violeta Juárez Atienza,09374017E,1995-09-26,violeta.juarez@example.com,+34 607 310 160,Badalona,Barcelona,08044,verified,59,22793.07,2013-03-27
+419,CLI-0000419,Jose Luis Quero-Pi,76783064W,1968-01-22,,+34 721 063 681,Barcelona,Barcelona,08017,verified,51,,2018-08-08
+420,CLI-0000420,Paco del Leal,31687819Y,1972-10-02,paco.del@example.com,+34 638 209 887,Bilbao,Bizkaia,48070,verified,27,,2015-03-30
+421,CLI-0000421,Jose Carlos Carvajal Aragón,25314262W,1999-05-27,jose.carlos@example.com,+34 626 433 497,Vigo,Pontevedra,36003,verified,46,,2020-02-13
+422,CLI-0000422,Emilia Reig-Hernández,59604987G,1954-08-20,emilia.reig-hernandez@example.com,+34 637 844 710,Madrid,Madrid,28067,expired,53,35436.92,2018-05-20
+423,CLI-0000423,Jimena Espinosa Baeza,05259744N,1971-04-03,jimena.espinosa@example.com,+34 727 365 820,Jaén,Jaén,23077,verified,26,29994.30,2024-09-08
+424,CLI-0000424,Nicodemo Terrón,30113823S,1968-12-03,nicodemo.terron@example.com,+34 656 228 137,Zaragoza,Zaragoza,50055,verified,62,,2008-03-20
+425,CLI-0000425,Pili Rosa Ugarte,84521016H,1954-03-25,pili.rosa@example.com,+34 717 959 596,Sevilla,Sevilla,41005,verified,41,23876.55,2008-06-02
+426,CLI-0000426,Gustavo Sierra Campo,05073491J,1967-05-17,gustavo.sierra@example.com,+34 610 598 050,Oviedo,Asturias,33070,verified,45,18767.13,2020-11-13
+427,CLI-0000427,Rosendo Verdugo Arco,54534835H,1981-05-29,rosendo.verdugo@example.com,+34 768 750 042,Barcelona,Barcelona,08016,verified,11,,2015-07-01
+428,CLI-0000428,Nicodemo Simón Cervantes Crespi,38991654F,1983-02-27,nicodemo.simon@example.com,+34 620 519 030,Palma,Baleares,07018,verified,10,,2022-09-14
+429,CLI-0000429,Nazaret Bernat,70628752F,1992-04-28,,+34 751 813 872,Zamora,Zamora,49036,verified,50,20410.39,2023-11-06
+430,CLI-0000430,Clotilde Perez Caro,31317547B,1974-04-24,clotilde.perez@example.com,+34 613 037 090,Badalona,Barcelona,08048,verified,47,18820.85,2008-12-11
+431,CLI-0000431,Elpidio Patricio Manso Otero,07928802N,1961-04-26,elpidio.patricio@example.com,+34 715 477 252,Sevilla,Sevilla,41046,verified,67,31970.09,2017-08-05
+432,CLI-0000432,Alfonso Esteve,28595650A,2004-02-02,alfonso.esteve@example.com,+34 737 128 431,Badalona,Barcelona,08080,verified,67,24484.16,2009-09-11
+433,CLI-0000433,Luís Casares Carballo,85433999Q,2003-07-31,luis.casares@example.com,+34 613 581 240,Zaragoza,Zaragoza,50045,verified,16,56362.11,2005-10-23
+434,CLI-0000434,Yago Llamas Juliá,73449463K,1988-06-08,yago.llamas@example.com,+34 782 209 053,Vigo,Pontevedra,36052,verified,58,18075.64,2010-05-29
+435,CLI-0000435,Roxana Cantón-Riba,17527842W,1969-07-03,roxana.canton-riba@example.com,+34 655 080 217,Zaragoza,Zaragoza,50017,verified,87,32630.82,2018-12-18
+436,CLI-0000436,Jose Luis Salamanca Batlle,40949677V,1973-07-08,jose.luis@example.com,+34 653 408 785,Madrid,Madrid,28005,verified,50,18606.00,2015-03-30
+437,CLI-0000437,Elodia Crespo,59364746K,1944-08-18,elodia.crespo@example.com,+34 600 666 313,Zaragoza,Zaragoza,50061,verified,70,12086.10,2019-03-21
+438,CLI-0000438,Wilfredo Pinto Cifuentes,67657858T,1969-01-02,wilfredo.pinto@example.com,+34 690 085 863,L'Hospitalet de Llobregat,Barcelona,08047,verified,34,19798.47,2009-05-28
+439,CLI-0000439,Sarita Calleja-Rocamora,31831188Q,2001-11-08,sarita.calleja-rocamora@example.com,+34 668 918 787,Segovia,Segovia,40071,verified,11,,2019-01-12
+440,CLI-0000440,Gilberto Acosta Ripoll,65988791C,1982-06-12,gilberto.acosta@example.com,+34 613 276 753,Málaga,Málaga,29053,verified,55,31803.67,2013-03-29
+441,CLI-0000441,Florentina Balaguer-Cortina,95617515Y,1991-09-25,florentina.balaguer-cortina@example.com,+34 618 634 067,Ceuta,Ceuta,51022,pending,30,16952.72,2007-09-17
+442,CLI-0000442,Lorenzo Calvet Cuervo,88036605B,1955-08-20,lorenzo.calvet@example.com,+34 671 153 484,Badalona,Barcelona,08056,verified,33,21637.34,2016-06-04
+443,CLI-0000443,Yésica Córdoba Cárdenas,48079192S,1977-05-29,yesica.cordoba@example.com,+34 742 035 453,Albacete,Albacete,02046,verified,100,30308.77,2010-02-14
+444,CLI-0000444,Andrés Felipe Buendía Gárate,75024637V,1969-12-19,andres.felipe@example.com,+34 658 638 270,Alicante,Alicante,03029,verified,58,15854.74,2020-08-20
+445,CLI-0000445,Jenny Pulido Valero,70580008T,1964-12-02,,+34 750 799 586,Sevilla,Sevilla,41060,verified,72,19485.52,2023-08-29
+446,CLI-0000446,Calisto Cruz Piquer,31426264F,1962-04-22,calisto.cruz@example.com,+34 684 030 042,Murcia,Murcia,30028,verified,28,30932.42,2010-10-29
+447,CLI-0000447,Eva Pinedo Haro,95139735M,1933-06-13,eva.pinedo@example.com,+34 607 088 661,Las Palmas de Gran Canaria,Las Palmas,35029,pending,47,15007.52,2019-05-11
+448,CLI-0000448,Vanesa Sarabia Olivé,89589446F,1949-06-07,,+34 684 921 669,Barcelona,Barcelona,08073,verified,47,21799.93,2021-11-30
+449,CLI-0000449,Duilio Solana Calvet,83695424B,1999-10-09,,+34 619 756 819,Valencia,Valencia,46064,verified,49,41804.27,2016-12-09
+450,CLI-0000450,Juan Carlos Castejón Martínez,63942370R,1999-03-11,juan.carlos@example.com,+34 736 498 027,Sevilla,Sevilla,41052,verified,67,,2015-08-01
+451,CLI-0000451,Ramiro Ochoa,53036757E,1963-05-15,ramiro.ochoa@example.com,+34 790 988 150,Málaga,Málaga,29031,verified,63,26036.28,2019-02-05
+452,CLI-0000452,Virgilio Ferrero Enríquez,23988802D,1999-06-27,virgilio.ferrero@example.com,+34 781 745 126,Madrid,Madrid,28007,verified,55,26118.66,2005-06-17
+453,CLI-0000453,Emilio Lobato,66061901J,1986-08-05,emilio.lobato8@example.com,+34 746 909 517,Palma,Baleares,07011,verified,40,40897.38,2011-02-25
+454,CLI-0000454,Quirino Sáenz Galiano,55996739L,2001-02-17,quirino.saenz@example.com,+34 701 286 874,Barcelona,Barcelona,08054,verified,60,,2022-03-12
+455,CLI-0000455,Benita Nuria Jaume Guardiola,04497454B,1975-05-02,benita.nuria@example.com,+34 693 434 246,Oviedo,Asturias,33016,verified,42,,2019-04-21
+456,CLI-0000456,Feliciano Guzmán Pedro,12765575T,1971-11-13,,+34 767 449 479,Córdoba,Córdoba,14040,verified,68,31533.95,2007-06-28
+457,CLI-0000457,Maxi Codina Nogués,49601131K,1992-09-17,maxi.codina@example.com,+34 672 853 092,Murcia,Murcia,30073,verified,2,51877.26,2016-06-27
+458,CLI-0000458,Donato Frutos,87539714N,1935-07-27,donato.frutos@example.com,+34 610 864 590,Getafe,Madrid,28014,verified,23,20738.95,2024-12-16
+459,CLI-0000459,Eliseo Trinidad Figueroa Pulido,30642225S,1973-02-01,eliseo.trinidad@example.com,+34 600 813 542,Madrid,Madrid,28047,verified,76,51664.44,2013-12-20
+460,CLI-0000460,Samu Morcillo Roda,53951297J,1995-04-17,samu.morcillo@example.com,+34 600 739 816,Valencia,Valencia,46056,verified,86,40636.74,2005-02-17
+461,CLI-0000461,Petrona Perales,38207728J,1993-11-09,petrona.perales@example.com,+34 723 269 362,Gijón,Asturias,33043,verified,57,25698.39,2016-08-18
+462,CLI-0000462,Gregorio Bermejo Cobos,60001379Z,1978-05-30,gregorio.bermejo@example.com,+34 780 445 627,Madrid,Madrid,28008,verified,56,18179.80,2015-07-05
+463,CLI-0000463,Ignacio Cisneros Tolosa,17857784D,1988-05-12,ignacio.cisneros@example.com,+34 672 459 036,Barcelona,Barcelona,08051,verified,57,,2017-10-27
+464,CLI-0000464,Pepita Sedano Sainz,67056533X,1973-08-25,pepita.sedano@example.com,+34 789 750 485,Córdoba,Córdoba,14053,verified,35,26472.02,2016-11-09
+465,CLI-0000465,Paloma del Domingo,74100714G,2007-10-09,paloma.del@example.com,+34 667 095 909,Madrid,Madrid,28070,verified,30,94019.48,2009-01-24
+466,CLI-0000466,Pastora Rivero,69899395A,1975-09-16,pastora.rivero@example.com,+34 616 864 651,Segovia,Segovia,40056,expired,12,93642.33,2017-04-23
+467,CLI-0000467,Zacarías Juárez Santana,56505163M,1988-06-21,,+34 663 849 508,Sevilla,Sevilla,41058,verified,15,,2014-11-12
+468,CLI-0000468,Cándida Sosa,37106121Z,1972-01-11,candida.sosa4@example.com,+34 757 772 971,Madrid,Madrid,28045,expired,35,,2006-09-04
+469,CLI-0000469,Reyes Rico Sacristán Macías,67414620X,1976-06-12,reyes.rico@example.com,+34 774 497 804,Sevilla,Sevilla,41053,verified,43,23436.43,2007-09-16
+470,CLI-0000470,Aitor Dávila Estrada,11108920N,1964-03-31,aitor.davila2@example.com,+34 641 616 785,Madrid,Madrid,28080,verified,62,10552.66,2008-09-01
+471,CLI-0000471,Jose Francisco Guzman Yuste,14069452F,1989-05-16,jose.francisco@example.com,+34 618 398 204,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38053,pending,68,16065.38,2023-06-09
+472,CLI-0000472,Ricarda Ramis-Campillo,74905156K,1977-02-15,ricarda.ramis-campillo@example.com,+34 621 219 278,Córdoba,Córdoba,14033,verified,5,47096.10,2005-11-05
+473,CLI-0000473,Toni Espinosa Benavent,02550221G,1994-04-10,toni.espinosa@example.com,+34 664 014 675,L'Hospitalet de Llobregat,Barcelona,08033,verified,45,48938.55,2022-11-06
+474,CLI-0000474,Telmo Solera Cantero,94198504A,1971-11-07,telmo.solera@example.com,+34 695 816 922,Barcelona,Barcelona,08064,verified,13,36094.65,2024-10-11
+475,CLI-0000475,Soledad Peñas Rosell,34214526W,1974-07-25,soledad.penas@example.com,+34 668 515 332,Madrid,Madrid,28059,pending,61,19631.98,2017-06-03
+476,CLI-0000476,Hermenegildo Mosquera,27795990F,1978-06-13,hermenegildo.mosquera@example.com,+34 655 855 737,L'Hospitalet de Llobregat,Barcelona,08042,verified,39,19141.82,2019-09-01
+477,CLI-0000477,Claudia Soler Portillo,90816828V,1994-03-02,claudia.soler@example.com,+34 795 770 363,Las Palmas de Gran Canaria,Las Palmas,35067,verified,50,39522.92,2009-02-04
+478,CLI-0000478,Sosimo Montalbán Castelló,26572939G,1972-06-07,sosimo.montalban@example.com,+34 650 144 535,Palma,Baleares,07022,verified,71,,2020-03-02
+479,CLI-0000479,Lucho Vilaplana Lobo,17964414B,1992-04-03,lucho.vilaplana@example.com,+34 652 385 282,Madrid,Madrid,28068,pending,11,74011.61,2014-12-15
+480,CLI-0000480,Virginia Casanovas Zapata,12530632W,1999-05-24,virginia.casanovas@example.com,+34 684 636 112,Bilbao,Bizkaia,48053,verified,54,13015.50,2008-03-08
+481,CLI-0000481,Lara Barragán Miralles,14594026C,1997-07-02,lara.barragan@example.com,+34 670 014 872,Sevilla,Sevilla,41048,verified,63,16855.24,2017-06-08
+482,CLI-0000482,Maximino Aguado Atienza,82346487R,1944-07-03,maximino.aguado@example.com,+34 678 173 151,Santander,Cantabria,39008,verified,42,12242.26,2017-12-01
+483,CLI-0000483,Rosendo Balaguer Ricart,38224894K,1977-02-01,rosendo.balaguer@example.com,+34 674 180 943,Burgos,Burgos,09024,pending,11,55496.51,2007-09-20
+484,CLI-0000484,Íñigo de Fabregat,48955640W,1988-10-22,inigo.de@example.com,+34 676 675 069,Logroño,La Rioja,26039,expired,51,19740.39,2008-01-22
+485,CLI-0000485,Milagros Luisina Araujo Vendrell,73036352J,1992-01-22,milagros.luisina@example.com,+34 757 864 616,Salamanca,Salamanca,37079,pending,33,,2017-07-01
+486,CLI-0000486,Daniela Benavides,13881362B,1983-10-04,daniela.benavides5@example.com,+34 651 222 567,Huelva,Huelva,21022,verified,23,44128.51,2024-08-25
+487,CLI-0000487,Eloy Camino,12819753J,1979-08-21,eloy.camino5@example.com,+34 625 792 261,Soria,Soria,42039,verified,38,39126.66,2017-05-16
+488,CLI-0000488,Bonifacio Beltran Barrena,00082438Y,1994-06-15,bonifacio.beltran5@example.com,+34 709 377 040,Burgos,Burgos,09021,verified,100,13762.30,2017-10-04
+489,CLI-0000489,Rosenda Anaya Nadal,50219703P,1973-08-03,rosenda.anaya@example.com,+34 708 226 354,Madrid,Madrid,28050,verified,56,19756.56,2009-10-08
+490,CLI-0000490,Hector Acero Azcona,12115839Z,1983-02-04,hector.acero@example.com,+34 642 852 537,Melilla,Melilla,52011,verified,32,64407.99,2016-01-02
+491,CLI-0000491,Jose Manuel Montenegro Campillo,85454489J,1990-01-28,jose.manuel@example.com,+34 683 395 839,Madrid,Madrid,28014,verified,68,,2014-08-17
+492,CLI-0000492,Rosa María Infante Cazorla,32028830L,1953-11-06,rosa.maria@example.com,+34 773 678 005,Badalona,Barcelona,08054,verified,62,31392.29,2009-06-22
+493,CLI-0000493,Esperanza Selena Carrillo Ferrández,24172166V,2002-05-08,esperanza.selena@example.com,+34 677 425 765,Córdoba,Córdoba,14012,verified,49,34023.12,2014-01-14
+494,CLI-0000494,Lupita Salazar Calderón,58421289R,1976-08-10,lupita.salazar@example.com,+34 637 250 737,Terrassa,Barcelona,08003,verified,51,16035.23,2019-07-02
+495,CLI-0000495,Ernesto Pol Bou,15529384Z,1996-02-03,ernesto.pol@example.com,+34 619 888 570,Barcelona,Barcelona,08021,verified,61,,2021-11-21
+496,CLI-0000496,Obdulia Mármol Revilla,54730397B,1982-05-25,obdulia.marmol@example.com,+34 657 898 331,Cartagena,Murcia,30068,verified,45,35882.40,2017-10-14
+497,CLI-0000497,Liliana Herranz,12645269F,1992-03-23,liliana.herranz@example.com,+34 697 369 393,Valladolid,Valladolid,47074,expired,18,20520.83,2006-05-15
+498,CLI-0000498,Priscila Huertas,23496146J,1997-02-22,,+34 722 522 394,Las Palmas de Gran Canaria,Las Palmas,35007,verified,57,,2020-03-02
+499,CLI-0000499,Germán Chamorro Carvajal,85293920F,1982-04-25,german.chamorro@example.com,+34 792 017 266,Murcia,Murcia,30058,verified,51,,2012-01-27
+500,CLI-0000500,Teófila Capdevila Plaza,20044374N,1982-06-11,teofila.capdevila@example.com,+34 632 406 511,Cartagena,Murcia,30034,verified,34,,2007-03-30
+501,CLI-0000501,Haroldo Ferrera Torrens,53624107K,2003-02-13,haroldo.ferrera@example.com,+34 681 533 280,Málaga,Málaga,29038,verified,39,16930.19,2007-11-23
+502,CLI-0000502,Emelina Manzanares,51946645H,1957-07-03,emelina.manzanares@example.com,+34 669 112 751,Gijón,Asturias,33051,verified,62,30687.33,2017-08-11
+503,CLI-0000503,Anselmo Doménech Lucena,28909078X,1989-07-31,anselmo.domenech@example.com,+34 622 449 311,Terrassa,Barcelona,08045,verified,32,46086.87,2005-08-09
+504,CLI-0000504,Macarena Gabaldón Ortuño,78167257D,1952-06-27,macarena.gabaldon@example.com,+34 664 866 121,Barcelona,Barcelona,08023,verified,54,,2005-12-18
+505,CLI-0000505,Isidro de Gaya,43320596G,1989-12-18,isidro.de@example.com,+34 655 839 138,Getafe,Madrid,28021,verified,89,42939.85,2022-06-18
+506,CLI-0000506,Miguel Ángel Agullo Bolaños,13302509E,1968-12-03,,+34 792 331 337,Barcelona,Barcelona,08079,verified,43,37336.30,2022-02-02
+507,CLI-0000507,Concha Tur Valdés,32799185N,1979-04-18,concha.tur9@example.com,+34 665 700 517,Zaragoza,Zaragoza,50058,verified,20,22208.72,2010-01-02
+508,CLI-0000508,Chita Rius Farré,53901870J,1941-11-30,chita.rius@example.com,+34 701 489 020,Madrid,Madrid,28024,verified,32,25892.19,2011-09-23
+509,CLI-0000509,Édgar Gilabert Chamorro,30340940F,1977-09-12,edgar.gilabert@example.com,+34 784 889 370,Sevilla,Sevilla,41016,verified,44,50130.28,2021-08-23
+510,CLI-0000510,Úrsula de Morales,38590137R,1940-06-01,ursula.de@example.com,+34 633 668 343,Valladolid,Valladolid,47057,verified,48,,2023-05-22
+511,CLI-0000511,Montserrat Gallego Urrutia,62533103J,1983-05-23,montserrat.gallego@example.com,+34 601 452 582,San Sebastián,Gipuzkoa,20035,verified,37,43671.19,2006-08-14
+512,CLI-0000512,Ileana Araujo Roda,15699004D,1994-09-20,ileana.araujo@example.com,+34 736 163 897,Madrid,Madrid,28039,verified,23,33335.10,2020-07-15
+513,CLI-0000513,Dalila Alcaraz-Parejo,23479801K,1989-11-18,,+34 613 307 440,Pamplona,Navarra,31009,verified,42,43552.06,2015-05-06
+514,CLI-0000514,Félix de Rocha,06915058Q,1948-02-08,felix.de@example.com,+34 702 237 229,Barcelona,Barcelona,08073,verified,29,65299.53,2016-11-18
+515,CLI-0000515,Victoriano del Calvet,54376061J,1973-03-26,victoriano.del@example.com,+34 649 966 571,Pamplona,Navarra,31019,expired,40,29897.81,2013-03-10
+516,CLI-0000516,Juan Pablo Coronado Criado,68786807V,1979-07-31,juan.pablo@example.com,+34 697 615 789,Girona,Girona,17042,verified,52,38790.22,2022-07-07
+517,CLI-0000517,Paco Rosado-Galan,88144697A,1972-06-05,paco.rosado-galan@example.com,+34 789 414 957,Vigo,Pontevedra,36021,verified,39,29115.14,2014-05-10
+518,CLI-0000518,Guiomar Pereira-Vera,17417473X,1994-10-24,guiomar.pereira-vera@example.com,+34 647 824 148,Cáceres,Cáceres,10002,pending,33,78633.21,2013-02-07
+519,CLI-0000519,Feliciano Solís Marco,98582130J,1954-09-08,feliciano.solis@example.com,+34 617 072 608,Madrid,Madrid,28002,expired,1,,2021-06-10
+520,CLI-0000520,Balduino Martinez Barreda,47576122R,1984-12-21,balduino.martinez@example.com,+34 611 088 828,Cádiz,Cádiz,11017,verified,76,25851.44,2021-06-20
+521,CLI-0000521,Maxi del Lago,31681722G,1983-05-14,maxi.del@example.com,+34 697 437 238,Las Palmas de Gran Canaria,Las Palmas,35077,verified,29,73596.56,2023-03-23
+522,CLI-0000522,Etelvina Pla Zurita,22197473N,1983-03-07,etelvina.pla@example.com,+34 783 040 521,Zaragoza,Zaragoza,50030,verified,15,19029.86,2008-02-03
+523,CLI-0000523,Paulino Cases Giner,16101620X,1971-03-17,paulino.cases@example.com,+34 725 652 881,Palma,Baleares,07018,verified,11,21036.90,2010-12-29
+524,CLI-0000524,Máxima Vazquez Cuesta,16274581B,1972-03-20,maxima.vazquez@example.com,+34 657 641 968,Vigo,Pontevedra,36007,verified,73,27880.42,2012-08-04
+525,CLI-0000525,Severiano Abascal Almeida,14569871S,1986-12-27,severiano.abascal@example.com,+34 658 254 622,Ávila,Ávila,05047,verified,22,39802.77,2020-07-30
+526,CLI-0000526,Sabina Adoración Fortuny Capdevila,66897985R,1953-09-07,sabina.adoracion@example.com,+34 653 149 415,Málaga,Málaga,29075,verified,61,23797.81,2017-09-14
+527,CLI-0000527,Marcelo Barral-Molina,52919801K,1967-12-29,,+34 792 783 030,Jerez de la Frontera,Cádiz,11016,verified,71,16046.83,2016-04-21
+528,CLI-0000528,Venceslás Pinedo Cobo,78390662S,1964-07-02,venceslas.pinedo@example.com,+34 729 093 853,Barcelona,Barcelona,08042,verified,48,24421.94,2017-12-30
+529,CLI-0000529,Teófilo Grande Franch,50187753M,1958-09-24,teofilo.grande@example.com,+34 709 361 344,Barcelona,Barcelona,08033,verified,44,19376.75,2006-02-01
+530,CLI-0000530,Anita Mármol-Goñi,57666318M,1998-06-12,anita.marmol-goni@example.com,+34 628 946 661,Salamanca,Salamanca,37015,verified,22,41312.94,2020-08-17
+531,CLI-0000531,Lina Roca Baños,53245662H,1982-08-25,lina.roca@example.com,+34 625 510 741,Madrid,Madrid,28059,verified,1,26521.19,2008-06-10
+532,CLI-0000532,Marcos Porcel Águila,57693112G,1986-02-13,marcos.porcel@example.com,+34 697 743 134,Teruel,Teruel,44063,verified,48,24365.19,2011-07-20
+533,CLI-0000533,Antonio Vaquero-Segovia,22385303R,1979-01-26,antonio.vaquero-segovia@example.com,+34 674 485 954,Murcia,Murcia,30027,expired,53,22077.34,2020-07-16
+534,CLI-0000534,Aitor de Peláez,87701916H,1974-01-24,aitor.de@example.com,+34 729 591 407,Badalona,Barcelona,08035,verified,34,,2010-06-20
+535,CLI-0000535,Adán López Carvajal,10015219F,1992-10-30,adan.lopez@example.com,+34 621 299 501,Madrid,Madrid,28018,verified,1,104208.87,2019-12-22
+536,CLI-0000536,Alma Lucena Ribera,31278927P,2002-04-17,alma.lucena@example.com,+34 772 431 511,Murcia,Murcia,30057,verified,45,41781.81,2022-01-19
+537,CLI-0000537,Amanda Julián,84269253J,1988-09-23,amanda.julian@example.com,+34 721 731 896,Zaragoza,Zaragoza,50067,verified,89,13434.71,2008-04-25
+538,CLI-0000538,Emigdio Bustamante-Badía,49546585P,1993-12-29,emigdio.bustamante-badia@example.com,+34 630 238 348,Zaragoza,Zaragoza,50047,verified,55,,2018-07-30
+539,CLI-0000539,Demetrio Malo Casanova,07751248H,1982-07-21,demetrio.malo@example.com,+34 611 222 770,Madrid,Madrid,28009,verified,47,25893.49,2007-10-28
+540,CLI-0000540,Rafael Miralles Mateu,06208623A,1964-02-23,rafael.miralles@example.com,+34 698 581 013,Murcia,Murcia,30058,verified,37,,2017-01-19
+541,CLI-0000541,Quirino Ledesma-Cuenca,71073916Y,1971-10-01,quirino.ledesma-cuenca@example.com,+34 652 430 248,Alicante,Alicante,03030,verified,63,,2014-12-26
+542,CLI-0000542,Rolando Ferrando Amat,38514082F,1973-08-26,rolando.ferrando@example.com,+34 659 481 407,L'Hospitalet de Llobregat,Barcelona,08014,verified,12,17210.54,2015-12-06
+543,CLI-0000543,Rufino Maestre,07043225G,1979-01-29,,+34 624 419 074,Barcelona,Barcelona,08075,verified,28,24946.19,2011-08-04
+544,CLI-0000544,Alcides Pinilla Salas,96013068M,1997-12-06,alcides.pinilla@example.com,+34 744 711 255,Barcelona,Barcelona,08005,verified,1,40654.02,2005-03-18
+545,CLI-0000545,Lupita Cobo Arnal,08050150N,1983-08-18,lupita.cobo@example.com,+34 689 085 216,Huesca,Huesca,22010,verified,21,36655.88,2012-05-23
+546,CLI-0000546,Pepita Espada Olivé,99872826H,1957-11-13,,+34 615 214 423,Salamanca,Salamanca,37024,verified,45,30690.80,2020-08-12
+547,CLI-0000547,Rafael Fuentes Bonilla,62533555M,1986-01-03,rafael.fuentes@example.com,+34 632 884 619,Santander,Cantabria,39059,verified,38,42137.23,2017-01-25
+548,CLI-0000548,Dalila de Puig,48497956H,1996-09-30,dalila.de4@example.com,+34 669 133 732,Valencia,Valencia,46033,verified,50,28640.26,2010-09-21
+549,CLI-0000549,Severo Ibáñez Bernad,73025580M,1970-12-02,severo.ibanez@example.com,+34 726 348 459,Vitoria-Gasteiz,Álava,01080,verified,32,69155.00,2011-04-14
+550,CLI-0000550,Rosaura Aguado Mateo,10346811P,1982-02-28,rosaura.aguado@example.com,+34 657 147 387,Cartagena,Murcia,30043,verified,74,25439.83,2013-05-18
+551,CLI-0000551,Otilia Bermejo Amaya,90760183K,1966-03-30,otilia.bermejo@example.com,+34 789 244 553,Las Palmas de Gran Canaria,Las Palmas,35009,verified,73,17053.01,2006-12-02
+552,CLI-0000552,Gastón Carmona,22889659J,1966-04-03,gaston.carmona@example.com,+34 655 026 501,Valencia,Valencia,46059,verified,48,,2015-11-30
+553,CLI-0000553,Elisa Tomas Múñiz,92058111J,1995-12-23,elisa.tomas@example.com,+34 734 211 642,Badalona,Barcelona,08014,verified,41,23616.58,2005-12-13
+554,CLI-0000554,Blanca Amelia Benitez Taboada,29478918W,1974-12-16,,+34 630 596 608,Castellón de la Plana,Castellón,12042,verified,51,,2011-01-18
+555,CLI-0000555,Magdalena Verdú,97166219M,1952-03-20,magdalena.verdu@example.com,+34 684 483 535,Granada,Granada,18015,verified,32,39671.53,2011-12-23
+556,CLI-0000556,Estela Barberá Hurtado,97476660S,2003-03-01,,+34 745 925 075,Madrid,Madrid,28076,verified,43,,2016-06-04
+557,CLI-0000557,Salomé Ledesma Corbacho,84756948Q,1968-08-05,salome.ledesma@example.com,+34 763 765 162,Cartagena,Murcia,30005,verified,64,22741.35,2021-10-13
+558,CLI-0000558,Catalina Ibáñez Verdugo,54967570P,1997-02-11,catalina.ibanez5@example.com,+34 724 916 389,Zaragoza,Zaragoza,50079,expired,47,20708.89,2007-05-15
+559,CLI-0000559,Antonio Elías Bauzà,52831603M,2007-07-24,antonio.elias5@example.com,+34 612 238 859,Murcia,Murcia,30043,verified,47,,2021-12-29
+560,CLI-0000560,Vinicio Gelabert Bermúdez,15811067Q,2007-08-14,,+34 613 858 390,Almería,Almería,04001,verified,53,15620.51,2021-03-10
+561,CLI-0000561,Saturnino de Rosa,00774926X,1988-11-17,saturnino.de@example.com,+34 768 532 104,Madrid,Madrid,28060,verified,72,15185.54,2016-04-21
+562,CLI-0000562,Adán Gimeno Mendizábal,66065442N,1997-06-27,adan.gimeno@example.com,+34 668 436 282,Gijón,Asturias,33047,verified,58,,2017-12-30
+563,CLI-0000563,Isabel Guzmán,11724674X,1990-07-17,isabel.guzman@example.com,+34 746 725 433,Barcelona,Barcelona,08069,verified,62,46194.62,2008-10-01
+564,CLI-0000564,Samuel Prado Gaya,32191705P,2003-04-18,samuel.prado@example.com,+34 679 617 303,Sevilla,Sevilla,41005,verified,85,17717.30,2006-02-07
+565,CLI-0000565,Ramón Cecilio Ugarte Lladó,04725124G,1966-06-02,ramon.cecilio@example.com,+34 748 975 400,Valladolid,Valladolid,47055,verified,69,35176.52,2019-01-24
+566,CLI-0000566,Berta Morera,32102381Q,1977-10-24,berta.morera@example.com,+34 673 910 209,Cáceres,Cáceres,10023,verified,61,,2009-01-09
+567,CLI-0000567,Ainoa del Cuenca,97119777T,1986-01-23,ainoa.del@example.com,+34 769 603 489,Córdoba,Córdoba,14018,pending,33,24416.33,2015-12-03
+568,CLI-0000568,Francisca Perera Estevez,61785640G,1951-07-23,francisca.perera@example.com,+34 617 605 776,Madrid,Madrid,28050,verified,53,20816.02,2023-12-13
+569,CLI-0000569,Susanita Fernández,70247517C,1976-06-02,,+34 643 395 675,Cádiz,Cádiz,11074,verified,54,17130.73,2020-07-09
+570,CLI-0000570,Reina de Carranza,07848249M,1969-10-04,reina.de@example.com,+34 753 100 469,Madrid,Madrid,28044,verified,11,27681.17,2011-04-13
+571,CLI-0000571,Agustina Gallardo Navas,84517708E,1960-10-09,agustina.gallardo@example.com,+34 605 929 176,Huelva,Huelva,21055,verified,73,37638.54,2015-05-14
+572,CLI-0000572,María Calleja Pablo,44705742K,1982-09-11,,+34 623 886 509,Ourense,Ourense,32027,verified,44,25609.36,2020-07-14
+573,CLI-0000573,Ignacio Gomila Luque,99081285E,1970-12-27,ignacio.gomila@example.com,+34 725 389 257,Barcelona,Barcelona,08077,verified,21,23647.02,2020-04-17
+574,CLI-0000574,Arcelia Pozuelo Goñi,11899289D,1993-08-26,arcelia.pozuelo@example.com,+34 722 078 764,Palencia,Palencia,34040,verified,21,,2005-05-06
+575,CLI-0000575,Benigna Roman-Expósito,25381800N,1979-07-29,benigna.roman-exposito@example.com,+34 658 678 570,Madrid,Madrid,28021,verified,52,20599.09,2009-05-04
+576,CLI-0000576,Julia Pacheco-Mulet,44858391L,1965-10-08,julia.pacheco-mulet@example.com,+34 676 834 246,Madrid,Madrid,28061,verified,67,,2014-04-06
+577,CLI-0000577,Desiderio Puig-Mancebo,11551236S,2007-08-06,desiderio.puig-mancebo@example.com,+34 645 749 911,Alicante,Alicante,03037,verified,43,18352.57,2013-04-15
+578,CLI-0000578,Azucena Arco Lloret,12289260S,1960-10-04,azucena.arco@example.com,+34 770 706 113,Madrid,Madrid,28006,verified,51,28447.85,2016-03-26
+579,CLI-0000579,Andrés del Álamo,73229704G,1973-12-14,andres.del@example.com,+34 632 563 864,Zaragoza,Zaragoza,50038,verified,44,47238.85,2010-12-30
+580,CLI-0000580,Edgardo Galan Gallego,87016740N,1974-04-02,edgardo.galan@example.com,+34 791 386 768,Valencia,Valencia,46047,verified,48,27652.57,2021-08-29
+581,CLI-0000581,Juana Monreal Cózar,79107191W,1973-02-18,juana.monreal@example.com,+34 677 266 577,Terrassa,Barcelona,08039,verified,40,32677.24,2007-06-28
+582,CLI-0000582,Melchor Jonatan Tomé Linares,62058200Z,1981-04-15,melchor.jonatan5@example.com,+34 665 045 036,Lugo,Lugo,27040,verified,40,27570.29,2006-06-19
+583,CLI-0000583,Serafina Solsona Mayo,06842738P,1962-04-29,serafina.solsona@example.com,+34 706 117 487,Elche,Alicante,03038,verified,59,10689.84,2016-06-07
+584,CLI-0000584,Moreno Moles Ribes,78454733P,1963-02-19,moreno.moles@example.com,+34 686 946 638,Madrid,Madrid,28066,verified,30,,2022-09-27
+585,CLI-0000585,Cintia Huertas Romeu,28417513R,1958-10-30,cintia.huertas@example.com,+34 745 111 331,Tarragona,Tarragona,43063,verified,57,,2018-05-01
+586,CLI-0000586,María Jesusa Romero Lillo,46023347W,1977-07-06,maria.jesusa@example.com,+34 674 480 078,Barcelona,Barcelona,08015,verified,59,31173.04,2017-04-23
+587,CLI-0000587,Fabiana Arias Belda,39603345J,1985-06-05,fabiana.arias@example.com,+34 665 454 351,Barcelona,Barcelona,08070,verified,41,9000.00,2014-06-27
+588,CLI-0000588,Simón del Meléndez,61321730G,1965-01-15,simon.del@example.com,+34 654 751 528,Madrid,Madrid,28038,verified,65,15724.44,2014-08-11
+589,CLI-0000589,Jose Francisco Guillén Gutiérrez,76936070N,1956-08-23,,+34 603 904 352,Sabadell,Barcelona,08018,verified,19,70677.12,2009-09-02
+590,CLI-0000590,Candelaria Rosales Estevez,53708644X,1946-03-26,candelaria.rosales@example.com,+34 702 878 876,Zaragoza,Zaragoza,50074,verified,60,9109.86,2024-05-04
+591,CLI-0000591,Jacinto Carrión Sans,12619393Y,1997-04-15,jacinto.carrion@example.com,+34 611 039 761,Ciudad Real,Ciudad Real,13051,verified,67,,2009-10-20
+592,CLI-0000592,Íñigo Andres,55493227T,1976-12-25,inigo.andres@example.com,+34 758 265 689,Santa Cruz de Tenerife,Santa Cruz de Tenerife,38039,verified,31,31315.83,2021-06-03
+593,CLI-0000593,Miguel Guerrero,50066394V,1968-02-12,miguel.guerrero@example.com,+34 650 285 902,Madrid,Madrid,28027,verified,63,19831.60,2013-03-28
+594,CLI-0000594,Cosme Laguna,65543567F,2000-04-16,cosme.laguna@example.com,+34 646 519 717,Madrid,Madrid,28042,verified,52,22276.37,2005-03-26
+595,CLI-0000595,César Uriarte Cámara,57309764C,1975-12-05,cesar.uriarte@example.com,+34 619 905 809,Córdoba,Córdoba,14050,verified,51,,2008-07-28
+596,CLI-0000596,Moreno Raya Clemente,93343165B,1969-11-30,,+34 629 556 199,San Sebastián,Gipuzkoa,20061,verified,30,57728.61,2010-02-12
+597,CLI-0000597,Silvestre Amo Iriarte,31685070V,1953-02-10,silvestre.amo@example.com,+34 663 968 469,Las Palmas de Gran Canaria,Las Palmas,35035,pending,47,,2024-03-12
+598,CLI-0000598,Lázaro Patiño González,86037714G,1999-06-30,lazaro.patino@example.com,+34 648 428 441,Badalona,Barcelona,08033,verified,67,10552.32,2021-12-08
+599,CLI-0000599,Jenaro Martín Arnaiz,99910279G,1981-10-18,jenaro.martin@example.com,+34 791 160 444,San Sebastián,Gipuzkoa,20041,verified,43,,2012-12-16
+600,CLI-0000600,Inocencio Landa,42500496S,1993-09-22,inocencio.landa@example.com,+34 647 659 603,Sevilla,Sevilla,41021,verified,29,,2019-04-04
+601,CLI-0000601,Dulce Leticia Ortiz Torrens,01788583B,1976-10-12,dulce.leticia@example.com,+34 654 272 240,Alicante,Alicante,03019,verified,37,26207.46,2013-06-03
+602,CLI-0000602,Vinicio Montesinos Barberá,86001637Z,1968-12-06,vinicio.montesinos@example.com,+34 712 226 055,Badajoz,Badajoz,06014,verified,8,46595.24,2011-01-28
+603,CLI-0000603,Francisco Cifuentes-Cuadrado,04988852Z,1966-08-19,,+34 670 987 164,Vigo,Pontevedra,36057,verified,37,,2014-02-26
+604,CLI-0000604,Adolfo Pardo Palacio,83202525W,1981-03-08,,+34 680 885 561,Elche,Alicante,03048,verified,46,9000.00,2010-08-31
+605,CLI-0000605,Máxima del Cruz,55528301E,1981-08-04,maxima.del@example.com,+34 648 880 319,Barcelona,Barcelona,08073,verified,6,,2014-11-12
+606,CLI-0000606,Adelina Pascual Briones,52201515W,2007-11-20,adelina.pascual@example.com,+34 784 034 327,Gijón,Asturias,33030,verified,66,37116.55,2024-01-28
+607,CLI-0000607,Amaro Mesa-Ayuso,37964053T,1990-04-06,amaro.mesa-ayuso@example.com,+34 793 321 714,León,León,24050,verified,20,,2005-04-16
+608,CLI-0000608,Clemente Múñiz Gonzalez,37476071D,1990-11-06,clemente.muniz@example.com,+34 617 793 819,Almería,Almería,04033,verified,39,21127.37,2016-11-25
+609,CLI-0000609,África Barrio-Pellicer,77934960N,1944-11-21,africa.barrio-pellicer@example.com,+34 665 537 132,Palma,Baleares,07017,verified,56,31011.69,2013-05-29
+610,CLI-0000610,Marc Navas Pagès,37174343H,1960-10-01,marc.navas@example.com,+34 732 757 190,Logroño,La Rioja,26047,verified,51,23228.69,2012-08-19
+611,CLI-0000611,Marisol Gallardo Iborra,44563820D,1959-02-16,marisol.gallardo@example.com,+34 617 016 338,Huelva,Huelva,21024,verified,30,24364.71,2020-09-19
+612,CLI-0000612,Teo Colomer Mosquera,74302554L,1981-01-31,teo.colomer@example.com,+34 759 445 949,Barcelona,Barcelona,08035,verified,53,22214.40,2023-07-21
+613,CLI-0000613,Paco Eutimio Herrera Chaves,46352623X,1984-08-16,paco.eutimio@example.com,+34 688 762 680,Madrid,Madrid,28010,verified,35,37891.16,2017-01-08
+614,CLI-0000614,Feliciano Buenaventura Gárate Martorell,55020926G,1984-06-07,feliciano.buenaventura@example.com,+34 686 636 096,Valladolid,Valladolid,47028,verified,37,47724.15,2019-06-04
+615,CLI-0000615,Iván Marcio Hurtado Castro,85647146E,1987-01-16,ivan.marcio@example.com,+34 758 915 453,Madrid,Madrid,28056,expired,30,48110.94,2011-12-04
+616,CLI-0000616,Anita Bernarda Nebot Serna,58854854Q,1960-04-28,anita.bernarda@example.com,+34 712 651 227,Ciudad Real,Ciudad Real,13080,verified,42,18214.29,2006-03-19
+617,CLI-0000617,Ruben Sarabia Sanmiguel,64187668G,1972-05-12,ruben.sarabia@example.com,+34 731 887 725,Zaragoza,Zaragoza,50074,verified,59,30616.62,2012-07-16
+618,CLI-0000618,Dolores Sedano Sales,54118699K,1997-07-25,dolores.sedano@example.com,+34 693 665 730,A Coruña,A Coruña,15032,verified,12,41824.90,2009-12-17
+619,CLI-0000619,Gracia Pellicer Cases,50534762J,1962-04-06,gracia.pellicer@example.com,+34 700 069 162,Barcelona,Barcelona,08063,verified,35,34229.82,2015-06-18
+620,CLI-0000620,Eric Valero Haro,26383623R,1981-04-23,eric.valero@example.com,+34 757 417 292,Zaragoza,Zaragoza,50046,expired,41,,2024-03-16
+621,CLI-0000621,Hilario Ribas Abellán,42727879C,1972-11-30,hilario.ribas@example.com,+34 674 997 681,Alicante,Alicante,03060,verified,29,9747.55,2015-09-19
+622,CLI-0000622,Cosme Ariño Pi,34333595T,1979-01-14,cosme.arino@example.com,+34 690 647 686,Elche,Alicante,03063,verified,58,29609.93,2020-09-30
+623,CLI-0000623,Lope Roldan Tomás,00192103F,1976-05-08,lope.roldan4@example.com,+34 654 706 518,Sevilla,Sevilla,41010,verified,44,24295.95,2015-11-15
+624,CLI-0000624,Luis Miguel Neira Cases,53436852D,1960-02-24,luis.miguel@example.com,+34 668 222 910,Barcelona,Barcelona,08015,verified,23,37510.59,2005-04-13
+625,CLI-0000625,Sebastian Estrada Ortiz,09884775L,1992-05-18,sebastian.estrada@example.com,+34 760 652 669,Huelva,Huelva,21064,pending,37,28542.37,2010-05-28
+626,CLI-0000626,Priscila Ortuño-Franco,55266490C,2003-10-21,priscila.ortuno-franco@example.com,+34 624 295 975,Madrid,Madrid,28004,verified,16,26907.71,2007-02-10
+627,CLI-0000627,Pancho Baldomero Mur Puerta,24515588A,1990-11-17,pancho.baldomero@example.com,+34 697 645 066,Badalona,Barcelona,08042,verified,81,28204.48,2015-12-01
+628,CLI-0000628,Francisca Gómez Camacho,58030759B,2002-07-27,francisca.gomez@example.com,+34 671 268 338,Madrid,Madrid,28030,verified,56,12615.31,2020-01-31
+629,CLI-0000629,Humberto Jimenez Acosta,32588728M,1990-04-17,humberto.jimenez@example.com,+34 648 169 798,Zaragoza,Zaragoza,50059,pending,59,13837.52,2019-05-17
+630,CLI-0000630,Segismundo del Busquets,43875495M,1959-09-10,segismundo.del@example.com,+34 641 183 566,Madrid,Madrid,28047,verified,47,33615.03,2011-02-07
+631,CLI-0000631,Cleto Graciano Plana Izaguirre,47287104R,1978-06-26,cleto.graciano@example.com,+34 738 615 246,Barcelona,Barcelona,08018,verified,62,22870.49,2024-06-29
+632,CLI-0000632,Rita Bernardita Saldaña Garay,31948699C,1994-02-06,,+34 772 231 743,Cartagena,Murcia,30066,verified,27,34281.05,2009-11-06
+633,CLI-0000633,Jacinto Moreno Gascón,14457242V,1995-03-05,jacinto.moreno@example.com,+34 748 795 589,Pamplona,Navarra,31030,verified,48,,2019-08-07
+634,CLI-0000634,Reynaldo Ramos Leiva,85353142G,1991-11-01,reynaldo.ramos@example.com,+34 629 563 539,Burgos,Burgos,09068,verified,36,58054.24,2024-08-23
+635,CLI-0000635,Buenaventura Vergara Riba,02819343A,1998-07-08,buenaventura.vergara@example.com,+34 783 605 091,Badalona,Barcelona,08055,verified,93,18890.51,2014-03-02
+636,CLI-0000636,Curro Mascaró Guardia,34706994V,1980-06-03,curro.mascaro@example.com,+34 708 931 194,Granada,Granada,18040,verified,28,34260.42,2017-08-22
+637,CLI-0000637,Anastasia Reina Alfonso,14779598M,1963-02-24,anastasia.reina@example.com,+34 660 235 179,Elche,Alicante,03010,verified,62,24393.21,2022-01-24
+638,CLI-0000638,Teo Navarrete Paredes,78026262G,1968-09-20,,+34 655 101 267,Madrid,Madrid,28027,expired,47,22888.84,2016-03-18
+639,CLI-0000639,Débora Ureña Sanmiguel,38002727B,1978-04-02,debora.urena@example.com,+34 625 017 575,Córdoba,Córdoba,14029,verified,40,25373.34,2006-11-01
+640,CLI-0000640,Santos Comas Camps,28057669S,1996-01-18,santos.comas@example.com,+34 717 112 134,Jerez de la Frontera,Cádiz,11053,verified,19,,2023-06-09
+641,CLI-0000641,Bernabé Gimeno Quero,16302499F,1989-06-30,bernabe.gimeno@example.com,+34 639 302 376,Madrid,Madrid,28062,verified,57,29765.47,2011-10-14
+642,CLI-0000642,Teófila Martinez,76451753Y,1971-03-30,teofila.martinez@example.com,+34 675 310 031,Vigo,Pontevedra,36021,verified,55,12959.57,2016-03-22
+643,CLI-0000643,Ágata Avilés,00175753X,1966-10-26,agata.aviles@example.com,+34 611 259 284,Teruel,Teruel,44052,pending,40,13272.94,2021-02-24
+644,CLI-0000644,Violeta Salvador-Cortés,79969314Q,1974-09-28,violeta.salvador-cortes@example.com,+34 617 239 907,Madrid,Madrid,28013,verified,35,,2023-03-16
+645,CLI-0000645,Mauricio Alvarado-Rey,06051947A,1988-12-24,mauricio.alvarado-rey@example.com,+34 773 323 490,Lleida,Lleida,25063,verified,44,14041.57,2021-06-09
+646,CLI-0000646,Fabio Salcedo-Aragonés,74661513V,1974-08-08,fabio.salcedo-aragones@example.com,+34 613 523 321,Teruel,Teruel,44046,verified,49,32342.94,2019-07-28
+647,CLI-0000647,Trinidad Linares,97036979W,1990-03-09,,+34 628 663 471,Alicante,Alicante,03021,verified,15,,2021-03-21
+648,CLI-0000648,Lorenzo Macias Sierra,17065510Q,1975-09-29,lorenzo.macias@example.com,+34 694 612 253,Oviedo,Asturias,33040,verified,91,,2021-05-17
+649,CLI-0000649,Juan Carlos Roca-Aparicio,63289492R,1989-03-24,juan.carlos@example.com,+34 633 330 486,Madrid,Madrid,28051,verified,1,54337.71,2009-08-09
+650,CLI-0000650,Teresa Bravo,47542860C,1988-12-02,teresa.bravo@example.com,+34 749 192 013,Sevilla,Sevilla,41063,verified,48,26269.52,2019-05-05
+651,CLI-0000651,Adriana Aguiló Higueras,61869287T,1964-08-06,adriana.aguilo@example.com,+34 742 000 136,Palma,Baleares,07033,verified,64,29924.87,2006-01-17
+652,CLI-0000652,Sebastian Portero Arévalo,37188676E,1970-06-23,sebastian.portero@example.com,+34 793 105 851,Alicante,Alicante,03012,verified,66,18714.40,2023-09-30
+653,CLI-0000653,Amancio Aragón Hernandez,54119684V,2003-06-18,amancio.aragon@example.com,+34 756 572 260,Cádiz,Cádiz,11046,verified,71,12936.62,2009-11-26
+654,CLI-0000654,Marcelino Pellicer,39582081R,1975-05-28,marcelino.pellicer@example.com,+34 603 442 729,Barcelona,Barcelona,08076,verified,33,23786.63,2021-01-12
+655,CLI-0000655,Olimpia Alberdi Patiño,50089252J,1965-05-25,olimpia.alberdi4@example.com,+34 781 278 824,Palma,Baleares,07057,verified,49,18137.69,2012-07-05
+656,CLI-0000656,Albino Río-Bustamante,20167193B,1964-02-03,albino.rio-bustamante@example.com,+34 786 171 038,Madrid,Madrid,28041,verified,54,,2022-11-10
+657,CLI-0000657,Anna Eligia Torrent Marí,31436484S,1959-01-01,anna.eligia@example.com,+34 721 222 554,Madrid,Madrid,28030,pending,33,30203.28,2015-10-03
+658,CLI-0000658,Flavio Andres Toledo,62691236K,1975-11-20,flavio.andres@example.com,+34 673 437 799,Madrid,Madrid,28072,verified,34,30195.00,2009-04-20
+659,CLI-0000659,Jenny Matas-Zamorano,51684816K,1988-07-02,jenny.matas-zamorano@example.com,+34 610 748 873,Alicante,Alicante,03001,verified,58,,2013-08-21
+660,CLI-0000660,Leticia Hernandez Rivero,74938932X,2002-07-03,leticia.hernandez@example.com,+34 623 124 943,Tarragona,Tarragona,43043,verified,58,,2008-08-15
+661,CLI-0000661,Ximena Leiva Abascal,05473803X,1990-04-18,ximena.leiva4@example.com,+34 758 789 989,Sabadell,Barcelona,08018,verified,73,13019.95,2008-07-27
+662,CLI-0000662,Espiridión Ocaña Torrent,71304975F,1985-04-12,espiridion.ocana@example.com,+34 728 735 787,Valladolid,Valladolid,47061,verified,46,15485.43,2005-11-21
+663,CLI-0000663,Matilde Evelia Salcedo Sastre,57013334Z,1960-07-12,matilde.evelia@example.com,+34 753 495 837,Madrid,Madrid,28061,verified,50,23351.81,2009-08-22
+664,CLI-0000664,Leocadia Coca Verdú,82622330M,2004-02-26,leocadia.coca@example.com,+34 740 739 673,Palma,Baleares,07036,verified,38,9000.00,2024-08-22
+665,CLI-0000665,Delfina Zamorano Campillo,42787241L,1970-08-26,delfina.zamorano@example.com,+34 783 704 734,Badalona,Barcelona,08027,verified,78,10425.73,2005-12-10
+666,CLI-0000666,Emilio Fajardo Fernández,82698135W,1990-08-05,emilio.fajardo@example.com,+34 602 668 072,Málaga,Málaga,29051,verified,55,20975.63,2014-04-29
+667,CLI-0000667,Raquel Juliá Córdoba,82654451H,1992-01-13,raquel.julia@example.com,+34 664 708 096,Madrid,Madrid,28008,verified,59,,2021-12-18
+668,CLI-0000668,Renata Valentín,94124791M,1996-04-28,renata.valentin@example.com,+34 605 083 986,Granada,Granada,18049,verified,55,16015.99,2005-01-21
+669,CLI-0000669,Mayte Riquelme,27429645Y,1956-02-11,,+34 735 309 319,Madrid,Madrid,28018,verified,66,49493.88,2022-12-03
+670,CLI-0000670,Rafa Casas Cáceres,99205977P,1971-06-01,rafa.casas@example.com,+34 683 838 395,Madrid,Madrid,28031,verified,68,22183.51,2022-03-11
+671,CLI-0000671,Timoteo Zabala Guzman,60492513Y,1981-04-02,timoteo.zabala@example.com,+34 605 387 286,Lleida,Lleida,25070,verified,20,22013.14,2010-06-16
+672,CLI-0000672,Melisa Anguita Franco,41670087K,1971-09-27,melisa.anguita3@example.com,+34 613 108 143,Zaragoza,Zaragoza,50026,verified,44,21827.97,2017-12-29
+673,CLI-0000673,Severino Carpio Requena,07534020W,1983-08-07,severino.carpio@example.com,+34 682 057 298,Alicante,Alicante,03026,verified,60,,2018-12-26
+674,CLI-0000674,Octavia Carro Pablo,36221169X,2002-05-26,octavia.carro@example.com,+34 611 666 691,Valencia,Valencia,46008,verified,21,33664.14,2021-01-22
+675,CLI-0000675,Débora del Vilanova,36316272P,1960-02-10,debora.del@example.com,+34 626 824 207,Getafe,Madrid,28042,verified,56,12575.76,2011-06-01
+676,CLI-0000676,Casandra del Sanmartín,03585143H,1990-06-12,casandra.del@example.com,+34 633 444 143,Huelva,Huelva,21053,verified,51,11447.06,2008-10-20
+677,CLI-0000677,Silvia Pina Pedrosa,36381178P,1987-02-18,silvia.pina@example.com,+34 698 978 076,Barcelona,Barcelona,08058,verified,77,,2022-03-14
+678,CLI-0000678,Fabiana Busquets Bonilla,41474174E,1992-03-23,fabiana.busquets@example.com,+34 725 568 573,Badajoz,Badajoz,06073,verified,41,12153.43,2024-10-28
+679,CLI-0000679,Matilde Briones Diego,28807387W,1961-03-10,matilde.briones@example.com,+34 651 838 969,Oviedo,Asturias,33002,verified,50,16704.15,2009-03-27
+680,CLI-0000680,Javi Nogueira,12978554E,1955-01-22,javi.nogueira@example.com,+34 697 286 107,Ourense,Ourense,32051,verified,41,11353.12,2018-09-21
+681,CLI-0000681,Bernardo Saavedra Falcó,63501225L,1986-11-19,bernardo.saavedra@example.com,+34 658 783 374,Lugo,Lugo,27007,verified,48,,2007-04-26
+682,CLI-0000682,Carlota Navarro Roldán,73134284B,2007-09-19,carlota.navarro@example.com,+34 689 537 979,Madrid,Madrid,28023,verified,32,27129.79,2007-08-16
+683,CLI-0000683,Clemente Folch Martín,62537480C,1974-09-14,clemente.folch@example.com,+34 681 993 705,Córdoba,Córdoba,14044,verified,71,,2013-09-22
+684,CLI-0000684,Lino Valenciano Marín,81317930G,1990-01-16,,+34 611 626 832,Madrid,Madrid,28035,verified,39,37980.29,2023-06-24
+685,CLI-0000685,Silvia Nogueira Bustamante,82257813S,1973-01-09,silvia.nogueira4@example.com,+34 609 751 654,Granada,Granada,18076,verified,45,12709.63,2006-12-06
+686,CLI-0000686,Brunilda Cuevas-Valentín,13123201E,1967-05-07,brunilda.cuevas-valentin@example.com,+34 653 338 568,Barcelona,Barcelona,08071,verified,15,23500.19,2014-06-23
+687,CLI-0000687,Caridad Gascón Lillo,90700178T,1970-08-26,caridad.gascon@example.com,+34 628 769 030,Burgos,Burgos,09077,expired,77,34109.07,2017-07-29
+688,CLI-0000688,Jenny Lerma Múñiz,30605354J,1975-01-30,jenny.lerma@example.com,+34 652 669 172,Zaragoza,Zaragoza,50066,pending,32,44645.07,2006-06-18
+689,CLI-0000689,Ciríaco Remigio Gil Castrillo,46410976N,1990-12-05,ciriaco.remigio@example.com,+34 646 173 552,Zaragoza,Zaragoza,50058,expired,58,32848.48,2011-11-26
+690,CLI-0000690,Irma Landa,75840302X,1973-01-30,,+34 645 137 186,Madrid,Madrid,28037,verified,48,22388.31,2008-04-16
+691,CLI-0000691,Silvia Ferrán,63156930B,1996-03-15,silvia.ferran@example.com,+34 660 164 347,Guadalajara,Guadalajara,19066,pending,49,17606.97,2005-01-24
+692,CLI-0000692,Marcela Clemente Pedraza,24594089M,1985-10-03,marcela.clemente@example.com,+34 716 348 489,Madrid,Madrid,28050,verified,27,26876.83,2018-11-09
+693,CLI-0000693,Bernarda de Reig,95129859L,1945-03-24,bernarda.de@example.com,+34 634 179 793,Terrassa,Barcelona,08032,verified,59,9000.00,2017-04-27
+694,CLI-0000694,Eufemia Rincón Perelló,80967265C,1985-07-12,eufemia.rincon@example.com,+34 654 590 582,Vigo,Pontevedra,36017,verified,81,16968.01,2015-01-04
+695,CLI-0000695,Loreto Juan Manuel Almansa Salvà,40851514H,1968-06-12,loreto.juan@example.com,+34 618 130 006,Valladolid,Valladolid,47014,verified,29,79057.61,2006-12-27
+696,CLI-0000696,Haroldo Morata-Ibañez,06842209P,1968-01-13,haroldo.morata-ibanez@example.com,+34 727 441 184,Madrid,Madrid,28057,verified,63,47227.50,2013-03-28
+697,CLI-0000697,Nando Llanos Molins,09524250L,1950-10-26,nando.llanos@example.com,+34 672 523 413,Sevilla,Sevilla,41031,verified,39,28304.26,2017-08-28
+698,CLI-0000698,Francisca de Cuervo,60197482L,1977-01-12,francisca.de9@example.com,+34 631 997 870,Cartagena,Murcia,30053,verified,78,17676.07,2005-01-12
+699,CLI-0000699,Yésica Paloma Torrecilla Vega,16974414T,2003-09-02,yesica.paloma@example.com,+34 690 915 135,Bilbao,Bizkaia,48060,pending,29,47337.77,2014-05-03
+700,CLI-0000700,Hortensia Duque Requena,11709564B,1982-02-25,hortensia.duque@example.com,+34 650 762 389,Soria,Soria,42001,verified,53,19666.87,2007-08-06
+701,CLI-0000701,Juan Carlos Espinosa Ferrando,92360126S,1979-10-26,juan.carlos@example.com,+34 640 738 361,L'Hospitalet de Llobregat,Barcelona,08045,verified,44,34713.44,2023-06-06
+702,CLI-0000702,Valeria Carballo,59246609N,2007-03-17,valeria.carballo@example.com,+34 720 449 722,Sevilla,Sevilla,41057,verified,60,13364.62,2008-11-18
+703,CLI-0000703,Moreno Serrano Jove,23367770T,1955-12-23,moreno.serrano@example.com,+34 642 986 781,Valladolid,Valladolid,47033,verified,57,23966.69,2010-02-19
+704,CLI-0000704,Leandro Perea-Llano,89840763A,1952-06-28,leandro.perea-llano@example.com,+34 728 312 026,Cáceres,Cáceres,10028,verified,37,,2006-02-02
+705,CLI-0000705,Julia Carvajal Galindo,80348056V,1997-04-27,julia.carvajal@example.com,+34 657 978 651,Córdoba,Córdoba,14022,verified,92,25411.30,2024-07-18
+706,CLI-0000706,Silvestre Cerro Novoa,14628545Q,1971-01-01,silvestre.cerro@example.com,+34 781 919 774,Huelva,Huelva,21035,verified,49,24282.86,2020-08-30
+707,CLI-0000707,Roberto Barral Camps,64256905B,1977-08-07,roberto.barral@example.com,+34 646 989 967,Gijón,Asturias,33031,verified,48,21785.59,2006-07-23
+708,CLI-0000708,Irene Aroca Mayo,14207119L,1966-07-07,,+34 743 014 338,Madrid,Madrid,28068,verified,39,16496.41,2008-05-08
+709,CLI-0000709,Josefina Pelayo-Alvarez,55137851C,1986-05-08,josefina.pelayo-alvarez@example.com,+34 635 854 602,Málaga,Málaga,29038,verified,90,23129.51,2020-11-26
+710,CLI-0000710,Carmelita Sarabia Oliver,76202140N,1959-07-22,carmelita.sarabia@example.com,+34 713 446 671,Toledo,Toledo,45077,verified,30,,2023-08-11
+711,CLI-0000711,Jose Antonio Aristides Rico Maldonado,27611653S,2004-09-15,jose.antonio@example.com,+34 792 380 252,Girona,Girona,17078,verified,49,,2019-08-30
+712,CLI-0000712,José Antonio Domínguez Cal,05156775Z,1976-12-08,jose.antonio@example.com,+34 754 512 222,Huesca,Huesca,22015,verified,64,26201.48,2017-10-16
+713,CLI-0000713,Calisto Garzón Mercader,08263898K,1983-03-18,calisto.garzon@example.com,+34 664 129 690,Terrassa,Barcelona,08042,verified,100,,2018-11-05
+714,CLI-0000714,Teófila Vives Pascual,96844898V,1973-10-10,teofila.vives@example.com,+34 672 617 674,Madrid,Madrid,28066,verified,37,32590.12,2016-07-18
+715,CLI-0000715,Lucho Tejedor,97596017W,1983-12-25,lucho.tejedor@example.com,+34 649 681 336,A Coruña,A Coruña,15021,verified,35,23371.82,2017-05-25
+716,CLI-0000716,Felisa Donoso Morales,67434486G,2007-10-13,felisa.donoso@example.com,+34 650 354 382,Oviedo,Asturias,33066,verified,55,11201.67,2022-01-07
+717,CLI-0000717,Alejandro Jaume-Barroso,97158455S,2007-11-24,alejandro.jaume-barroso@example.com,+34 689 411 519,Valencia,Valencia,46011,verified,39,62685.68,2021-08-21
+718,CLI-0000718,Camila Espada Villar,63342739A,1989-03-11,camila.espada@example.com,+34 688 404 323,Madrid,Madrid,28042,verified,81,23878.40,2018-06-24
+719,CLI-0000719,Conrado Cerezo Sedano,16835081R,1991-03-22,conrado.cerezo@example.com,+34 606 097 768,Sevilla,Sevilla,41042,verified,40,,2015-08-18
+720,CLI-0000720,Amaya Murcia Ariza,51691768G,1943-11-14,amaya.murcia@example.com,+34 696 926 669,Cartagena,Murcia,30026,verified,9,52354.43,2023-10-08
+721,CLI-0000721,Yolanda Almazán Peña,56456846B,2007-07-12,yolanda.almazan4@example.com,+34 787 274 355,Córdoba,Córdoba,14025,verified,54,14083.47,2006-12-16
+722,CLI-0000722,Paco de Uriarte,44179843V,1987-06-03,paco.de@example.com,+34 674 947 204,Barcelona,Barcelona,08050,verified,47,9000.00,2011-12-25
+723,CLI-0000723,Calixto Galan,75383314D,1978-10-25,,+34 623 305 341,Bilbao,Bizkaia,48007,verified,69,,2013-06-30
+724,CLI-0000724,Juanito Sosa Ariza,84174830M,1984-07-09,juanito.sosa9@example.com,+34 656 849 669,Alicante,Alicante,03074,verified,53,29317.46,2010-06-15
+725,CLI-0000725,Jose Francisco Trujillo Criado,92406994D,1972-07-31,jose.francisco@example.com,+34 733 602 516,Getafe,Madrid,28048,verified,35,27084.23,2011-09-25
+726,CLI-0000726,Rufina Cristina Marin Clemente,40881104F,1989-08-09,rufina.cristina@example.com,+34 627 430 840,Almería,Almería,04015,verified,88,9000.00,2018-08-26
+727,CLI-0000727,Goyo Bilbao Lopez,54485457K,1986-08-14,goyo.bilbao@example.com,+34 715 795 837,A Coruña,A Coruña,15007,verified,39,46669.53,2021-08-29
+728,CLI-0000728,Rodolfo Cuervo Garcia,27301187A,1956-07-15,rodolfo.cuervo@example.com,+34 686 504 838,Logroño,La Rioja,26050,expired,3,50712.40,2015-06-10
+729,CLI-0000729,Che Uría Cornejo,62750125F,1971-05-13,che.uria@example.com,+34 727 626 612,Bilbao,Bizkaia,48019,verified,43,10846.48,2021-09-09
+730,CLI-0000730,Chucho Cánovas-Sacristán,31238969R,1973-12-04,chucho.canovas-sacristan@example.com,+34 608 689 322,Madrid,Madrid,28049,verified,88,34048.44,2005-08-10
+731,CLI-0000731,Abilio Salgado,43638240H,1986-09-04,abilio.salgado@example.com,+34 739 603 100,Vitoria-Gasteiz,Álava,01015,verified,90,,2019-06-11
+732,CLI-0000732,Amador de Estévez,67460668N,1989-06-05,amador.de@example.com,+34 638 416 105,A Coruña,A Coruña,15073,verified,28,,2021-01-04
+733,CLI-0000733,Claudio Barberá Ribera,17671828P,1982-09-11,claudio.barbera@example.com,+34 761 459 970,Cádiz,Cádiz,11037,verified,47,29067.02,2022-06-11
+734,CLI-0000734,Micaela Romero Ruano,74282968Y,1990-08-07,micaela.romero@example.com,+34 754 155 386,Málaga,Málaga,29068,verified,15,44066.00,2011-12-10
+735,CLI-0000735,Yéssica Galván Bustos,56451961W,1959-05-01,yessica.galvan@example.com,+34 602 121 119,Palma,Baleares,07065,verified,32,18516.32,2006-06-12
+736,CLI-0000736,Eduardo Venceslás Salinas Roman,22473124P,1969-04-24,eduardo.venceslas@example.com,+34 695 899 407,Barcelona,Barcelona,08026,verified,17,21169.47,2015-12-17
+737,CLI-0000737,Rita Morata Blázquez,29322007C,1995-01-23,rita.morata@example.com,+34 676 915 043,Barcelona,Barcelona,08067,verified,42,31693.05,2011-12-30
+738,CLI-0000738,Custodio Tejedor Alsina,29875937H,1976-09-13,custodio.tejedor@example.com,+34 793 588 080,Madrid,Madrid,28010,verified,28,,2009-06-25
+739,CLI-0000739,Maximiliano Abella Ródenas,43647533L,1982-06-25,maximiliano.abella@example.com,+34 698 921 243,Barcelona,Barcelona,08051,verified,31,24117.34,2009-12-27
+740,CLI-0000740,Anunciación Barriga-Briones,24343941M,1946-02-08,anunciacion.barriga-briones@example.com,+34 624 292 240,Teruel,Teruel,44073,verified,32,33650.22,2024-11-12
+741,CLI-0000741,Bernabé Sanmartín-Expósito,18916841P,1981-10-22,bernabe.sanmartin-exposito@example.com,+34 629 240 150,Madrid,Madrid,28071,verified,12,,2020-03-10
+742,CLI-0000742,Amando Bellido-Galván,77669723B,2001-08-21,amando.bellido-galvan@example.com,+34 697 292 017,Murcia,Murcia,30015,verified,44,33599.43,2014-03-27
+743,CLI-0000743,Berta Álvarez Arévalo,42755827T,1971-06-26,berta.alvarez@example.com,+34 623 901 815,Zaragoza,Zaragoza,50006,verified,29,50652.24,2006-05-20
+744,CLI-0000744,Saturnino Jesús Landa Villanueva,94188857Q,1966-09-12,saturnino.jesus@example.com,+34 785 856 611,Salamanca,Salamanca,37021,verified,5,17275.69,2010-08-15
+745,CLI-0000745,Magdalena Malo Angulo,92167098A,2007-09-13,magdalena.malo@example.com,+34 645 231 284,Pamplona,Navarra,31070,verified,61,,2015-06-17
+746,CLI-0000746,Alejandro Ayala Tolosa,37509542S,1970-10-15,alejandro.ayala8@example.com,+34 696 219 780,Valladolid,Valladolid,47057,verified,21,,2018-02-28
+747,CLI-0000747,Plinio Vila Aramburu,16681006A,1981-06-23,plinio.vila@example.com,+34 677 372 108,Valencia,Valencia,46029,pending,37,9000.00,2008-11-01
+748,CLI-0000748,Juanito Palacios Hidalgo,11564662D,1987-04-06,juanito.palacios@example.com,+34 681 553 311,Madrid,Madrid,28020,verified,48,11528.26,2019-03-04
+749,CLI-0000749,Chus Lastra Blázquez,96482095Q,1982-12-17,chus.lastra@example.com,+34 661 458 281,San Sebastián,Gipuzkoa,20008,verified,46,15939.59,2007-07-09
+750,CLI-0000750,Inés del Rosell,14035273Y,1954-05-27,ines.del@example.com,+34 761 373 059,Alcorcón,Madrid,28063,verified,76,11215.98,2024-02-26
+751,CLI-0000751,Marta Bayón Porta,69907324C,1984-03-19,marta.bayon@example.com,+34 664 759 278,Sevilla,Sevilla,41029,verified,62,18659.85,2018-11-05
+752,CLI-0000752,Andrea Pinilla Viana,38716419J,2007-07-19,,+34 621 675 571,Valladolid,Valladolid,47015,verified,25,33540.08,2023-09-13
+753,CLI-0000753,Ana Belén Quirós,53461764N,1979-03-29,ana.belen@example.com,+34 756 633 534,Valencia,Valencia,46045,verified,62,47215.13,2013-10-05
+754,CLI-0000754,Fernando Llopis Castillo,22899595J,1979-04-27,fernando.llopis@example.com,+34 649 361 176,Albacete,Albacete,02056,verified,60,19611.26,2012-09-07
+755,CLI-0000755,Eusebio Sureda Leal,55009202X,1975-11-20,eusebio.sureda@example.com,+34 691 246 348,San Sebastián,Gipuzkoa,20072,verified,32,59074.54,2023-02-26
+756,CLI-0000756,Vanesa Fernandez-Pallarès,33985086X,1974-01-06,vanesa.fernandez-pallares@example.com,+34 771 983 479,Albacete,Albacete,02074,verified,50,10272.77,2024-07-03
+757,CLI-0000757,Gabriel Ureña Villanueva,15318991W,1984-03-27,gabriel.urena@example.com,+34 736 562 066,Córdoba,Córdoba,14025,expired,39,,2019-07-07
+758,CLI-0000758,Tristán Jacobo Méndez Campoy,58481864V,2006-12-23,tristan.jacobo@example.com,+34 664 095 529,Terrassa,Barcelona,08051,pending,26,39379.51,2021-07-07
+759,CLI-0000759,Abraham Casal-Crespi,50043137J,1984-04-04,abraham.casal-crespi@example.com,+34 752 482 070,Barcelona,Barcelona,08075,verified,3,26991.03,2017-05-20
+760,CLI-0000760,Joaquina Roldan Barral,92189265K,1977-08-12,joaquina.roldan@example.com,+34 770 874 918,Valencia,Valencia,46073,verified,80,21406.14,2021-10-28
+761,CLI-0000761,Remigio Jover,43712064N,1987-06-12,remigio.jover@example.com,+34 734 384 513,Valencia,Valencia,46067,verified,18,24739.96,2016-10-26
+762,CLI-0000762,Elvira Casado Águila,81502014L,1966-02-25,elvira.casado@example.com,+34 634 525 661,Barcelona,Barcelona,08042,pending,1,59196.59,2014-12-05
+763,CLI-0000763,Leandra Miralles Romero,48534235A,1982-02-17,leandra.miralles@example.com,+34 658 282 352,Murcia,Murcia,30004,verified,26,52981.88,2012-12-11
+764,CLI-0000764,Josep del Rovira,72581240W,1982-12-07,josep.del@example.com,+34 686 620 797,Palma,Baleares,07002,verified,80,18261.00,2013-01-05
+765,CLI-0000765,Dionisio de Gracia,88308847W,1988-04-24,,+34 609 263 365,Oviedo,Asturias,33063,verified,31,14549.24,2015-08-01
+766,CLI-0000766,Íñigo de Esteve,72845543N,1975-05-11,inigo.de@example.com,+34 606 779 776,Madrid,Madrid,28024,verified,68,31689.06,2012-02-16
+767,CLI-0000767,Inés de Tello,72597202W,1957-04-13,ines.de@example.com,+34 674 606 254,Terrassa,Barcelona,08080,verified,18,37897.44,2020-12-24
+768,CLI-0000768,Lina Castillo Sáenz,16020528Q,1991-04-09,lina.castillo@example.com,+34 635 358 058,Alcorcón,Madrid,28045,verified,70,10184.71,2020-01-12
+769,CLI-0000769,Bartolomé Alemany Cruz,79101951Y,1991-02-19,bartolome.alemany@example.com,+34 728 451 752,Barcelona,Barcelona,08079,expired,69,27068.87,2007-12-12
+770,CLI-0000770,Eva Tamayo Capdevila,81118610W,1978-02-11,eva.tamayo@example.com,+34 716 419 864,Madrid,Madrid,28011,verified,1,57744.17,2013-09-01
+771,CLI-0000771,María Luisa Heras Gabaldón,38857903R,1980-05-22,maria.luisa@example.com,+34 688 806 501,Barcelona,Barcelona,08055,verified,25,,2010-02-03
+772,CLI-0000772,Jovita Miranda,25729861Z,1946-08-25,jovita.miranda@example.com,+34 794 926 917,Vigo,Pontevedra,36052,verified,33,11138.17,2005-12-06
+773,CLI-0000773,Chus Antúnez Barreda,41892488N,1952-04-04,,+34 640 259 008,Jaén,Jaén,23037,expired,51,51793.31,2008-12-30
+774,CLI-0000774,Candelaria Arévalo Amores,95089947N,1983-05-26,candelaria.arevalo@example.com,+34 680 667 730,Madrid,Madrid,28017,pending,38,67719.43,2005-04-21
+775,CLI-0000775,Leandro Sainz Muro,78091056F,1958-10-07,leandro.sainz@example.com,+34 644 852 599,Barcelona,Barcelona,08072,verified,18,38769.54,2012-09-14
+776,CLI-0000776,María Portillo Plaza,78987747C,1974-05-28,maria.portillo@example.com,+34 637 022 691,Valencia,Valencia,46035,verified,41,47873.10,2018-02-15
+777,CLI-0000777,Verónica del Navarrete,95130793X,1984-10-14,veronica.del@example.com,+34 709 108 654,Jaén,Jaén,23047,verified,46,36187.63,2012-10-22
+778,CLI-0000778,Benito Iniesta-Batalla,45591730A,1966-07-16,benito.iniesta-batalla@example.com,+34 609 385 461,Vitoria-Gasteiz,Álava,01046,verified,62,28599.27,2017-09-25
+779,CLI-0000779,Emiliano del Izaguirre,19093007V,1975-06-19,emiliano.del@example.com,+34 780 535 503,Palma,Baleares,07074,verified,52,18267.63,2024-03-10
+780,CLI-0000780,Estrella Vera Benitez Iniesta,55870303Z,1977-02-23,estrella.vera@example.com,+34 625 084 919,San Sebastián,Gipuzkoa,20075,verified,58,14364.38,2006-01-18
+781,CLI-0000781,Samuel Santiago Adán,12415862W,1986-09-30,samuel.santiago@example.com,+34 694 224 442,Madrid,Madrid,28065,verified,76,35060.60,2013-08-17
+782,CLI-0000782,Godofredo Ezequiel Orozco Mateu,33801454X,1983-12-14,godofredo.ezequiel@example.com,+34 649 280 909,Huelva,Huelva,21009,verified,76,17386.65,2019-01-07
+783,CLI-0000783,Luis Ángel Exposito-Cuadrado,29597694Y,1962-02-22,,+34 768 811 553,Madrid,Madrid,28061,verified,40,,2011-01-22
+784,CLI-0000784,Cecilia Suarez,60725369X,1991-07-01,cecilia.suarez@example.com,+34 753 788 783,Guadalajara,Guadalajara,19064,verified,29,32451.21,2012-06-06
+785,CLI-0000785,Catalina Montserrat Martínez Valdés,83602801D,1968-03-05,catalina.montserrat@example.com,+34 651 815 841,Cádiz,Cádiz,11053,verified,20,42407.27,2009-07-19
+786,CLI-0000786,Apolinar Mateu Frutos,24179055Y,1961-12-15,apolinar.mateu@example.com,+34 652 011 751,Córdoba,Córdoba,14060,verified,24,17546.37,2005-08-02
+787,CLI-0000787,Eliseo de Gargallo,29801310A,1984-02-17,eliseo.de@example.com,+34 640 903 412,Gijón,Asturias,33011,verified,49,43738.72,2014-05-20
+788,CLI-0000788,Jose Ignacio Rafael Gimenez Jerez,59164589X,1966-05-12,jose.ignacio@example.com,+34 651 244 006,Cartagena,Murcia,30003,pending,76,17497.65,2024-09-26
+789,CLI-0000789,Reynaldo Moraleda Cabo,78528206L,1938-12-21,reynaldo.moraleda@example.com,+34 673 591 887,Zaragoza,Zaragoza,50015,verified,41,18391.83,2012-03-20
+790,CLI-0000790,Ainara Miró Peinado,15591689N,1938-08-02,,+34 696 951 756,Granada,Granada,18016,verified,65,28780.13,2021-09-30
+791,CLI-0000791,Macarena Lobato Bernat,87441405M,1985-05-23,macarena.lobato@example.com,+34 773 253 927,Barcelona,Barcelona,08016,verified,72,23361.78,2010-09-24
+792,CLI-0000792,Silvestre Luis Agudo Real,64355582H,1946-12-22,silvestre.luis3@example.com,+34 619 985 873,Terrassa,Barcelona,08055,verified,47,,2009-12-21
+793,CLI-0000793,Teo Gutierrez Bonet,53179230X,1991-01-01,teo.gutierrez@example.com,+34 698 017 638,Sevilla,Sevilla,41046,verified,61,11630.96,2019-06-27
+794,CLI-0000794,Begoña Prado,86473446R,1946-05-23,begona.prado@example.com,+34 690 154 408,Ciudad Real,Ciudad Real,13026,verified,53,15086.04,2020-04-01
+795,CLI-0000795,Máximo Ignacio Bernat Martín,44904004T,1999-02-06,maximo.ignacio@example.com,+34 647 924 640,Barcelona,Barcelona,08002,verified,17,66559.98,2006-04-20
+796,CLI-0000796,Yago Galiano Bartolomé,76712756M,1993-01-23,yago.galiano@example.com,+34 795 187 836,Sevilla,Sevilla,41028,verified,70,9246.69,2010-07-23
+797,CLI-0000797,Constanza Vicens-Vallejo,92427443B,1987-02-01,constanza.vicens-vallejo@example.com,+34 727 916 880,Jerez de la Frontera,Cádiz,11049,verified,30,,2011-07-24
+798,CLI-0000798,Toni Leon Barberá,58272563Q,1970-02-12,toni.leon@example.com,+34 789 367 818,Logroño,La Rioja,26028,verified,23,,2011-03-12
+799,CLI-0000799,Jose Francisco Lozano Peña,46902673S,1977-08-16,jose.francisco@example.com,+34 727 318 724,Madrid,Madrid,28012,verified,51,31985.17,2022-09-30
+800,CLI-0000800,Jacobo Coll,61408653X,1978-01-20,jacobo.coll@example.com,+34 782 868 217,Zaragoza,Zaragoza,50035,verified,40,13617.11,2022-08-07

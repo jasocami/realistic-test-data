@@ -1,0 +1,51 @@
+id,name,tax_id,city,province,phone,email,lead_time_days,active
+1,Tierra Nuestra S.L.,B61833970,Palma,Baleares,+34 971 054 335,pedidos.tierra1@example.com,5,true
+2,Origen e Hijos S.L.,B46910308,Madrid,Madrid,+34 911 681 052,pedidos.origen2@example.com,1,false
+3,El Molinar Distribuciones S.L.,B61958255,Zaragoza,Zaragoza,+34 976 369 043,pedidos.el3@example.com,2,true
+4,Los Almendros Ibérica S.A.,A12871723,San Sebastián,Gipuzkoa,+34 943 524 667,pedidos.los4@example.com,2,true
+5,Puente Viejo Ibérica S.A.,A30226199,Sevilla,Sevilla,+34 954 518 207,pedidos.puente5@example.com,14,true
+6,Valdehermoso S.A.,A10492476,Madrid,Madrid,+34 910 042 269,pedidos.valdehermoso6@example.com,1,true
+7,La Almazara S.A.,A26742992,Melilla,Melilla,+34 952 148 582,pedidos.la7@example.com,2,false
+8,Tierra Nuestra e Hijos S.L.,B33765683,Madrid,Madrid,+34 912 948 284,pedidos.tierra8@example.com,5,true
+9,Ribera Alta e Hijos S.L.,B54631795,Barcelona,Barcelona,+34 930 061 881,pedidos.ribera9@example.com,10,true
+10,Sabor de Antaño S.A.,A80664203,Córdoba,Córdoba,+34 957 747 693,pedidos.sabor10@example.com,5,true
+11,Sabor de Antaño e Hijos S.L.,B24340789,Terrassa,Barcelona,+34 935 316 604,pedidos.sabor11@example.com,2,true
+12,Campo Sur S.L.,B89541240,Castellón de la Plana,Castellón,+34 964 509 205,pedidos.campo12@example.com,2,true
+13,Campo Sur Ibérica S.A.,A70010922,Alicante,Alicante,+34 965 338 822,pedidos.campo13@example.com,5,true
+14,Selecta Ibérica S.A.,A13463146,Madrid,Madrid,+34 919 675 985,pedidos.selecta14@example.com,2,true
+15,Monteclaro Distribuciones S.L.,B50553983,Huelva,Huelva,+34 959 737 739,pedidos.monteclaro15@example.com,7,true
+16,Doña Elena Ibérica S.A.,A92589606,Jaén,Jaén,+34 953 356 903,pedidos.dona16@example.com,5,true
+17,Campo Sur e Hijos S.L.,B95546048,Santa Cruz de Tenerife,Santa Cruz de Tenerife,+34 922 579 628,pedidos.campo17@example.com,1,false
+18,La Almazara S.L.,B60847411,Cartagena,Murcia,+34 968 861 205,pedidos.la18@example.com,3,true
+19,Vega Real Distribuciones S.L.,B88741641,Sabadell,Barcelona,+34 935 839 976,pedidos.vega19@example.com,5,true
+20,Origen S.L.,B41984452,Murcia,Murcia,+34 968 297 714,pedidos.origen20@example.com,3,true
+21,Valdehermoso S.L.,B71487441,León,León,+34 987 475 641,pedidos.valdehermoso21@example.com,2,true
+22,Los Almendros S.A.,A96080527,Madrid,Madrid,+34 918 195 167,pedidos.los22@example.com,3,true
+23,Doña Elena S.A.,A35702885,Oviedo,Asturias,+34 985 600 416,pedidos.dona23@example.com,2,true
+24,Vega Real Ibérica S.A.,A34507286,Zaragoza,Zaragoza,+34 976 481 209,pedidos.vega24@example.com,1,false
+25,Tierra Nuestra Ibérica S.A.,A21976713,Logroño,La Rioja,+34 941 618 352,pedidos.tierra25@example.com,5,true
+26,Selecta S.L.,B35269513,Vitoria-Gasteiz,Álava,+34 945 192 294,pedidos.selecta26@example.com,14,true
+27,Campo Sur Distribuciones S.L.,B14417604,Logroño,La Rioja,+34 941 619 443,pedidos.campo27@example.com,7,true
+28,La Almazara Distribuciones S.L.,B50748496,Sevilla,Sevilla,+34 954 886 344,pedidos.la28@example.com,2,true
+29,Vega Real e Hijos S.L.,B43927276,Huelva,Huelva,+34 959 273 616,pedidos.vega29@example.com,3,true
+30,Ribera Alta S.L.,B48536270,Valencia,Valencia,+34 966 802 127,pedidos.ribera30@example.com,7,true
+31,Los Almendros e Hijos S.L.,B30844696,Huelva,Huelva,+34 959 659 059,pedidos.los31@example.com,3,true
+32,Doña Elena e Hijos S.L.,B13800061,Oviedo,Asturias,+34 985 957 026,pedidos.dona32@example.com,1,true
+33,Los Almendros S.L.,B39213345,Santa Cruz de Tenerife,Santa Cruz de Tenerife,+34 922 394 666,pedidos.los33@example.com,5,true
+34,Buenamesa e Hijos S.L.,B42799829,Barcelona,Barcelona,+34 936 296 879,pedidos.buenamesa34@example.com,14,true
+35,La Almazara Ibérica S.A.,A48498854,Vigo,Pontevedra,+34 986 250 187,pedidos.la35@example.com,5,true
+36,Casa Robles Ibérica S.A.,A93804542,Salamanca,Salamanca,+34 923 869 613,pedidos.casa36@example.com,3,true
+37,Monteclaro e Hijos S.L.,B14065032,Córdoba,Córdoba,+34 957 307 371,pedidos.monteclaro37@example.com,5,true
+38,El Molinar S.L.,B57944827,Barcelona,Barcelona,+34 931 253 391,pedidos.el38@example.com,1,true
+39,Tierra Nuestra S.A.,A52551634,Córdoba,Córdoba,+34 957 949 983,pedidos.tierra39@example.com,5,true
+40,Buenamesa S.A.,A33019608,Madrid,Madrid,+34 912 725 646,pedidos.buenamesa40@example.com,2,true
+41,Buenamesa Ibérica S.A.,A32899597,Madrid,Madrid,+34 915 137 342,pedidos.buenamesa41@example.com,10,true
+42,La Almazara e Hijos S.L.,B24555786,Zaragoza,Zaragoza,+34 976 443 983,pedidos.la42@example.com,3,false
+43,Ribera Alta S.A.,A39832628,Zaragoza,Zaragoza,+34 976 069 415,pedidos.ribera43@example.com,1,true
+44,Los Almendros Distribuciones S.L.,B96940675,Jerez de la Frontera,Cádiz,+34 956 641 073,pedidos.los44@example.com,14,false
+45,Origen Distribuciones S.L.,B46843692,Salamanca,Salamanca,+34 923 555 064,pedidos.origen45@example.com,1,false
+46,Vega Real S.L.,B69920457,Málaga,Málaga,+34 952 210 554,pedidos.vega46@example.com,3,false
+47,Doña Elena S.L.,B81223755,Sevilla,Sevilla,+34 954 256 323,pedidos.dona47@example.com,7,true
+48,Monteclaro S.L.,B26787528,Madrid,Madrid,+34 918 826 588,pedidos.monteclaro48@example.com,2,true
+49,Buenamesa S.L.,B69480378,Málaga,Málaga,+34 952 743 756,pedidos.buenamesa49@example.com,5,true
+50,Ribera Alta Distribuciones S.L.,B40095355,Sabadell,Barcelona,+34 931 683 117,pedidos.ribera50@example.com,2,true

@@ -1,0 +1,901 @@
+id,school_id,student_code,full_name,birth_date,sex,stage,year_level,guardian_name,guardian_phone,guardian_email,enrolled_on
+1,9,ALU-000001,Gabriela Romero-Ferrando,2016-08-13,F,Primaria,4,Isidro Romero-Ferrando Barbero,+34 613 566 639,isidro.romero-ferrando@example.com,2024-09-12
+2,2,ALU-000002,Luisa Escribano Arellano,2015-09-25,F,Primaria,5,Marcelino Escribano Malo,+34 792 938 513,marcelino.escribano@example.com,2022-09-14
+3,10,ALU-000003,Jose Carlos Pancho Cabeza Porras,2008-12-01,M,Bachillerato,2,Marcio Carlos Carro,+34 623 688 797,marcio.carlos@example.com,2023-09-10
+4,4,ALU-000004,Quique Ariza Villalba,2013-08-02,M,ESO,1,Jesús Ariza Belmonte,+34 631 735 511,jesus.ariza3@example.com,2024-09-09
+5,1,ALU-000005,Lilia Blasco Zabala,2011-01-15,F,ESO,3,Custodia Blasco Pedrosa,+34 699 326 924,custodia.blasco@example.com,2022-09-09
+6,3,ALU-000006,José Manuel Prat Mancebo,2010-06-24,M,ESO,4,Viviana Gelabert Arrieta,+34 624 081 842,viviana.gelabert4@example.com,2023-09-15
+7,8,ALU-000007,Nereida Medina-Suarez,2011-05-20,F,ESO,3,Marianela Medina-Suarez Niño,+34 693 730 035,marianela.medina-suarez5@example.com,2024-09-11
+8,3,ALU-000008,Miguel Ángel Higueras,2011-07-07,M,ESO,3,Moisés Ángel Torre,+34 737 398 796,moises.angel@example.com,2022-09-09
+9,4,ALU-000009,Nacio Patiño Camino,2011-06-13,M,ESO,3,Ariel Patiño Perez,+34 640 770 357,,2024-09-14
+10,1,ALU-000010,Gregorio Hernandez,2008-10-15,M,Bachillerato,2,Balduino Serra Alcázar,+34 689 953 322,balduino.serra@example.com,2024-09-14
+11,6,ALU-000011,Faustino Morales Macías,2017-04-26,M,Primaria,3,Calisto Morales Guerrero,+34 654 408 343,calisto.morales@example.com,2024-09-14
+12,4,ALU-000012,Adora Marí Rios,2009-05-06,F,Bachillerato,1,Miguela Marí Álamo,+34 664 827 488,miguela.mari@example.com,2024-09-14
+13,3,ALU-000013,Gabriela Hernández Rey,2012-12-19,F,ESO,2,Buenaventura Hernández Carro,+34 770 789 107,buenaventura.hernandez@example.com,2023-09-10
+14,2,ALU-000014,Venceslás Clavero Villanueva,2019-12-15,M,Primaria,1,Ángela Clavero Salmerón,+34 645 067 006,angela.clavero@example.com,2024-09-11
+15,7,ALU-000015,Amador Uribe Carvajal,2014-04-05,M,Primaria,6,Nadia Uribe Azcona,+34 636 010 882,nadia.uribe4@example.com,2024-09-14
+16,5,ALU-000016,Silvio Palomo Otero,2011-01-10,M,ESO,3,Maricela Palomo Coello,+34 784 445 185,maricela.palomo@example.com,2023-09-13
+17,8,ALU-000017,Reinaldo Escribano Piña,2008-02-27,M,Bachillerato,2,Rocío Escribano Osorio,+34 652 002 460,rocio.escribano@example.com,2023-09-14
+18,4,ALU-000018,Natanael Manu Cerezo Saldaña,2010-08-27,M,ESO,3,Lope Dávila Hervás,+34 777 810 352,lope.davila@example.com,2024-09-12
+19,6,ALU-000019,Rafael Ochoa Domingo,2014-02-28,M,Primaria,6,Abigaíl Ochoa Delgado,+34 665 826 288,abigail.ochoa@example.com,2023-09-15
+20,2,ALU-000020,Herminio Domínguez Nieto,2016-05-08,M,Primaria,4,Evangelina Domínguez Escribano,+34 649 214 969,,2022-09-10
+21,10,ALU-000021,Fabián Omar Llopis Marqués,2009-08-02,M,Bachillerato,1,Cayetano Esteban Rodríguez,+34 663 568 412,,2024-09-15
+22,4,ALU-000022,Carmina Abril Clavero,2018-12-20,F,Primaria,2,Manuel Abril Cid,+34 720 521 019,manuel.abril@example.com,2022-09-15
+23,10,ALU-000023,Benigna Mena,2012-02-23,F,ESO,2,Roldán Mena Soto,+34 757 003 616,roldan.mena8@example.com,2024-09-12
+24,2,ALU-000024,Maximino Olivera Belmonte,2019-08-17,M,Primaria,1,Ciriaco Poza-Mancebo,+34 712 465 868,ciriaco.poza-mancebo@example.com,2022-09-11
+25,6,ALU-000025,Jordán Anaya Molins,2019-10-17,M,Primaria,1,Carmela Anaya Teruel,+34 734 549 898,carmela.anaya@example.com,2023-09-09
+26,5,ALU-000026,Teodora Adriana Garcés Sarmiento,2012-10-15,F,ESO,2,Fermín Adriana Bellido,+34 692 576 528,fermin.adriana@example.com,2024-09-09
+27,1,ALU-000027,Cosme Prudencio Yáñez Linares,2009-07-10,M,Bachillerato,1,Maximino Prudencio Cáceres,+34 607 490 266,,2023-09-09
+28,10,ALU-000028,Olga Montoya Herrera,2015-08-21,F,Primaria,4,Gervasio Montoya Tolosa,+34 635 717 232,gervasio.montoya@example.com,2024-09-13
+29,10,ALU-000029,Rosenda del Nicolás,2008-01-20,F,Bachillerato,2,Consuelo María Cristina Montoya Aznar,+34 703 598 371,consuelo.maria@example.com,2024-09-10
+30,5,ALU-000030,María Del Carmen Dávila Arco,2007-04-25,F,Bachillerato,2,Teodoro Del Hierro,+34 647 442 507,teodoro.del7@example.com,2024-09-12
+31,6,ALU-000031,Teodosio Perea Almansa,2015-02-12,M,Primaria,5,Esther Perea Moliner,+34 785 086 581,esther.perea@example.com,2024-09-15
+32,9,ALU-000032,María Belén Nazaret Vilaplana Martorell,2014-06-03,F,Primaria,6,Juana Belén Palau,+34 606 126 499,juana.belen@example.com,2023-09-09
+33,8,ALU-000033,Antonia Silvia Tejedor Agudo,2009-11-05,F,FP,1,Jennifer Silvia Quevedo,+34 693 604 691,jennifer.silvia@example.com,2022-09-10
+34,5,ALU-000034,Verónica Pizarro Amor,2015-06-07,F,Primaria,5,Florentina Pizarro Arellano,+34 693 918 402,florentina.pizarro@example.com,2022-09-13
+35,2,ALU-000035,Jose Francisco Custodio Montserrat Iniesta,2014-04-15,M,Primaria,6,Demetrio Francisco Andrés,+34 612 991 906,demetrio.francisco@example.com,2024-09-15
+36,9,ALU-000036,Roberta Aliaga Corral,2018-03-26,F,Primaria,1,Adelia Aliaga Castilla,+34 696 913 100,adelia.aliaga@example.com,2023-09-11
+37,8,ALU-000037,Miguel Mayol Haro,2007-08-05,M,FP,2,Olegario Pascual Pacheco Águila,+34 648 493 070,olegario.pascual@example.com,2023-09-11
+38,10,ALU-000038,Eduardo de Gomis,2016-07-24,M,Primaria,4,Eric de Mata,+34 610 550 209,eric.de@example.com,2023-09-13
+39,5,ALU-000039,Germán Vallejo Montserrat,2009-04-14,M,Bachillerato,1,Matías Vallejo Marin,+34 678 165 986,matias.vallejo@example.com,2022-09-11
+40,1,ALU-000040,Ariel Marti Canales,2012-02-22,M,ESO,2,Gastón Marti Somoza,+34 785 056 659,gaston.marti@example.com,2022-09-15
+41,4,ALU-000041,Graciela Sotelo Múgica,2016-12-03,F,Primaria,3,Socorro Sotelo Farré,+34 699 215 089,,2022-09-13
+42,6,ALU-000042,Constanza Naranjo-Hidalgo,2018-01-06,F,Primaria,1,Amado Naranjo-Hidalgo Marin,+34 714 561 565,amado.naranjo-hidalgo2@example.com,2024-09-15
+43,8,ALU-000043,Bonifacio Oliva-Alcántara,2008-06-26,M,Bachillerato,2,Manuel Régulo Acuña Tomas,+34 716 514 102,manuel.regulo@example.com,2024-09-15
+44,2,ALU-000044,Íñigo Canales Esteve,2014-11-10,M,Primaria,5,Vicenta Canales Barroso,+34 640 963 399,vicenta.canales@example.com,2024-09-12
+45,3,ALU-000045,Moisés Desiderio Olmo Ayllón,2009-05-16,M,Bachillerato,1,Salomón Desiderio Gonzalez,+34 759 207 929,salomon.desiderio@example.com,2022-09-09
+46,3,ALU-000046,Rodrigo Villaverde Viana,2007-06-01,M,Bachillerato,2,Mohamed Villaverde Blanes,+34 667 974 525,mohamed.villaverde@example.com,2022-09-13
+47,3,ALU-000047,Clementina Duque Montserrat,2013-07-30,F,ESO,1,Otilia Duque Palomino,+34 669 720 510,otilia.duque@example.com,2024-09-11
+48,2,ALU-000048,Pascual Jove,2014-05-24,M,Primaria,6,Genoveva Godoy,+34 624 301 454,,2024-09-11
+49,4,ALU-000049,Caridad de Ibañez,2013-06-09,F,ESO,1,Amílcar de Arana,+34 668 578 816,amilcar.de@example.com,2023-09-11
+50,4,ALU-000050,Nazaret Vicente Cortés,2018-05-08,M,Primaria,2,Flavio Vicente Marin,+34 639 710 661,flavio.vicente@example.com,2023-09-10
+51,7,ALU-000051,Esperanza Infante-Carbajo,2016-05-09,F,Primaria,4,Eva María Infante-Carbajo Solana,+34 631 630 920,eva.maria@example.com,2022-09-13
+52,6,ALU-000052,Priscila Ibáñez,2019-04-29,F,Primaria,1,Vanesa Ibáñez Rosselló,+34 659 202 858,vanesa.ibanez@example.com,2023-09-13
+53,5,ALU-000053,Teodosio Marín Esteban,2009-06-02,M,Bachillerato,1,Evaristo Marín Ayllón,+34 650 081 072,evaristo.marin@example.com,2023-09-14
+54,5,ALU-000054,Juan Caballero Gutierrez,2016-05-08,M,Primaria,4,Tamara Caballero Prieto,+34 731 534 564,tamara.caballero7@example.com,2023-09-14
+55,6,ALU-000055,Hilario Gomez Mayo,2017-08-18,M,Primaria,3,Yésica Gomez Bonilla,+34 704 397 900,yesica.gomez@example.com,2022-09-15
+56,2,ALU-000056,Edelmira Bernad Fuster,2019-05-18,F,Primaria,1,Rosa María Bernad Chamorro,+34 608 614 329,rosa.maria@example.com,2023-09-13
+57,4,ALU-000057,Ramiro López Ramos,2008-06-30,M,Bachillerato,2,Teodora López Pacheco,+34 772 026 937,teodora.lopez@example.com,2023-09-10
+58,10,ALU-000058,Agapito Pozuelo Roldán,2016-01-05,M,Primaria,4,Luciano Puig Fuertes,+34 627 578 380,luciano.puig@example.com,2024-09-13
+59,1,ALU-000059,Odalys Cornejo-Corral,2008-07-05,F,Bachillerato,2,Brígida Cornejo-Corral Tomé,+34 699 245 922,brigida.cornejo-corral@example.com,2023-09-15
+60,7,ALU-000060,Rosaura del Morcillo,2016-09-19,F,Primaria,4,Juan José del Tapia,+34 641 662 087,juan.jose@example.com,2024-09-09
+61,2,ALU-000061,Elena Pallarès Caparrós,2018-04-21,F,Primaria,2,Heliodoro Pallarès Solís,+34 656 226 418,heliodoro.pallares@example.com,2022-09-09
+62,2,ALU-000062,Ariel de Jaume,2018-04-25,M,Primaria,2,Mireia de Cepeda,+34 785 392 157,mireia.de@example.com,2024-09-12
+63,7,ALU-000063,Gala Zamora Roura,2019-01-05,F,Primaria,1,Eligia Zamora Moya,+34 606 258 372,eligia.zamora@example.com,2022-09-12
+64,2,ALU-000064,Victor Manuel Llamas Navarrete,2016-02-28,M,Primaria,4,Isabela Manuel Solana,+34 755 172 011,isabela.manuel@example.com,2024-09-15
+65,6,ALU-000065,Eladio Abel Arellano Méndez,2017-04-20,M,Primaria,3,Rufina Abel Cuéllar,+34 618 877 710,rufina.abel@example.com,2024-09-14
+66,6,ALU-000066,Fito Cobos Álamo,2017-01-01,M,Primaria,3,Marina Cobos Murcia,+34 620 660 991,marina.cobos@example.com,2023-09-14
+67,9,ALU-000067,Dionisia Rey,2015-11-03,F,Primaria,5,Marcio Rey Roma,+34 765 862 629,marcio.rey@example.com,2022-09-12
+68,1,ALU-000068,Marc Jaume Medina,2019-12-10,M,Primaria,1,Aurora Jaume Salgado,+34 758 821 883,aurora.jaume@example.com,2022-09-14
+69,10,ALU-000069,Teófilo Pujadas Mendez,2011-08-12,M,ESO,3,Victorino Pujadas Pulido,+34 633 704 214,victorino.pujadas@example.com,2023-09-09
+70,8,ALU-000070,Miguel Ramirez Godoy,2011-09-27,M,ESO,3,Angelina Ramirez Trujillo,+34 662 907 620,angelina.ramirez@example.com,2023-09-13
+71,10,ALU-000071,Magdalena Menéndez Bilbao,2019-04-20,F,Primaria,1,Lidia Noa Duarte Pina,+34 738 228 900,lidia.noa@example.com,2022-09-12
+72,9,ALU-000072,Bautista Edgardo Matas Varela,2014-03-07,M,Primaria,6,Custodia Niño Martin,+34 698 464 726,custodia.nino@example.com,2022-09-10
+73,4,ALU-000073,Juan Luis Cruz-Molins,2008-01-15,M,Bachillerato,1,Felicia Luis Pazos,+34 742 491 376,felicia.luis@example.com,2022-09-11
+74,9,ALU-000074,Aurelia Calleja Izquierdo,2017-11-15,F,Primaria,3,Alexandra Calleja Gracia,+34 617 155 408,alexandra.calleja@example.com,2023-09-11
+75,8,ALU-000075,Marciano Samuel Armengol Guitart,2013-12-25,M,ESO,1,Horacio Samuel Pinedo,+34 640 681 625,horacio.samuel@example.com,2022-09-10
+76,10,ALU-000076,Rafael Frutos-Cabanillas,2009-02-28,M,Bachillerato,1,Noa Frutos-Cabanillas Mascaró,+34 731 682 943,noa.frutos-cabanillas@example.com,2023-09-10
+77,1,ALU-000077,Gracia López Alfonso,2015-05-06,F,Primaria,5,Patricia López Portero,+34 770 076 891,patricia.lopez@example.com,2024-09-10
+78,1,ALU-000078,Jordi Alemany Almagro,2009-04-26,M,Bachillerato,1,Joaquín Alemany Expósito,+34 756 437 668,joaquin.alemany@example.com,2022-09-13
+79,4,ALU-000079,Candelario Arco Francisco,2009-11-21,M,Bachillerato,1,Angelino Cózar-Martín,+34 663 759 273,,2023-09-13
+80,2,ALU-000080,Amalia Casanovas,2015-04-22,F,Primaria,5,Victor Casanovas Valverde,+34 605 532 744,victor.casanovas@example.com,2023-09-10
+81,3,ALU-000081,Azucena Coronado Español,2009-06-02,F,FP,1,Ariadna Coronado Ferreras,+34 611 712 645,ariadna.coronado@example.com,2024-09-12
+82,1,ALU-000082,Consuelo del Galindo,2017-08-20,F,Primaria,3,Socorro del Cánovas,+34 719 468 607,socorro.del@example.com,2023-09-11
+83,5,ALU-000083,Segismundo Asenjo Palmer,2017-09-16,M,Primaria,2,Benjamín Asenjo Robledo,+34 698 483 068,benjamin.asenjo@example.com,2023-09-12
+84,10,ALU-000084,José Mari del Alcolea,2013-08-20,M,ESO,1,Alonso Mari Araujo,+34 629 075 659,alonso.mari@example.com,2024-09-14
+85,6,ALU-000085,Mónica Rodriguez Barco,2018-05-02,F,Primaria,2,Cándida Santamaría Carlos,+34 797 024 725,candida.santamaria@example.com,2022-09-15
+86,3,ALU-000086,Atilio Cid Salvador,2012-09-24,M,ESO,2,Elena Ramos Soler,+34 674 657 125,elena.ramos@example.com,2023-09-13
+87,5,ALU-000087,Paulina Arco,2014-03-31,F,Primaria,5,Simón Arco Pozuelo,+34 718 947 431,simon.arco@example.com,2023-09-13
+88,2,ALU-000088,Bernardino Perales Buendía,2015-03-08,M,Primaria,5,Priscila Perales Godoy,+34 644 982 782,priscila.perales@example.com,2023-09-13
+89,2,ALU-000089,Eusebia Romero Alsina,2015-06-04,F,Primaria,5,Severiano Romero Gutierrez,+34 708 816 685,severiano.romero@example.com,2023-09-14
+90,8,ALU-000090,Milagros Visitación Pedrosa Escolano,2011-10-03,F,ESO,3,Gerónimo Visitación Pozuelo,+34 626 196 642,geronimo.visitacion@example.com,2024-09-13
+91,8,ALU-000091,Ruperta Villena Valderrama,2008-04-10,F,FP,2,Fortunata Villena Yáñez,+34 687 511 691,fortunata.villena@example.com,2023-09-14
+92,5,ALU-000092,Anunciación Poza Jiménez,2008-01-17,F,Bachillerato,2,Juanito Poza Mata,+34 744 583 866,,2022-09-11
+93,6,ALU-000093,Alfonso Larrañaga Ripoll,2019-05-02,M,Primaria,1,Rosalina Larrañaga Gil,+34 710 788 422,rosalina.larranaga@example.com,2024-09-09
+94,9,ALU-000094,Lope Arias Gallardo,2015-07-09,M,Primaria,5,Andrés Amo Llabrés,+34 658 428 341,andres.amo@example.com,2023-09-11
+95,2,ALU-000095,Rosalía Posada Conde,2015-10-04,F,Primaria,5,Nazaret Posada Mínguez,+34 648 954 639,nazaret.posada@example.com,2022-09-10
+96,8,ALU-000096,Toribio Aznar Juan,2012-02-12,M,ESO,2,Noa Aznar Abella,+34 657 199 107,,2022-09-15
+97,4,ALU-000097,María Ángeles Canales Landa,2011-04-05,F,ESO,3,Marianela Jordá Gracia,+34 651 179 248,marianela.jorda@example.com,2022-09-10
+98,10,ALU-000098,Jose Carlos Hidalgo Ordóñez,2017-08-23,M,Primaria,3,Encarnacion Carnero,+34 632 688 550,,2023-09-11
+99,9,ALU-000099,Albano Cervera Pons,2017-10-16,M,Primaria,3,Adora Cervera Aguado,+34 614 606 443,adora.cervera@example.com,2022-09-12
+100,6,ALU-000100,Teresa del Santos,2014-09-25,F,Primaria,6,Danilo Lobato Ferreras,+34 732 916 988,danilo.lobato@example.com,2023-09-14
+101,7,ALU-000101,Fausto Castañeda Valls,2019-06-17,M,Primaria,1,Crescencia Castañeda Aguado,+34 780 179 031,crescencia.castaneda@example.com,2024-09-09
+102,9,ALU-000102,Elba Antón Abad,2016-01-19,F,Primaria,4,Charo Larrea Pardo,+34 631 838 747,charo.larrea@example.com,2023-09-15
+103,3,ALU-000103,Alejo Bosch Priego,2012-12-23,M,ESO,2,Vasco Bosch Mármol,+34 605 382 467,vasco.bosch8@example.com,2024-09-10
+104,6,ALU-000104,Susanita Vilalta-Calzada,2018-03-06,F,Primaria,2,María Teresa Vilalta-Calzada Montaña,+34 628 089 825,maria.teresa@example.com,2023-09-13
+105,2,ALU-000105,Edelmiro Amor Meléndez,2018-01-16,M,Primaria,2,Anastasio Amor Folch,+34 647 747 010,anastasio.amor@example.com,2022-09-09
+106,10,ALU-000106,Oriana Concha Iriarte Juan,2009-06-12,F,Bachillerato,1,Luna Concha Toro,+34 660 513 880,luna.concha@example.com,2022-09-13
+107,8,ALU-000107,Paulino Galán Amor,2013-03-04,M,ESO,1,Bárbara Granados Pedrosa,+34 715 680 776,barbara.granados@example.com,2024-09-14
+108,5,ALU-000108,Mónica Aragón Alegria,2007-12-24,F,Bachillerato,2,Roque Exposito Vall,+34 667 566 307,roque.exposito@example.com,2023-09-09
+109,8,ALU-000109,Feliciana Amigó Mora,2009-01-27,F,FP,1,Pío Amigó Plana,+34 663 983 354,pio.amigo@example.com,2023-09-09
+110,8,ALU-000110,Angélica Madrid Blanca,2011-04-28,F,ESO,2,Esperanza Madrid Bernal,+34 685 740 911,esperanza.madrid@example.com,2024-09-11
+111,5,ALU-000111,María Dolores Inés Anaya Uría,2011-05-11,F,ESO,3,Lalo Dolores Bayo,+34 653 835 121,lalo.dolores@example.com,2022-09-10
+112,10,ALU-000112,Maximiliano Geraldo Dávila Villalba,2012-07-09,M,ESO,1,Sabas Geraldo Ropero,+34 635 003 244,sabas.geraldo@example.com,2023-09-12
+113,2,ALU-000113,Emperatriz Fernandez Acuña,2016-07-08,F,Primaria,4,Cintia Fernandez Lara,+34 781 688 210,cintia.fernandez@example.com,2023-09-09
+114,3,ALU-000114,Manolo Baldomero Sevilla Roldan,2011-01-05,M,ESO,3,Isidora Quirós Echevarría,+34 766 136 192,isidora.quiros@example.com,2024-09-10
+115,4,ALU-000115,Noa Blasco Nicolás,2019-10-03,F,Primaria,1,Encarnación Blasco Lladó,+34 672 522 209,encarnacion.blasco@example.com,2024-09-09
+116,6,ALU-000116,Jordán Canals Arjona,2018-11-17,M,Primaria,1,María Cristina Canals Gual,+34 659 231 710,maria.cristina3@example.com,2022-09-09
+117,3,ALU-000117,Purificación Fidela Alvarez Solera,2011-01-02,F,ESO,2,Dimas Fidela León,+34 613 308 830,,2024-09-14
+118,1,ALU-000118,Florencia Lladó,2011-03-23,F,ESO,3,Trinidad Lladó Isern,+34 695 223 590,trinidad.llado@example.com,2024-09-09
+119,6,ALU-000119,Severo Bosch,2018-02-06,M,Primaria,2,Blanca Fajardo Bellido,+34 764 762 283,blanca.fajardo@example.com,2022-09-10
+120,1,ALU-000120,Eleuterio Barros Avilés,2008-08-20,M,Bachillerato,2,Curro Javier Crespo Piquer,+34 646 931 961,curro.javier@example.com,2022-09-10
+121,1,ALU-000121,Trinidad Nadia Palmer Tovar,2011-02-28,F,ESO,3,Luisa Nadia Iriarte,+34 716 927 813,luisa.nadia@example.com,2023-09-09
+122,3,ALU-000122,Odalis Luís Aroca,2012-02-08,F,ESO,2,Borja Luís Vilaplana,+34 752 738 140,borja.luis@example.com,2022-09-13
+123,9,ALU-000123,Gabriel Perelló Frías,2019-02-11,M,Primaria,1,Genoveva Hilda Bonet Cabrera,+34 757 740 408,genoveva.hilda@example.com,2023-09-13
+124,2,ALU-000124,Gracia Corral Carranza,2019-02-14,F,Primaria,1,Atilio Corral Linares,+34 799 858 932,atilio.corral@example.com,2022-09-14
+125,7,ALU-000125,Jose Antonio Ponce Moliner,2019-10-15,M,Primaria,1,Eric Antonio Caballero,+34 705 675 639,eric.antonio8@example.com,2023-09-12
+126,7,ALU-000126,Nacio Zamora Vicente,2014-10-03,M,Primaria,6,Águeda Alberola Toro,+34 758 794 722,agueda.alberola@example.com,2023-09-12
+127,8,ALU-000127,Alonso Alsina Clemente,2008-07-29,M,FP,2,Guadalupe Alsina Flor,+34 665 755 038,guadalupe.alsina@example.com,2022-09-13
+128,3,ALU-000128,Magdalena Riera Tomas,2008-12-06,F,Bachillerato,2,Cándido Amores León,+34 606 832 515,candido.amores@example.com,2022-09-11
+129,3,ALU-000129,Nuria Gargallo,2009-12-25,F,Bachillerato,1,Agustina Gargallo Paredes,+34 783 532 033,agustina.gargallo@example.com,2024-09-09
+130,3,ALU-000130,Julie Sáez Pino,2008-06-12,F,Bachillerato,2,Paloma Sáez Rocha,+34 608 191 927,paloma.saez@example.com,2023-09-15
+131,10,ALU-000131,Alfonso Riera Mascaró,2008-04-28,M,Bachillerato,2,Nicolás Riera Corominas,+34 664 260 825,nicolas.riera@example.com,2024-09-15
+132,10,ALU-000132,Brígida Barrena-Gonzalo,2013-11-14,F,ESO,1,América Barrena-Gonzalo Paniagua,+34 668 396 519,,2022-09-13
+133,3,ALU-000133,Aura Roldán Mínguez,2009-06-09,F,FP,1,María Cristina Roldán Cases,+34 736 532 995,maria.cristina@example.com,2023-09-15
+134,2,ALU-000134,Blanca del Olivares,2016-09-24,F,Primaria,4,Guiomar del Vives,+34 638 008 494,guiomar.del@example.com,2022-09-15
+135,7,ALU-000135,Nydia de Benavides,2018-07-10,F,Primaria,2,Ignacia Suárez Rodríguez,+34 614 294 515,ignacia.suarez@example.com,2022-09-10
+136,7,ALU-000136,Bienvenida Cid Rosa,2014-04-25,F,Primaria,6,Ani Cid Caro,+34 774 655 534,,2024-09-15
+137,3,ALU-000137,Isaura del Sans,2008-02-11,F,Bachillerato,2,Macario del Martorell,+34 779 785 456,macario.del@example.com,2022-09-14
+138,2,ALU-000138,Santiago Carreras Franco,2014-04-14,M,Primaria,6,Leire Carreras Asensio,+34 791 835 946,leire.carreras@example.com,2022-09-13
+139,7,ALU-000139,Marita Niño,2018-06-15,F,Primaria,2,Anna Niño Pedro,+34 658 861 207,anna.nino@example.com,2022-09-10
+140,2,ALU-000140,Félix Beltran Garcia,2019-03-02,M,Primaria,1,Fortunato Beltran Quintanilla,+34 754 401 113,fortunato.beltran@example.com,2024-09-15
+141,10,ALU-000141,Ildefonso Mariano Arnau Mata,2016-01-16,M,Primaria,4,Adolfo Mariano Lopez,+34 661 481 491,adolfo.mariano@example.com,2024-09-15
+142,1,ALU-000142,Octavio Corbacho Calderón,2018-06-08,M,Primaria,2,Loida Corbacho Santiago,+34 605 543 351,loida.corbacho@example.com,2024-09-15
+143,10,ALU-000143,Leyre Calvo,2018-03-12,F,Primaria,2,Piedad Calvo Salas,+34 722 604 219,piedad.calvo@example.com,2024-09-14
+144,8,ALU-000144,Isidora Fuster,2011-09-10,F,ESO,2,Pilar Fuster Mínguez,+34 621 201 989,pilar.fuster@example.com,2024-09-10
+145,10,ALU-000145,Anselmo Gallardo Barriga,2009-07-27,M,Bachillerato,1,Eloísa Gallardo Téllez,+34 620 946 637,eloisa.gallardo@example.com,2024-09-12
+146,7,ALU-000146,Concha Encarnación Gálvez Aramburu,2015-11-13,F,Primaria,5,Toribio Dimas Arcos Agullo,+34 775 372 359,toribio.dimas@example.com,2024-09-13
+147,6,ALU-000147,Hilario Peña Palmer,2019-03-18,M,Primaria,1,Basilio Granados Parra,+34 617 756 939,basilio.granados@example.com,2024-09-15
+148,9,ALU-000148,Anastasio Ponce Alarcón,2017-10-24,M,Primaria,3,Cintia Ponce Ferrando,+34 795 034 094,,2023-09-11
+149,10,ALU-000149,Javier Cuervo Galvez,2015-10-10,M,Primaria,5,Eutropio Yáñez,+34 655 001 820,,2024-09-13
+150,4,ALU-000150,Pilar Camps Arribas,2012-05-16,F,ESO,1,Régulo Pedrosa Vicente,+34 723 724 162,regulo.pedrosa@example.com,2023-09-13
+151,9,ALU-000151,Isabel del Vega,2017-08-06,F,Primaria,2,Lino del Comas,+34 734 703 156,,2023-09-10
+152,8,ALU-000152,Teodosio Mur Sosa,2009-06-11,M,Bachillerato,1,Luciana Mur Bárcena,+34 674 168 008,luciana.mur@example.com,2022-09-11
+153,10,ALU-000153,Jesús Jiménez García,2012-10-27,M,ESO,2,Belén Jiménez Rovira,+34 650 821 329,belen.jimenez@example.com,2024-09-09
+154,3,ALU-000154,Yago Danilo Casado Codina,2007-08-19,M,Bachillerato,2,Hector Danilo Tur,+34 628 261 212,hector.danilo@example.com,2023-09-15
+155,6,ALU-000155,Nicolasa Benet Aguilar,2016-12-18,F,Primaria,4,Manu Benet Viña,+34 664 790 384,manu.benet@example.com,2023-09-13
+156,9,ALU-000156,Horacio Mariano Real Palomino,2016-08-24,M,Primaria,4,Vanesa Mariano Valle,+34 748 713 747,vanesa.mariano@example.com,2024-09-12
+157,7,ALU-000157,Emelina Pallarès Casado,2014-06-05,F,Primaria,6,Lourdes Pallarès Gallego,+34 619 791 326,lourdes.pallares@example.com,2024-09-14
+158,5,ALU-000158,Lucía Falcón Mayoral,2007-01-18,F,Bachillerato,2,Lupe Falcón Portero,+34 692 811 905,lupe.falcon@example.com,2022-09-10
+159,1,ALU-000159,Isa Azcona Lorenzo,2016-06-07,F,Primaria,4,Venceslás Azcona Laguna,+34 640 216 522,venceslas.azcona@example.com,2024-09-12
+160,7,ALU-000160,María Cristina Sotelo Cobos,2014-03-30,F,Primaria,6,Hilario Cristina Escalona,+34 695 942 412,hilario.cristina@example.com,2023-09-12
+161,1,ALU-000161,Cruz Batlle Yuste,2011-08-25,F,ESO,2,Evita Batlle Sanmiguel,+34 682 387 391,evita.batlle@example.com,2022-09-12
+162,7,ALU-000162,Bibiana Fuentes,2018-11-23,F,Primaria,1,Maura Fuentes Campillo,+34 753 778 949,,2023-09-12
+163,1,ALU-000163,Isidro Ureña-Pol,2013-05-19,M,Primaria,6,Daniel Ureña-Pol Casanova,+34 635 226 747,daniel.urena-pol@example.com,2024-09-09
+164,3,ALU-000164,Herberto Maestre Recio,2013-05-08,M,ESO,1,Simón Maestre Marqués,+34 747 492 731,simon.maestre@example.com,2023-09-10
+165,1,ALU-000165,Porfirio Viña Merino,2009-05-02,M,Bachillerato,1,Pelayo Villaverde Pazos,+34 781 752 340,pelayo.villaverde@example.com,2022-09-13
+166,3,ALU-000166,Rufino Carreras,2008-01-17,M,Bachillerato,2,Verónica Carreras Velázquez,+34 607 658 132,veronica.carreras@example.com,2023-09-12
+167,7,ALU-000167,Piedad de Villalobos,2015-05-04,F,Primaria,4,Rodrigo de Castañeda,+34 619 377 807,rodrigo.de@example.com,2024-09-11
+168,2,ALU-000168,Andrea Carranza Reina,2013-10-30,F,Primaria,6,Amalia Carranza Carlos,+34 701 991 923,amalia.carranza@example.com,2024-09-09
+169,8,ALU-000169,Azucena Bosch Mulet,2011-02-03,F,ESO,2,Pía Bosch Jove,+34 757 826 421,pia.bosch@example.com,2022-09-13
+170,6,ALU-000170,Marcela Molins,2015-03-30,F,Primaria,5,Arcelia Molins Vives,+34 686 437 861,arcelia.molins@example.com,2024-09-11
+171,3,ALU-000171,Jose Antonio del Benavides,2009-10-18,M,ESO,4,Marino Antonio Garay,+34 665 419 232,,2024-09-10
+172,5,ALU-000172,Tamara Lozano Priego,2011-01-30,F,ESO,3,Ciriaco Lozano Feijoo,+34 660 458 853,ciriaco.lozano@example.com,2022-09-14
+173,1,ALU-000173,Encarna Calvet,2015-04-28,F,Primaria,5,Eli Escrivá Jódar,+34 705 629 864,eli.escriva7@example.com,2024-09-10
+174,9,ALU-000174,Anabel Azahar Mesa Gomez,2017-10-22,F,Primaria,2,Eli Azahar Berenguer,+34 639 566 967,eli.azahar@example.com,2023-09-14
+175,10,ALU-000175,Reyes Merino Zabaleta,2013-04-21,M,ESO,1,Carlito Merino Iñiguez,+34 685 497 727,carlito.merino@example.com,2022-09-11
+176,7,ALU-000176,Quique Bautista Aguirre,2015-12-05,M,Primaria,5,Perla Bautista Espejo,+34 725 597 913,perla.bautista@example.com,2024-09-12
+177,8,ALU-000177,Cándido Vila Coello,2010-01-22,M,ESO,3,Ana Sofía Vila Amigó,+34 623 639 452,ana.sofia@example.com,2022-09-11
+178,2,ALU-000178,Régulo Vicente Marquez,2016-04-10,M,Primaria,4,Simón Vicente Sainz,+34 712 436 197,simon.vicente5@example.com,2024-09-14
+179,10,ALU-000179,Cándido Calvo Chamorro,2008-07-19,M,Bachillerato,1,Edelmiro Mena-Reguera,+34 767 779 602,edelmiro.mena-reguera@example.com,2023-09-10
+180,6,ALU-000180,Isidro Mayol-Gomila,2017-01-07,M,Primaria,3,Teófilo Mayol-Gomila Jover,+34 791 716 482,,2023-09-14
+181,3,ALU-000181,Lourdes Almagro Gargallo,2012-11-10,F,ESO,1,Eusebio Almagro Rosado,+34 663 110 581,,2024-09-11
+182,10,ALU-000182,Rafaela Ribes Gordillo,2010-12-15,F,ESO,4,Heriberto Ribes Jaume,+34 735 555 492,heriberto.ribes@example.com,2023-09-10
+183,10,ALU-000183,Pascual Leon,2012-08-11,M,ESO,1,Ariel Jáuregui-Dueñas,+34 694 407 247,ariel.jauregui-duenas@example.com,2023-09-12
+184,1,ALU-000184,Teobaldo Tapia Noriega,2009-01-17,M,Bachillerato,1,Perlita Tapia Salinas,+34 601 597 713,,2024-09-15
+185,6,ALU-000185,Custodia Manjón Diéguez,2019-11-18,F,Primaria,1,Diego Manjón Cuevas,+34 692 742 055,diego.manjon@example.com,2023-09-15
+186,9,ALU-000186,Geraldo Heraclio Arroyo Baró,2016-08-07,M,Primaria,4,Santos Heraclio Guerra,+34 620 819 698,,2024-09-14
+187,3,ALU-000187,Raquel Nélida Elorza Vázquez,2011-04-30,F,ESO,3,Hipólito Nélida Niño,+34 712 958 071,hipolito.nelida@example.com,2024-09-10
+188,5,ALU-000188,Fito Río-Leon,2019-06-12,M,Primaria,1,Íngrid Río-Leon Llopis,+34 683 094 246,ingrid.rio-leon@example.com,2024-09-10
+189,7,ALU-000189,Ale del Cadenas,2015-05-19,M,Primaria,5,Gil del Llanos,+34 651 620 081,gil.del@example.com,2023-09-15
+190,7,ALU-000190,Roberto Che Cuesta Martinez,2015-07-16,M,Primaria,5,Ricarda Tejada Solsona,+34 619 646 568,ricarda.tejada@example.com,2023-09-14
+191,6,ALU-000191,Susana Vives Martínez,2017-06-16,F,Primaria,3,Mirta Vives Arribas,+34 647 010 391,mirta.vives5@example.com,2023-09-09
+192,5,ALU-000192,Florentina Gras Samper,2008-03-08,F,Bachillerato,2,Estrella Gras Lloret,+34 645 040 870,estrella.gras@example.com,2022-09-12
+193,9,ALU-000193,Hilda Cano Ibáñez,2015-11-02,F,Primaria,5,Gloria Antón Piña,+34 691 323 988,gloria.anton@example.com,2023-09-10
+194,4,ALU-000194,Sandalio Hernando Jáuregui Iglesias,2008-04-23,M,Bachillerato,2,África Hernando Gutierrez,+34 726 822 850,africa.hernando@example.com,2023-09-14
+195,3,ALU-000195,Julie Montenegro Salinas,2009-01-06,F,FP,1,María Cristina Montenegro Quero,+34 608 127 747,maria.cristina@example.com,2024-09-10
+196,5,ALU-000196,Salud Vall Salvà,2013-03-24,F,ESO,1,Áurea Vall Pallarès,+34 777 049 031,,2024-09-13
+197,6,ALU-000197,Jacinta Paniagua Oliva,2014-09-22,F,Primaria,6,Encarnacion Paniagua Verdú,+34 618 877 938,encarnacion.paniagua@example.com,2023-09-09
+198,6,ALU-000198,Genoveva Lillo Sandoval,2016-03-08,F,Primaria,4,Macarena Lillo Cánovas,+34 618 770 629,macarena.lillo@example.com,2024-09-11
+199,10,ALU-000199,Aurelio Paredes Aparicio,2008-12-28,M,Bachillerato,2,Julie Paredes Peñalver,+34 764 764 230,julie.paredes@example.com,2022-09-13
+200,10,ALU-000200,Tomasa Caro Parra,2018-07-29,F,Primaria,2,Azahar Caro Gimeno,+34 627 926 873,azahar.caro@example.com,2023-09-11
+201,1,ALU-000201,Omar Heras Cruz,2016-12-30,M,Primaria,4,Aureliano Heras Macías,+34 657 534 463,aureliano.heras@example.com,2022-09-09
+202,10,ALU-000202,Alexandra Tello Matas,2009-09-01,F,Bachillerato,1,Gabriela Javiera Baró Ferrán,+34 634 834 603,gabriela.javiera@example.com,2022-09-12
+203,1,ALU-000203,Selena Uribe Frías,2015-10-17,F,Primaria,5,Teobaldo Uribe Parejo,+34 769 186 273,teobaldo.uribe@example.com,2023-09-13
+204,10,ALU-000204,Felicidad Porras Galvez,2014-09-27,F,Primaria,6,Teresa Arroyo Torrecilla,+34 685 890 520,teresa.arroyo@example.com,2024-09-15
+205,2,ALU-000205,Germán Corominas Peñalver,2017-04-07,M,Primaria,3,Estefanía Corominas Paz,+34 720 408 365,estefania.corominas@example.com,2023-09-14
+206,3,ALU-000206,Reyna Daza Ribes,2009-11-24,F,FP,1,Celestina Daza Vara,+34 635 033 376,celestina.daza@example.com,2024-09-14
+207,8,ALU-000207,Bernardita Coca Sureda,2008-03-28,F,Bachillerato,2,Natalio Coca Osorio,+34 726 961 915,natalio.coca@example.com,2022-09-09
+208,7,ALU-000208,Gustavo Yáñez Alcázar,2018-09-19,M,Primaria,2,Isaías Yáñez Tomé,+34 786 758 507,isaias.yanez@example.com,2022-09-14
+209,4,ALU-000209,Carla Fuertes Manzano,2008-04-29,F,Bachillerato,2,Valero Aroca-Lluch,+34 637 809 896,valero.aroca-lluch@example.com,2022-09-13
+210,7,ALU-000210,Filomena Zabaleta Andreu,2015-10-07,F,Primaria,4,Natalia Zabaleta Valdés,+34 756 015 559,natalia.zabaleta@example.com,2022-09-12
+211,2,ALU-000211,Abigaíl Cuéllar Fabregat,2015-08-04,F,Primaria,5,Olalla Cuéllar Martí,+34 649 086 750,olalla.cuellar2@example.com,2023-09-13
+212,2,ALU-000212,María Pilar Azcona,2013-10-27,F,Primaria,6,Pepita Pilar Villalobos,+34 769 627 746,pepita.pilar@example.com,2023-09-10
+213,7,ALU-000213,Benito Quintero,2018-01-21,M,Primaria,2,Tadeo Quintero Planas,+34 668 267 772,tadeo.quintero7@example.com,2023-09-14
+214,8,ALU-000214,Inés Ayllón Vilanova,2008-02-01,F,Bachillerato,2,Julio Ayllón Abril,+34 784 598 531,julio.ayllon@example.com,2022-09-12
+215,9,ALU-000215,Octavio Morán Aguilera,2016-03-26,M,Primaria,3,Jose Miguel Morán Iglesia,+34 650 534 860,jose.miguel@example.com,2022-09-11
+216,9,ALU-000216,Evelia Carlota Bayo Mínguez,2019-06-14,F,Primaria,1,Esther Carlota Jover,+34 690 351 463,esther.carlota@example.com,2022-09-13
+217,10,ALU-000217,Esmeralda de Aroca,2013-06-04,F,Primaria,6,Ruperto de Benito,+34 742 725 733,ruperto.de@example.com,2022-09-15
+218,9,ALU-000218,Demetrio Castilla Garrido,2015-02-19,M,Primaria,5,Nazario Castilla Castellanos,+34 733 645 614,nazario.castilla@example.com,2022-09-10
+219,4,ALU-000219,Gertrudis Evelia Marí Jerez,2017-04-09,F,Primaria,3,Tamara Evelia Escolano,+34 795 496 282,tamara.evelia@example.com,2023-09-13
+220,10,ALU-000220,Jose Miguel de Cuesta,2010-01-04,M,ESO,4,Ruperta Riquelme Olivares,+34 761 136 064,,2022-09-13
+221,3,ALU-000221,Sarita Borrell-Bonet,2009-05-12,F,Bachillerato,1,Azeneth Borrell-Bonet Luís,+34 631 014 882,azeneth.borrell-bonet@example.com,2024-09-13
+222,1,ALU-000222,Eugenio Gisbert Quirós,2018-11-26,M,Primaria,2,Cipriano Gisbert Plana,+34 655 737 995,,2022-09-09
+223,2,ALU-000223,Margarita Castañeda Ferrera,2015-06-09,F,Primaria,4,Amaya Castañeda Barrios,+34 679 446 153,amaya.castaneda@example.com,2024-09-15
+224,7,ALU-000224,Eladio Robledo,2014-10-12,M,Primaria,5,Leticia Rodríguez,+34 738 930 587,leticia.rodriguez@example.com,2024-09-15
+225,5,ALU-000225,Urbano Almansa Coloma,2009-09-04,M,ESO,4,Adelia Almansa Ferreras,+34 785 285 763,adelia.almansa@example.com,2024-09-13
+226,8,ALU-000226,Juanito Morales,2009-11-18,M,FP,1,María Belén Morales Cabañas,+34 621 291 377,maria.belen@example.com,2022-09-10
+227,10,ALU-000227,Jose Ramón Barba Becerra,2018-02-08,M,Primaria,2,Alberto Ramón Artigas,+34 796 974 348,alberto.ramon@example.com,2022-09-14
+228,7,ALU-000228,Lourdes Rosalina Capdevila Planas,2014-04-13,F,Primaria,6,Bernabé Rosalina Delgado,+34 676 126 806,bernabe.rosalina@example.com,2022-09-14
+229,6,ALU-000229,Felix Carbonell,2017-04-24,M,Primaria,3,Florencio Carbonell Conde,+34 663 386 199,florencio.carbonell@example.com,2023-09-09
+230,2,ALU-000230,Sebastian Roque Gómez Vives,2014-07-28,M,Primaria,5,Reyes Ropero Godoy,+34 650 123 551,reyes.ropero@example.com,2022-09-10
+231,10,ALU-000231,Primitivo Hernán Agudo Peinado,2009-07-06,M,Bachillerato,1,Carmelo Hernán Ortiz,+34 615 416 482,,2023-09-11
+232,6,ALU-000232,Edmundo Losa Gargallo,2017-04-08,M,Primaria,3,Pastora Losa Oliveras,+34 657 334 991,pastora.losa@example.com,2022-09-12
+233,1,ALU-000233,Francisca Palomino Fiol,2009-04-01,F,Bachillerato,1,Vanesa Palomino Sabater,+34 642 956 972,vanesa.palomino@example.com,2023-09-15
+234,6,ALU-000234,Úrsula Salgado Chico,2016-02-09,F,Primaria,4,Melania Salgado Morell,+34 758 241 683,melania.salgado@example.com,2023-09-12
+235,1,ALU-000235,Eutropio Abril,2014-06-21,M,Primaria,5,Aarón Abril Juárez,+34 746 061 982,aaron.abril@example.com,2024-09-09
+236,10,ALU-000236,Otilia Mireia Blazquez Benito,2008-09-24,F,Bachillerato,1,Amparo Mireia Gordillo,+34 650 494 079,amparo.mireia@example.com,2024-09-11
+237,1,ALU-000237,Carmelo Cuesta Fábregas,2008-06-22,M,Bachillerato,2,Leandra Cuesta Varela,+34 665 120 694,leandra.cuesta@example.com,2023-09-13
+238,8,ALU-000238,Martina Domingo Barberá,2009-03-15,F,FP,1,Flavia Pinilla Pineda,+34 796 839 177,flavia.pinilla@example.com,2022-09-15
+239,3,ALU-000239,Wilfredo Torrents Casas,2010-07-28,M,ESO,3,Roberta Torrents Miró,+34 798 025 710,roberta.torrents@example.com,2023-09-12
+240,6,ALU-000240,Pilar Trujillo,2014-05-11,F,Primaria,6,Loida Trujillo Salas,+34 610 651 772,loida.trujillo@example.com,2024-09-12
+241,7,ALU-000241,Haydée Alegria Cabello,2014-05-17,F,Primaria,6,Alejo Alegria Paz,+34 607 421 982,alejo.alegria@example.com,2023-09-09
+242,10,ALU-000242,Sabina Jaén-Carrera,2009-02-21,F,Bachillerato,1,Lino Jaén-Carrera Gras,+34 655 268 041,,2023-09-12
+243,7,ALU-000243,Eli Verdugo Saez,2014-02-09,F,Primaria,6,Azucena Verdugo Pons,+34 633 208 004,azucena.verdugo@example.com,2024-09-12
+244,3,ALU-000244,Macaria del Sanjuan,2008-07-31,F,FP,2,Maxi del Salamanca,+34 719 536 453,maxi.del@example.com,2024-09-11
+245,9,ALU-000245,Raimundo Maza Osorio,2016-07-26,M,Primaria,4,Benigna Maza Ruiz,+34 681 610 769,benigna.maza@example.com,2023-09-15
+246,10,ALU-000246,Eugenio Casado Seco,2008-07-13,M,Bachillerato,2,Gala Casado Seguí,+34 775 490 590,gala.casado@example.com,2023-09-11
+247,10,ALU-000247,Poncio de Verdú,2012-08-12,M,ESO,2,Cándido de Iglesias,+34 683 191 303,candido.de@example.com,2023-09-10
+248,4,ALU-000248,Natalia Morales,2008-04-27,F,Bachillerato,1,Arsenio Morales Santos,+34 680 975 100,arsenio.morales@example.com,2022-09-10
+249,7,ALU-000249,Maite Pastor Escolano,2018-04-01,F,Primaria,1,Lucila Pastor Pazos,+34 702 637 865,lucila.pastor@example.com,2023-09-14
+250,10,ALU-000250,Olga Álvarez Saez,2011-07-18,F,ESO,2,Hernando Nicolau Dalmau,+34 744 974 882,hernando.nicolau@example.com,2023-09-10
+251,10,ALU-000251,Elvira Vazquez Cañizares,2013-07-29,F,ESO,1,Antonio Vazquez Solís,+34 604 960 153,antonio.vazquez@example.com,2023-09-14
+252,5,ALU-000252,Humberto Ortega-Cámara,2019-03-29,M,Primaria,1,Eric Garmendia Espada,+34 602 903 377,eric.garmendia@example.com,2023-09-13
+253,5,ALU-000253,Calixto Martin,2009-06-09,M,Bachillerato,1,Magdalena Martin Bartolomé,+34 718 701 906,magdalena.martin8@example.com,2023-09-10
+254,2,ALU-000254,Rosalinda Viana-Martinez,2015-08-16,F,Primaria,5,Nilo Viana-Martinez López,+34 724 101 843,nilo.viana-martinez@example.com,2024-09-11
+255,10,ALU-000255,Apolonia Doménech Cerro,2008-05-23,F,Bachillerato,2,Heliodoro Doménech Castilla,+34 643 671 595,heliodoro.domenech@example.com,2022-09-12
+256,7,ALU-000256,María Fernanda Ochoa-Castellanos,2019-08-17,F,Primaria,1,Marisol García Ayuso,+34 602 117 262,marisol.garcia@example.com,2024-09-10
+257,10,ALU-000257,Nacio Baldomero Bravo Cazorla,2009-12-07,M,Bachillerato,1,Amancio Baldomero Girona,+34 797 095 731,amancio.baldomero@example.com,2023-09-11
+258,3,ALU-000258,Diego Clemente Gonzalo,2009-12-30,M,FP,1,José Clemente Bellido,+34 681 982 059,jose.clemente@example.com,2024-09-13
+259,5,ALU-000259,Albina del Murcia,2008-01-25,F,Bachillerato,2,Eva María del Navas,+34 675 368 382,,2022-09-15
+260,8,ALU-000260,Ramón Agudo,2009-04-18,M,FP,1,Marcio Moliner Ortiz,+34 710 985 376,,2024-09-12
+261,4,ALU-000261,Eric Zabaleta Bru,2012-10-15,M,ESO,1,Zaida Zabaleta Jiménez,+34 648 054 867,zaida.zabaleta@example.com,2022-09-15
+262,5,ALU-000262,María Zabaleta Adadia,2010-04-15,M,ESO,3,Ainoa Zabaleta Colom,+34 603 838 091,ainoa.zabaleta@example.com,2022-09-11
+263,7,ALU-000263,Jose Ignacio Barros Torres,2015-05-26,M,Primaria,4,Benjamín Ignacio Vilaplana,+34 773 164 924,benjamin.ignacio@example.com,2022-09-10
+264,9,ALU-000264,Rafa Bárcena Bonilla,2018-02-07,M,Primaria,2,Vanesa Bárcena Castell,+34 659 448 864,vanesa.barcena@example.com,2023-09-14
+265,5,ALU-000265,Domingo Gascón,2008-01-02,M,Bachillerato,2,Dominga Gascón Pedrosa,+34 669 973 427,dominga.gascon@example.com,2023-09-14
+266,5,ALU-000266,Ricarda de Villa,2009-04-29,F,Bachillerato,1,Ciríaco Ros Rivera,+34 699 373 476,ciriaco.ros5@example.com,2022-09-11
+267,8,ALU-000267,Susana Espinosa Julián,2007-09-26,F,FP,2,Cloe Espinosa Montero,+34 653 558 275,cloe.espinosa@example.com,2024-09-15
+268,9,ALU-000268,Lilia de Mateo,2019-06-26,F,Primaria,1,Samuel de Elorza,+34 608 939 800,samuel.de@example.com,2023-09-14
+269,5,ALU-000269,Blas Castells Benito,2008-12-14,M,Bachillerato,2,Teo Castells Carbonell,+34 682 795 141,,2024-09-11
+270,4,ALU-000270,Rafaela Dominguez,2014-03-05,F,Primaria,5,Fermín Dominguez Aliaga,+34 603 598 287,fermin.dominguez@example.com,2023-09-14
+271,5,ALU-000271,Caridad Teruel Pi,2016-10-08,F,Primaria,4,Maxi Teruel Bermúdez,+34 603 925 332,,2024-09-11
+272,8,ALU-000272,Poncio Guzman-Amat,2009-09-17,M,FP,1,Elena Guzman-Amat Cisneros,+34 784 437 874,elena.guzman-amat8@example.com,2022-09-10
+273,10,ALU-000273,Arturo Ferreras Higueras,2016-08-06,M,Primaria,4,Julián Estrada Sanjuan,+34 752 068 576,julian.estrada@example.com,2023-09-14
+274,7,ALU-000274,Leonel Crespi Lastra,2018-12-31,M,Primaria,1,Bonifacio Crespi Sánchez,+34 721 949 823,bonifacio.crespi@example.com,2024-09-13
+275,4,ALU-000275,Luz Yuste Báez,2007-07-22,F,Bachillerato,2,Miguela Yuste Mulet,+34 620 959 358,miguela.yuste@example.com,2023-09-15
+276,4,ALU-000276,Loreto Estrada Azorin,2008-05-13,M,Bachillerato,2,Saturnino Estrada Cid,+34 792 098 851,saturnino.estrada@example.com,2024-09-12
+277,10,ALU-000277,Daniel Ros Ariza,2016-09-04,M,Primaria,4,Gisela Ros Leon,+34 748 059 634,gisela.ros@example.com,2023-09-14
+278,10,ALU-000278,Sergio Llanos Rivero,2012-04-21,M,ESO,2,Isabel Llanos Chico,+34 704 308 733,isabel.llanos@example.com,2024-09-12
+279,3,ALU-000279,Mario Galindo Arnau,2010-10-23,M,ESO,4,Ricardo León Pozuelo,+34 605 485 958,ricardo.leon@example.com,2023-09-14
+280,4,ALU-000280,Ángel Ricart Cervantes,2016-10-23,M,Primaria,3,Rosaura Ricart Carreño,+34 630 484 682,rosaura.ricart@example.com,2022-09-15
+281,4,ALU-000281,Alondra de Batlle,2008-01-11,F,Bachillerato,2,Dominga Valle Blanch,+34 605 777 854,dominga.valle@example.com,2024-09-15
+282,6,ALU-000282,Lope Valls Ordóñez,2015-01-12,M,Primaria,5,Concha Valls Vilalta,+34 688 599 650,,2024-09-14
+283,4,ALU-000283,Eligio Blanes Alonso,2019-06-13,M,Primaria,1,Ernesto Blanes Galán,+34 777 887 189,ernesto.blanes7@example.com,2022-09-13
+284,1,ALU-000284,Raúl Cuervo Neira,2008-02-22,M,Bachillerato,1,Goyo Cuervo Borja,+34 610 669 882,,2024-09-15
+285,8,ALU-000285,Modesta Cerdán Gallardo,2009-07-11,F,FP,1,Isidro Cerdán Tello,+34 694 530 141,isidro.cerdan@example.com,2024-09-14
+286,7,ALU-000286,Vicenta Bernad Carro,2014-01-11,F,Primaria,6,Régulo Bernad Llanos,+34 637 472 601,regulo.bernad@example.com,2023-09-13
+287,9,ALU-000287,Brunilda Gras Cifuentes,2016-12-06,F,Primaria,4,Eustaquio Gras Alberdi,+34 672 782 487,eustaquio.gras2@example.com,2023-09-13
+288,3,ALU-000288,Evelia Palma Pozo,2009-04-09,F,FP,1,Hilario Palma Mascaró,+34 751 416 744,hilario.palma@example.com,2023-09-11
+289,8,ALU-000289,Judith Galván-Miguel,2009-03-05,F,Bachillerato,1,Toribio Palomares Cazorla,+34 668 072 752,toribio.palomares@example.com,2024-09-11
+290,7,ALU-000290,Jose Francisco Valero Angulo Anaya,2016-08-29,M,Primaria,4,Elvira Francisco Iborra,+34 689 705 100,,2022-09-10
+291,5,ALU-000291,Amancio de Rodríguez,2008-05-12,M,Bachillerato,2,Débora Ballesteros Pujol,+34 603 912 604,debora.ballesteros@example.com,2023-09-15
+292,8,ALU-000292,Ibán Vidal Antúnez,2008-08-18,M,Bachillerato,2,María Vidal Codina,+34 727 735 779,,2024-09-11
+293,2,ALU-000293,Casemiro Gual,2017-07-08,M,Primaria,3,Raúl Gual Roig,+34 689 898 199,raul.gual@example.com,2024-09-12
+294,5,ALU-000294,Eric Campoy Ferrán,2018-03-15,M,Primaria,2,Ligia Olivares Uriarte,+34 764 654 019,ligia.olivares@example.com,2022-09-13
+295,8,ALU-000295,Benita Egea Torrent,2008-09-08,F,FP,2,Ruben Madrigal Camps,+34 695 678 397,ruben.madrigal@example.com,2022-09-09
+296,1,ALU-000296,Paula Alberto Quintanilla,2019-03-20,F,Primaria,1,Álvaro Alberto Rodrigo,+34 669 985 232,alvaro.alberto9@example.com,2022-09-13
+297,6,ALU-000297,Fabricio Onofre Carrera Esteve,2019-04-04,M,Primaria,1,Jaime Onofre Iñiguez,+34 652 714 803,jaime.onofre@example.com,2022-09-13
+298,8,ALU-000298,Emiliano Ferrero Naranjo,2012-04-16,M,ESO,2,Martirio Malo,+34 702 138 891,martirio.malo@example.com,2024-09-09
+299,10,ALU-000299,Lucas Naranjo Puerta,2014-04-22,M,Primaria,6,Azahar Naranjo Vidal,+34 634 001 458,azahar.naranjo@example.com,2022-09-14
+300,8,ALU-000300,Amílcar Gascón,2010-08-06,M,ESO,4,Joaquín Gascón Paredes,+34 607 078 550,joaquin.gascon@example.com,2022-09-15
+301,7,ALU-000301,Gaspar Yuste Olmedo,2016-03-13,M,Primaria,4,Plinio Yuste Soto,+34 697 854 406,plinio.yuste@example.com,2022-09-10
+302,3,ALU-000302,Amelia Gálvez Arco,2011-11-11,F,ESO,2,Vera Ojeda Gelabert,+34 629 931 494,vera.ojeda@example.com,2024-09-11
+303,5,ALU-000303,Joaquín Trujillo Ibarra,2008-07-18,M,Bachillerato,2,Adoración Trujillo Alsina,+34 651 564 377,adoracion.trujillo@example.com,2022-09-14
+304,6,ALU-000304,Alfredo Escolano Mendoza,2015-07-19,M,Primaria,5,Juan Carlos Escolano Ruano,+34 695 574 575,juan.carlos@example.com,2023-09-12
+305,7,ALU-000305,Aristides Folch-Real,2017-09-17,M,Primaria,3,Poncio Folch-Real Rosado,+34 665 474 629,poncio.folch-real@example.com,2022-09-12
+306,7,ALU-000306,Amada Blanca Diaz Pavón,2019-05-02,F,Primaria,1,Santos Adán Martí,+34 608 013 897,santos.adan@example.com,2022-09-12
+307,3,ALU-000307,Dionisio Robles Maldonado,2008-03-13,M,Bachillerato,2,Ulises Robles Boada,+34 648 510 654,ulises.robles@example.com,2024-09-15
+308,1,ALU-000308,Marcela Reina Tenorio Díez,2013-09-19,F,ESO,1,Pastora Reina Guijarro,+34 741 030 406,pastora.reina@example.com,2023-09-09
+309,8,ALU-000309,Felicidad del Amigó,2009-12-21,F,Bachillerato,1,Olalla Menendez Fabregat,+34 664 332 292,olalla.menendez@example.com,2023-09-12
+310,1,ALU-000310,Teobaldo Cid-Sanmartín,2009-01-12,M,ESO,4,Marisol Cid-Sanmartín Bayo,+34 699 535 465,marisol.cid-sanmartin@example.com,2022-09-14
+311,6,ALU-000311,Juan Francisco Amo Castelló,2017-08-30,M,Primaria,3,Oriana Torrecilla Dominguez,+34 725 466 662,oriana.torrecilla2@example.com,2023-09-11
+312,4,ALU-000312,Trinidad Escalona,2007-08-12,M,Bachillerato,2,Arsenio Camps,+34 690 097 464,arsenio.camps@example.com,2022-09-13
+313,7,ALU-000313,Fernanda Heredia Porcel,2016-11-28,F,Primaria,3,Malena Heredia Barroso,+34 643 886 401,malena.heredia7@example.com,2023-09-09
+314,9,ALU-000314,Martín Oliva Mate,2014-12-16,M,Primaria,6,Crescencia Oliva Alcolea,+34 621 365 345,crescencia.oliva@example.com,2024-09-11
+315,2,ALU-000315,Eugenio Curro Roca Bautista,2015-03-31,M,Primaria,4,Blas Gilberto Menendez Bonet,+34 698 669 440,blas.gilberto@example.com,2023-09-12
+316,6,ALU-000316,Lara Escrivá Bastida,2019-01-08,F,Primaria,1,Eli Torrens,+34 649 676 430,eli.torrens@example.com,2024-09-11
+317,1,ALU-000317,Vito Pellicer Morillo,2009-08-31,M,Bachillerato,1,Cruz del Palomo,+34 701 767 481,cruz.del@example.com,2024-09-09
+318,6,ALU-000318,Mauricio Osvaldo Soriano Sans,2018-12-03,M,Primaria,2,Agustín Osvaldo Ferrero,+34 699 498 603,agustin.osvaldo@example.com,2022-09-10
+319,9,ALU-000319,Clementina Lledó Torralba,2017-07-22,F,Primaria,3,Tomás Lledó Vallés,+34 632 563 430,tomas.lledo@example.com,2024-09-09
+320,10,ALU-000320,Wilfredo Toribio Nadal Gomez,2011-12-12,M,ESO,3,Andrés Felipe Vázquez,+34 661 260 096,andres.felipe@example.com,2022-09-12
+321,1,ALU-000321,Rafaela Gordillo Sans,2010-03-22,F,ESO,4,Cayetana Gordillo Uriarte,+34 686 178 116,cayetana.gordillo@example.com,2024-09-12
+322,5,ALU-000322,Ágata Benito Beltrán,2010-08-07,F,ESO,3,Rosenda Benito Olivares,+34 701 914 294,rosenda.benito@example.com,2023-09-09
+323,6,ALU-000323,Tamara Rivas Leiva,2017-03-04,F,Primaria,2,Norberto Rivas Pellicer,+34 686 120 259,norberto.rivas@example.com,2024-09-11
+324,10,ALU-000324,Alejandra Atienza Puig,2014-11-15,F,Primaria,6,Lupita Atienza Galán,+34 626 768 141,,2022-09-09
+325,8,ALU-000325,Pastor Abella Ros,2007-04-23,M,FP,2,Susana Abella Luque,+34 627 847 489,susana.abella@example.com,2024-09-11
+326,5,ALU-000326,Albert Prieto Cadenas,2008-10-17,M,Bachillerato,2,Candela Prieto Márquez,+34 709 995 183,candela.prieto@example.com,2023-09-11
+327,3,ALU-000327,Azeneth Carpio Montoya,2009-01-16,F,FP,1,Eulalia Carpio Pardo,+34 671 513 883,eulalia.carpio@example.com,2022-09-09
+328,6,ALU-000328,Luciana Isern Gárate,2014-05-05,F,Primaria,6,Mateo Isern Roig,+34 607 442 963,,2022-09-09
+329,1,ALU-000329,María Teresa Ballesteros Borja,2012-12-02,F,ESO,2,Vilma Teresa Dalmau,+34 696 456 879,vilma.teresa@example.com,2023-09-10
+330,7,ALU-000330,Ángeles Barberá Alcántara,2019-06-07,F,Primaria,1,Jose Antonio Casas Arnal,+34 623 493 660,jose.antonio@example.com,2022-09-11
+331,4,ALU-000331,Lorenzo Barrio-Villalobos,2017-05-25,M,Primaria,3,Tadeo Barrio-Villalobos Gimeno,+34 661 188 252,tadeo.barrio-villalobos@example.com,2023-09-12
+332,5,ALU-000332,Oriana Ribas Saldaña,2010-08-05,F,ESO,4,Albina Ribas Alberola,+34 783 911 565,albina.ribas@example.com,2024-09-15
+333,1,ALU-000333,Javi de Olmedo,2017-12-01,M,Primaria,3,Maite de Barceló,+34 617 977 167,maite.de@example.com,2023-09-10
+334,2,ALU-000334,Lara Iñiguez,2015-04-29,F,Primaria,4,Julián Iñiguez Taboada,+34 634 601 749,julian.iniguez@example.com,2024-09-12
+335,6,ALU-000335,Emma de Barranco,2014-09-06,F,Primaria,5,Roberta Gelabert,+34 685 112 698,roberta.gelabert@example.com,2022-09-14
+336,2,ALU-000336,Maura Agustí-Abril,2016-09-10,F,Primaria,4,Borja Agustí-Abril Sanmiguel,+34 682 955 395,borja.agusti-abril@example.com,2023-09-14
+337,6,ALU-000337,Cruz Blanch Molins,2016-11-06,M,Primaria,3,Silvia Blanch Castrillo,+34 781 893 531,silvia.blanch@example.com,2022-09-09
+338,3,ALU-000338,Valentín Bermudez Pastor,2008-03-08,M,FP,1,Jose Ignacio Bermudez Estevez,+34 685 693 432,jose.ignacio@example.com,2023-09-14
+339,4,ALU-000339,Clara Santiago Castell,2008-11-10,F,Bachillerato,2,Bienvenida Santiago Mateo,+34 603 251 641,bienvenida.santiago@example.com,2024-09-11
+340,2,ALU-000340,Lucila Rey Conde,2013-04-08,F,Primaria,6,Martina Rey Canals,+34 634 815 290,martina.rey@example.com,2022-09-09
+341,7,ALU-000341,Diana Navarro Yáñez,2016-08-22,F,Primaria,4,Luis Miguel Navarro Galiano,+34 611 101 283,luis.miguel@example.com,2024-09-11
+342,1,ALU-000342,Inmaculada Llorente Alfonso,2016-09-27,F,Primaria,4,Anastasio Llorente Crespo,+34 711 235 902,anastasio.llorente@example.com,2024-09-14
+343,4,ALU-000343,Eric Izquierdo Manuel,2008-12-01,M,Bachillerato,2,Catalina Izquierdo Chamorro,+34 750 593 600,catalina.izquierdo@example.com,2023-09-13
+344,5,ALU-000344,Camilo Bautista Almazán Codina,2017-10-23,M,Primaria,3,Plinio Bautista Cordero,+34 632 792 004,plinio.bautista@example.com,2023-09-14
+345,5,ALU-000345,Edu Blanca Álvaro,2007-12-12,M,Bachillerato,2,Coral Blanca Pacheco,+34 681 519 030,,2023-09-09
+346,3,ALU-000346,Régulo Benet,2008-04-25,M,Bachillerato,2,Milagros Benet Pedro,+34 684 348 873,milagros.benet@example.com,2022-09-09
+347,1,ALU-000347,Clementina Casares Merino,2009-09-06,F,ESO,4,Pancho Casares Acedo,+34 618 976 385,pancho.casares@example.com,2023-09-12
+348,8,ALU-000348,Judith de Rius,2012-04-30,F,ESO,2,Carmelita de Chico,+34 634 364 659,carmelita.de@example.com,2024-09-12
+349,4,ALU-000349,Samuel Llorente Barreda,2011-04-22,M,ESO,3,Dionisia Llorente Flor,+34 696 007 574,dionisia.llorente@example.com,2024-09-15
+350,7,ALU-000350,Florentino del Hervia,2016-07-27,M,Primaria,4,Almudena Alba Puente,+34 713 991 187,almudena.alba@example.com,2023-09-14
+351,6,ALU-000351,Lisandro Mateu Molina,2016-08-09,M,Primaria,4,Lope Talavera Villalonga,+34 795 914 164,lope.talavera@example.com,2024-09-15
+352,3,ALU-000352,Encarnación Clementina Portero Sanabria,2008-12-08,F,FP,2,Irma Clementina Rosell,+34 631 064 651,,2022-09-15
+353,7,ALU-000353,Eva María Camps-Seguí,2018-05-13,F,Primaria,2,Cristian María Godoy,+34 635 019 405,cristian.maria@example.com,2022-09-09
+354,2,ALU-000354,Amor Graciano Miranda Escribano,2018-04-12,M,Primaria,2,Natanael Graciano Escribano,+34 732 942 553,natanael.graciano@example.com,2024-09-11
+355,9,ALU-000355,Chus Sarmiento-Cañizares,2017-04-26,M,Primaria,3,Julián Alvarez Higueras,+34 798 545 207,julian.alvarez@example.com,2024-09-12
+356,6,ALU-000356,Germán Torrijos Cabezas,2017-04-11,M,Primaria,3,Graciana Torrijos Rocha,+34 764 013 964,graciana.torrijos@example.com,2022-09-09
+357,9,ALU-000357,Adriana Alvarez Mosquera,2015-02-16,F,Primaria,5,Erasmo Alvarez Pereira,+34 759 098 505,erasmo.alvarez@example.com,2023-09-09
+358,10,ALU-000358,Teodoro del Piñeiro,2008-11-30,M,Bachillerato,2,Calixto del Pascual,+34 782 055 000,calixto.del@example.com,2024-09-14
+359,8,ALU-000359,Candelas Mar Bilbao Ayllón,2009-09-05,F,Bachillerato,1,Aránzazu Puente-Rubio,+34 610 301 022,aranzazu.puente-rubio@example.com,2022-09-11
+360,8,ALU-000360,Alicia Goñi Marí,2008-09-02,F,FP,2,Aitana Goñi Hervia,+34 601 416 857,aitana.goni2@example.com,2022-09-15
+361,2,ALU-000361,Abril del Ojeda,2018-10-29,F,Primaria,2,Diego del Garriga,+34 660 066 289,diego.del@example.com,2024-09-12
+362,3,ALU-000362,Ester Guzman Lillo,2011-03-26,F,ESO,2,Rosalina Guzman Diego,+34 778 339 391,rosalina.guzman@example.com,2024-09-11
+363,4,ALU-000363,Virgilio Gomila Vendrell,2008-01-24,M,Bachillerato,2,Benito Gomila Mínguez,+34 664 413 604,benito.gomila@example.com,2023-09-13
+364,6,ALU-000364,Aristides Jordán Miranda,2016-09-25,M,Primaria,4,Ana Belén del Poza,+34 630 734 451,ana.belen@example.com,2023-09-12
+365,2,ALU-000365,Andrés Osorio-Jerez,2015-06-07,M,Primaria,4,Encarnita Osorio-Jerez Zabaleta,+34 660 658 423,encarnita.osorio-jerez@example.com,2024-09-15
+366,8,ALU-000366,Alex Agustín Rosell,2009-07-01,M,Bachillerato,1,Olimpia Agustín Verdú,+34 613 605 500,olimpia.agustin@example.com,2024-09-12
+367,6,ALU-000367,Filomena Lobo Crespi,2014-10-20,F,Primaria,6,Marianela Lobo Blanca,+34 665 301 206,marianela.lobo@example.com,2024-09-14
+368,2,ALU-000368,Chucho Manjón Osorio,2019-11-21,M,Primaria,1,Josué Manjón Torrijos,+34 791 307 477,josue.manjon@example.com,2023-09-13
+369,2,ALU-000369,Gabriel Acuña Zurita,2015-02-16,M,Primaria,5,Adolfo Monreal Gallart,+34 671 418 889,adolfo.monreal@example.com,2022-09-09
+370,10,ALU-000370,Carlota Ribera Santamaría,2014-10-03,F,Primaria,6,María Bilbao Alemán,+34 640 124 745,maria.bilbao@example.com,2023-09-11
+371,10,ALU-000371,Rómulo Guerrero Andrés,2009-12-09,M,Bachillerato,1,Pío Guerrero Pacheco,+34 702 227 929,pio.guerrero@example.com,2023-09-15
+372,3,ALU-000372,Reyes Aurelia Flores Lastra,2011-08-13,F,ESO,3,Dafne Aurelia Chamorro,+34 748 805 571,dafne.aurelia@example.com,2023-09-09
+373,3,ALU-000373,Hortensia Nogueira Miró,2009-11-07,F,ESO,4,Gertrudis Pagès Marco,+34 661 541 870,gertrudis.pages@example.com,2022-09-14
+374,5,ALU-000374,Corona Adoración Azcona Arcos,2008-09-03,F,Bachillerato,2,Mercedes Adoración Cabañas,+34 702 339 335,mercedes.adoracion@example.com,2023-09-12
+375,5,ALU-000375,Federico Cuesta Canales,2016-03-05,M,Primaria,4,Macaria Asensio Amores,+34 670 335 505,macaria.asensio@example.com,2022-09-09
+376,9,ALU-000376,Marcos Ortega-Sanmartín,2018-10-10,M,Primaria,2,Montserrat Ortega-Sanmartín Ballester,+34 692 026 267,montserrat.ortega-sanmartin@example.com,2022-09-13
+377,1,ALU-000377,Marc Terrón Arrieta,2007-07-20,M,Bachillerato,2,Anacleto Terrón Orozco,+34 619 034 108,anacleto.terron@example.com,2023-09-11
+378,10,ALU-000378,Maximiliano Sabater Osuna,2008-05-27,M,Bachillerato,2,María Teresa Sabater Guitart,+34 764 307 924,maria.teresa@example.com,2022-09-15
+379,1,ALU-000379,Remedios Aparicio Uriarte,2013-04-22,F,ESO,1,Ezequiel Garriga Villaverde,+34 700 738 332,ezequiel.garriga5@example.com,2023-09-09
+380,3,ALU-000380,Natalio Caro Cueto,2007-04-20,M,FP,2,Casandra Caro Barranco,+34 633 354 109,,2022-09-13
+381,5,ALU-000381,Mayte Quiroga Tello,2012-08-17,F,ESO,2,Paco Quiroga Baños,+34 675 144 325,paco.quiroga@example.com,2024-09-13
+382,10,ALU-000382,Ale Ortuño Ávila,2017-05-07,M,Primaria,3,Úrsula Ortuño Espinosa,+34 731 097 651,,2024-09-09
+383,1,ALU-000383,Nazario Aguirre Castillo,2009-01-20,M,Bachillerato,1,Javiera Aguirre Vaquero,+34 681 615 224,javiera.aguirre@example.com,2023-09-11
+384,5,ALU-000384,Wálter Peiró Acosta,2008-12-21,M,Bachillerato,1,Ofelia Caballero Barberá,+34 794 070 991,ofelia.caballero@example.com,2024-09-13
+385,8,ALU-000385,José Mari Zabaleta Alvarado,2012-10-28,M,ESO,2,Isaura Mari Mendizábal,+34 737 646 918,isaura.mari@example.com,2022-09-10
+386,10,ALU-000386,Celso Lumbreras Pareja,2013-09-14,M,ESO,1,Micaela Lumbreras Almansa,+34 709 060 243,micaela.lumbreras@example.com,2023-09-09
+387,9,ALU-000387,Blas Tapia Bou,2018-04-04,M,Primaria,2,Nacio Tapia Niño,+34 742 767 886,nacio.tapia@example.com,2022-09-15
+388,1,ALU-000388,Jose Alba Valero,2007-10-16,M,Bachillerato,2,Chucho Alba Comas,+34 602 778 971,chucho.alba@example.com,2022-09-12
+389,10,ALU-000389,Crescencia Camino,2010-05-07,F,ESO,4,Urbano Zabaleta-León,+34 673 003 650,urbano.zabaleta-leon@example.com,2022-09-09
+390,10,ALU-000390,Maxi Lerma Peiró,2012-10-16,M,ESO,2,Emiliano Lerma Bejarano,+34 692 677 945,emiliano.lerma@example.com,2024-09-09
+391,10,ALU-000391,María Del Carmen Llanos-Miguel,2009-03-06,F,ESO,4,Jose Carlos Del Mascaró,+34 609 671 736,jose.carlos@example.com,2024-09-15
+392,8,ALU-000392,Raúl Iñiguez Bustamante,2010-05-28,M,ESO,4,Constanza Iñiguez Guardiola,+34 744 618 270,constanza.iniguez@example.com,2022-09-14
+393,8,ALU-000393,Felicidad Rey Villa,2008-07-05,F,FP,2,Maximiliano Rey Gracia,+34 602 194 843,,2023-09-14
+394,10,ALU-000394,Gracia Llamas Coca,2009-08-31,F,Bachillerato,1,Herberto Llamas Juárez,+34 684 701 731,,2022-09-11
+395,6,ALU-000395,Vilma Anabel Borrell Cerdán,2017-02-27,F,Primaria,3,Lupe Anabel Roselló,+34 713 045 858,lupe.anabel@example.com,2023-09-13
+396,8,ALU-000396,Paco Rodrigo Peral,2007-08-31,M,FP,2,Eustaquio Rodrigo Pujadas,+34 775 992 445,eustaquio.rodrigo6@example.com,2023-09-11
+397,8,ALU-000397,Federico Vall Rocha,2009-06-24,M,Bachillerato,1,Petrona Vall Rivero,+34 762 859 828,petrona.vall@example.com,2024-09-09
+398,1,ALU-000398,Eladio del Gisbert,2015-06-21,M,Primaria,5,Milagros del Real,+34 607 560 279,milagros.del@example.com,2022-09-10
+399,2,ALU-000399,Atilio de Pizarro,2019-01-13,M,Primaria,1,Matías de Oliver,+34 603 087 579,matias.de@example.com,2022-09-12
+400,3,ALU-000400,Rico Gil Izaguirre,2011-12-10,M,ESO,2,Cloe Gil Luque,+34 633 520 119,,2024-09-13
+401,10,ALU-000401,Cristian Tudela Salas,2008-11-22,M,Bachillerato,2,Edelmira Tudela Puerta,+34 628 715 547,edelmira.tudela8@example.com,2022-09-15
+402,2,ALU-000402,Ángela Aliaga Solsona,2016-02-21,F,Primaria,4,Adelia Aliaga Estrada,+34 765 037 777,adelia.aliaga@example.com,2024-09-15
+403,3,ALU-000403,Kike Mur Boada,2011-07-13,M,ESO,3,Adelia Mur Parejo,+34 644 415 108,adelia.mur@example.com,2024-09-12
+404,9,ALU-000404,Vinicio Morera Benito,2014-05-24,M,Primaria,6,Primitiva Cañete,+34 761 438 656,primitiva.canete@example.com,2023-09-09
+405,3,ALU-000405,Nélida Leire Cal Valentín,2012-05-24,F,ESO,2,Dimas Guzmán Almeida,+34 604 055 803,dimas.guzman@example.com,2023-09-10
+406,4,ALU-000406,Julio César Cámara Diaz,2015-11-24,M,Primaria,5,Paca Borja Revilla,+34 763 224 039,paca.borja@example.com,2024-09-14
+407,7,ALU-000407,Adela de Mas,2014-08-26,F,Primaria,5,Adriana de Estrada,+34 768 873 560,adriana.de@example.com,2022-09-10
+408,4,ALU-000408,Remigio Roca Abella,2016-02-26,M,Primaria,4,Mercedes Alcaraz Montero,+34 653 316 720,mercedes.alcaraz@example.com,2024-09-09
+409,6,ALU-000409,Azeneth Ramis Ramirez,2016-12-09,F,Primaria,4,Mohamed Ramis Palacios,+34 792 776 991,mohamed.ramis@example.com,2022-09-15
+410,4,ALU-000410,Fulgencio Eusebio Parra Rosselló,2007-02-16,M,Bachillerato,2,Pili Eusebio Castejón,+34 650 907 731,,2023-09-09
+411,2,ALU-000411,Ale Solé,2014-03-06,F,Primaria,6,Cándido Solé Sainz,+34 679 434 930,candido.sole@example.com,2022-09-10
+412,5,ALU-000412,Félix Carbonell Gallego,2009-04-30,M,Bachillerato,1,Begoña Carbonell Calderón,+34 638 596 857,begona.carbonell@example.com,2022-09-14
+413,4,ALU-000413,Chita Fernández Viña,2014-04-01,F,Primaria,5,Hilda Fernández Acero,+34 621 638 616,hilda.fernandez@example.com,2023-09-11
+414,2,ALU-000414,Begoña Velasco-Cuéllar,2017-09-12,F,Primaria,3,Claudia Velasco-Cuéllar Juan,+34 704 135 530,,2022-09-11
+415,1,ALU-000415,Jacobo Salas Cobos,2009-08-11,M,Bachillerato,1,Visitación Salas Gárate,+34 613 003 490,visitacion.salas@example.com,2024-09-12
+416,5,ALU-000416,Casemiro Cózar-Amigó,2015-09-01,M,Primaria,4,Ariel Cózar-Amigó Armengol,+34 728 997 850,,2022-09-11
+417,1,ALU-000417,Rosa Román Jerez,2015-06-02,F,Primaria,5,Cebrián Blasco Bermúdez,+34 626 356 370,,2024-09-15
+418,4,ALU-000418,Elvira Rivera Fernández,2011-08-15,F,ESO,2,Feliciana Rivera Borrás,+34 670 499 792,feliciana.rivera@example.com,2023-09-13
+419,3,ALU-000419,Pedro Paredes Peña,2013-03-31,M,ESO,1,Emperatriz Paredes Cabello,+34 631 744 478,emperatriz.paredes@example.com,2022-09-12
+420,9,ALU-000420,Lucila Lasa Daza,2018-11-26,F,Primaria,2,Virgilio Lasa Espinosa,+34 621 043 982,virgilio.lasa@example.com,2024-09-12
+421,3,ALU-000421,Jose Angel Villanueva Madrigal,2009-02-23,M,FP,1,Tomás Angel Jove,+34 661 324 742,tomas.angel@example.com,2022-09-13
+422,2,ALU-000422,Encarnación del Lledó,2017-02-28,F,Primaria,2,Lina del Tolosa,+34 603 482 064,lina.del5@example.com,2022-09-09
+423,4,ALU-000423,Elba Estevez-Cervantes,2009-08-03,F,Bachillerato,1,Paulino Mata Morera,+34 673 844 978,,2024-09-11
+424,1,ALU-000424,Reyes del Carrasco,2012-08-03,M,ESO,2,Eusebio del Espada,+34 610 050 637,eusebio.del@example.com,2022-09-09
+425,8,ALU-000425,Rafa Uriarte Gonzalo,2008-10-28,M,FP,2,Gabino Uriarte Ramón,+34 695 395 771,,2024-09-12
+426,8,ALU-000426,Maximino Llorente,2013-02-23,M,ESO,1,César Llorente Ferrándiz,+34 663 987 627,cesar.llorente@example.com,2024-09-15
+427,4,ALU-000427,Heriberto Morán Lledó,2013-11-04,M,ESO,1,Baudelio Morán Beltran,+34 601 017 856,baudelio.moran@example.com,2022-09-14
+428,9,ALU-000428,Lucas Fonseca Arenas,2016-09-15,M,Primaria,4,Susanita Fonseca Valenzuela,+34 715 470 406,susanita.fonseca@example.com,2024-09-15
+429,10,ALU-000429,Guillermo Torrens,2010-10-12,M,ESO,3,Esteban Torrens Cases,+34 780 344 302,esteban.torrens@example.com,2022-09-09
+430,5,ALU-000430,Alejandro Gonzalo Huguet Roura,2018-10-11,M,Primaria,1,Calixto Checa Cobos,+34 618 427 828,,2022-09-12
+431,1,ALU-000431,Régulo Benavente Figuerola,2009-11-24,M,ESO,4,Pacífica Benavente Exposito,+34 695 775 849,pacifica.benavente@example.com,2024-09-13
+432,10,ALU-000432,Ainara Baró,2008-05-01,F,Bachillerato,2,Hermenegildo Baró Huerta,+34 748 680 177,hermenegildo.baro@example.com,2023-09-10
+433,6,ALU-000433,Luis Ángel Pozo Almagro,2019-08-30,M,Primaria,1,Feliciana Ángel Cardona,+34 642 844 846,feliciana.angel@example.com,2023-09-12
+434,10,ALU-000434,Loreto Delia Amigó Llobet,2016-12-05,F,Primaria,3,Apolinar Delia Saez,+34 699 669 891,apolinar.delia@example.com,2023-09-15
+435,3,ALU-000435,Leonor Pont Ochoa,2008-04-20,F,FP,2,Apolonia Pont Real,+34 739 769 239,apolonia.pont3@example.com,2023-09-14
+436,3,ALU-000436,Leocadio del Mariño,2009-10-09,M,FP,1,Gracia Vizcaíno Camino,+34 735 189 885,gracia.vizcaino@example.com,2023-09-13
+437,2,ALU-000437,Aureliano Pellicer Bonilla,2013-01-04,M,Primaria,6,Anselmo Pellicer Parejo,+34 720 871 099,anselmo.pellicer8@example.com,2023-09-09
+438,9,ALU-000438,Ágata Begoña Vallejo Guzman,2019-08-03,F,Primaria,1,Rafa Begoña Gil,+34 642 274 331,rafa.begona@example.com,2023-09-15
+439,6,ALU-000439,Elvira Blanca,2017-06-24,F,Primaria,3,Clarisa Blanca Oliver,+34 654 717 242,clarisa.blanca@example.com,2022-09-12
+440,5,ALU-000440,Marcela Armas,2015-08-18,F,Primaria,4,Gustavo Armas Tejero,+34 682 579 986,gustavo.armas@example.com,2022-09-12
+441,6,ALU-000441,Ruperta Torrens Rosell,2015-02-15,F,Primaria,5,Alondra de Téllez,+34 601 301 228,alondra.de@example.com,2022-09-09
+442,4,ALU-000442,Haydée Rodriguez,2013-10-24,F,Primaria,6,Ildefonso Rodriguez Riera,+34 638 006 430,ildefonso.rodriguez@example.com,2022-09-09
+443,6,ALU-000443,Perlita Carvajal Trillo,2014-10-17,F,Primaria,6,Germán Jaume Noguera,+34 651 016 710,german.jaume@example.com,2024-09-09
+444,7,ALU-000444,Pascual Chaves Ríos,2014-07-06,M,Primaria,6,Victoria Chaves Exposito,+34 657 663 795,victoria.chaves@example.com,2022-09-11
+445,4,ALU-000445,José María Nicolau,2007-10-29,M,Bachillerato,2,Iker María Sarabia,+34 774 821 848,iker.maria@example.com,2024-09-15
+446,5,ALU-000446,Camila Requena Navarrete,2008-09-05,F,Bachillerato,2,Luciana de Robles,+34 639 301 434,luciana.de@example.com,2023-09-10
+447,8,ALU-000447,Reyes Vazquez Buendía,2008-09-07,M,FP,2,Reyna Vazquez Company,+34 654 493 301,reyna.vazquez@example.com,2024-09-11
+448,1,ALU-000448,Vinicio del Peñas,2018-11-02,M,Primaria,1,Concepción del Verdejo,+34 767 034 743,concepcion.del@example.com,2022-09-12
+449,2,ALU-000449,Hector Rey Luna,2017-06-04,M,Primaria,2,Álvaro Muro Valderrama,+34 649 392 100,,2022-09-13
+450,7,ALU-000450,Sara del Pellicer,2017-05-02,F,Primaria,2,Carlos Royo Azcona,+34 694 488 915,carlos.royo@example.com,2024-09-13
+451,4,ALU-000451,Adalberto Morillo Castro,2010-01-24,M,ESO,4,Gaspar Morillo Carballo,+34 636 321 256,gaspar.morillo@example.com,2024-09-13
+452,10,ALU-000452,Nicodemo Pablo-Vazquez,2009-06-14,M,Bachillerato,1,Concepción Pablo-Vazquez Baños,+34 765 201 517,concepcion.pablo-vazquez@example.com,2023-09-12
+453,5,ALU-000453,Clara Rivas-Casado,2007-07-15,F,Bachillerato,2,Alejo Rivas-Casado Contreras,+34 615 737 769,alejo.rivas-casado@example.com,2023-09-12
+454,7,ALU-000454,Aránzazu Pilar Baquero Crespo,2016-03-26,F,Primaria,4,Leire Pilar Salazar,+34 674 982 554,,2022-09-13
+455,8,ALU-000455,Esther Escamilla Pozo,2008-02-16,F,FP,2,Angélica Escamilla Gil,+34 604 241 522,angelica.escamilla@example.com,2023-09-12
+456,9,ALU-000456,Amado Castañeda Parra,2014-05-26,M,Primaria,6,Esmeralda Castañeda Benet,+34 610 488 620,esmeralda.castaneda@example.com,2022-09-10
+457,5,ALU-000457,Sabina Barrera Molina,2012-05-16,F,ESO,2,Celso Barrera Colom,+34 725 594 726,,2023-09-12
+458,3,ALU-000458,Severiano del Bayón,2009-08-03,M,Bachillerato,1,David del Ponce,+34 718 349 008,david.del@example.com,2023-09-13
+459,2,ALU-000459,Abril Castillo-Benavente,2013-11-30,F,Primaria,6,Dolores Castillo-Benavente Mendoza,+34 693 665 814,dolores.castillo-benavente@example.com,2022-09-12
+460,3,ALU-000460,Felicidad Sevillano,2011-10-27,F,ESO,2,Amado Sevillano Angulo,+34 630 620 300,amado.sevillano@example.com,2024-09-15
+461,4,ALU-000461,Julia Robledo Robledo,2010-07-23,F,ESO,4,Eufemia Alcaraz-Franco,+34 653 051 512,eufemia.alcaraz-franco@example.com,2023-09-15
+462,10,ALU-000462,Matilde María Fernanda Andrés Hierro,2008-07-29,F,Bachillerato,2,Máximo María Galvez,+34 645 808 896,maximo.maria@example.com,2024-09-13
+463,4,ALU-000463,Francisco Millán Valderrama,2009-03-22,M,Bachillerato,1,Joan Millán Llanos,+34 655 121 727,,2024-09-11
+464,1,ALU-000464,Ariadna Milla,2009-02-08,F,Bachillerato,1,Rosaura Milla Calzada,+34 602 362 615,rosaura.milla@example.com,2023-09-11
+465,2,ALU-000465,Octavio Bilbao-Tudela,2018-08-25,M,Primaria,2,Lorenzo Espinosa Vidal,+34 670 307 200,lorenzo.espinosa@example.com,2024-09-15
+466,7,ALU-000466,Dulce Mesa Berrocal,2019-11-11,F,Primaria,1,Dorita Mesa Oliver,+34 762 821 986,dorita.mesa@example.com,2024-09-12
+467,4,ALU-000467,Galo Efraín Barba Escalona,2010-07-25,M,ESO,4,Santiago Miguel Cortés Carrera,+34 771 719 233,,2024-09-15
+468,8,ALU-000468,Lázaro Chacón Lladó,2013-06-12,M,ESO,1,Leocadio Chacón Mosquera,+34 711 314 044,leocadio.chacon@example.com,2023-09-13
+469,8,ALU-000469,Salomé Bonilla,2013-06-09,F,ESO,1,Carlota Bonilla Segura,+34 759 855 365,carlota.bonilla@example.com,2023-09-10
+470,2,ALU-000470,Lourdes Alcázar Viana,2016-07-29,F,Primaria,4,Eladio Alcázar Uriarte,+34 632 362 484,,2023-09-14
+471,1,ALU-000471,Glauco Robles Rius,2011-09-09,M,ESO,3,Trinidad Robles Duran,+34 661 711 146,trinidad.robles@example.com,2022-09-10
+472,10,ALU-000472,José Pou Busquets,2010-10-14,M,ESO,4,Eusebia Pou Reina,+34 643 170 467,eusebia.pou@example.com,2022-09-11
+473,9,ALU-000473,Eustaquio León Cuadrado,2015-06-10,M,Primaria,4,Tomás León Ramos,+34 692 536 369,tomas.leon@example.com,2023-09-12
+474,9,ALU-000474,Rosendo Cobo Feijoo,2018-12-22,M,Primaria,2,Gilberto Cobo Clemente,+34 753 396 704,gilberto.cobo@example.com,2024-09-13
+475,9,ALU-000475,Nicolasa Melero Iriarte,2017-08-27,F,Primaria,2,Odalys Melero Maestre,+34 657 857 960,odalys.melero@example.com,2023-09-15
+476,3,ALU-000476,Ofelia Soler,2013-03-30,F,ESO,1,Ester Soler Campillo,+34 677 201 731,ester.soler@example.com,2022-09-12
+477,1,ALU-000477,Emiliana Oliveras Fernandez,2010-12-15,F,ESO,4,Borja Oliveras Robles,+34 613 693 937,borja.oliveras@example.com,2022-09-10
+478,5,ALU-000478,Mirta del Gisbert,2012-06-27,F,ESO,2,Olivia del Atienza,+34 765 955 962,,2022-09-14
+479,8,ALU-000479,Alfredo del Cózar,2009-11-11,M,Bachillerato,1,Anunciación del Téllez,+34 674 017 752,anunciacion.del@example.com,2022-09-15
+480,8,ALU-000480,Mercedes de Bonilla,2008-02-18,F,Bachillerato,1,Rafa Remigio Espada Miró,+34 718 469 286,rafa.remigio@example.com,2024-09-11
+481,8,ALU-000481,Narciso Leon-Villaverde,2010-12-01,M,ESO,4,Elisabet Leon-Villaverde Bernat,+34 604 371 963,elisabet.leon-villaverde@example.com,2024-09-12
+482,1,ALU-000482,Rafa Marquez Millán,2008-10-30,M,Bachillerato,2,Rocío Marquez Valera,+34 701 349 517,rocio.marquez@example.com,2024-09-12
+483,1,ALU-000483,Renata Chaparro Rico,2018-07-14,F,Primaria,1,Jenny Chaparro Cazorla,+34 745 129 194,jenny.chaparro@example.com,2023-09-12
+484,6,ALU-000484,Caridad Jáuregui Franch,2016-12-17,F,Primaria,4,Evangelina Jáuregui Ruano,+34 774 220 018,evangelina.jauregui@example.com,2023-09-15
+485,7,ALU-000485,Rufina Esmeralda Nadal Manjón,2014-08-22,F,Primaria,6,Lucho Esmeralda Arias,+34 613 726 778,,2022-09-14
+486,3,ALU-000486,Juanita Pascual Azorin,2012-11-29,F,ESO,2,Jose Ignacio Pascual Mariño,+34 635 060 723,jose.ignacio@example.com,2023-09-10
+487,2,ALU-000487,Esteban Guzmán Pizarro,2014-10-31,M,Primaria,6,Régulo Cosme Noguera Moraleda,+34 697 654 295,regulo.cosme@example.com,2022-09-14
+488,8,ALU-000488,Sandra Olivia Gutiérrez Cabeza,2009-12-23,F,Bachillerato,1,Rogelio Olivia Millán,+34 647 285 015,rogelio.olivia@example.com,2024-09-12
+489,8,ALU-000489,Albino Bautista Bellido Peñalver,2009-04-03,M,Bachillerato,1,Rebeca Bautista Cózar,+34 710 190 900,rebeca.bautista@example.com,2024-09-13
+490,10,ALU-000490,Bonifacio Ródenas Puig,2008-07-10,M,Bachillerato,2,Brunilda Ródenas Flor,+34 693 955 583,,2024-09-15
+491,7,ALU-000491,Pepito Cabezas Lucena,2018-06-25,M,Primaria,2,Emiliano Carrera Ponce,+34 624 586 309,emiliano.carrera@example.com,2024-09-09
+492,1,ALU-000492,Teodosio Higueras Sáenz,2012-06-07,M,ESO,2,Vinicio Higueras Borrego,+34 738 288 459,vinicio.higueras@example.com,2023-09-15
+493,2,ALU-000493,Noemí Sanabria,2019-09-29,F,Primaria,1,Andrés Felipe Sanabria Rico,+34 747 952 052,andres.felipe@example.com,2024-09-13
+494,2,ALU-000494,Graciana Falcón Ramirez,2014-05-21,F,Primaria,6,Nayara Falcón Villegas,+34 679 959 769,nayara.falcon@example.com,2023-09-12
+495,3,ALU-000495,Aarón Silvio Quintana Iglesias,2008-06-20,M,FP,2,Lázaro Rosa Jover,+34 778 933 901,lazaro.rosa@example.com,2024-09-09
+496,1,ALU-000496,Adelardo de Cobo,2018-10-23,M,Primaria,2,Eutimio de Cañizares,+34 714 531 651,eutimio.de@example.com,2024-09-11
+497,7,ALU-000497,Felicidad Tello Riera,2015-08-11,F,Primaria,4,Rosaura Barranco Guerrero,+34 645 710 701,rosaura.barranco@example.com,2024-09-12
+498,7,ALU-000498,Remigio Arnaiz Menendez,2014-11-25,M,Primaria,6,Mateo Arnaiz Seco,+34 614 151 531,mateo.arnaiz@example.com,2023-09-09
+499,1,ALU-000499,Victor Paredes Sala,2007-10-30,M,Bachillerato,2,Marino del Jove,+34 620 167 340,marino.del@example.com,2022-09-14
+500,6,ALU-000500,Renata Gómez Benavides,2018-08-21,F,Primaria,2,Cristóbal Gómez Maza,+34 727 110 093,cristobal.gomez@example.com,2022-09-15
+501,7,ALU-000501,Ariel Tormo Soria,2016-07-19,M,Primaria,4,Luna Tormo Esteban,+34 778 537 911,luna.tormo@example.com,2023-09-14
+502,8,ALU-000502,Rocío Moya-Abascal,2008-05-29,F,FP,1,Victor Manuel Moya-Abascal Coca,+34 660 708 892,victor.manuel@example.com,2022-09-09
+503,5,ALU-000503,Cesar Porcel-Bermudez,2012-12-02,M,ESO,2,Encarnita Porcel-Bermudez Vizcaíno,+34 680 068 819,encarnita.porcel-bermudez@example.com,2024-09-11
+504,8,ALU-000504,Nereida Sanmiguel-Calderón,2010-08-20,F,ESO,3,Paulino Sanmiguel-Calderón Cortina,+34 700 322 528,paulino.sanmiguel-calderon@example.com,2023-09-09
+505,6,ALU-000505,Leire Guijarro,2017-12-04,F,Primaria,3,Marisela Guijarro Guzman,+34 665 450 373,,2023-09-15
+506,9,ALU-000506,Isaías Mir Sacristán,2017-04-19,M,Primaria,2,Teresita Mir Pont,+34 710 307 677,teresita.mir@example.com,2023-09-13
+507,3,ALU-000507,Ignacia Lobato,2008-04-07,F,Bachillerato,1,Heriberto Lobato Carbonell,+34 665 832 103,heriberto.lobato@example.com,2023-09-09
+508,8,ALU-000508,Cayetano Macias Vaquero,2007-06-29,M,FP,2,Nadia Vallejo Corral,+34 794 848 368,nadia.vallejo@example.com,2022-09-15
+509,1,ALU-000509,Ovidio Andrés Felipe Palomo Ramis,2016-01-04,M,Primaria,4,Guiomar Andrés Fernández,+34 688 090 224,guiomar.andres@example.com,2024-09-12
+510,7,ALU-000510,Loreto Duque Carnero,2013-11-27,F,Primaria,6,Seve Duque Bermúdez,+34 608 626 411,seve.duque@example.com,2023-09-10
+511,3,ALU-000511,Casemiro Montenegro Izquierdo,2008-05-24,M,FP,2,Georgina Reyes Requena,+34 654 752 802,georgina.reyes@example.com,2022-09-14
+512,3,ALU-000512,Marina Lledó Abascal,2013-06-07,F,ESO,1,Águeda Lledó Mora,+34 738 033 236,agueda.lledo@example.com,2024-09-13
+513,1,ALU-000513,Fortunato Vigil Torrecilla,2010-06-24,M,ESO,3,Purificación Vigil Estrada,+34 725 834 138,purificacion.vigil@example.com,2023-09-12
+514,10,ALU-000514,Raimundo Pedraza Busquets,2015-12-28,M,Primaria,4,Herberto Pedraza Montes,+34 747 601 340,herberto.pedraza@example.com,2024-09-10
+515,5,ALU-000515,Andrés Aguiló Conde,2008-12-03,M,Bachillerato,2,Sigfrido Berto Puerta Benet,+34 630 368 104,sigfrido.berto@example.com,2022-09-14
+516,4,ALU-000516,Cleto del Guzman,2010-06-27,M,ESO,4,Benigna del Guardia,+34 704 836 512,benigna.del@example.com,2023-09-09
+517,4,ALU-000517,Ángela Anguita Manuel,2018-09-08,F,Primaria,2,Borja Anguita Solís,+34 684 503 532,borja.anguita@example.com,2022-09-13
+518,10,ALU-000518,Paz Burgos Rozas,2007-11-20,F,Bachillerato,2,Cristian Burgos Arenas,+34 603 318 694,cristian.burgos@example.com,2022-09-11
+519,4,ALU-000519,Santiago Daza Arregui,2009-03-15,M,Bachillerato,1,Gerardo Daza Marqués,+34 610 834 219,gerardo.daza@example.com,2023-09-09
+520,7,ALU-000520,Ambrosio Juan Luis Marti Quevedo,2016-07-18,M,Primaria,4,Ximena Juan Reina,+34 603 009 109,ximena.juan@example.com,2024-09-12
+521,9,ALU-000521,Fidel Galvez Sandoval,2015-02-09,M,Primaria,5,Pascuala Galvez Miguel,+34 695 459 588,pascuala.galvez@example.com,2022-09-10
+522,5,ALU-000522,Evelia Corbacho Jáuregui,2019-09-26,F,Primaria,1,Yago Corbacho Guerra,+34 799 597 556,yago.corbacho@example.com,2024-09-11
+523,8,ALU-000523,Ruy Redondo Bermudez,2008-09-08,M,FP,2,Cándido Redondo Girón,+34 626 296 564,candido.redondo@example.com,2022-09-09
+524,5,ALU-000524,Eladio Ferrera Roselló,2007-09-12,M,Bachillerato,2,Sabina Ferrera Amorós,+34 624 626 167,sabina.ferrera@example.com,2024-09-11
+525,1,ALU-000525,Eliseo Galindo,2019-06-15,M,Primaria,1,Armida Infante Carretero,+34 770 433 028,armida.infante@example.com,2024-09-12
+526,7,ALU-000526,Dionisia Tapia,2016-04-27,F,Primaria,3,Micaela Elorza Valls,+34 633 125 414,micaela.elorza@example.com,2024-09-15
+527,2,ALU-000527,José María Águila,2014-10-03,M,Primaria,5,Mauricio María Cobos,+34 748 729 359,,2022-09-15
+528,4,ALU-000528,Maxi Tormo Rodriguez,2012-04-10,M,ESO,2,Isidro Guijarro,+34 777 861 230,isidro.guijarro@example.com,2024-09-09
+529,4,ALU-000529,Lucila Morillo Simó,2012-02-21,F,ESO,2,Aura Comas Mercader,+34 701 018 313,aura.comas@example.com,2022-09-14
+530,6,ALU-000530,Mónica Jordán-Mercader,2014-11-15,F,Primaria,6,Leire Jordán-Mercader Aranda,+34 674 870 874,leire.jordan-mercader@example.com,2022-09-12
+531,5,ALU-000531,Dafne Samper,2013-11-19,F,ESO,1,Ernesto Samper Gonzalo,+34 678 531 884,ernesto.samper@example.com,2023-09-14
+532,2,ALU-000532,Estela Puerta Niño,2016-08-09,F,Primaria,3,Íngrid Puerta Ríos,+34 747 266 412,ingrid.puerta@example.com,2024-09-09
+533,7,ALU-000533,Úrsula Barceló Aroca,2014-04-17,F,Primaria,6,Berto Barceló Arregui,+34 738 109 436,berto.barcelo@example.com,2024-09-14
+534,8,ALU-000534,Rico Sosa-Montaña,2008-07-15,M,FP,2,Concepción Sosa-Montaña Millán,+34 765 690 923,concepcion.sosa-montana@example.com,2023-09-11
+535,7,ALU-000535,Julia Malena Cervantes Figuerola,2013-09-24,F,Primaria,6,Lázaro Malena Salazar,+34 657 291 217,lazaro.malena@example.com,2022-09-15
+536,5,ALU-000536,Zoraida del Romero,2013-07-04,F,Primaria,6,Narcisa del Abascal,+34 743 815 198,narcisa.del@example.com,2023-09-12
+537,7,ALU-000537,María José Prieto Manuel,2013-10-12,F,Primaria,6,Isa José Castellanos,+34 619 104 711,isa.jose@example.com,2024-09-09
+538,4,ALU-000538,Susanita Huertas,2013-08-31,F,Primaria,6,Marta Huertas Borrell,+34 654 673 423,,2022-09-10
+539,4,ALU-000539,Salomé Morán Salmerón,2014-10-28,F,Primaria,6,Mariana Morán Quintanilla,+34 740 387 021,mariana.moran@example.com,2022-09-14
+540,8,ALU-000540,Milagros del Lillo,2008-08-24,F,FP,1,Joel Valverde Téllez,+34 657 366 440,joel.valverde@example.com,2023-09-11
+541,1,ALU-000541,Carlito Ros,2011-04-02,M,ESO,3,Silvio Arcos-Galvez,+34 657 442 933,,2024-09-13
+542,3,ALU-000542,Godofredo Salom Revilla,2012-09-20,M,ESO,2,Úrsula Salom Morcillo,+34 728 131 104,ursula.salom@example.com,2022-09-13
+543,6,ALU-000543,Iris Losada Figueroa,2014-12-31,F,Primaria,6,Bernardino Serna-Valdés,+34 778 144 762,bernardino.serna-valdes@example.com,2022-09-15
+544,6,ALU-000544,Geraldo Espejo Barriga,2016-06-27,M,Primaria,4,Horacio Espejo Cabanillas,+34 618 946 818,,2024-09-12
+545,3,ALU-000545,Maite Puga Tolosa,2008-06-13,F,FP,1,Manuel Puga Almeida,+34 763 622 038,,2024-09-15
+546,4,ALU-000546,Marta de Tomas,2011-10-09,F,ESO,3,Fausto de Serra,+34 617 710 625,fausto.de@example.com,2024-09-09
+547,5,ALU-000547,Candelaria Palacio Cañellas,2014-06-14,F,Primaria,6,Eleuterio Roig Real,+34 632 908 289,eleuterio.roig@example.com,2023-09-10
+548,1,ALU-000548,Águeda Jacinta Parejo Rey,2008-01-31,F,Bachillerato,2,Miguela Rincón-Roda,+34 701 770 923,miguela.rincon-roda@example.com,2024-09-09
+549,8,ALU-000549,Felix Goñi-Mayo,2008-08-29,M,Bachillerato,2,Alejo Goñi-Mayo Méndez,+34 678 767 871,alejo.goni-mayo@example.com,2022-09-12
+550,3,ALU-000550,Pánfilo Granados Moliner,2010-04-26,M,ESO,4,Palmira Granados Martín,+34 628 376 082,palmira.granados@example.com,2023-09-12
+551,2,ALU-000551,Salomé del Santana,2017-07-28,F,Primaria,3,Jose Ramón Juárez Navarro,+34 664 559 745,jose.ramon@example.com,2023-09-09
+552,3,ALU-000552,Nereida Noemí Riquelme Aramburu,2010-08-04,F,ESO,4,Melania Noemí Acevedo,+34 748 423 382,melania.noemi@example.com,2023-09-15
+553,6,ALU-000553,Américo Salamanca,2018-07-27,M,Primaria,1,Concha Salamanca Muro,+34 762 262 377,concha.salamanca@example.com,2024-09-11
+554,9,ALU-000554,Ciríaco Jiménez-Figueroa,2019-04-15,M,Primaria,1,Angelina Fuertes,+34 782 946 812,angelina.fuertes@example.com,2022-09-11
+555,7,ALU-000555,Consuelo Figueras Barba,2016-07-03,F,Primaria,4,Carmen Figueras Ribas,+34 685 293 163,carmen.figueras@example.com,2023-09-14
+556,4,ALU-000556,Fabián Guillen Oliva,2013-08-17,M,ESO,1,Zoraida Guillen Pascual,+34 636 597 462,,2022-09-15
+557,9,ALU-000557,Feliciana Encarnita Berrocal Enríquez,2018-04-10,F,Primaria,2,Lucio Busquets-Marí,+34 645 378 906,lucio.busquets-mari@example.com,2023-09-10
+558,1,ALU-000558,Teodora Reguera Rosell,2015-10-07,F,Primaria,5,Nélida Reguera Pelayo,+34 604 271 151,nelida.reguera@example.com,2022-09-13
+559,6,ALU-000559,Chema Vives Cordero,2017-12-06,M,Primaria,3,Joaquina Vives Esparza,+34 623 820 195,joaquina.vives2@example.com,2022-09-11
+560,6,ALU-000560,Mohamed Durán Badía,2017-09-13,M,Primaria,2,Aureliano Durán Olivares,+34 665 703 566,,2024-09-14
+561,4,ALU-000561,Rogelio Antúnez Font,2010-08-18,M,ESO,4,Jordán Antúnez Valle,+34 664 124 097,jordan.antunez@example.com,2022-09-12
+562,2,ALU-000562,Jenny de Peiró,2015-01-06,F,Primaria,4,Constanza de Pujadas,+34 616 356 442,constanza.de@example.com,2024-09-13
+563,3,ALU-000563,Celia del Salinas,2009-08-22,F,FP,1,Magdalena Albina Portillo Ponce,+34 716 430 075,magdalena.albina@example.com,2022-09-09
+564,2,ALU-000564,Toño Ayala Rius,2015-07-06,M,Primaria,5,Victorino Ayala Bernal,+34 688 505 487,victorino.ayala@example.com,2022-09-11
+565,10,ALU-000565,Espiridión Sola Castells,2007-11-15,M,Bachillerato,2,Hortensia Sola Porras,+34 617 039 802,hortensia.sola@example.com,2023-09-10
+566,5,ALU-000566,Alonso Prat Bravo,2008-09-30,M,Bachillerato,2,Felisa Prat Esparza,+34 793 096 105,,2023-09-11
+567,1,ALU-000567,Maximiano Leonardo Vega Córdoba,2009-03-05,M,Bachillerato,1,Mirta Leonardo Sáez,+34 632 216 494,mirta.leonardo@example.com,2024-09-12
+568,6,ALU-000568,Severino Izaguirre-Mendizábal,2016-02-24,M,Primaria,4,Dorotea Izaguirre-Mendizábal Villalba,+34 667 361 486,dorotea.izaguirre-mendizabal@example.com,2022-09-13
+569,4,ALU-000569,José Manuel Castañeda,2011-11-14,M,ESO,2,Jessica Manuel Torrens,+34 756 483 969,jessica.manuel@example.com,2024-09-14
+570,7,ALU-000570,Adoración Ripoll Lillo,2013-12-05,F,Primaria,6,Jose Ramón Cecilio Prat Bermúdez,+34 661 191 031,jose.ramon@example.com,2023-09-10
+571,3,ALU-000571,Marcelino de Tomé,2010-10-04,M,ESO,4,Rosalía de Hernando,+34 772 920 011,rosalia.de4@example.com,2023-09-15
+572,1,ALU-000572,Marta Pulido,2008-08-08,F,Bachillerato,2,Dorotea Pulido Gimenez,+34 682 536 808,,2022-09-12
+573,3,ALU-000573,Natalia Aránzazu Córdoba España,2008-09-25,F,Bachillerato,2,Santos Aránzazu Borja,+34 609 209 625,santos.aranzazu2@example.com,2024-09-10
+574,6,ALU-000574,Diana Salvà Escalona,2018-12-08,F,Primaria,1,Calixta Salvà Páez,+34 762 598 481,calixta.salva@example.com,2022-09-14
+575,6,ALU-000575,Goyo Ballester Bilbao,2017-12-20,M,Primaria,3,Pastor Ballester Otero,+34 625 099 086,pastor.ballester@example.com,2022-09-11
+576,6,ALU-000576,Aurora Porras Palomar,2016-07-22,F,Primaria,4,Benita Porras Ariño,+34 620 378 101,benita.porras@example.com,2024-09-13
+577,6,ALU-000577,Concha Boix-Guzmán,2014-02-15,F,Primaria,5,Poncio Boix-Guzmán Marco,+34 742 740 250,poncio.boix-guzman@example.com,2024-09-14
+578,4,ALU-000578,Ligia Daza Fuster,2007-05-09,F,Bachillerato,2,Segismundo Daza Gimenez,+34 607 043 110,,2022-09-10
+579,1,ALU-000579,Candelas de Patiño,2011-11-12,F,ESO,3,Chuy de Nebot,+34 780 626 229,chuy.de@example.com,2022-09-11
+580,6,ALU-000580,Lino Escolano Reguera,2018-07-11,M,Primaria,2,Felipe Escolano Monreal,+34 649 720 276,felipe.escolano8@example.com,2022-09-12
+581,5,ALU-000581,Haroldo Cifuentes Gallo,2011-06-26,M,ESO,3,Jose Antonio Cifuentes Juárez,+34 775 210 840,jose.antonio@example.com,2023-09-14
+582,7,ALU-000582,Alba Barón,2018-10-14,F,Primaria,2,Eva María Barón Morante,+34 770 044 469,eva.maria@example.com,2022-09-10
+583,7,ALU-000583,Trinidad Barberá Antón,2016-07-04,F,Primaria,4,Isaura Barberá Segarra,+34 707 958 561,isaura.barbera@example.com,2022-09-10
+584,8,ALU-000584,Nicanor del Goñi,2008-09-07,M,Bachillerato,1,Wilfredo del Rosales,+34 671 892 607,wilfredo.del@example.com,2022-09-09
+585,3,ALU-000585,Dalila Castejón,2009-07-30,F,Bachillerato,1,Ernesto Villalba Franco,+34 786 743 665,ernesto.villalba@example.com,2024-09-12
+586,2,ALU-000586,Dalila Cases Fonseca,2018-10-03,F,Primaria,2,María Carmen del Cobos,+34 708 005 586,maria.carmen@example.com,2023-09-12
+587,9,ALU-000587,Jacinto Montaña Cantón,2015-02-25,M,Primaria,5,Iris Montaña Vendrell,+34 636 915 720,iris.montana@example.com,2023-09-13
+588,9,ALU-000588,Marta de Cordero,2017-07-14,F,Primaria,3,Rosario del Dominguez,+34 674 211 832,rosario.del@example.com,2023-09-14
+589,2,ALU-000589,Hilda Roca Alsina,2014-06-04,F,Primaria,5,Isaura Roca Alcolea,+34 603 450 605,isaura.roca@example.com,2024-09-12
+590,10,ALU-000590,Goyo Alcázar Sevillano,2018-10-26,M,Primaria,2,Pánfilo Dalmau,+34 642 724 771,,2022-09-10
+591,9,ALU-000591,Jimena Barón-Coronado,2019-06-02,F,Primaria,1,Lidia Barón-Coronado Bejarano,+34 659 956 312,lidia.baron-coronado@example.com,2022-09-12
+592,8,ALU-000592,Hernán Cepeda Gabaldón,2010-10-18,M,ESO,4,Jose Carlos Cepeda Cantón,+34 678 649 778,jose.carlos@example.com,2023-09-12
+593,4,ALU-000593,Sarita Remedios Aguilera Rosa,2011-02-27,F,ESO,3,Casemiro Remedios Perea,+34 769 973 927,casemiro.remedios@example.com,2023-09-14
+594,2,ALU-000594,María Dolores Pedrero Mayoral,2015-12-11,F,Primaria,4,Manola Dolores Ballesteros,+34 645 879 519,manola.dolores@example.com,2023-09-10
+595,3,ALU-000595,Benigna Gordillo Pinilla,2009-06-12,F,Bachillerato,1,Marcelino Gordillo Asensio,+34 631 786 183,marcelino.gordillo@example.com,2024-09-09
+596,3,ALU-000596,Marisol Paola Pallarès Sierra,2008-05-03,F,Bachillerato,2,Andrea Montalbán Ribera,+34 731 640 454,andrea.montalban@example.com,2022-09-13
+597,8,ALU-000597,Onofre Mendoza Espejo,2008-09-21,M,FP,1,Anacleto Mendoza Porta,+34 689 441 226,anacleto.mendoza@example.com,2022-09-09
+598,6,ALU-000598,Loreto del Lucas,2016-10-17,M,Primaria,3,Gloria del Gárate,+34 723 084 536,gloria.del@example.com,2023-09-10
+599,10,ALU-000599,Ricarda Ballesteros,2017-07-30,F,Primaria,3,Adelaida Ballesteros Rodrigo,+34 609 681 155,,2022-09-11
+600,5,ALU-000600,Haydée Cifuentes Leal,2017-04-03,F,Primaria,3,Chucho Torrent,+34 666 971 094,chucho.torrent@example.com,2022-09-13
+601,7,ALU-000601,Abigaíl Sanabria García,2013-07-12,F,Primaria,6,Octavio Sanabria Mateu,+34 647 124 736,,2024-09-13
+602,1,ALU-000602,Patricia Melero Ortuño,2007-07-28,F,Bachillerato,2,Ambrosio Melero Franco,+34 659 443 073,ambrosio.melero@example.com,2022-09-14
+603,1,ALU-000603,Trini del Reyes,2018-06-16,F,Primaria,2,Ciriaco del Corbacho,+34 656 587 418,,2022-09-14
+604,3,ALU-000604,Eusebia Acuña Guerra,2007-07-24,F,FP,2,Esteban Acuña Valdés,+34 620 894 771,esteban.acuna@example.com,2022-09-11
+605,7,ALU-000605,Isa del Benitez,2016-11-17,F,Primaria,3,Piedad del Arnau,+34 735 292 253,piedad.del@example.com,2023-09-11
+606,5,ALU-000606,José María Viana Iglesia,2010-04-02,M,ESO,4,Darío María Estrada,+34 609 269 153,dario.maria@example.com,2022-09-15
+607,6,ALU-000607,Timoteo Barbero Alba,2013-04-04,M,Primaria,6,Pía Roman Sarmiento,+34 706 011 271,pia.roman@example.com,2024-09-13
+608,6,ALU-000608,Heraclio del Arnaiz,2014-12-21,M,Primaria,6,Adela del Daza,+34 712 681 493,adela.del@example.com,2024-09-10
+609,4,ALU-000609,Jose Bou Haro,2009-11-11,M,Bachillerato,1,Rafael Bou Villalonga,+34 664 414 988,rafael.bou@example.com,2022-09-14
+610,4,ALU-000610,Íñigo Gilabert-Correa,2016-10-21,M,Primaria,4,Pablo Gilabert-Correa Salazar,+34 771 371 495,pablo.gilabert-correa4@example.com,2023-09-11
+611,7,ALU-000611,Carmela Camila Plaza Zapata,2017-06-29,F,Primaria,2,Dominga Camila Gutierrez,+34 624 197 674,,2022-09-11
+612,7,ALU-000612,Luis Ángel Viña Cordero,2015-06-12,M,Primaria,5,Rosario Ángel Agudo,+34 614 535 572,rosario.angel@example.com,2022-09-09
+613,6,ALU-000613,Herberto Esteve Noriega,2017-07-04,M,Primaria,3,Leandro Esteve Menéndez,+34 603 232 918,leandro.esteve@example.com,2024-09-14
+614,1,ALU-000614,Dionisia Montesinos Montenegro,2010-04-08,F,ESO,4,Nacho Montesinos Pla,+34 745 659 559,,2024-09-11
+615,7,ALU-000615,Reinaldo Caro Gascón,2018-09-01,M,Primaria,2,José Manuel Caro Velázquez,+34 777 777 302,jose.manuel@example.com,2024-09-13
+616,1,ALU-000616,Imelda Cabañas Rojas,2012-01-08,F,ESO,2,Jesús Cabañas Bustamante,+34 736 600 813,jesus.cabanas8@example.com,2024-09-09
+617,6,ALU-000617,Asunción de Cerro,2015-05-12,F,Primaria,5,Lucila Gema Verdugo Roca,+34 758 856 968,lucila.gema@example.com,2022-09-13
+618,8,ALU-000618,Azeneth Viviana Peláez Quirós,2008-01-15,F,FP,2,Lilia Bernat Peñalver,+34 727 206 945,lilia.bernat@example.com,2023-09-15
+619,5,ALU-000619,Camilo Gutierrez Reguera,2016-03-09,M,Primaria,4,Alejandra Gutierrez Alegre,+34 619 669 743,alejandra.gutierrez@example.com,2023-09-10
+620,4,ALU-000620,Amanda Pérez Poza,2016-03-26,F,Primaria,4,Macarena Pérez Giner,+34 735 438 972,macarena.perez@example.com,2024-09-12
+621,10,ALU-000621,Noemí Huguet Farré,2009-04-28,F,Bachillerato,1,Aura Huguet Recio,+34 711 003 672,aura.huguet@example.com,2023-09-14
+622,4,ALU-000622,Kike Ribas Sevillano,2008-10-08,M,Bachillerato,2,Calisto Ribas Oliva,+34 679 400 718,calisto.ribas@example.com,2022-09-10
+623,3,ALU-000623,Alondra del Prieto,2008-11-27,F,FP,2,Sergio del Jimenez,+34 610 732 881,sergio.del@example.com,2022-09-13
+624,10,ALU-000624,Paulina Domingo Delgado,2017-09-28,F,Primaria,3,Olegario Domingo Torrens,+34 624 472 764,olegario.domingo@example.com,2022-09-12
+625,7,ALU-000625,Elena Echeverría Pascual,2015-10-12,F,Primaria,5,Nilda Echeverría Estévez,+34 628 133 070,,2023-09-15
+626,2,ALU-000626,Ariel Viana Belda,2014-09-27,M,Primaria,6,Rosalinda Viana Piña,+34 721 076 477,rosalinda.viana@example.com,2024-09-15
+627,9,ALU-000627,Chelo Pedrosa Sedano,2019-09-25,F,Primaria,1,Jose Ramón Pedrosa Camino,+34 780 222 712,jose.ramon@example.com,2024-09-12
+628,1,ALU-000628,Eufemia Visitación Garmendia Torrent,2012-12-11,F,ESO,2,Emperatriz Visitación Zabaleta,+34 651 274 005,emperatriz.visitacion@example.com,2023-09-09
+629,4,ALU-000629,América Gutiérrez Guardiola,2010-03-26,F,ESO,4,Griselda Gutiérrez Portillo,+34 620 993 290,,2023-09-14
+630,8,ALU-000630,Susanita Barbero,2012-05-10,F,ESO,2,Amílcar Barbero Cabello,+34 703 300 788,amilcar.barbero3@example.com,2024-09-10
+631,5,ALU-000631,Lucio Llamas-Tomé,2013-12-11,M,Primaria,6,Remedios Llamas-Tomé Vara,+34 610 500 825,remedios.llamas-tome@example.com,2023-09-12
+632,1,ALU-000632,Eliseo Aranda-Simó,2011-02-03,M,ESO,3,Cleto Aranda-Simó Moles,+34 697 322 547,cleto.aranda-simo@example.com,2024-09-10
+633,4,ALU-000633,Eleuterio Cal Alcalde,2017-05-11,M,Primaria,3,Luis Cal Sevillano,+34 717 366 861,luis.cal@example.com,2023-09-13
+634,6,ALU-000634,Oriana Cárdenas Mata,2017-07-30,F,Primaria,2,Amelia Julián Santamaria,+34 668 608 130,amelia.julian@example.com,2022-09-10
+635,7,ALU-000635,Nilda Rosalinda Pazos Atienza,2017-03-16,F,Primaria,3,Fito Cuenca-Fabregat,+34 758 518 037,fito.cuenca-fabregat@example.com,2024-09-09
+636,8,ALU-000636,Pelayo Segura Bauzà,2008-12-13,M,Bachillerato,1,Benjamín Segura Jáuregui,+34 751 359 559,benjamin.segura2@example.com,2023-09-14
+637,4,ALU-000637,Malena Baró Ureña,2013-07-29,F,ESO,1,Iván Baró Mariño,+34 633 530 657,ivan.baro@example.com,2023-09-14
+638,5,ALU-000638,Alberto Felipe Royo Carrión,2010-09-16,M,ESO,4,Cloe Felipe Soriano,+34 759 915 967,cloe.felipe@example.com,2024-09-09
+639,6,ALU-000639,Ciro Agullo Oliver,2019-09-12,M,Primaria,1,Maite Agullo Lorenzo,+34 662 725 132,maite.agullo@example.com,2024-09-14
+640,2,ALU-000640,Rosenda Leandra Ribas Alfaro,2018-06-11,F,Primaria,2,Noé Leandra Clavero,+34 754 667 779,noe.leandra@example.com,2023-09-14
+641,1,ALU-000641,Reynaldo Garmendia-Cuesta,2007-02-10,M,Bachillerato,2,Agapito Prat,+34 726 293 112,agapito.prat@example.com,2022-09-10
+642,7,ALU-000642,Efraín Cañizares-Palomino,2017-04-28,M,Primaria,3,Ramona Cañizares-Palomino Valero,+34 696 953 184,ramona.canizares-palomino@example.com,2022-09-11
+643,9,ALU-000643,Eligio Juan José Jiménez Novoa,2016-08-18,M,Primaria,3,Charo Solano Arribas,+34 611 950 867,charo.solano@example.com,2024-09-14
+644,6,ALU-000644,Isaías del Ferreras,2017-06-13,M,Primaria,3,Florentina del Ramis,+34 720 069 043,florentina.del@example.com,2024-09-10
+645,1,ALU-000645,Silvestre de Pomares,2017-09-04,M,Primaria,2,Leandra de Donaire,+34 693 190 389,leandra.de@example.com,2023-09-13
+646,3,ALU-000646,Julio Silvio Mariño Saura,2008-08-27,M,FP,1,Pedro Gras Bolaños,+34 628 703 337,pedro.gras@example.com,2023-09-10
+647,10,ALU-000647,Eleuterio Trujillo Aranda,2013-05-05,M,Primaria,6,Dan Trujillo Vicens,+34 662 116 775,dan.trujillo@example.com,2023-09-09
+648,10,ALU-000648,Carmen Pardo,2009-06-26,F,Bachillerato,1,Rodrigo Pardo Exposito,+34 758 106 328,rodrigo.pardo@example.com,2022-09-14
+649,10,ALU-000649,Adolfo Belmonte Bernat,2008-01-08,M,Bachillerato,1,Olegario Belmonte Pardo,+34 665 118 053,olegario.belmonte@example.com,2024-09-13
+650,1,ALU-000650,Benito Bonet Hernández,2010-03-30,M,ESO,4,Emigdio Bonet Castrillo,+34 799 265 307,emigdio.bonet@example.com,2023-09-09
+651,7,ALU-000651,Perlita Vargas Garmendia,2019-05-26,F,Primaria,1,Ramiro Vargas Iborra,+34 669 708 723,ramiro.vargas@example.com,2024-09-12
+652,1,ALU-000652,Luna Romero-Domínguez,2008-08-06,F,Bachillerato,2,Diana Romero-Domínguez Peláez,+34 684 190 599,diana.romero-dominguez@example.com,2022-09-15
+653,9,ALU-000653,Sergio Batalla Portillo,2017-02-23,M,Primaria,2,Timoteo Batalla Amat,+34 737 812 735,timoteo.batalla@example.com,2024-09-13
+654,2,ALU-000654,Gervasio Casado,2014-05-16,M,Primaria,6,Fortunato Casado Acuña,+34 620 033 959,fortunato.casado@example.com,2024-09-12
+655,8,ALU-000655,Heriberto Moraleda,2012-01-15,M,ESO,2,Amor Moraleda Bonilla,+34 677 032 239,amor.moraleda@example.com,2024-09-14
+656,8,ALU-000656,Regina de Rios,2009-12-13,F,FP,1,Casemiro de Aranda,+34 721 282 025,casemiro.de@example.com,2024-09-10
+657,3,ALU-000657,Heraclio Baró Velasco,2009-05-02,M,FP,1,Maristela Baró Elorza,+34 681 177 414,maristela.baro5@example.com,2022-09-11
+658,10,ALU-000658,Emiliano Alcolea Guijarro,2010-11-22,M,ESO,4,Macaria Alcolea Bello,+34 670 162 552,macaria.alcolea@example.com,2022-09-09
+659,2,ALU-000659,Chelo Espada Fernandez,2015-04-29,F,Primaria,5,María Fernanda Espada Torrents,+34 672 861 328,maria.fernanda@example.com,2022-09-11
+660,4,ALU-000660,Nieves del Bárcena,2010-07-04,F,ESO,4,Segismundo del Merino,+34 625 293 462,segismundo.del@example.com,2022-09-15
+661,9,ALU-000661,Esmeralda Barba Caparrós,2017-03-11,F,Primaria,3,Teo Barba Berrocal,+34 675 728 727,teo.barba@example.com,2023-09-09
+662,6,ALU-000662,Gerardo Pérez Carrión,2014-04-10,M,Primaria,6,América Pérez Marti,+34 722 634 737,america.perez@example.com,2022-09-15
+663,9,ALU-000663,Hilda Molina Ballester,2014-10-12,F,Primaria,5,Patricia Molina Carreras,+34 646 929 677,patricia.molina2@example.com,2024-09-14
+664,7,ALU-000664,Juan José Manuel Plaza Chacón,2015-02-17,M,Primaria,5,Verónica José Pont,+34 699 621 286,veronica.jose3@example.com,2024-09-13
+665,10,ALU-000665,Lino Feliu Lillo,2016-01-27,M,Primaria,4,Eugenio Feliu Cantero,+34 789 473 461,eugenio.feliu@example.com,2022-09-15
+666,6,ALU-000666,Leire Cózar Donoso,2014-03-06,F,Primaria,6,Maximiliano Manjón Otero,+34 677 436 935,,2024-09-15
+667,4,ALU-000667,Marcio Noguera,2010-09-11,M,ESO,4,Toño Noguera Quintana,+34 694 604 831,,2022-09-13
+668,10,ALU-000668,Marta Arias Planas,2009-09-04,F,Bachillerato,1,Trini Arias Manjón,+34 685 885 353,trini.arias@example.com,2024-09-09
+669,7,ALU-000669,Martín de Iñiguez,2019-01-28,M,Primaria,1,Caridad de Pavón,+34 644 833 353,,2022-09-15
+670,6,ALU-000670,Teófilo Aguado Roselló,2015-03-05,M,Primaria,5,Socorro Aguado Grande,+34 678 413 901,socorro.aguado@example.com,2024-09-15
+671,4,ALU-000671,Carlos de Coll,2009-08-11,M,ESO,4,Ernesto de Hoz,+34 742 217 143,ernesto.de@example.com,2024-09-13
+672,7,ALU-000672,Sergio Ponce-Núñez,2017-11-21,M,Primaria,3,Teodora Ponce-Núñez Falcó,+34 693 144 924,teodora.ponce-nunez@example.com,2024-09-14
+673,9,ALU-000673,Adora Moreno Gallart,2017-02-19,F,Primaria,2,Ale Carlos,+34 720 310 009,ale.carlos@example.com,2023-09-12
+674,4,ALU-000674,Maximiano Buendía Silva,2010-01-17,M,ESO,3,Julia Buendía Rojas,+34 775 708 173,,2023-09-11
+675,3,ALU-000675,Francisco Cebrián Pombo Cánovas,2009-10-31,M,FP,1,Adela Gual Naranjo,+34 755 503 261,adela.gual@example.com,2022-09-10
+676,9,ALU-000676,Pía Jimenez Ayllón,2015-06-26,F,Primaria,4,Esmeralda Jimenez Iñiguez,+34 707 581 862,esmeralda.jimenez@example.com,2024-09-13
+677,9,ALU-000677,José María Gomez-Castro,2019-08-05,M,Primaria,1,Arturo Llabrés Galán,+34 614 227 502,arturo.llabres@example.com,2022-09-11
+678,8,ALU-000678,Manu Romeu,2010-10-15,F,ESO,4,Clímaco Romeu Narváez,+34 632 646 175,climaco.romeu2@example.com,2024-09-11
+679,4,ALU-000679,Cruz Dionisio Chaparro Tirado,2012-05-22,M,ESO,2,Manuelita Dionisio Huertas,+34 668 159 225,manuelita.dionisio@example.com,2024-09-14
+680,2,ALU-000680,Paco José Antonio Vicens Barreda,2014-11-16,M,Primaria,6,Marc José Arnal,+34 656 574 206,marc.jose@example.com,2022-09-15
+681,1,ALU-000681,Felicidad Noemí Goñi Albero,2009-12-25,F,Bachillerato,1,Candelario Noemí Gracia,+34 718 131 952,candelario.noemi@example.com,2022-09-15
+682,5,ALU-000682,René Borrego Sanabria,2010-06-09,M,ESO,4,Gerardo Borrego Samper,+34 614 864 381,gerardo.borrego@example.com,2023-09-09
+683,8,ALU-000683,Tamara Salinas-Cornejo,2010-02-02,F,ESO,3,Delfina Salinas-Cornejo Mir,+34 782 985 810,delfina.salinas-cornejo@example.com,2022-09-13
+684,10,ALU-000684,Consuela Vilaplana Ortuño,2010-10-22,F,ESO,4,Paola Vilaplana Bermudez,+34 618 162 053,paola.vilaplana@example.com,2023-09-09
+685,7,ALU-000685,Constanza Folch Riera,2016-02-18,F,Primaria,4,Norberto Folch Riquelme,+34 617 088 940,norberto.folch@example.com,2024-09-11
+686,3,ALU-000686,Leonel Fabregat Calderón,2008-02-09,M,FP,2,Adelardo Fabregat Castrillo,+34 601 164 566,,2024-09-15
+687,8,ALU-000687,Regina Linares Palacio,2008-09-29,F,Bachillerato,2,Vinicio Linares Iglesias,+34 630 012 206,vinicio.linares@example.com,2024-09-10
+688,2,ALU-000688,Amancio Navarro-Aguilar,2014-01-30,M,Primaria,6,Felix Navarro-Aguilar Anaya,+34 706 074 007,felix.navarro-aguilar@example.com,2023-09-10
+689,2,ALU-000689,Sabina Tamayo Barrera,2018-04-09,F,Primaria,2,Ofelia Gil Leal,+34 615 930 989,ofelia.gil@example.com,2023-09-11
+690,9,ALU-000690,Salomé Calzada Font,2019-01-09,F,Primaria,1,Xavier Gomez Perez,+34 657 789 984,,2023-09-13
+691,3,ALU-000691,Teo del Aguilera,2008-08-15,M,FP,2,Claudia Martorell Bayón,+34 791 047 759,claudia.martorell8@example.com,2022-09-09
+692,2,ALU-000692,Alfonso Méndez Adadia,2017-06-24,M,Primaria,3,Chema Castañeda Vara,+34 793 631 880,chema.castaneda@example.com,2024-09-13
+693,7,ALU-000693,Pablo Carrillo Jáuregui,2016-06-25,M,Primaria,4,Lorena Carrillo Carvajal,+34 680 374 113,lorena.carrillo@example.com,2023-09-13
+694,5,ALU-000694,Anselma Lola Villaverde Torralba,2012-03-04,F,ESO,2,Prudencio Lola Pedro,+34 628 033 822,prudencio.lola@example.com,2022-09-09
+695,2,ALU-000695,Ruy Benigno Palomares Chico,2017-08-03,M,Primaria,2,Florinda Benigno Escudero,+34 640 307 402,florinda.benigno3@example.com,2022-09-10
+696,8,ALU-000696,Angelita del Quintero,2008-05-03,F,FP,2,Fortunata del Folch,+34 702 138 740,fortunata.del@example.com,2022-09-10
+697,4,ALU-000697,Cándido Sala Echevarría,2008-03-01,M,Bachillerato,2,Estela Mosquera Rius,+34 625 706 534,estela.mosquera@example.com,2024-09-13
+698,7,ALU-000698,Jose Chaves López,2019-05-22,M,Primaria,1,Alfonso Chaves Leiva,+34 629 777 003,alfonso.chaves@example.com,2023-09-10
+699,6,ALU-000699,Teófilo Severiano Luján Escalona,2015-05-16,M,Primaria,5,Paulino Severiano Ríos,+34 684 602 883,,2022-09-10
+700,3,ALU-000700,Vidal Osorio-Ballesteros,2007-09-02,M,FP,2,Oriana Osorio-Ballesteros Hervia,+34 663 423 042,oriana.osorio-ballesteros7@example.com,2023-09-13
+701,5,ALU-000701,Marisol Roselló Zamorano,2008-03-26,F,Bachillerato,2,Victor Manuel Roselló Alberdi,+34 741 648 161,victor.manuel@example.com,2023-09-10
+702,5,ALU-000702,Nicolás Tolosa Criado,2008-05-15,M,Bachillerato,1,Benito Tolosa Camps,+34 768 864 327,benito.tolosa@example.com,2023-09-12
+703,7,ALU-000703,Kike Cobos Hierro,2016-11-14,M,Primaria,4,Victoriano Cobos Antúnez,+34 688 920 547,victoriano.cobos2@example.com,2023-09-10
+704,6,ALU-000704,Adora Peral,2014-09-12,F,Primaria,6,Trinidad Peral Perea,+34 652 895 644,trinidad.peral@example.com,2024-09-11
+705,3,ALU-000705,Mauricio Izaguirre Guillén,2011-06-03,M,ESO,2,Bernardo Izaguirre Ríos,+34 770 744 627,,2023-09-14
+706,5,ALU-000706,Macarena Gallardo Zorrilla,2011-12-28,F,ESO,3,Ileana Gallardo Arteaga,+34 770 834 766,,2022-09-14
+707,1,ALU-000707,Leyre Mayol Pedrero,2016-09-28,F,Primaria,4,Edu Mayol Almeida,+34 693 146 768,edu.mayol@example.com,2024-09-13
+708,4,ALU-000708,Francisca Bonet Maza,2008-07-26,F,Bachillerato,1,Clemente Vara Cuadrado,+34 759 588 521,clemente.vara@example.com,2024-09-09
+709,2,ALU-000709,Ágata España Falcón,2015-12-15,F,Primaria,5,Pastor España Ródenas,+34 638 181 655,,2024-09-12
+710,5,ALU-000710,Ema Romero-Peralta,2007-02-11,F,Bachillerato,2,Rafaela Romero-Peralta Acuña,+34 609 586 677,rafaela.romero-peralta@example.com,2022-09-10
+711,6,ALU-000711,Marcio Cañas Benítez,2019-11-28,M,Primaria,1,Bárbara Domingo Agustín,+34 717 427 023,barbara.domingo@example.com,2023-09-10
+712,6,ALU-000712,Sebastian Cobos Valero,2015-02-07,M,Primaria,5,Dora Cobos Espada,+34 673 106 544,dora.cobos@example.com,2023-09-14
+713,4,ALU-000713,Macaria Cifuentes Sobrino,2007-10-24,F,Bachillerato,2,Cruz Villegas Bosch,+34 679 438 721,cruz.villegas6@example.com,2024-09-11
+714,10,ALU-000714,Cristina Marisa Peñas Roldán,2013-03-27,F,Primaria,6,Ovidio Marisa Zaragoza,+34 698 411 392,ovidio.marisa@example.com,2024-09-12
+715,3,ALU-000715,Iván Navas Barrios,2009-01-06,M,Bachillerato,1,Marcos Navas Mesa,+34 711 117 562,marcos.navas@example.com,2022-09-15
+716,5,ALU-000716,Ágata Villalba-Peñalver,2015-08-02,F,Primaria,5,Rosa María Peinado Villar,+34 698 725 415,rosa.maria@example.com,2024-09-12
+717,5,ALU-000717,Aristides Pablo Villanueva Briones,2007-06-13,M,Bachillerato,2,Caridad Montoya,+34 686 144 705,caridad.montoya@example.com,2022-09-11
+718,8,ALU-000718,Inocencio de Hernando,2009-09-30,M,Bachillerato,1,Jorge de Feijoo,+34 720 662 786,jorge.de@example.com,2023-09-14
+719,8,ALU-000719,Leandro Cañizares Montserrat,2007-04-01,M,FP,2,Miguela Cabello,+34 699 182 489,miguela.cabello@example.com,2024-09-12
+720,9,ALU-000720,Flor Cornejo Fajardo,2019-05-09,F,Primaria,1,Silvia Cornejo Zurita,+34 616 884 522,silvia.cornejo@example.com,2024-09-12
+721,9,ALU-000721,María Manuela Martin Vicens,2014-11-01,F,Primaria,6,Dorita Manuela Garcia,+34 717 887 583,dorita.manuela@example.com,2023-09-15
+722,5,ALU-000722,Juan Fernandez Solsona,2009-07-09,M,Bachillerato,1,Rico Fernandez Ballester,+34 657 994 683,rico.fernandez@example.com,2022-09-14
+723,6,ALU-000723,Irene Cáceres Olivera,2015-06-08,F,Primaria,4,Palmira Cáceres Cornejo,+34 786 199 139,palmira.caceres@example.com,2023-09-09
+724,9,ALU-000724,Nazaret Pou Comas,2017-06-05,F,Primaria,3,Rodrigo Pou Figueroa,+34 736 671 588,rodrigo.pou@example.com,2023-09-11
+725,2,ALU-000725,Miguel Gallo Villalba,2014-10-22,M,Primaria,6,Eli del Arroyo,+34 690 613 412,eli.del@example.com,2022-09-11
+726,2,ALU-000726,Felicia Coll Mosquera,2015-09-27,F,Primaria,5,Cruz Julián Higueras,+34 724 747 905,cruz.julian@example.com,2023-09-09
+727,6,ALU-000727,Miriam Sebastián Isern,2017-05-15,F,Primaria,3,Tomasa Sebastián Lamas,+34 682 464 933,tomasa.sebastian@example.com,2024-09-11
+728,10,ALU-000728,Carlota Anaya Peñalver,2009-12-13,F,Bachillerato,1,Susana Anaya Malo,+34 742 222 836,,2024-09-10
+729,5,ALU-000729,Asunción Virginia Buendía Bertrán,2012-10-10,F,ESO,1,José Virginia Escribano,+34 633 457 050,jose.virginia@example.com,2024-09-12
+730,2,ALU-000730,Olimpia de Pavón,2017-05-16,F,Primaria,3,Desiderio de Pedrero,+34 726 946 657,desiderio.de@example.com,2023-09-09
+731,10,ALU-000731,Alberto Ribes Arnal,2012-07-04,M,ESO,1,Consuelo Ribes Carbonell,+34 664 745 187,consuelo.ribes@example.com,2022-09-14
+732,10,ALU-000732,Flavia Bernat-Buendía,2008-07-26,F,Bachillerato,1,Silvestre Bernat-Buendía Ramos,+34 614 900 117,,2023-09-12
+733,10,ALU-000733,Ciro del Llano,2010-03-23,M,ESO,4,Gregorio del Lucas,+34 638 991 732,gregorio.del@example.com,2024-09-11
+734,7,ALU-000734,Eugenia Cerezo Fiol,2015-09-06,F,Primaria,4,Sara Cerezo Salmerón,+34 749 569 116,sara.cerezo6@example.com,2023-09-10
+735,9,ALU-000735,Cruz Cámara Royo,2014-05-02,F,Primaria,6,Rosaura Cámara Carretero,+34 630 077 322,,2022-09-14
+736,2,ALU-000736,Porfirio del Contreras,2014-11-25,M,Primaria,5,Elías del Lucena,+34 613 850 062,elias.del@example.com,2024-09-13
+737,4,ALU-000737,Ramón Osuna Herrero,2008-01-03,M,Bachillerato,2,Marta Osuna Ramón,+34 613 018 019,marta.osuna@example.com,2022-09-10
+738,8,ALU-000738,Isidro Quero Fuente,2010-01-21,M,ESO,3,Camilo Quero Olmedo,+34 699 293 167,camilo.quero@example.com,2022-09-09
+739,8,ALU-000739,Amaya de Águila,2009-01-05,F,FP,1,Victorino de Rey,+34 653 823 415,victorino.de@example.com,2023-09-09
+740,1,ALU-000740,Reyes Casal Rincón,2008-12-23,M,Bachillerato,2,Eloísa Quintero Acero,+34 647 206 674,eloisa.quintero@example.com,2024-09-10
+741,6,ALU-000741,Gracia Carbonell Amador,2016-09-17,F,Primaria,4,Loida Carbonell Caro,+34 754 796 302,,2022-09-12
+742,6,ALU-000742,Consuelo Trillo,2014-02-24,F,Primaria,6,Elías Trillo Polo,+34 718 045 606,elias.trillo@example.com,2022-09-15
+743,7,ALU-000743,Severo Acedo Sanabria,2017-07-21,M,Primaria,3,Marciano Acedo Gisbert,+34 766 032 581,marciano.acedo@example.com,2022-09-10
+744,5,ALU-000744,Juana Naranjo Paz,2010-12-26,F,ESO,4,Amílcar Naranjo Abril,+34 615 938 011,amilcar.naranjo@example.com,2024-09-13
+745,1,ALU-000745,Clemente Fabio Casals Saez,2008-01-14,M,Bachillerato,2,Pelayo Fabio Quirós,+34 677 651 235,pelayo.fabio5@example.com,2023-09-11
+746,3,ALU-000746,Anselmo Clímaco Casares Querol,2008-12-09,M,Bachillerato,2,Chus Clímaco Barón,+34 627 104 493,chus.climaco@example.com,2023-09-11
+747,10,ALU-000747,Benito Riquelme Carnero,2009-10-29,M,Bachillerato,1,María Riquelme Villena,+34 649 894 934,maria.riquelme@example.com,2023-09-09
+748,1,ALU-000748,Pepita Moles Pont,2009-02-03,F,Bachillerato,1,Isaac Castro Ferrera,+34 668 462 224,isaac.castro@example.com,2024-09-14
+749,3,ALU-000749,Alex Rico Valbuena,2010-11-30,M,ESO,4,Cecilio Rico Girón,+34 726 283 147,cecilio.rico@example.com,2023-09-14
+750,5,ALU-000750,Curro Contreras Acuña,2008-01-01,M,Bachillerato,2,Amada Contreras Baró,+34 624 211 387,amada.contreras@example.com,2024-09-12
+751,8,ALU-000751,Beatriz de Palau,2008-09-13,F,FP,2,Vinicio de Manzanares,+34 663 625 028,vinicio.de@example.com,2022-09-13
+752,7,ALU-000752,Gloria del Diéguez,2018-07-27,F,Primaria,2,Ana del Cabrera,+34 646 401 080,ana.del@example.com,2022-09-13
+753,7,ALU-000753,Jose Carlos Pons Flores,2019-06-09,M,Primaria,1,Samanta Carlos Vizcaíno,+34 639 044 386,samanta.carlos@example.com,2024-09-13
+754,7,ALU-000754,Yéssica Domínguez Torrecilla,2015-03-06,F,Primaria,5,Salomé Domínguez Figueroa,+34 635 615 361,salome.dominguez@example.com,2023-09-09
+755,2,ALU-000755,Luís Guardia Roma,2019-03-21,M,Primaria,1,Telmo Guardia Ledesma,+34 756 474 449,telmo.guardia@example.com,2023-09-15
+756,3,ALU-000756,Manola Portero Diez,2010-03-19,F,ESO,3,Víctor Portero Planas,+34 613 053 586,victor.portero@example.com,2022-09-13
+757,3,ALU-000757,Cándida Zurita Solana,2010-01-28,F,ESO,4,Teodora Zurita Cisneros,+34 605 752 163,teodora.zurita6@example.com,2023-09-09
+758,3,ALU-000758,Goyo Ferrando Losa,2012-03-01,M,ESO,1,Cloe Ferrando Duran,+34 689 396 186,cloe.ferrando@example.com,2023-09-15
+759,7,ALU-000759,Lourdes Sancho Calderon,2014-03-19,F,Primaria,6,Zaira Sancho Peñas,+34 657 841 658,zaira.sancho@example.com,2022-09-14
+760,1,ALU-000760,Maricruz Salazar Escrivá,2018-10-13,F,Primaria,2,Florencio Valls Jove,+34 705 274 583,florencio.valls@example.com,2024-09-11
+761,9,ALU-000761,Ambrosio Montesinos Alba,2019-12-15,M,Primaria,1,Jacobo Montesinos Pol,+34 699 337 735,,2024-09-09
+762,8,ALU-000762,Bautista Agustí Márquez,2007-08-31,M,FP,2,Rafael Agustí Armas,+34 764 582 055,rafael.agusti@example.com,2023-09-13
+763,3,ALU-000763,Leyre Uribe Palomares,2009-07-28,F,FP,1,Dolores Uribe Andrade,+34 796 375 402,dolores.uribe@example.com,2023-09-10
+764,9,ALU-000764,Manuelita Galiano Torrent,2016-05-26,F,Primaria,4,Ágata Galiano Mascaró,+34 653 272 274,agata.galiano@example.com,2022-09-13
+765,6,ALU-000765,Régulo Rozas Somoza,2018-10-07,M,Primaria,2,Juanito Rozas Rivas,+34 774 714 177,juanito.rozas@example.com,2024-09-13
+766,10,ALU-000766,Guiomar Cortina-Galvez,2010-01-01,M,ESO,4,Gala Cortina-Galvez Reig,+34 680 377 965,gala.cortina-galvez@example.com,2023-09-12
+767,2,ALU-000767,Yésica Garzón Higueras,2015-07-28,F,Primaria,5,Roldán Garzón Acuña,+34 645 399 209,,2022-09-15
+768,1,ALU-000768,Celia Bárcena-Saez,2017-02-03,F,Primaria,3,Olivia Acuña Viana,+34 721 383 717,olivia.acuna@example.com,2022-09-13
+769,9,ALU-000769,Viviana Merino,2019-02-04,F,Primaria,1,Victor Manuel Merino Porta,+34 754 655 585,victor.manuel@example.com,2023-09-11
+770,2,ALU-000770,Berta Domingo Ponce,2015-02-03,F,Primaria,5,Pablo Domingo Sevilla,+34 627 334 421,pablo.domingo@example.com,2023-09-09
+771,2,ALU-000771,Martin Gimenez Goñi,2013-09-29,M,Primaria,6,Clímaco Gimenez Gallo,+34 692 342 844,climaco.gimenez@example.com,2022-09-11
+772,4,ALU-000772,Azahara Ferrando Alvarado,2012-01-03,F,ESO,2,Diana Ferrando Mata,+34 740 325 463,diana.ferrando@example.com,2023-09-14
+773,5,ALU-000773,Maristela Llopis Ferrera,2013-07-15,F,ESO,1,Vito Lalo Gual Miralles,+34 769 713 077,vito.lalo@example.com,2024-09-09
+774,1,ALU-000774,Eligia Quero Morales,2009-09-29,F,Bachillerato,1,José María Quero Quero,+34 699 608 162,jose.maria@example.com,2023-09-09
+775,10,ALU-000775,Coral de Ocaña,2008-01-27,F,Bachillerato,1,Olegario de Ayala,+34 643 413 895,olegario.de@example.com,2022-09-15
+776,10,ALU-000776,Pili Vilalta Aguado,2018-10-08,F,Primaria,1,Adoración del Gallardo,+34 607 535 690,adoracion.del@example.com,2024-09-09
+777,1,ALU-000777,Rosa de Castrillo,2007-09-22,F,Bachillerato,2,Cirino de Valle,+34 679 285 820,,2023-09-11
+778,5,ALU-000778,Eligia Guerra Castilla,2018-07-06,F,Primaria,2,Dani Sáez-Valdés,+34 797 436 257,dani.saez-valdes@example.com,2024-09-09
+779,4,ALU-000779,Eli de Riba,2016-01-01,F,Primaria,3,Arturo Guardia Solsona,+34 703 466 738,arturo.guardia@example.com,2022-09-14
+780,8,ALU-000780,Victor Manuel Zamora Alvarez,2009-07-04,M,Bachillerato,1,Andrés Felipe Manuel Duque,+34 649 682 594,andres.felipe@example.com,2023-09-13
+781,10,ALU-000781,Milagros Múgica Barrera,2017-04-19,F,Primaria,2,Isabel Múgica Pons,+34 727 530 918,isabel.mugica@example.com,2024-09-14
+782,3,ALU-000782,Miguel Becerra Cerro,2009-10-06,M,FP,1,María Alvarez Marín,+34 767 474 982,maria.alvarez@example.com,2024-09-11
+783,3,ALU-000783,Hipólito Falcón Alberto,2013-11-25,M,ESO,1,Aurora Falcón Aramburu,+34 689 216 498,aurora.falcon@example.com,2022-09-12
+784,8,ALU-000784,Maxi Carmona Pelayo,2007-05-09,M,Bachillerato,2,Isaura Mercader Carvajal,+34 669 718 226,isaura.mercader@example.com,2023-09-12
+785,1,ALU-000785,Graciana Jara Sales,2009-02-03,F,Bachillerato,1,Gonzalo Jara Hervás,+34 677 088 049,gonzalo.jara9@example.com,2022-09-10
+786,9,ALU-000786,José Antonio Castilla,2019-08-24,M,Primaria,1,Joaquín Antonio Hervia,+34 607 749 949,,2024-09-15
+787,8,ALU-000787,Corona Manuelita Plana Vizcaíno,2008-01-04,F,FP,2,Mohamed Manuelita Rosa,+34 698 490 993,mohamed.manuelita9@example.com,2023-09-14
+788,7,ALU-000788,Luisa Samper Isern,2018-06-24,F,Primaria,1,Narcisa Cano Solsona,+34 628 795 934,narcisa.cano@example.com,2023-09-13
+789,7,ALU-000789,Francisco Alsina Chaves,2019-06-09,M,Primaria,1,Celia Alsina Colom,+34 673 969 381,celia.alsina@example.com,2022-09-15
+790,2,ALU-000790,Remigio Manrique-Salvador,2016-11-04,M,Primaria,4,Ovidio Manrique-Salvador Marin,+34 644 818 779,,2022-09-14
+791,5,ALU-000791,Ricarda Tere Isern Leon,2017-04-26,F,Primaria,3,Salomé Tere Sola,+34 730 849 412,salome.tere@example.com,2023-09-13
+792,5,ALU-000792,Jose Angel Moliner,2018-03-30,M,Primaria,2,Aníbal Angel Rodriguez,+34 676 657 658,anibal.angel@example.com,2022-09-09
+793,4,ALU-000793,Manu Larrea Reguera,2018-09-12,F,Primaria,2,María Belén Larrea Montaña,+34 654 712 290,maria.belen@example.com,2024-09-14
+794,7,ALU-000794,Trinidad Tejero Barreda,2015-10-09,M,Primaria,5,María José Tejero Andres,+34 737 789 097,maria.jose@example.com,2023-09-15
+795,9,ALU-000795,Arturo Yáñez,2014-09-05,M,Primaria,6,Celso Yáñez Coronado,+34 605 437 686,celso.yanez@example.com,2022-09-15
+796,8,ALU-000796,Juan Francisco Arroyo,2008-07-13,M,FP,1,Carina Francisco Marí,+34 682 388 585,carina.francisco@example.com,2023-09-11
+797,1,ALU-000797,Rosalinda Giménez Muro,2019-06-04,F,Primaria,1,Candela Giménez Pozuelo,+34 725 285 112,candela.gimenez@example.com,2024-09-13
+798,7,ALU-000798,Cristian Carrillo Guardiola,2014-05-10,M,Primaria,6,Clotilde Castejón-Dalmau,+34 651 593 351,clotilde.castejon-dalmau2@example.com,2022-09-10
+799,8,ALU-000799,Jafet Samper Cámara,2008-10-30,M,FP,2,Irene Samper Losada,+34 646 851 929,irene.samper@example.com,2023-09-12
+800,8,ALU-000800,Lucila Rico Ribas,2012-05-25,F,ESO,2,Jaime Rico Molins,+34 614 591 909,jaime.rico@example.com,2024-09-09
+801,9,ALU-000801,Nazario Gimeno,2015-01-15,M,Primaria,5,Mercedes Gimeno Baeza,+34 667 186 246,mercedes.gimeno@example.com,2023-09-09
+802,4,ALU-000802,Encarnación Jove,2019-09-15,F,Primaria,1,Cornelio Jove Colom,+34 628 985 544,cornelio.jove@example.com,2022-09-15
+803,3,ALU-000803,Azahar Ugarte,2010-04-01,F,ESO,4,Valentina Pulido Iriarte,+34 759 206 114,valentina.pulido@example.com,2022-09-14
+804,5,ALU-000804,Claudia Vives Antúnez,2009-10-27,F,Bachillerato,1,Rosendo Quintero,+34 796 538 718,rosendo.quintero@example.com,2022-09-12
+805,5,ALU-000805,Guadalupe Efraín Gracia Pareja,2011-10-16,M,ESO,3,Emigdio Efraín Mosquera,+34 621 427 956,emigdio.efrain@example.com,2022-09-09
+806,6,ALU-000806,Consuela Peralta Alcalde,2015-04-27,F,Primaria,5,Natividad Amo Orozco,+34 608 754 599,,2024-09-11
+807,6,ALU-000807,Maximino Gomez Moreno,2014-05-12,M,Primaria,6,Ricarda Gomez Ferrández,+34 798 445 362,ricarda.gomez@example.com,2022-09-12
+808,2,ALU-000808,Hernando Sureda Cabrera,2014-06-28,M,Primaria,5,Miriam Sureda Verdugo,+34 766 063 642,miriam.sureda@example.com,2024-09-14
+809,1,ALU-000809,Bartolomé de Vendrell,2008-02-24,M,Bachillerato,2,Rufino de Jurado,+34 609 373 613,rufino.de@example.com,2022-09-15
+810,7,ALU-000810,Isabela Griselda Sanmiguel Nicolás,2016-02-20,F,Primaria,3,Luciana Griselda Aguiló,+34 642 034 655,luciana.griselda@example.com,2023-09-11
+811,3,ALU-000811,Osvaldo Montaña-Rivera,2011-05-10,M,ESO,3,Ruperto Montaña-Rivera Pol,+34 794 654 128,ruperto.montana-rivera@example.com,2022-09-09
+812,7,ALU-000812,Nilda de Gallego,2019-01-25,F,Primaria,1,Úrsula de Machado,+34 768 731 625,ursula.de@example.com,2024-09-15
+813,6,ALU-000813,Glauco Girona Diéguez,2019-02-27,M,Primaria,1,Oriana Bermúdez-Iborra,+34 780 045 397,,2022-09-09
+814,9,ALU-000814,Lola Noguera Franch,2018-09-30,F,Primaria,2,Alejandra Noguera Batalla,+34 761 658 304,alejandra.noguera@example.com,2024-09-12
+815,3,ALU-000815,Cayetana Carmen Rodríguez Uribe,2008-05-27,F,Bachillerato,2,Roberto Carmen Suarez,+34 607 901 464,roberto.carmen@example.com,2024-09-09
+816,5,ALU-000816,Eusebia Matas Andrés,2008-04-05,F,Bachillerato,2,Inmaculada Matas Neira,+34 739 936 379,inmaculada.matas5@example.com,2024-09-15
+817,1,ALU-000817,Álvaro Miralles Pina,2010-02-01,M,ESO,4,Gaspar Miralles Villalba,+34 673 418 142,gaspar.miralles@example.com,2023-09-10
+818,6,ALU-000818,Claudio Porras Cueto,2018-02-04,M,Primaria,2,Pablo de Antúnez,+34 650 914 384,pablo.de6@example.com,2024-09-15
+819,3,ALU-000819,Onofre Cabañas Bilbao,2009-10-11,M,FP,1,Candelas Cabañas Vaquero,+34 662 803 788,candelas.cabanas@example.com,2023-09-13
+820,5,ALU-000820,Glauco del Roldán,2008-07-09,M,Bachillerato,2,Julie de Riba,+34 610 054 136,julie.de@example.com,2024-09-14
+821,7,ALU-000821,Nicolás Bermudez Vázquez,2014-03-06,M,Primaria,6,Beatriz Bermudez Elorza,+34 629 382 794,beatriz.bermudez@example.com,2024-09-09
+822,2,ALU-000822,Teodoro David Atienza Bravo,2017-11-15,M,Primaria,2,María Ángeles David Puig,+34 635 564 073,maria.angeles3@example.com,2023-09-11
+823,1,ALU-000823,Mirta Fajardo Revilla,2011-11-19,F,ESO,2,Gerónimo Fajardo Montero,+34 644 649 170,geronimo.fajardo@example.com,2022-09-11
+824,9,ALU-000824,Lourdes Xiomara Pla Peinado,2014-08-03,F,Primaria,6,Guadalupe Xiomara Soler,+34 635 229 193,guadalupe.xiomara@example.com,2024-09-14
+825,1,ALU-000825,Angélica Cuéllar Montserrat,2008-06-14,F,Bachillerato,2,Roldán Cuéllar Francisco,+34 657 186 851,roldan.cuellar@example.com,2022-09-13
+826,10,ALU-000826,Yaiza del Arellano,2017-01-20,F,Primaria,3,Constanza del Sotelo,+34 638 224 365,constanza.del@example.com,2023-09-11
+827,9,ALU-000827,Máximo Jáuregui Avilés,2017-10-31,M,Primaria,3,Jafet Jáuregui Roura,+34 655 401 501,jafet.jauregui@example.com,2024-09-12
+828,5,ALU-000828,Camila Quirós Granados,2017-06-20,F,Primaria,2,Jesús Quirós Quintana,+34 711 281 608,jesus.quiros@example.com,2022-09-10
+829,4,ALU-000829,Pía Cuadrado Roca,2008-07-27,F,Bachillerato,2,Vinicio Cuadrado Múñiz,+34 654 196 280,vinicio.cuadrado@example.com,2023-09-15
+830,1,ALU-000830,Eustaquio Eugenio Lasa Moll,2019-06-13,M,Primaria,1,Tomasa Calatayud Moles,+34 630 926 546,tomasa.calatayud@example.com,2024-09-11
+831,3,ALU-000831,Norberto Carlos-Cepeda,2007-11-21,M,FP,2,Macarena Carlos-Cepeda Novoa,+34 704 073 282,macarena.carlos-cepeda@example.com,2023-09-09
+832,1,ALU-000832,Leonel Vilar Beltran,2013-12-31,M,ESO,1,Lilia Garmendia-Ripoll,+34 788 679 204,lilia.garmendia-ripoll@example.com,2023-09-10
+833,7,ALU-000833,Alonso Almeida-Pedraza,2013-11-20,M,Primaria,6,Socorro Almeida-Pedraza Jaume,+34 706 702 889,socorro.almeida-pedraza@example.com,2022-09-11
+834,2,ALU-000834,Domitila de Viñas,2018-11-25,F,Primaria,2,Loida de López,+34 651 584 027,loida.de3@example.com,2023-09-10
+835,10,ALU-000835,Damián de Oller,2015-12-08,M,Primaria,5,Sol de Peñalver,+34 768 316 862,sol.de4@example.com,2024-09-10
+836,9,ALU-000836,Leandro Ovidio Martí Barreda,2013-12-01,M,Primaria,6,Nidia Ovidio Lillo,+34 785 491 944,,2022-09-11
+837,9,ALU-000837,Evelia Manzano Somoza,2014-01-02,F,Primaria,5,Bienvenida Manzano Ferreras,+34 699 376 606,,2022-09-12
+838,3,ALU-000838,Segismundo Valera Lloret,2010-10-11,M,ESO,3,Guiomar Valera Boada,+34 630 684 317,,2023-09-14
+839,3,ALU-000839,Agustina Escribano Toro,2008-03-14,F,Bachillerato,2,Soraya Escribano Ordóñez,+34 634 207 313,,2023-09-09
+840,4,ALU-000840,Juan Sales Arribas,2014-11-13,M,Primaria,5,Vinicio Sales Aramburu,+34 635 887 350,vinicio.sales4@example.com,2022-09-10
+841,5,ALU-000841,Pepita Escudero Ariza,2013-04-13,F,ESO,1,Nereida Escudero Rivas,+34 607 033 149,nereida.escudero@example.com,2024-09-14
+842,6,ALU-000842,Obdulia Leal,2015-07-10,F,Primaria,5,Macario Leal Molina,+34 692 563 799,macario.leal@example.com,2022-09-15
+843,3,ALU-000843,Sol Cerdán Casado,2012-02-05,F,ESO,2,María Pilar Cerdán Jara,+34 635 340 636,maria.pilar@example.com,2023-09-11
+844,6,ALU-000844,Griselda Ríos,2015-08-23,F,Primaria,4,Carmen Alba-Coello,+34 705 988 250,carmen.alba-coello@example.com,2022-09-10
+845,6,ALU-000845,Jimena Mulet Sans,2017-12-13,F,Primaria,3,Encarnita Mulet Cabezas,+34 636 434 467,encarnita.mulet@example.com,2022-09-15
+846,7,ALU-000846,Leandra Otero Lobo,2014-06-10,F,Primaria,6,Nicanor Otero Cisneros,+34 737 864 284,nicanor.otero@example.com,2022-09-11
+847,1,ALU-000847,Rogelio Agustí Rodriguez,2010-04-13,M,ESO,4,Roque Agustí Pacheco,+34 674 346 935,roque.agusti@example.com,2022-09-12
+848,2,ALU-000848,Ámbar Cerdán Marqués,2016-09-26,F,Primaria,4,Marta Cerdán Almeida,+34 771 443 861,,2024-09-14
+849,1,ALU-000849,Rosa del Bernad,2015-09-02,F,Primaria,5,Eligia Moliner,+34 777 359 504,eligia.moliner@example.com,2022-09-12
+850,3,ALU-000850,Nilda Plaza Requena,2009-03-10,F,FP,1,Natalia Casanova Larrea,+34 767 403 543,natalia.casanova@example.com,2022-09-10
+851,10,ALU-000851,Eladio Seguí Ariza,2018-03-16,M,Primaria,2,Alex Seguí Coca,+34 655 262 627,alex.segui@example.com,2024-09-11
+852,10,ALU-000852,Tomás del Torrijos,2019-11-30,M,Primaria,1,Reyes del Garzón,+34 679 665 369,reyes.del7@example.com,2022-09-10
+853,9,ALU-000853,Josefa Baquero Izquierdo,2016-03-25,F,Primaria,3,Ema Baquero Ramirez,+34 699 560 758,ema.baquero8@example.com,2023-09-15
+854,4,ALU-000854,Nieves Barral Bonet,2014-06-10,F,Primaria,5,Aureliano Barral Herrero,+34 616 450 393,aureliano.barral@example.com,2023-09-13
+855,5,ALU-000855,Tadeo Mendez Malo,2012-04-19,M,ESO,2,Vidal Mendez Páez,+34 676 502 503,vidal.mendez@example.com,2022-09-15
+856,5,ALU-000856,Heliodoro Roura Carpio,2008-06-01,M,Bachillerato,2,Guadalupe Roura Cañellas,+34 657 448 049,guadalupe.roura@example.com,2023-09-12
+857,8,ALU-000857,Rosalinda Borja Requena,2009-09-28,F,FP,1,Lope Borrás,+34 674 214 838,lope.borras@example.com,2022-09-15
+858,1,ALU-000858,Tito Valenciano Porta,2012-04-02,M,ESO,1,Modesta Valenciano Páez,+34 611 133 747,modesta.valenciano@example.com,2023-09-10
+859,1,ALU-000859,Nicanor Vidal Herrera,2009-06-03,M,Bachillerato,1,Tere Vidal Berenguer,+34 610 341 635,tere.vidal@example.com,2023-09-11
+860,1,ALU-000860,Amanda Priego Cuéllar,2017-05-20,F,Primaria,3,Brígida Casandra Ferrán Bárcena,+34 681 063 417,brigida.casandra@example.com,2024-09-11
+861,2,ALU-000861,María Teresa Pol,2013-07-01,F,Primaria,6,David Teresa Huertas,+34 695 979 450,,2023-09-14
+862,7,ALU-000862,Maxi Puente Segovia,2016-12-14,M,Primaria,4,Mirta Puente Posada,+34 682 037 438,,2022-09-09
+863,4,ALU-000863,María Ángeles Salmerón Alcázar,2015-03-02,F,Primaria,5,Nereida Casares Llamas,+34 776 005 151,,2023-09-09
+864,8,ALU-000864,Germán Anselmo Posada Elorza,2011-05-27,M,ESO,2,Armando Anselmo Saura,+34 623 847 098,armando.anselmo@example.com,2022-09-10
+865,10,ALU-000865,Octavio Coello Cuevas,2007-04-03,M,Bachillerato,2,Sonia Coello Vera,+34 640 244 285,sonia.coello@example.com,2022-09-13
+866,10,ALU-000866,Luisa Baró Pla,2016-12-07,F,Primaria,4,Hermenegildo Ávila Lumbreras,+34 684 615 410,,2024-09-13
+867,4,ALU-000867,Marcio Rafael Company Robles,2017-11-01,M,Primaria,3,Georgina Rafael Mesa,+34 697 077 178,georgina.rafael@example.com,2023-09-10
+868,10,ALU-000868,Jacobo de Bautista,2015-02-05,M,Primaria,5,Gastón de Pereira,+34 687 083 726,gaston.de@example.com,2022-09-09
+869,6,ALU-000869,Mayte Uribe Gallart,2014-03-08,F,Primaria,5,Marco Uribe Feliu,+34 618 157 228,marco.uribe@example.com,2024-09-14
+870,10,ALU-000870,Lucila Infante Zurita,2014-10-28,F,Primaria,5,Leyre del Acero,+34 788 684 606,leyre.del@example.com,2022-09-11
+871,8,ALU-000871,Jorge Hernández,2008-09-10,M,Bachillerato,1,Jimena Jurado Marí,+34 780 145 548,jimena.jurado@example.com,2023-09-09
+872,9,ALU-000872,Jose Ignacio Morillo Bastida,2014-01-19,M,Primaria,6,Constanza Ignacio Perez,+34 610 417 554,constanza.ignacio@example.com,2023-09-10
+873,10,ALU-000873,Gaspar de Segura,2011-05-16,M,ESO,3,Mar del Leiva,+34 666 315 714,mar.del@example.com,2022-09-14
+874,6,ALU-000874,Eliseo Piñol Francisco,2018-12-26,M,Primaria,2,Isidoro Machado Osuna,+34 651 870 640,isidoro.machado@example.com,2022-09-10
+875,6,ALU-000875,José Manuel del Villena,2016-07-28,M,Primaria,4,Casandra Manuel Marín,+34 649 216 881,,2023-09-12
+876,7,ALU-000876,Maximino del Landa,2016-01-20,M,Primaria,4,Roldán del Guillen,+34 771 710 722,roldan.del@example.com,2023-09-13
+877,4,ALU-000877,Marciano Timoteo Sureda Trillo,2009-12-09,M,Bachillerato,1,Catalina Timoteo Fernández,+34 656 899 954,catalina.timoteo@example.com,2023-09-09
+878,7,ALU-000878,Norberto Ciriaco Royo Grau,2015-12-13,M,Primaria,5,Cayetana Ciriaco Sastre,+34 690 359 491,cayetana.ciriaco@example.com,2022-09-15
+879,5,ALU-000879,Andrea del Pinedo,2012-04-19,F,ESO,1,Priscila del Uría,+34 657 338 667,priscila.del@example.com,2024-09-15
+880,1,ALU-000880,Graciano Borja Salamanca Estévez,2017-06-19,M,Primaria,2,Yéssica Borja Checa,+34 728 284 051,yessica.borja@example.com,2024-09-14
+881,2,ALU-000881,Hermenegildo Español Amores,2018-01-21,M,Primaria,1,Georgina Español Elías,+34 645 213 143,georgina.espanol@example.com,2024-09-15
+882,4,ALU-000882,Mercedes Cuenca Palma,2019-12-21,F,Primaria,1,Encarnacion Cuenca Baquero,+34 617 168 417,encarnacion.cuenca@example.com,2024-09-11
+883,1,ALU-000883,Dominga Montero Gisbert,2016-09-13,F,Primaria,4,Débora Montero Alcolea,+34 648 465 764,debora.montero@example.com,2022-09-15
+884,6,ALU-000884,Paco Aller,2019-04-04,M,Primaria,1,Noé Aller Agustín,+34 637 039 877,noe.aller@example.com,2022-09-14
+885,2,ALU-000885,Gracia Sobrino,2015-01-21,F,Primaria,4,Custodio Sobrino Vicens,+34 620 215 443,,2023-09-11
+886,7,ALU-000886,Guillermo de Expósito,2015-06-11,M,Primaria,5,Gertrudis Novoa Pozo,+34 728 023 056,,2024-09-11
+887,8,ALU-000887,Nuria Montenegro Monreal,2008-04-07,F,FP,2,Pascual Montenegro Canals,+34 604 900 696,pascual.montenegro@example.com,2023-09-11
+888,6,ALU-000888,Santos Florencio Riera Herrera,2016-10-02,M,Primaria,4,Wilfredo Florencio Ríos,+34 698 500 041,wilfredo.florencio@example.com,2022-09-11
+889,2,ALU-000889,Marina Ugarte Avilés,2014-09-16,F,Primaria,5,Álvaro Redondo Calvo,+34 773 311 517,alvaro.redondo@example.com,2022-09-13
+890,9,ALU-000890,Fabio Bilbao Sastre,2014-12-22,M,Primaria,6,Régulo Bilbao Espinosa,+34 683 706 754,regulo.bilbao@example.com,2024-09-11
+891,1,ALU-000891,Zoraida Aranda-Pozuelo,2013-11-26,F,ESO,1,Glauco Aranda-Pozuelo Arco,+34 774 049 074,,2023-09-10
+892,6,ALU-000892,Lope Peláez,2019-10-09,M,Primaria,1,Florencio Peláez Leiva,+34 623 253 360,florencio.pelaez@example.com,2022-09-09
+893,1,ALU-000893,Ariadna Armas Duarte,2007-10-17,F,Bachillerato,2,Marcia Armas Suárez,+34 616 314 197,marcia.armas@example.com,2024-09-13
+894,8,ALU-000894,Natanael Perera-Cuesta,2009-02-22,M,Bachillerato,1,Javi Perera-Cuesta Ávila,+34 628 583 459,javi.perera-cuesta8@example.com,2024-09-11
+895,1,ALU-000895,Encarnación de Hidalgo,2009-08-03,F,Bachillerato,1,Ximena de Almeida,+34 648 903 726,ximena.de@example.com,2024-09-15
+896,1,ALU-000896,Rodrigo Palacio Martínez,2013-12-15,M,ESO,1,Juan Antonio Palacio Barrena,+34 712 726 279,juan.antonio@example.com,2024-09-13
+897,2,ALU-000897,Rosa Merino Piñol,2018-03-27,F,Primaria,1,Gaspar Merino Rius,+34 731 130 973,gaspar.merino@example.com,2023-09-13
+898,4,ALU-000898,Mauricio Ruben Arroyo Fonseca,2008-06-17,M,Bachillerato,2,Goyo Ruben Blanca,+34 600 958 053,,2022-09-10
+899,4,ALU-000899,Galo Chaparro Bastida,2017-09-14,M,Primaria,2,Aurora Chaparro Vall,+34 785 206 734,,2023-09-14
+900,2,ALU-000900,Eugenio Valero,2017-09-18,M,Primaria,2,Celestina Valero Bonet,+34 654 793 673,celestina.valero@example.com,2023-09-11

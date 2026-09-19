@@ -1,0 +1,57 @@
+id,name,parent_id,level,vat_rate
+1,Frescos,,1,0.04
+2,Alimentación,,1,0.10
+3,Bebidas,,1,0.21
+4,Congelados,,1,0.10
+5,Droguería y limpieza,,1,0.21
+6,Higiene y belleza,,1,0.21
+7,Bebé,,1,0.04
+8,Mascotas,,1,0.21
+9,Hogar,,1,0.21
+10,Frutas y verduras,1,2,0.04
+11,Carnicería,1,2,0.04
+12,Pescadería,1,2,0.04
+13,Charcutería,1,2,0.04
+14,Panadería,1,2,0.04
+15,Lácteos,1,2,0.04
+16,Huevos,1,2,0.04
+17,Pasta y arroz,2,2,0.10
+18,Conservas,2,2,0.10
+19,Aceites y vinagres,2,2,0.10
+20,Salsas y especias,2,2,0.10
+21,Cereales,2,2,0.10
+22,Galletas y bollería,2,2,0.10
+23,Snacks,2,2,0.10
+24,Legumbres,2,2,0.10
+25,Azúcar y endulzantes,2,2,0.10
+26,Agua,3,2,0.21
+27,Refrescos,3,2,0.21
+28,Cerveza,3,2,0.21
+29,Vino,3,2,0.21
+30,Zumos,3,2,0.21
+31,Café e infusiones,3,2,0.21
+32,Licores,3,2,0.21
+33,Verduras congeladas,4,2,0.10
+34,Pescado congelado,4,2,0.10
+35,Helados,4,2,0.10
+36,Platos preparados,4,2,0.10
+37,Detergentes,5,2,0.21
+38,Limpieza del hogar,5,2,0.21
+39,Papel y celulosa,5,2,0.21
+40,Lavavajillas,5,2,0.21
+41,Insecticidas,5,2,0.21
+42,Higiene bucal,6,2,0.21
+43,Cuidado capilar,6,2,0.21
+44,Cuidado corporal,6,2,0.21
+45,Afeitado,6,2,0.21
+46,Higiene íntima,6,2,0.21
+47,Cosmética,6,2,0.21
+48,Pañales,7,2,0.04
+49,Alimentación infantil,7,2,0.04
+50,Higiene infantil,7,2,0.04
+51,Perros,8,2,0.21
+52,Gatos,8,2,0.21
+53,Otros animales,8,2,0.21
+54,Menaje,9,2,0.21
+55,Bazar,9,2,0.21
+56,Iluminación,9,2,0.21

@@ -1,0 +1,31 @@
+id,name,manufacturer_id,city,province,address,postal_code,phone,opened_at
+1,Solane Santa Cruz de Tenerife,12,Santa Cruz de Tenerife,Santa Cruz de Tenerife,"Polígono Industrial Norte, 45",38049,+34 922 551 625,2004-01-21
+2,Marova Madrid,9,Madrid,Madrid,"Plaza de Cervantes, 54, 2º D",28014,+34 918 881 476,2020-09-04
+3,Marova Madrid 8,9,Madrid,Madrid,"Polígono Industrial Los Olivos, 24",28001,+34 910 174 589,2020-12-24
+4,Altaria Las Palmas de Gran Canaria,1,Las Palmas de Gran Canaria,Las Palmas,"Calle Serrano, 62",35063,+34 928 783 663,2017-07-02
+5,Kestrel Albacete,8,Albacete,Albacete,"Plaza de Rosalía de Castro, 8, 6º D",02041,+34 967 450 113,2015-11-21
+6,Velmar Santa Cruz de Tenerife,2,Santa Cruz de Tenerife,Santa Cruz de Tenerife,"Avenida de la Estación, 32, 2º Izq.",38070,+34 922 384 657,2005-11-22
+7,Belmonte Terrassa,7,Terrassa,Barcelona,"Polígono Industrial Este, 47",08023,+34 930 703 334,2013-03-04
+8,Nordika Madrid,4,Madrid,Madrid,"Plaza de la Iglesia, 145, 5º D",28052,+34 912 938 678,2020-06-06
+9,Nordika Granada,4,Granada,Granada,"Camino de San José, 160",18037,+34 958 902 604,2004-07-18
+10,Aurion Barcelona,6,Barcelona,Barcelona,"Calle de Andalucía, 108, 2º C",08055,+34 931 588 304,2004-03-01
+11,Kestrel Cádiz,8,Cádiz,Cádiz,"Calle de la Constitución, 63",11035,+34 956 456 336,1996-06-04
+12,Velmar Madrid,2,Madrid,Madrid,"Polígono Industrial Los Olivos, 35",28080,+34 911 711 989,2013-08-04
+13,Velmar Málaga,2,Málaga,Málaga,"Calle Serrano, 55, 5º A",29021,+34 952 334 344,2009-04-21
+14,Ondara A Coruña,10,A Coruña,A Coruña,"Calle de Galicia, 120, 1º D",15069,+34 981 006 640,1998-10-22
+15,Solane Sabadell,12,Sabadell,Barcelona,"Polígono Industrial Sur, 20",08034,+34 939 431 815,2017-04-29
+16,Ondara Madrid,10,Madrid,Madrid,"Avenida de San José, 66",28005,+34 915 079 756,2002-09-06
+17,Nordika Madrid 2,4,Madrid,Madrid,"Polígono Industrial Norte, 2",28058,+34 917 190 534,2006-09-25
+18,Belmonte Madrid,7,Madrid,Madrid,"Calle del Ebro, 87, 2º B",28042,+34 914 745 641,2021-12-11
+19,Belmonte Madrid 3,7,Madrid,Madrid,"Polígono Industrial Norte, 50",28076,+34 914 105 601,2006-06-05
+20,Aurion Albacete,6,Albacete,Albacete,"Ronda Serrano, 21, 8º C",02066,+34 967 910 416,2018-08-14
+21,Altaria Barcelona,1,Barcelona,Barcelona,"Carrer de San Juan, 91, 3º Izq.",08062,+34 938 701 495,2020-10-25
+22,Solane Madrid,12,Madrid,Madrid,"Avenida de Aragón, 23",28033,+34 917 915 449,1995-06-25
+23,Nordika Sevilla,4,Sevilla,Sevilla,"Polígono Industrial Norte, 35",41049,+34 954 184 491,1996-10-26
+24,Ondara Málaga,10,Málaga,Málaga,"Calle del Ebro, 153, 9º Dcha.",29033,+34 952 813 473,2018-07-13
+25,Belmonte Barcelona,7,Barcelona,Barcelona,"Calle de las Flores, 120",08056,+34 933 011 144,2004-12-31
+26,Altaria Gijón,1,Gijón,Asturias,"Polígono Industrial Oeste, 54",33079,+34 985 423 361,1998-04-12
+27,Solane Málaga,12,Málaga,Málaga,"Paseo de la Libertad, 156, 7º Dcha.",29017,+34 952 862 721,2016-12-14
+28,Ondara Madrid 6,10,Madrid,Madrid,"Calle de San José, 46",28041,+34 910 244 767,2008-06-05
+29,Solane Oviedo,12,Oviedo,Asturias,"Calle de la Iglesia, 157, 7º D",33041,+34 985 787 203,1995-10-05
+30,Aurion Salamanca,6,Salamanca,Salamanca,"Calle de las Acacias, 146, 5º Izq.",37021,+34 923 420 902,2005-07-13

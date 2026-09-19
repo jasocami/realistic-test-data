@@ -1,0 +1,401 @@
+id,oem_code,name,category,unit_price,stock_quantity
+1,EN900757,Timing belt kit,Engine,415.83,0
+2,TY521715,Summer tyre,Tyres,176.59,35
+3,BR205472,Brake caliper,Brakes,170.23,49
+4,FL633055,Cabin filter,Filters,6.21,0
+5,EN375417,Turbocharger,Engine,265.31,23
+6,BR877676,Brake pad set,Brakes,143.85,16
+7,SU106270,Coil spring,Suspension,208.15,0
+8,BO117421,Door handle,Body,124.56,93
+9,EL040727,Headlight bulb,Electrical,204.04,27
+10,TR786813,Drive shaft,Transmission,439.57,26
+11,BR370779,Brake disc,Brakes,20.97,31
+12,FL189380,Cabin filter,Filters,22.24,9
+13,EL896608,Battery,Electrical,89.83,116
+14,BO143125,Windscreen wiper,Body,239.26,117
+15,TR905767,Clutch kit,Transmission,323.05,45
+16,TY720632,Winter tyre,Tyres,163.69,111
+17,TR288968,Gearbox oil,Transmission,522.29,6
+18,BO206880,Windscreen wiper,Body,121.20,69
+19,FL744685,Oil filter,Filters,35.41,78
+20,TY764812,Winter tyre,Tyres,195.44,79
+21,EL015752,Alternator,Electrical,93.83,81
+22,EN922230,Turbocharger,Engine,668.61,24
+23,EN803737,Spark plug,Engine,404.20,51
+24,EN314190,Water pump,Engine,466.02,24
+25,TY126461,Winter tyre,Tyres,139.04,108
+26,BR671068,Brake fluid,Brakes,63.29,36
+27,BO058083,Door handle,Body,276.62,74
+28,FL195140,Fuel filter,Filters,16.48,41
+29,BO468057,Bumper,Body,19.42,44
+30,EN252053,Spark plug,Engine,713.03,102
+31,EL192229,Headlight bulb,Electrical,44.65,12
+32,BR532014,Brake fluid,Brakes,113.44,90
+33,TR766135,Gearbox oil,Transmission,527.63,27
+34,BR023975,Brake disc,Brakes,65.22,109
+35,BR035916,Brake fluid,Brakes,179.03,18
+36,FL960393,Oil filter,Filters,40.16,62
+37,TY084260,Winter tyre,Tyres,178.12,12
+38,FL925391,Fuel filter,Filters,6.63,73
+39,EL587925,Starter motor,Electrical,13.29,107
+40,BR250359,Brake fluid,Brakes,50.10,110
+41,SU086091,Control arm,Suspension,195.85,110
+42,EL521790,Battery,Electrical,331.87,84
+43,BO974308,Wing mirror,Body,143.53,65
+44,EN072639,Spark plug,Engine,604.72,106
+45,SU958556,Coil spring,Suspension,56.32,73
+46,FL555254,Oil filter,Filters,8.23,27
+47,EN550116,Turbocharger,Engine,405.48,104
+48,BO566124,Door handle,Body,151.24,116
+49,SU560719,Shock absorber,Suspension,121.47,0
+50,BO665207,Bumper,Body,256.61,118
+51,TR674965,Drive shaft,Transmission,268.13,36
+52,SU454129,Wheel bearing,Suspension,222.01,57
+53,EL504767,Headlight bulb,Electrical,66.04,6
+54,EL240592,Headlight bulb,Electrical,336.62,0
+55,TR562649,Clutch kit,Transmission,545.32,48
+56,BR794188,Brake disc,Brakes,163.17,30
+57,EL954991,Headlight bulb,Electrical,143.78,101
+58,SU079431,Coil spring,Suspension,71.94,65
+59,BO108609,Door handle,Body,102.84,3
+60,BO141517,Door handle,Body,244.12,70
+61,EL468829,Starter motor,Electrical,99.85,66
+62,EN733295,Water pump,Engine,246.73,72
+63,SU960157,Control arm,Suspension,53.80,102
+64,BO467903,Door handle,Body,110.89,84
+65,EN835984,Spark plug,Engine,150.87,33
+66,FL572968,Fuel filter,Filters,21.37,64
+67,FL488648,Fuel filter,Filters,26.57,8
+68,SU533935,Control arm,Suspension,183.29,102
+69,EN525740,Spark plug,Engine,298.13,7
+70,TY954988,All-season tyre,Tyres,175.79,62
+71,SU390898,Coil spring,Suspension,71.10,0
+72,TY446408,Winter tyre,Tyres,133.10,84
+73,BR435154,Brake fluid,Brakes,187.07,119
+74,TR003772,Gearbox oil,Transmission,29.14,83
+75,BO830682,Wing mirror,Body,91.40,76
+76,TR376396,Clutch kit,Transmission,172.01,51
+77,BO616241,Windscreen wiper,Body,129.90,116
+78,FL546661,Air filter,Filters,29.61,76
+79,EN069572,Water pump,Engine,617.33,101
+80,FL114437,Air filter,Filters,23.22,30
+81,TR041069,Drive shaft,Transmission,233.51,48
+82,EL239577,Starter motor,Electrical,105.92,63
+83,EL069309,Starter motor,Electrical,266.14,36
+84,TY984296,Winter tyre,Tyres,64.85,21
+85,FL412708,Oil filter,Filters,12.44,93
+86,TR755530,Gearbox oil,Transmission,386.00,53
+87,BO990112,Bumper,Body,198.86,18
+88,TR479923,Gearbox oil,Transmission,567.92,0
+89,BR683892,Brake pad set,Brakes,92.98,95
+90,BO494980,Bumper,Body,70.03,28
+91,EN778148,Turbocharger,Engine,316.06,96
+92,TR336241,Clutch kit,Transmission,336.05,15
+93,BR902819,Brake pad set,Brakes,34.17,88
+94,BO300629,Door handle,Body,269.31,84
+95,SU725857,Coil spring,Suspension,229.40,1
+96,TY338130,Summer tyre,Tyres,84.06,50
+97,BR161355,Brake caliper,Brakes,46.50,3
+98,EN970319,Timing belt kit,Engine,582.46,92
+99,SU149859,Control arm,Suspension,171.77,120
+100,TR616980,Drive shaft,Transmission,141.27,29
+101,BO499373,Bumper,Body,213.63,115
+102,TR199680,Drive shaft,Transmission,140.58,7
+103,BR437778,Brake disc,Brakes,35.65,109
+104,SU363203,Wheel bearing,Suspension,157.45,98
+105,BO715921,Bumper,Body,211.07,20
+106,BO001262,Door handle,Body,185.64,68
+107,FL319147,Fuel filter,Filters,38.43,120
+108,FL222991,Fuel filter,Filters,33.27,51
+109,FL595580,Cabin filter,Filters,27.53,95
+110,TR128445,Clutch kit,Transmission,537.48,107
+111,EL100169,Headlight bulb,Electrical,68.16,64
+112,SU579154,Control arm,Suspension,115.66,88
+113,TR890640,Gearbox oil,Transmission,168.65,103
+114,TY866047,Summer tyre,Tyres,148.21,82
+115,TR849720,Gearbox oil,Transmission,420.00,91
+116,EL690556,Battery,Electrical,160.35,113
+117,BR972355,Brake disc,Brakes,146.53,96
+118,TR425609,Gearbox oil,Transmission,376.46,119
+119,TY097559,All-season tyre,Tyres,61.87,70
+120,BO306052,Bumper,Body,238.29,96
+121,TR888532,Gearbox oil,Transmission,45.43,77
+122,EN634132,Water pump,Engine,134.01,118
+123,EN798841,Timing belt kit,Engine,598.52,46
+124,TR992158,Gearbox oil,Transmission,205.99,98
+125,BO079089,Wing mirror,Body,95.99,13
+126,BO152102,Door handle,Body,83.12,8
+127,TY801249,Summer tyre,Tyres,144.37,15
+128,EN382651,Timing belt kit,Engine,516.27,62
+129,TY570339,Winter tyre,Tyres,78.20,89
+130,EN570058,Spark plug,Engine,338.22,73
+131,TY747883,All-season tyre,Tyres,121.04,31
+132,EN026658,Timing belt kit,Engine,638.38,76
+133,TR784966,Drive shaft,Transmission,553.19,118
+134,EN475212,Timing belt kit,Engine,412.53,88
+135,TY096608,All-season tyre,Tyres,125.19,39
+136,FL727664,Fuel filter,Filters,23.36,62
+137,BO622679,Door handle,Body,140.76,36
+138,BR642933,Brake fluid,Brakes,106.10,84
+139,BO456311,Bumper,Body,125.22,20
+140,BO303347,Windscreen wiper,Body,212.21,58
+141,EN378637,Water pump,Engine,534.54,50
+142,SU094701,Wheel bearing,Suspension,136.87,81
+143,EL884450,Headlight bulb,Electrical,32.74,86
+144,BO766981,Bumper,Body,34.62,48
+145,BR391019,Brake disc,Brakes,36.56,38
+146,EN016288,Timing belt kit,Engine,278.31,89
+147,FL619336,Fuel filter,Filters,6.51,120
+148,BR391664,Brake pad set,Brakes,166.79,26
+149,BR136792,Brake fluid,Brakes,96.12,77
+150,EL390196,Starter motor,Electrical,277.20,17
+151,SU738137,Wheel bearing,Suspension,187.79,115
+152,TY417528,Winter tyre,Tyres,199.17,14
+153,BR782502,Brake disc,Brakes,26.71,13
+154,FL340421,Fuel filter,Filters,14.96,69
+155,FL482818,Cabin filter,Filters,41.22,19
+156,FL889254,Air filter,Filters,32.98,39
+157,BO279351,Bumper,Body,176.93,56
+158,BO382524,Door handle,Body,173.74,39
+159,TY992157,All-season tyre,Tyres,148.72,120
+160,TY710398,Summer tyre,Tyres,120.88,20
+161,BR300366,Brake pad set,Brakes,68.86,30
+162,EL422461,Starter motor,Electrical,331.93,116
+163,TR569483,Drive shaft,Transmission,417.17,25
+164,TY935975,Summer tyre,Tyres,62.65,66
+165,FL921550,Oil filter,Filters,36.10,100
+166,BO138662,Bumper,Body,157.63,105
+167,BR451203,Brake fluid,Brakes,148.91,16
+168,SU123765,Coil spring,Suspension,96.46,42
+169,TY966287,Winter tyre,Tyres,62.44,45
+170,EN702274,Spark plug,Engine,297.86,97
+171,SU603451,Control arm,Suspension,70.64,77
+172,BO172313,Bumper,Body,209.98,25
+173,EN834238,Spark plug,Engine,459.66,102
+174,TR556052,Drive shaft,Transmission,85.39,113
+175,TY551958,Summer tyre,Tyres,110.76,64
+176,EL280835,Headlight bulb,Electrical,27.38,109
+177,BO877981,Windscreen wiper,Body,58.93,95
+178,TR038527,Drive shaft,Transmission,483.42,1
+179,TY708223,Summer tyre,Tyres,204.45,66
+180,EL347486,Battery,Electrical,166.44,9
+181,EL648881,Alternator,Electrical,305.98,1
+182,BR884873,Brake disc,Brakes,169.47,22
+183,FL307711,Cabin filter,Filters,39.13,3
+184,EN724263,Spark plug,Engine,289.51,118
+185,TY884373,Summer tyre,Tyres,189.94,105
+186,TY052614,Summer tyre,Tyres,52.17,7
+187,BO162206,Windscreen wiper,Body,115.77,18
+188,EN736778,Turbocharger,Engine,196.41,120
+189,TR091895,Gearbox oil,Transmission,194.34,65
+190,TY779471,Winter tyre,Tyres,136.20,112
+191,SU316581,Control arm,Suspension,212.85,114
+192,TR821270,Clutch kit,Transmission,277.42,103
+193,EN193338,Spark plug,Engine,486.02,70
+194,TY330987,Winter tyre,Tyres,80.24,106
+195,TY187232,Winter tyre,Tyres,50.18,0
+196,SU805622,Control arm,Suspension,107.39,4
+197,TY388469,Summer tyre,Tyres,153.86,50
+198,EN048968,Turbocharger,Engine,23.52,99
+199,BO528666,Bumper,Body,204.01,39
+200,TR809315,Clutch kit,Transmission,281.57,24
+201,EL680710,Starter motor,Electrical,113.03,21
+202,EL817791,Battery,Electrical,35.11,114
+203,BR500713,Brake disc,Brakes,174.27,0
+204,EN609906,Water pump,Engine,628.49,48
+205,FL598320,Oil filter,Filters,19.39,63
+206,EL939246,Starter motor,Electrical,244.78,71
+207,SU398437,Control arm,Suspension,174.88,114
+208,EN633248,Water pump,Engine,649.36,51
+209,TY016868,Summer tyre,Tyres,143.61,57
+210,EL726016,Battery,Electrical,317.66,80
+211,TR380044,Clutch kit,Transmission,253.66,102
+212,EN678861,Water pump,Engine,192.55,116
+213,EN631099,Water pump,Engine,668.38,86
+214,BR405800,Brake caliper,Brakes,172.64,88
+215,BO389024,Door handle,Body,195.23,35
+216,FL574158,Cabin filter,Filters,31.92,2
+217,BR992349,Brake fluid,Brakes,168.35,12
+218,FL897080,Cabin filter,Filters,18.73,2
+219,EL836806,Battery,Electrical,178.80,48
+220,BR530231,Brake caliper,Brakes,31.92,71
+221,EL430910,Starter motor,Electrical,161.37,0
+222,TR724505,Gearbox oil,Transmission,181.82,88
+223,BO217962,Wing mirror,Body,190.34,83
+224,SU745122,Shock absorber,Suspension,101.74,42
+225,TY665128,Winter tyre,Tyres,105.29,21
+226,TR650698,Gearbox oil,Transmission,348.88,5
+227,BR940838,Brake caliper,Brakes,157.89,22
+228,SU584316,Wheel bearing,Suspension,165.10,98
+229,EN204068,Turbocharger,Engine,448.10,76
+230,BO921371,Bumper,Body,159.24,41
+231,SU179777,Shock absorber,Suspension,81.31,90
+232,BO832721,Wing mirror,Body,79.55,116
+233,EN955997,Turbocharger,Engine,58.02,47
+234,EL403394,Battery,Electrical,193.58,117
+235,BO511958,Wing mirror,Body,221.80,44
+236,EN147053,Spark plug,Engine,299.98,31
+237,BR648801,Brake disc,Brakes,133.39,40
+238,TY348017,All-season tyre,Tyres,130.57,29
+239,BR256576,Brake disc,Brakes,117.01,116
+240,FL336287,Fuel filter,Filters,36.09,0
+241,TY261805,All-season tyre,Tyres,200.64,68
+242,TR328816,Gearbox oil,Transmission,231.52,3
+243,EL909360,Alternator,Electrical,130.31,110
+244,BR238808,Brake pad set,Brakes,166.52,92
+245,BR797218,Brake pad set,Brakes,108.38,20
+246,EL100473,Starter motor,Electrical,312.59,92
+247,BO887102,Windscreen wiper,Body,278.26,20
+248,FL841113,Oil filter,Filters,11.42,20
+249,FL791007,Cabin filter,Filters,25.23,39
+250,EN270328,Turbocharger,Engine,66.97,49
+251,SU541273,Control arm,Suspension,220.39,75
+252,EN089091,Spark plug,Engine,218.68,19
+253,TR953509,Gearbox oil,Transmission,261.19,31
+254,BO888888,Windscreen wiper,Body,32.89,104
+255,BO241097,Windscreen wiper,Body,160.51,33
+256,FL990773,Oil filter,Filters,36.47,109
+257,EN533703,Timing belt kit,Engine,51.36,109
+258,BR412261,Brake pad set,Brakes,146.52,60
+259,SU712989,Shock absorber,Suspension,139.46,83
+260,BO083427,Door handle,Body,157.85,34
+261,FL366062,Oil filter,Filters,25.75,98
+262,TR158859,Gearbox oil,Transmission,473.59,109
+263,BO067164,Wing mirror,Body,274.89,31
+264,EL280154,Headlight bulb,Electrical,264.15,67
+265,EL597811,Battery,Electrical,239.72,4
+266,BO692513,Windscreen wiper,Body,211.34,16
+267,TY293036,Summer tyre,Tyres,77.05,73
+268,SU195040,Control arm,Suspension,233.97,45
+269,SU109703,Shock absorber,Suspension,36.20,87
+270,BO438548,Wing mirror,Body,41.69,55
+271,FL126837,Oil filter,Filters,34.00,94
+272,EN764166,Spark plug,Engine,55.70,112
+273,BR014684,Brake pad set,Brakes,109.05,87
+274,BR328803,Brake caliper,Brakes,188.78,34
+275,BO627107,Wing mirror,Body,56.00,81
+276,TR085036,Gearbox oil,Transmission,324.47,109
+277,BO948933,Bumper,Body,18.56,26
+278,BO305937,Bumper,Body,103.71,51
+279,EL632539,Starter motor,Electrical,45.88,61
+280,BO952830,Door handle,Body,69.45,0
+281,TR019596,Gearbox oil,Transmission,253.09,118
+282,BR938457,Brake disc,Brakes,101.86,6
+283,TY320825,All-season tyre,Tyres,124.86,1
+284,EN640944,Water pump,Engine,79.68,3
+285,SU808163,Control arm,Suspension,206.63,106
+286,TY493930,Summer tyre,Tyres,157.55,64
+287,TY254276,Winter tyre,Tyres,140.30,40
+288,FL164320,Air filter,Filters,11.10,16
+289,EN350803,Spark plug,Engine,77.83,32
+290,BR224721,Brake disc,Brakes,135.57,111
+291,EL588399,Battery,Electrical,316.04,105
+292,SU700273,Coil spring,Suspension,143.73,28
+293,BR893356,Brake caliper,Brakes,142.60,48
+294,EL804485,Headlight bulb,Electrical,293.84,45
+295,BR973199,Brake pad set,Brakes,145.75,52
+296,SU876183,Coil spring,Suspension,81.72,120
+297,EN123109,Spark plug,Engine,368.71,67
+298,EL670400,Headlight bulb,Electrical,10.43,59
+299,BO468112,Windscreen wiper,Body,118.35,3
+300,TR118807,Clutch kit,Transmission,24.36,105
+301,BO457172,Wing mirror,Body,227.18,57
+302,TR090087,Drive shaft,Transmission,319.60,77
+303,EL944577,Battery,Electrical,45.63,46
+304,TY368207,Winter tyre,Tyres,148.46,119
+305,EN446367,Spark plug,Engine,184.60,89
+306,BR123156,Brake caliper,Brakes,69.86,108
+307,TR001754,Gearbox oil,Transmission,37.36,78
+308,TR368293,Gearbox oil,Transmission,47.61,53
+309,FL151160,Fuel filter,Filters,23.96,34
+310,TR641050,Drive shaft,Transmission,367.05,14
+311,BO868333,Wing mirror,Body,251.93,106
+312,SU409955,Control arm,Suspension,97.80,9
+313,BO539614,Windscreen wiper,Body,83.45,110
+314,TR380549,Clutch kit,Transmission,547.84,118
+315,TY960730,Winter tyre,Tyres,81.02,57
+316,TY654654,All-season tyre,Tyres,48.68,103
+317,EN578119,Water pump,Engine,46.47,28
+318,TR811356,Clutch kit,Transmission,484.28,101
+319,BR248021,Brake disc,Brakes,107.45,97
+320,EN806831,Turbocharger,Engine,279.62,5
+321,TY706370,Summer tyre,Tyres,66.56,116
+322,FL981117,Fuel filter,Filters,34.43,31
+323,BR898502,Brake caliper,Brakes,61.89,100
+324,FL435489,Cabin filter,Filters,36.75,29
+325,FL243775,Oil filter,Filters,10.85,116
+326,BO022141,Door handle,Body,232.16,28
+327,TR422625,Drive shaft,Transmission,208.05,99
+328,EL904147,Starter motor,Electrical,18.25,36
+329,EL032644,Alternator,Electrical,185.31,115
+330,TR705757,Gearbox oil,Transmission,497.20,65
+331,TY511520,All-season tyre,Tyres,114.06,54
+332,SU403992,Control arm,Suspension,239.41,119
+333,EN224316,Water pump,Engine,680.64,52
+334,BR440639,Brake caliper,Brakes,30.52,115
+335,EN816348,Spark plug,Engine,262.45,82
+336,TY483740,All-season tyre,Tyres,149.76,64
+337,SU272247,Coil spring,Suspension,249.10,109
+338,TR452472,Clutch kit,Transmission,94.96,35
+339,TY672337,All-season tyre,Tyres,160.09,0
+340,SU191377,Shock absorber,Suspension,211.38,48
+341,BO508069,Bumper,Body,161.63,91
+342,EL359414,Battery,Electrical,216.94,28
+343,EL466928,Headlight bulb,Electrical,312.81,73
+344,TR475880,Clutch kit,Transmission,519.22,10
+345,TR518404,Gearbox oil,Transmission,242.22,30
+346,TY015842,Winter tyre,Tyres,61.68,66
+347,EN481723,Water pump,Engine,24.58,73
+348,EL254529,Starter motor,Electrical,80.99,27
+349,EL467525,Starter motor,Electrical,215.06,115
+350,TY822689,Winter tyre,Tyres,157.66,0
+351,SU058123,Shock absorber,Suspension,194.70,41
+352,EL463210,Battery,Electrical,296.60,35
+353,BR944845,Brake caliper,Brakes,80.41,14
+354,EN193300,Spark plug,Engine,660.28,65
+355,EN289224,Spark plug,Engine,421.88,2
+356,BO431643,Wing mirror,Body,75.14,64
+357,EL659210,Alternator,Electrical,333.29,42
+358,SU458499,Shock absorber,Suspension,43.14,72
+359,TR540816,Drive shaft,Transmission,491.61,102
+360,TR565539,Clutch kit,Transmission,62.19,87
+361,FL019645,Fuel filter,Filters,35.66,24
+362,TY813185,All-season tyre,Tyres,169.69,25
+363,EL378182,Alternator,Electrical,207.10,99
+364,BO809958,Door handle,Body,63.43,0
+365,SU541546,Wheel bearing,Suspension,101.06,89
+366,FL094876,Fuel filter,Filters,35.65,52
+367,EL124284,Alternator,Electrical,279.09,31
+368,EN369212,Spark plug,Engine,112.45,43
+369,BR315920,Brake disc,Brakes,86.83,9
+370,TY884088,Winter tyre,Tyres,84.35,0
+371,BR392212,Brake fluid,Brakes,185.04,112
+372,TY391071,Winter tyre,Tyres,62.87,62
+373,SU782719,Control arm,Suspension,147.16,9
+374,TR435966,Gearbox oil,Transmission,451.34,0
+375,SU182943,Shock absorber,Suspension,107.06,14
+376,BO870637,Door handle,Body,122.51,87
+377,EN935605,Spark plug,Engine,51.16,55
+378,BO153037,Bumper,Body,230.13,15
+379,EN702737,Water pump,Engine,611.56,87
+380,TY588463,Winter tyre,Tyres,116.39,48
+381,TY666527,Winter tyre,Tyres,61.94,98
+382,BO977794,Bumper,Body,208.80,8
+383,FL928794,Air filter,Filters,38.44,92
+384,BR700963,Brake disc,Brakes,93.64,44
+385,BO398602,Door handle,Body,237.64,92
+386,SU148242,Wheel bearing,Suspension,163.04,86
+387,TR786413,Clutch kit,Transmission,410.10,30
+388,TY937865,All-season tyre,Tyres,97.97,71
+389,EN622333,Turbocharger,Engine,429.58,84
+390,TY087518,Winter tyre,Tyres,108.55,77
+391,BO888853,Door handle,Body,208.28,88
+392,SU715217,Coil spring,Suspension,255.27,25
+393,SU866544,Wheel bearing,Suspension,194.56,83
+394,EL570205,Headlight bulb,Electrical,66.85,40
+395,BR910429,Brake fluid,Brakes,113.37,82
+396,EL165830,Starter motor,Electrical,202.69,102
+397,BR563766,Brake caliper,Brakes,131.34,72
+398,EN854714,Timing belt kit,Engine,236.89,40
+399,TR477315,Clutch kit,Transmission,61.72,86
+400,TR727568,Drive shaft,Transmission,529.32,0

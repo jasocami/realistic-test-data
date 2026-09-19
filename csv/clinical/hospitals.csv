@@ -1,0 +1,26 @@
+id,name,type,city,province,address,postal_code,phone,beds,founded
+1,Centro de Salud San Anselmo,Community,Madrid,Madrid,"Paseo de las Acacias, 120",28013,+34 910 685 072,132,1969
+2,Hospital General de Vitoria-Gasteiz,General,Vitoria-Gasteiz,Álava,"Ronda de Santa María, 49, 3º D",01032,+34 945 861 793,405,2005
+3,Hospital General de A Coruña,General,A Coruña,A Coruña,"Calle Real, 140, 6º Dcha.",15032,+34 981 332 934,249,1908
+4,Hospital San Teodoro,General,Bilbao,Bizkaia,"Calle de la Fuente, 12",48062,+34 944 029 105,326,1997
+5,Hospital Universitario Nuestra Señora del Alba,Teaching,Madrid,Madrid,"Calle del Duero, 157",28035,+34 911 064 293,793,1915
+6,Instituto San Fulgencio,Specialist,Barcelona,Barcelona,"Avenida de la Libertad, 131, 4º B",08038,+34 932 049 533,222,1931
+7,Instituto Santa Perpetua,Specialist,Málaga,Málaga,"Avenida de Federico García Lorca, 158",29011,+34 952 397 734,153,1909
+8,Hospital Clínico San Adriano,Teaching,L'Hospitalet de Llobregat,Barcelona,"Plaza del Carmen, 163, 5º B",08038,+34 934 259 414,756,1933
+9,Centro de Salud Virgen del Espino,Community,Oviedo,Asturias,"Calle Alcalá, 145, 9º D",33050,+34 985 501 739,126,1927
+10,Hospital Clínico Santa Inés,Teaching,Madrid,Madrid,"Avenida Serrano, 78",28059,+34 912 634 557,645,1897
+11,Hospital Infantil San Baudilio,Children's,Oviedo,Asturias,"Calle de Blas de Otero, 33, 3º Izq.",33029,+34 985 553 642,207,1991
+12,Hospital Universitario Nuestra Señora del Robledo,Teaching,Sevilla,Sevilla,"Avenida de Andalucía, 95",41024,+34 954 969 354,788,1937
+13,Hospital Universitario San Hilario,Teaching,Sevilla,Sevilla,"Calle de San José, 161, 4º A",41064,+34 954 333 906,822,1981
+14,Hospital Infantil Santa Genoveva,Children's,Zaragoza,Zaragoza,"Calle Mayor, 28",50019,+34 976 885 456,197,1961
+15,Hospital San Cosme,General,Barcelona,Barcelona,"Calle Goya, 104",08037,+34 935 447 314,494,1892
+16,Hospital Virgen de la Alameda,General,Barcelona,Barcelona,"Carrer de San Juan, 99",08023,+34 937 712 434,339,2005
+17,Hospital Clínico San Emeterio,Teaching,Madrid,Madrid,"Calle de Federico García Lorca, 74",28036,+34 912 715 414,782,1933
+18,Hospital Clínico Santa Rosalía,Teaching,Alicante,Alicante,"Plaza de la Iglesia, 20, 9º C",03074,+34 965 540 210,596,1977
+19,Hospital General de Zaragoza,General,Zaragoza,Zaragoza,"Calle de las Acacias, 4",50035,+34 976 073 651,335,1966
+20,Clínica Virgen del Mirador,Specialist,Cartagena,Murcia,"Plaza del Guadalquivir, 42, 6º C",30064,+34 968 895 212,219,1972
+21,Hospital General de Almería,General,Almería,Almería,"Calle de la Paz, 137",04056,+34 950 598 274,155,2008
+22,Hospital Santa Eulalia,General,Alicante,Alicante,"Calle de Aragón, 1, 8º A",03021,+34 965 206 359,427,1985
+23,Hospital Universitario San Bruno,Teaching,Madrid,Madrid,"Calle de la Libertad, 128, 8º A",28011,+34 918 586 595,587,1935
+24,Hospital Virgen de la Peña,General,Alcorcón,Madrid,"Calle Alcalá, 143",28070,+34 913 320 388,406,1916
+25,Centro de Salud Santa Columba,Community,Cáceres,Cáceres,"Calle del Ebro, 180",10055,+34 927 040 531,61,1911

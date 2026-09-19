@@ -1,0 +1,251 @@
+id,hospital_id,department_id,full_name,specialty,license_number,email,hired_at,qualification
+1,3,15,Dra. Almudena Gras Murcia,Trauma Surgery,LIC-0000001,almudena.gras@example.org,2020-08-11,"Dr. en Medicina, Esp. vía MIR"
+2,4,24,Dra. Trinidad Escrivá,Orthopaedic Surgery,LIC-0000002,trinidad.escriva@example.org,2012-12-17,Lic. Medicina
+3,13,78,Dr. Salomón Lucena Méndez,Interventional Cardiology,LIC-0000003,salomon.lucena@example.org,2015-06-16,Lic. Medicina
+4,15,101,Dra. Montserrat Arco Cabo,Psychiatry,LIC-0000004,montserrat.arco@example.org,2012-06-09,"Dr. en Medicina, Esp. vía MIR"
+5,4,25,Dr. José Antonio Eusebio Saldaña Calatayud,Psychiatry,LIC-0000005,jose.antonio@example.org,2001-12-25,Dr. en Medicina
+6,12,72,Dra. Noa Galvez Palomo,Neurosurgery,LIC-0000006,noa.galvez@example.org,2017-05-25,Dr. en Medicina
+7,13,86,Dr. Graciano Aznar Raya,Paediatrics,LIC-0000007,graciano.aznar@example.org,2015-06-16,Dr. en Medicina
+8,15,100,Dr. Cleto Reina Pinedo,Sports Medicine,LIC-0000008,cleto.reina@example.org,2022-06-05,Grado en Medicina
+9,16,103,Dr. Juan Francisco Cerezo Armengol,Trauma Surgery,LIC-0000009,juan.francisco@example.org,2022-09-19,Grado en Medicina
+10,11,68,Dra. Carla Vicente Mir,Child Psychiatry,LIC-0000010,carla.vicente@example.org,1988-09-18,Lic. Medicina
+11,1,1,Dra. Nazaret Delgado Falcón,Dermatology,LIC-0000011,nazaret.delgado@example.org,2000-04-10,"Dr. en Medicina, Esp. vía MIR"
+12,17,111,Dra. Noa Cuadrado Cabañas,Interventional Cardiology,LIC-0000012,noa.cuadrado8@example.org,2017-06-22,Lic. Medicina
+13,16,110,Dra. Candela del Fuentes,Interventional Radiology,LIC-0000013,candela.del@example.org,2024-10-17,"Grado en Medicina, Esp. vía MIR"
+14,17,116,Dra. Adelia Navarrete-Puga,Obstetrics,LIC-0000014,adelia.navarrete-puga@example.org,1999-03-01,Lic. Medicina
+15,16,104,Dra. Yéssica Ariño Baeza,General Surgery,LIC-0000015,yessica.arino@example.org,2019-02-14,"Grado en Medicina, Esp. vía MIR"
+16,5,28,Dr. Heriberto Piñeiro-Álvarez,Dermatology,LIC-0000016,heriberto.pineiro-alvarez@example.org,1994-04-12,Lic. Medicina
+17,8,43,Dra. Cayetana Adadia Barreda,Trauma Surgery,LIC-0000017,cayetana.adadia@example.org,2023-08-07,"Grado en Medicina, Esp. vía MIR"
+18,8,50,Dr. Narciso Acedo Rosselló,Interventional Radiology,LIC-0000018,narciso.acedo@example.org,1998-05-27,Lic. Medicina
+19,2,5,Dr. Luís Meléndez Sancho,Vascular Surgery,LIC-0000019,luis.melendez@example.org,1989-10-15,Lic. Medicina
+20,5,33,Dra. Marina Porcel Cañizares,Orthopaedic Surgery,LIC-0000020,marina.porcel@example.org,2022-05-17,"Dr. en Medicina, Esp. vía MIR"
+21,3,19,Dra. Inés del Marin,Psychiatry,LIC-0000021,ines.del@example.org,2022-05-26,"Grado en Medicina, Esp. vía MIR"
+22,11,64,Dra. Agustina de Prat,Electrophysiology,LIC-0000022,agustina.de@example.org,2023-02-26,Grado en Medicina
+23,16,109,Dr. Ruy Belmonte Suárez,Paediatrics,LIC-0000023,ruy.belmonte6@example.org,2015-01-31,"Dr. en Medicina, Esp. vía MIR"
+24,8,45,Dra. Nayara Tejero Franco,Endocrinology,LIC-0000024,nayara.tejero@example.org,2023-06-12,Dr. en Medicina
+25,12,70,Dra. Carmelita Pujol,Vascular Surgery,LIC-0000025,carmelita.pujol@example.org,2022-06-21,Dr. en Medicina
+26,13,86,Dra. Abril Almazán Granados,Paediatrics,LIC-0000026,abril.almazan@example.org,2018-10-30,Dr. en Medicina
+27,4,23,Dra. Chita Estévez Marqués,Neurosurgery,LIC-0000027,chita.estevez@example.org,2017-05-21,"Lic. Medicina, Esp. vía MIR"
+28,12,77,Dr. Salvador Coello Real,Interventional Radiology,LIC-0000028,salvador.coello@example.org,1995-12-18,"Lic. Medicina, Esp. vía MIR"
+29,1,4,Dra. Clotilde Vilar Castelló,Haematology,LIC-0000029,clotilde.vilar9@example.org,2021-06-05,"Grado en Medicina, Esp. vía MIR"
+30,4,21,Dra. Amor Iglesia-Águila,Dermatology,LIC-0000030,amor.iglesia-aguila@example.org,2021-02-23,Dr. en Medicina
+31,8,46,Dr. César Velasco Pont,Neurology,LIC-0000031,cesar.velasco@example.org,2000-10-29,Lic. Medicina
+32,2,8,Dra. Claudia Navarrete-Piñol,Obstetrics,LIC-0000032,claudia.navarrete-pinol@example.org,2018-07-17,"Grado en Medicina, Esp. vía MIR"
+33,10,59,Dra. Maite Luisa Egea Benet,Internal Medicine,LIC-0000033,maite.luisa@example.org,2013-03-29,"Lic. Medicina, Esp. vía MIR"
+34,17,120,Dra. Prudencia Arco,Psychiatry,LIC-0000034,prudencia.arco@example.org,2013-08-22,"Dr. en Medicina, Esp. vía MIR"
+35,10,62,Dra. María Cristina Báez Busquets,Sports Medicine,LIC-0000035,maria.cristina@example.org,2011-05-19,"Dr. en Medicina, Esp. vía MIR"
+36,8,47,Dr. Gabriel del Villalba,Gynaecology,LIC-0000036,gabriel.del@example.org,2009-10-04,"Lic. Medicina, Esp. vía MIR"
+37,10,60,Dra. Estrella Cornejo Salas,Neurosurgery,LIC-0000037,estrella.cornejo@example.org,2015-09-22,Dr. en Medicina
+38,15,102,Dra. Blanca Elías Sanmiguel,Diagnostic Radiology,LIC-0000038,blanca.elias5@example.org,2020-04-26,"Lic. Medicina, Esp. vía MIR"
+39,17,114,Dr. Damián María Canales Ugarte,General Surgery,LIC-0000039,damian.maria@example.org,2024-06-04,Lic. Medicina
+40,6,38,Dr. Moisés Barros Morera,Medical Oncology,LIC-0000040,moises.barros@example.org,1999-08-24,Dr. en Medicina
+41,10,57,Dr. Maximiliano Bosch Anaya,Trauma Surgery,LIC-0000041,maximiliano.bosch@example.org,2020-01-25,"Grado en Medicina, Esp. vía MIR"
+42,8,49,Dr. Isaías del Echeverría,Orthopaedic Surgery,LIC-0000042,isaias.del7@example.org,2018-03-04,Grado en Medicina
+43,10,62,Dra. Laura Luz Ortega,Orthopaedic Surgery,LIC-0000043,laura.luz5@example.org,2007-05-27,"Dr. en Medicina, Esp. vía MIR"
+44,7,40,Dra. Evangelina Iborra,Neurosurgery,LIC-0000044,evangelina.iborra7@example.org,2024-02-01,Grado en Medicina
+45,16,105,Dr. Lucas Elpidio Valenciano Moll,Internal Medicine,LIC-0000045,lucas.elpidio@example.org,2018-07-14,"Grado en Medicina, Esp. vía MIR"
+46,15,102,Dr. Nacio Jacobo Pombo Vaquero,Interventional Radiology,LIC-0000046,nacio.jacobo@example.org,2002-04-04,"Dr. en Medicina, Esp. vía MIR"
+47,16,106,Dra. Irene Valenciano Vargas,Neurosurgery,LIC-0000047,irene.valenciano7@example.org,2018-03-07,"Lic. Medicina, Esp. vía MIR"
+48,4,24,Dra. Piedad Sáez Dueñas,Orthopaedic Surgery,LIC-0000048,piedad.saez@example.org,2024-04-28,"Grado en Medicina, Esp. vía MIR"
+49,16,105,Dr. Donato de Durán,Geriatrics,LIC-0000049,donato.de@example.org,2020-04-16,Dr. en Medicina
+50,9,51,Dr. Víctor Marco,General Surgery,LIC-0000050,victor.marco@example.org,2019-01-14,"Grado en Medicina, Esp. vía MIR"
+51,13,85,Dra. Martirio Crespo Hidalgo,Orthopaedic Surgery,LIC-0000051,martirio.crespo@example.org,2007-12-26,Dr. en Medicina
+52,4,22,Dra. Dorotea Andrés García,Emergency Medicine,LIC-0000052,dorotea.andres@example.org,2024-01-17,"Dr. en Medicina, Esp. vía MIR"
+53,10,63,Dr. Maxi Vidal,Interventional Radiology,LIC-0000053,maxi.vidal@example.org,2019-07-06,"Lic. Medicina, Esp. vía MIR"
+54,16,103,Dr. Máximo Arias Agullo,Trauma Surgery,LIC-0000054,maximo.arias@example.org,2012-11-30,Dr. en Medicina
+55,1,1,Dr. Ceferino del Gonzalez,Dermatology,LIC-0000055,ceferino.del@example.org,2020-07-17,"Grado en Medicina, Esp. vía MIR"
+56,10,62,Dra. Lola Arias-Manzanares,Orthopaedic Surgery,LIC-0000056,lola.arias-manzanares@example.org,1999-05-01,Lic. Medicina
+57,13,81,Dra. Marcela Ruano Bárcena,Internal Medicine,LIC-0000057,marcela.ruano@example.org,2017-05-09,Lic. Medicina
+58,16,104,Dra. Lidia Cisneros Barrera,Vascular Surgery,LIC-0000058,lidia.cisneros@example.org,2024-11-02,"Grado en Medicina, Esp. vía MIR"
+59,2,12,Dra. Nélida Escrivá Lerma,Child Psychiatry,LIC-0000059,nelida.escriva@example.org,2022-02-19,"Dr. en Medicina, Esp. vía MIR"
+60,4,23,Dr. Dimas Reig Segura,Neurology,LIC-0000060,dimas.reig@example.org,2018-11-11,Dr. en Medicina
+61,10,58,Dra. Ruperta Martín Campos,General Surgery,LIC-0000061,ruperta.martin@example.org,2019-04-05,"Dr. en Medicina, Esp. vía MIR"
+62,17,111,Dr. Chema María Pont Enríquez,Electrophysiology,LIC-0000062,chema.maria@example.org,2005-05-21,Dr. en Medicina
+63,12,74,Dr. Wilfredo Tomé,Sports Medicine,LIC-0000063,wilfredo.tome@example.org,2023-10-16,Lic. Medicina
+64,13,82,Dra. Águeda Ramón Núñez,Neurology,LIC-0000064,agueda.ramon@example.org,2022-03-10,"Dr. en Medicina, Esp. vía MIR"
+65,7,41,Dra. Paola Costa Pont,Sports Medicine,LIC-0000065,paola.costa@example.org,2011-05-26,Lic. Medicina
+66,6,37,Dr. Fernando Olmedo Molina,Electrophysiology,LIC-0000066,fernando.olmedo@example.org,2025-04-26,Grado en Medicina
+67,5,36,Dra. Chita del Paredes,Diagnostic Radiology,LIC-0000067,chita.del@example.org,2022-06-10,"Lic. Medicina, Esp. vía MIR"
+68,12,69,Dra. Gloria Ponce Salvador,Trauma Surgery,LIC-0000068,gloria.ponce@example.org,2017-04-09,Grado en Medicina
+69,15,98,Dr. Rosario Ríos Sanabria,Neurosurgery,LIC-0000069,rosario.rios8@example.org,2021-01-16,"Dr. en Medicina, Esp. vía MIR"
+70,13,83,Dra. Adela Gaya Olivares,Obstetrics,LIC-0000070,adela.gaya@example.org,2012-01-26,Lic. Medicina
+71,13,87,Dr. Espiridión Gisbert Gilabert,Psychiatry,LIC-0000071,espiridion.gisbert@example.org,2008-05-22,"Dr. en Medicina, Esp. vía MIR"
+72,3,17,Dra. Vanesa Rosales Morera,Endocrinology,LIC-0000072,vanesa.rosales@example.org,2022-04-24,Lic. Medicina
+73,15,100,Dr. Venceslás Díaz Sala,Sports Medicine,LIC-0000073,venceslas.diaz@example.org,2023-01-09,Grado en Medicina
+74,8,46,Dr. Onofre Valcárcel Falcón,Neurology,LIC-0000074,onofre.valcarcel@example.org,2024-06-22,Dr. en Medicina
+75,5,36,Dra. Jessica Nilda Peñalver Vera,Diagnostic Radiology,LIC-0000075,jessica.nilda@example.org,2017-03-03,Grado en Medicina
+76,13,79,Dra. Ainoa Alma Aragón Mateos,Dermatology,LIC-0000076,ainoa.alma@example.org,2006-06-01,Dr. en Medicina
+77,17,116,Dra. Julie Redondo Moles,Obstetrics,LIC-0000077,julie.redondo@example.org,2012-09-05,"Dr. en Medicina, Esp. vía MIR"
+78,12,71,Dra. Leticia Mirta Tejada Buendía,Geriatrics,LIC-0000078,leticia.mirta@example.org,2011-10-30,"Dr. en Medicina, Esp. vía MIR"
+79,3,17,Dra. Rebeca Ferrero Mendoza,Endocrinology,LIC-0000079,rebeca.ferrero@example.org,2022-12-09,"Lic. Medicina, Esp. vía MIR"
+80,16,103,Dra. Caridad Pereira,Emergency Medicine,LIC-0000080,caridad.pereira@example.org,1990-08-10,Lic. Medicina
+81,8,46,Dr. Artemio Perez-Angulo,Neurology,LIC-0000081,artemio.perez-angulo@example.org,2022-09-22,Grado en Medicina
+82,6,38,Dra. Estrella Capdevila Espada,Medical Oncology,LIC-0000082,estrella.capdevila@example.org,1995-03-27,"Lic. Medicina, Esp. vía MIR"
+83,13,83,Dra. Cloe Valderrama Pellicer,Gynaecology,LIC-0000083,cloe.valderrama@example.org,2022-12-29,Grado en Medicina
+84,11,65,Dr. Pepe Ricart Peral,Emergency Medicine,LIC-0000084,pepe.ricart@example.org,2023-11-25,Grado en Medicina
+85,9,52,Dr. Toribio Lucena Llamas,Endocrinology,LIC-0000085,toribio.lucena@example.org,2004-06-24,"Lic. Medicina, Esp. vía MIR"
+86,2,8,Dr. Inocencio Pont Nuñez,Obstetrics,LIC-0000086,inocencio.pont@example.org,2022-07-31,Lic. Medicina
+87,2,8,Dra. Almudena Naranjo Espada,Gynaecology,LIC-0000087,almudena.naranjo2@example.org,1988-07-23,"Lic. Medicina, Esp. vía MIR"
+88,8,45,Dr. Fidel Barrio Gascón,Geriatrics,LIC-0000088,fidel.barrio@example.org,2005-05-15,"Dr. en Medicina, Esp. vía MIR"
+89,5,34,Dr. Tadeo Peral Vázquez,Paediatrics,LIC-0000089,tadeo.peral@example.org,2006-10-17,Lic. Medicina
+90,8,48,Dr. Ulises Canals-Nevado,Medical Oncology,LIC-0000090,ulises.canals-nevado9@example.org,1996-03-05,"Dr. en Medicina, Esp. vía MIR"
+91,17,112,Dr. Germán Puga-Portillo,Dermatology,LIC-0000091,german.puga-portillo@example.org,2023-12-13,"Lic. Medicina, Esp. vía MIR"
+92,8,48,Dr. Francisco Javier Gerónimo Font Alcolea,Radiation Oncology,LIC-0000092,francisco.javier@example.org,2024-11-15,"Dr. en Medicina, Esp. vía MIR"
+93,14,89,Dr. Ovidio Torrents,Trauma Surgery,LIC-0000093,ovidio.torrents@example.org,2021-10-22,"Grado en Medicina, Esp. vía MIR"
+94,5,32,Dr. Humberto Guillen,Gynaecology,LIC-0000094,humberto.guillen@example.org,2012-10-31,Dr. en Medicina
+95,8,46,Dr. Celso Agustín-Solsona,Neurosurgery,LIC-0000095,celso.agustin-solsona@example.org,2012-09-09,Lic. Medicina
+96,3,14,Dr. Anacleto Prada Ferrándiz,Interventional Cardiology,LIC-0000096,anacleto.prada@example.org,2020-07-14,Dr. en Medicina
+97,3,16,Dra. Miguela Giner-Medina,General Surgery,LIC-0000097,miguela.giner-medina@example.org,2025-01-18,"Lic. Medicina, Esp. vía MIR"
+98,4,26,Dr. Jose Francisco Rafael Tello Segura,Interventional Radiology,LIC-0000098,jose.francisco@example.org,2015-05-23,Dr. en Medicina
+99,8,48,Dra. Georgina Casal-Porta,Haematology,LIC-0000099,georgina.casal-porta@example.org,2021-10-15,Dr. en Medicina
+100,12,72,Dr. Baltasar Coello Peinado,Neurosurgery,LIC-0000100,baltasar.coello8@example.org,2018-04-01,"Dr. en Medicina, Esp. vía MIR"
+101,17,117,Dr. Abilio Jiménez Guzmán,Radiation Oncology,LIC-0000101,abilio.jimenez@example.org,2015-05-30,"Dr. en Medicina, Esp. vía MIR"
+102,13,80,Dra. Rafaela Juan Tomás,Trauma Surgery,LIC-0000102,rafaela.juan2@example.org,2020-03-29,"Grado en Medicina, Esp. vía MIR"
+103,1,3,Dr. Jose Ignacio Corominas Belmonte,Obstetrics,LIC-0000103,jose.ignacio@example.org,2019-04-08,Grado en Medicina
+104,17,116,Dr. Néstor Torrens Nicolás,Obstetrics,LIC-0000104,nestor.torrens@example.org,1997-01-16,Lic. Medicina
+105,12,77,Dra. Tamara Prat Marin,Interventional Radiology,LIC-0000105,tamara.prat@example.org,2014-07-27,"Lic. Medicina, Esp. vía MIR"
+106,4,26,Dr. Sandalio Pol Blanch,Interventional Radiology,LIC-0000106,sandalio.pol@example.org,2021-03-31,"Grado en Medicina, Esp. vía MIR"
+107,6,38,Dra. Ximena Delfina Olivares Elías,Radiation Oncology,LIC-0000107,ximena.delfina@example.org,2022-11-15,Dr. en Medicina
+108,8,45,Dra. Cruz Bayón Benavente,Geriatrics,LIC-0000108,cruz.bayon@example.org,2016-04-22,Lic. Medicina
+109,17,119,Dra. Nayara Ribas Menéndez,Paediatrics,LIC-0000109,nayara.ribas@example.org,2007-08-01,"Dr. en Medicina, Esp. vía MIR"
+110,17,119,Dr. Chucho Cadenas Carro,Paediatrics,LIC-0000110,chucho.cadenas@example.org,2012-06-26,"Dr. en Medicina, Esp. vía MIR"
+111,16,109,Dra. Mónica Díez-Tudela,Paediatrics,LIC-0000111,monica.diez-tudela3@example.org,2021-11-17,Lic. Medicina
+112,16,104,Dr. Curro de Carreño,Vascular Surgery,LIC-0000112,curro.de@example.org,2015-10-13,"Lic. Medicina, Esp. vía MIR"
+113,9,52,Dra. Pili Aranda Viñas,Geriatrics,LIC-0000113,pili.aranda@example.org,2009-07-01,"Lic. Medicina, Esp. vía MIR"
+114,8,45,Dra. Lupita Pablo Gámez,Geriatrics,LIC-0000114,lupita.pablo@example.org,2004-05-12,Dr. en Medicina
+115,16,110,Dr. Lucio Gomila,Diagnostic Radiology,LIC-0000115,lucio.gomila9@example.org,2021-08-16,"Dr. en Medicina, Esp. vía MIR"
+116,2,12,Dr. Wilfredo Montesinos Carranza,Child Psychiatry,LIC-0000116,wilfredo.montesinos@example.org,2015-02-21,"Dr. en Medicina, Esp. vía MIR"
+117,4,20,Dr. Miguel Frutos Juan,Cardiology,LIC-0000117,miguel.frutos@example.org,2011-03-30,"Lic. Medicina, Esp. vía MIR"
+118,12,70,Dra. Rita Vaquero Miró,Vascular Surgery,LIC-0000118,rita.vaquero@example.org,2024-11-28,Lic. Medicina
+119,12,74,Dra. María Manuela Sánchez Pujol,Sports Medicine,LIC-0000119,maria.manuela@example.org,2019-12-11,Grado en Medicina
+120,13,78,Dr. Eligio Porras Luján,Cardiology,LIC-0000120,eligio.porras@example.org,2020-01-05,Dr. en Medicina
+121,4,24,Dra. Chelo Arrieta Zabala,Sports Medicine,LIC-0000121,chelo.arrieta@example.org,2010-10-09,"Dr. en Medicina, Esp. vía MIR"
+122,17,118,Dra. Eligia Cánovas Rovira,Orthopaedic Surgery,LIC-0000122,eligia.canovas@example.org,2018-11-01,"Grado en Medicina, Esp. vía MIR"
+123,10,60,Dr. Isidro Serrano Arregui,Neurosurgery,LIC-0000123,isidro.serrano@example.org,2021-08-06,"Dr. en Medicina, Esp. vía MIR"
+124,2,9,Dra. Luisina del Cárdenas,Radiation Oncology,LIC-0000124,luisina.del@example.org,2008-04-27,"Lic. Medicina, Esp. vía MIR"
+125,4,21,Dr. Alfonso Torre Carrasco,Dermatology,LIC-0000125,alfonso.torre@example.org,2024-12-30,Lic. Medicina
+126,5,27,Dr. Roberto Bru Gordillo,Cardiology,LIC-0000126,roberto.bru@example.org,2012-12-09,"Dr. en Medicina, Esp. vía MIR"
+127,17,114,Dr. Amado Puga Olivera,General Surgery,LIC-0000127,amado.puga@example.org,2022-12-01,Grado en Medicina
+128,2,12,Dr. Jose Ramón Rubio Cano,Child Psychiatry,LIC-0000128,jose.ramon@example.org,2020-11-30,"Grado en Medicina, Esp. vía MIR"
+129,17,120,Dra. María Luisa Cañizares-Sotelo,Psychiatry,LIC-0000129,maria.luisa@example.org,1990-08-21,"Dr. en Medicina, Esp. vía MIR"
+130,17,114,Dra. Vera Valero Donoso,Vascular Surgery,LIC-0000130,vera.valero@example.org,2022-08-16,"Lic. Medicina, Esp. vía MIR"
+131,17,119,Dr. Toni Cazorla Cueto,Paediatrics,LIC-0000131,toni.cazorla@example.org,2023-03-18,Grado en Medicina
+132,10,58,Dr. Edgardo Oliveras Coloma,General Surgery,LIC-0000132,edgardo.oliveras@example.org,2020-06-13,"Grado en Medicina, Esp. vía MIR"
+133,12,77,Dra. Reyna Yésica Gomez Adán,Interventional Radiology,LIC-0000133,reyna.yesica@example.org,2021-12-11,Lic. Medicina
+134,17,120,Dr. Hugo del Pablo,Psychiatry,LIC-0000134,hugo.del@example.org,2008-05-28,Lic. Medicina
+135,16,110,Dr. Amado Belda Rios,Diagnostic Radiology,LIC-0000135,amado.belda@example.org,2022-01-16,"Grado en Medicina, Esp. vía MIR"
+136,16,104,Dr. Guadalupe Vicens Arévalo,Vascular Surgery,LIC-0000136,guadalupe.vicens@example.org,2024-03-31,Grado en Medicina
+137,15,97,Dr. Álvaro Bejarano Zabala,Internal Medicine,LIC-0000137,alvaro.bejarano@example.org,2008-02-11,Lic. Medicina
+138,11,67,Dra. Bárbara Sainz Crespo,Haematology,LIC-0000138,barbara.sainz@example.org,2009-02-09,Lic. Medicina
+139,17,119,Dra. Guadalupe Plaza Mariscal,Paediatrics,LIC-0000139,guadalupe.plaza@example.org,2003-05-16,Dr. en Medicina
+140,8,50,Dra. Ángela de Bello,Diagnostic Radiology,LIC-0000140,angela.de@example.org,2017-02-03,Grado en Medicina
+141,15,101,Dra. Cayetana Tejero-Seguí,Child Psychiatry,LIC-0000141,cayetana.tejero-segui@example.org,2024-09-29,"Grado en Medicina, Esp. vía MIR"
+142,8,50,Dra. Flavia Castañeda Fábregas,Interventional Radiology,LIC-0000142,flavia.castaneda@example.org,2021-03-01,"Grado en Medicina, Esp. vía MIR"
+143,12,77,Dr. Silvestre Montalbán Sancho,Diagnostic Radiology,LIC-0000143,silvestre.montalban@example.org,2011-08-22,Dr. en Medicina
+144,10,56,Dra. Caridad Frutos-Núñez,Dermatology,LIC-0000144,caridad.frutos-nunez@example.org,1996-02-19,Dr. en Medicina
+145,16,104,Dra. Maite Arévalo Alcalá,General Surgery,LIC-0000145,maite.arevalo@example.org,2015-03-02,"Lic. Medicina, Esp. vía MIR"
+146,7,39,Dra. Olga Calista Gisbert Palomar,Internal Medicine,LIC-0000146,olga.calista@example.org,2024-02-03,"Lic. Medicina, Esp. vía MIR"
+147,2,5,Dra. América Puga-Aragón,Vascular Surgery,LIC-0000147,america.puga-aragon@example.org,2014-01-31,Dr. en Medicina
+148,15,98,Dr. Guadalupe Ramos Manjón,Neurosurgery,LIC-0000148,guadalupe.ramos@example.org,2018-01-23,"Grado en Medicina, Esp. vía MIR"
+149,10,55,Dr. Héctor Gracia López,Interventional Cardiology,LIC-0000149,hector.gracia@example.org,1990-09-03,"Dr. en Medicina, Esp. vía MIR"
+150,4,21,Dra. Filomena Alsina Girón,Dermatology,LIC-0000150,filomena.alsina@example.org,2013-01-11,"Dr. en Medicina, Esp. vía MIR"
+151,2,7,Dr. Rufino Lastra Bayo,Neurology,LIC-0000151,rufino.lastra@example.org,2019-06-14,"Lic. Medicina, Esp. vía MIR"
+152,13,86,Dra. Armida Solana,Paediatrics,LIC-0000152,armida.solana@example.org,2021-04-04,"Lic. Medicina, Esp. vía MIR"
+153,2,5,Dr. Tomás Ferreras-Aguiló,General Surgery,LIC-0000153,tomas.ferreras-aguilo@example.org,2023-05-16,Lic. Medicina
+154,8,48,Dra. Gloria Pulido Cabello,Radiation Oncology,LIC-0000154,gloria.pulido@example.org,2022-04-09,"Lic. Medicina, Esp. vía MIR"
+155,6,38,Dra. Mercedes Cañellas,Radiation Oncology,LIC-0000155,mercedes.canellas@example.org,2005-06-08,Dr. en Medicina
+156,16,104,Dr. Fabián Palma-Barragán,Vascular Surgery,LIC-0000156,fabian.palma-barragan4@example.org,2006-06-24,"Dr. en Medicina, Esp. vía MIR"
+157,1,3,Dra. Nuria Muñoz Samper,Obstetrics,LIC-0000157,nuria.munoz@example.org,2020-03-05,Lic. Medicina
+158,17,115,Dra. Carmela Lillo Barrio,Internal Medicine,LIC-0000158,carmela.lillo@example.org,2023-11-26,"Lic. Medicina, Esp. vía MIR"
+159,16,104,Dra. Luisa Alvarez Julián,Vascular Surgery,LIC-0000159,luisa.alvarez@example.org,2020-05-17,Dr. en Medicina
+160,15,95,Dr. Adalberto Alemany,Dermatology,LIC-0000160,adalberto.alemany@example.org,2018-05-01,Grado en Medicina
+161,9,54,Dr. Victor Alcalde Sanz,Paediatrics,LIC-0000161,victor.alcalde@example.org,2021-05-03,"Grado en Medicina, Esp. vía MIR"
+162,5,33,Dr. Maximiliano Sandoval Linares,Sports Medicine,LIC-0000162,maximiliano.sandoval@example.org,2016-11-19,Grado en Medicina
+163,4,21,Dra. Dorotea Llabrés,Dermatology,LIC-0000163,dorotea.llabres@example.org,2008-11-08,Dr. en Medicina
+164,13,85,Dra. Marianela Bellido Calvo,Orthopaedic Surgery,LIC-0000164,marianela.bellido@example.org,2012-07-24,Lic. Medicina
+165,16,109,Dra. Evelia Perelló,Neonatology,LIC-0000165,evelia.perello@example.org,2023-04-14,"Grado en Medicina, Esp. vía MIR"
+166,11,64,Dr. Vidal Garzón-Uribe,Electrophysiology,LIC-0000166,vidal.garzon-uribe@example.org,2022-12-21,"Grado en Medicina, Esp. vía MIR"
+167,10,62,Dr. Alcides Cánovas Santos,Sports Medicine,LIC-0000167,alcides.canovas@example.org,2018-12-01,Lic. Medicina
+168,12,75,Dra. Felipa Valle Pou,Paediatrics,LIC-0000168,felipa.valle@example.org,2012-07-29,Lic. Medicina
+169,14,89,Dra. Lidia Duran Peral,Emergency Medicine,LIC-0000169,lidia.duran@example.org,2016-02-19,"Dr. en Medicina, Esp. vía MIR"
+170,17,112,Dra. Tamara Baena,Dermatology,LIC-0000170,tamara.baena@example.org,2019-05-14,"Dr. en Medicina, Esp. vía MIR"
+171,11,66,Dr. Florencio Carmona,Vascular Surgery,LIC-0000171,florencio.carmona@example.org,2013-04-27,"Dr. en Medicina, Esp. vía MIR"
+172,5,29,Dr. Dionisio Hernando,General Surgery,LIC-0000172,dionisio.hernando@example.org,2015-09-22,"Lic. Medicina, Esp. vía MIR"
+173,9,52,Dra. María Teresa Figuerola Herrera,Geriatrics,LIC-0000173,maria.teresa@example.org,2024-03-22,"Dr. en Medicina, Esp. vía MIR"
+174,13,84,Dr. Evaristo Peral Diéguez,Haematology,LIC-0000174,evaristo.peral@example.org,2024-08-17,"Lic. Medicina, Esp. vía MIR"
+175,8,47,Dr. Fortunato Poncio Casanovas Otero,Obstetrics,LIC-0000175,fortunato.poncio@example.org,2015-03-25,"Lic. Medicina, Esp. vía MIR"
+176,17,119,Dr. Juan Alberdi-Jáuregui,Neonatology,LIC-0000176,juan.alberdi-jauregui@example.org,2009-07-21,Lic. Medicina
+177,10,55,Dr. Augusto Campo Berenguer,Interventional Cardiology,LIC-0000177,augusto.campo@example.org,2018-07-31,Grado en Medicina
+178,7,39,Dr. Matías del Cordero,Internal Medicine,LIC-0000178,matias.del@example.org,2022-12-20,"Dr. en Medicina, Esp. vía MIR"
+179,16,108,Dr. Anastasio Roig Sastre,Sports Medicine,LIC-0000179,anastasio.roig@example.org,2018-12-14,Lic. Medicina
+180,9,54,Dr. Carmelo Zabaleta Figueroa,Neonatology,LIC-0000180,carmelo.zabaleta@example.org,2020-10-01,"Dr. en Medicina, Esp. vía MIR"
+181,4,22,Dra. Luna Viñas Company,Emergency Medicine,LIC-0000181,luna.vinas@example.org,2021-03-21,"Lic. Medicina, Esp. vía MIR"
+182,11,68,Dra. Angélica Peral Mendez,Psychiatry,LIC-0000182,angelica.peral@example.org,2002-12-04,Dr. en Medicina
+183,1,2,Dra. Nilda Carlos Alcolea,Neurology,LIC-0000183,nilda.carlos@example.org,2014-09-13,"Lic. Medicina, Esp. vía MIR"
+184,4,25,Dra. Perla Figueras-Mascaró,Psychiatry,LIC-0000184,perla.figueras-mascaro@example.org,2004-07-12,Dr. en Medicina
+185,10,56,Dr. Lalo Esteban Albero Herranz,Dermatology,LIC-0000185,lalo.esteban@example.org,2021-04-03,"Dr. en Medicina, Esp. vía MIR"
+186,13,78,Dr. Yago Higueras,Cardiology,LIC-0000186,yago.higueras@example.org,2006-11-17,Dr. en Medicina
+187,4,20,Dra. Constanza Rincón Nuñez,Cardiology,LIC-0000187,constanza.rincon@example.org,2000-08-06,"Dr. en Medicina, Esp. vía MIR"
+188,14,91,Dra. Matilde Pizarro Carpio,Neurosurgery,LIC-0000188,matilde.pizarro@example.org,2023-05-06,"Lic. Medicina, Esp. vía MIR"
+189,11,66,Dr. Eutropio Céspedes Padilla,General Surgery,LIC-0000189,eutropio.cespedes@example.org,2004-06-22,Lic. Medicina
+190,17,112,Dra. Inmaculada Atienza Alegre,Dermatology,LIC-0000190,inmaculada.atienza@example.org,2016-01-25,Lic. Medicina
+191,5,30,Dr. Galo Prieto,Internal Medicine,LIC-0000191,galo.prieto@example.org,2016-08-12,Grado en Medicina
+192,2,13,Dr. Anselmo Mariscal Flores,Interventional Radiology,LIC-0000192,anselmo.mariscal@example.org,2020-02-03,Grado en Medicina
+193,5,33,Dra. Petrona Ledesma-Andrade,Orthopaedic Surgery,LIC-0000193,petrona.ledesma-andrade@example.org,1996-08-22,Dr. en Medicina
+194,4,20,Dra. Adelia Valentina Jurado Company,Cardiology,LIC-0000194,adelia.valentina@example.org,2005-06-28,Dr. en Medicina
+195,16,110,Dra. Dionisia Riba Velasco,Interventional Radiology,LIC-0000195,dionisia.riba@example.org,2018-09-13,"Grado en Medicina, Esp. vía MIR"
+196,17,116,Dra. Chita Socorro Carretero Velasco,Gynaecology,LIC-0000196,chita.socorro@example.org,2016-09-24,Dr. en Medicina
+197,12,70,Dr. Esteban Manzano Tirado,Vascular Surgery,LIC-0000197,esteban.manzano@example.org,2025-06-20,Grado en Medicina
+198,3,14,Dra. Anabel Mata-Toro,Interventional Cardiology,LIC-0000198,anabel.mata-toro@example.org,2009-06-29,"Lic. Medicina, Esp. vía MIR"
+199,5,27,Dr. Asdrubal Portero Villalonga,Electrophysiology,LIC-0000199,asdrubal.portero@example.org,2019-08-12,Lic. Medicina
+200,12,69,Dra. Sofía Eliana Sánchez Esteve,Emergency Medicine,LIC-0000200,sofia.eliana@example.org,2014-09-20,Dr. en Medicina
+201,8,45,Dra. Socorro Tejedor Miralles,Endocrinology,LIC-0000201,socorro.tejedor@example.org,2025-01-31,"Lic. Medicina, Esp. vía MIR"
+202,6,38,Dr. Chucho del Vicens,Radiation Oncology,LIC-0000202,chucho.del@example.org,2013-07-30,"Dr. en Medicina, Esp. vía MIR"
+203,1,2,Dra. Felipa Solana Huerta,Neurology,LIC-0000203,felipa.solana3@example.org,2022-12-21,Lic. Medicina
+204,10,63,Dra. Ana Ferrán Bermúdez,Interventional Radiology,LIC-0000204,ana.ferran@example.org,2008-11-22,"Dr. en Medicina, Esp. vía MIR"
+205,16,110,Dr. Victor Manuel Llamas Atienza,Interventional Radiology,LIC-0000205,victor.manuel4@example.org,2019-01-10,"Lic. Medicina, Esp. vía MIR"
+206,11,66,Dr. Joan Benavent Gargallo,General Surgery,LIC-0000206,joan.benavent@example.org,2020-03-28,"Lic. Medicina, Esp. vía MIR"
+207,11,66,Dr. Emiliano Sanchez Santamaría,Vascular Surgery,LIC-0000207,emiliano.sanchez@example.org,2020-02-14,"Lic. Medicina, Esp. vía MIR"
+208,17,120,Dra. Julieta Jáuregui,Psychiatry,LIC-0000208,julieta.jauregui@example.org,2009-12-28,Dr. en Medicina
+209,8,43,Dra. Anunciación Navarrete Mata,Trauma Surgery,LIC-0000209,anunciacion.navarrete3@example.org,2024-08-05,Dr. en Medicina
+210,16,105,Dr. Toribio Ojeda-Armas,Internal Medicine,LIC-0000210,toribio.ojeda-armas@example.org,2018-01-07,"Grado en Medicina, Esp. vía MIR"
+211,1,1,Dr. Heliodoro Omar Daza Mir,Dermatology,LIC-0000211,heliodoro.omar@example.org,2024-07-28,"Lic. Medicina, Esp. vía MIR"
+212,2,13,Dr. Manuel Lobato-Duran,Diagnostic Radiology,LIC-0000212,manuel.lobato-duran@example.org,2019-02-12,Dr. en Medicina
+213,16,105,Dr. Geraldo Sacristán Borrego,Geriatrics,LIC-0000213,geraldo.sacristan@example.org,2024-07-04,"Dr. en Medicina, Esp. vía MIR"
+214,17,111,Dra. Matilde Leire Vargas Recio,Interventional Cardiology,LIC-0000214,matilde.leire@example.org,2004-12-05,Dr. en Medicina
+215,3,19,Dr. Rufino del Corral,Child Psychiatry,LIC-0000215,rufino.del@example.org,2006-07-17,Dr. en Medicina
+216,8,49,Dra. Magdalena Ágata Gallo Aragonés,Orthopaedic Surgery,LIC-0000216,magdalena.agata@example.org,2021-08-13,Lic. Medicina
+217,5,32,Dr. Cirino Morcillo Pou,Gynaecology,LIC-0000217,cirino.morcillo@example.org,2021-05-04,Grado en Medicina
+218,15,96,Dra. Serafina Verdú Jove,Trauma Surgery,LIC-0000218,serafina.verdu@example.org,2016-05-26,Dr. en Medicina
+219,3,18,Dr. Sandalio del Reina,Obstetrics,LIC-0000219,sandalio.del@example.org,2015-07-17,Dr. en Medicina
+220,13,88,Dra. Melania Pedro Ruiz,Diagnostic Radiology,LIC-0000220,melania.pedro@example.org,2022-02-13,Grado en Medicina
+221,13,83,Dra. María Del Carmen Giralt Cervera,Gynaecology,LIC-0000221,maria.del@example.org,2025-01-10,Lic. Medicina
+222,11,64,Dr. José Antonio Cuenca,Electrophysiology,LIC-0000222,jose.antonio@example.org,2008-10-13,"Lic. Medicina, Esp. vía MIR"
+223,9,53,Dra. Cayetana Valenzuela,Haematology,LIC-0000223,cayetana.valenzuela@example.org,1994-12-25,Lic. Medicina
+224,16,104,Dr. Valentín Mendizábal Losada,General Surgery,LIC-0000224,valentin.mendizabal@example.org,1995-07-04,Dr. en Medicina
+225,17,116,Dr. Manu Sanz,Gynaecology,LIC-0000225,manu.sanz@example.org,2010-12-15,Dr. en Medicina
+226,2,10,Dra. Zoraida Varela Roca,Orthopaedic Surgery,LIC-0000226,zoraida.varela@example.org,2023-08-24,Dr. en Medicina
+227,15,96,Dra. Carlota de Coca,Emergency Medicine,LIC-0000227,carlota.de@example.org,2002-04-28,"Dr. en Medicina, Esp. vía MIR"
+228,13,88,Dra. Joaquina Costa Segura,Diagnostic Radiology,LIC-0000228,joaquina.costa@example.org,2022-04-16,"Lic. Medicina, Esp. vía MIR"
+229,13,87,Dr. Anacleto Armas-Rivas,Child Psychiatry,LIC-0000229,anacleto.armas-rivas@example.org,2018-05-01,Lic. Medicina
+230,12,77,Dra. Regina Ramón Botella,Diagnostic Radiology,LIC-0000230,regina.ramon@example.org,2024-05-17,"Lic. Medicina, Esp. vía MIR"
+231,1,4,Dr. Cecilio Sala Oliveras,Radiation Oncology,LIC-0000231,cecilio.sala@example.org,2022-12-21,Grado en Medicina
+232,4,26,Dr. Eustaquio Mateu-Jover,Diagnostic Radiology,LIC-0000232,eustaquio.mateu-jover@example.org,2005-11-25,"Lic. Medicina, Esp. vía MIR"
+233,13,84,Dra. Claudia Escribano Aller,Radiation Oncology,LIC-0000233,claudia.escribano@example.org,2021-05-19,Lic. Medicina
+234,3,15,Dr. Narciso Roldan-Hurtado,Emergency Medicine,LIC-0000234,narciso.roldan-hurtado@example.org,2022-02-22,Grado en Medicina
+235,14,92,Dra. Mariana Cánovas Rivera,Orthopaedic Surgery,LIC-0000235,mariana.canovas2@example.org,2024-11-22,Grado en Medicina
+236,12,75,Dr. Reinaldo Arnal Torre,Paediatrics,LIC-0000236,reinaldo.arnal@example.org,2017-08-01,Dr. en Medicina
+237,15,101,Dra. Antonia Bernat Carballo,Psychiatry,LIC-0000237,antonia.bernat@example.org,2006-08-06,Dr. en Medicina
+238,9,52,Dra. Benita Miralles,Internal Medicine,LIC-0000238,benita.miralles@example.org,2008-09-11,"Lic. Medicina, Esp. vía MIR"
+239,10,58,Dr. Jeremías Casas Villena,Vascular Surgery,LIC-0000239,jeremias.casas@example.org,2017-11-21,"Dr. en Medicina, Esp. vía MIR"
+240,12,72,Dr. Noé Casanovas,Neurology,LIC-0000240,noe.casanovas@example.org,1988-05-02,"Dr. en Medicina, Esp. vía MIR"
+241,15,102,Dr. Vasco Pina Palomares,Interventional Radiology,LIC-0000241,vasco.pina@example.org,1998-10-24,"Lic. Medicina, Esp. vía MIR"
+242,5,27,Dr. Jesús del Santiago,Interventional Cardiology,LIC-0000242,jesus.del@example.org,2012-05-25,"Dr. en Medicina, Esp. vía MIR"
+243,8,46,Dra. Áurea Juan Amor,Neurology,LIC-0000243,aurea.juan@example.org,2000-10-09,"Lic. Medicina, Esp. vía MIR"
+244,10,57,Dr. Victor Arias Benítez,Trauma Surgery,LIC-0000244,victor.arias@example.org,2024-08-06,Dr. en Medicina
+245,8,50,Dra. Melisa del Coll,Diagnostic Radiology,LIC-0000245,melisa.del@example.org,2024-01-13,Dr. en Medicina
+246,9,51,Dr. Celso Sebastián Morell,General Surgery,LIC-0000246,celso.sebastian@example.org,2025-03-13,Dr. en Medicina
+247,5,28,Dra. Vanesa López Pardo,Dermatology,LIC-0000247,vanesa.lopez6@example.org,2020-09-08,"Grado en Medicina, Esp. vía MIR"
+248,4,23,Dra. Bernardita del Vélez,Neurosurgery,LIC-0000248,bernardita.del4@example.org,2023-10-13,"Grado en Medicina, Esp. vía MIR"
+249,10,59,Dr. Amaro Santana Borrás,Internal Medicine,LIC-0000249,amaro.santana@example.org,2025-02-10,"Lic. Medicina, Esp. vía MIR"
+250,13,78,Dra. Ariel Domingo Arenas,Cardiology,LIC-0000250,ariel.domingo@example.org,2009-04-08,Lic. Medicina

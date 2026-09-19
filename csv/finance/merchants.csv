@@ -1,0 +1,181 @@
+id,name,mcc,category,city,country
+1,Electro Buenavista,4111,Local Commuter Transport,Ciudad Real,IT
+2,Casa Central,5912,Drug Stores and Pharmacies,Madrid,ES
+3,Supermercado del Sol,5732,Electronics Stores,Málaga,FR
+4,Librería Los Arcos,5411,"Grocery Stores, Supermarkets",Jerez de la Frontera,ES
+5,Electro Nuevo,5661,Shoe Stores,Zaragoza,ES
+6,El Rincón de San Marcos,7230,Beauty and Barber Shops,Bilbao,ES
+7,Peluquería Los Arcos,6011,Automated Cash Disbursements,Vigo,ES
+8,Supermercado Moderno,4900,"Utilities: Electric, Gas, Water",Bilbao,ES
+9,Peluquería del Puerto,5999,Miscellaneous and Specialty Retail,Málaga,PT
+10,Panadería La Estrella,5921,"Package Stores, Beer, Wine, Liquor",Madrid,ES
+11,La Tienda de Moderno,7011,"Hotels, Motels, Resorts",Murcia,ES
+12,Muebles La Esquina,5999,Miscellaneous and Specialty Retail,Santa Cruz de Tenerife,ES
+13,Restaurante San Marcos,4814,Telecommunication Services,Jaén,ES
+14,Óptica Moderno,5999,Miscellaneous and Specialty Retail,Getafe,PT
+15,Electro Los Arcos,5411,"Grocery Stores, Supermarkets",Zaragoza,ES
+16,La Tienda de Los Arcos,5691,Men's and Women's Clothing Stores,Sevilla,ES
+17,Casa Real,5814,Fast Food Restaurants,Madrid,ES
+18,Supermercado La Plaza,5812,"Eating Places, Restaurants",Madrid,ES
+19,Taller Los Arcos,5541,Service Stations,Cartagena,DE
+20,La Tienda de Buenavista,5411,"Grocery Stores, Supermarkets",Terrassa,ES
+21,Restaurante Moderno,5541,Service Stations,León,ES
+22,Peluquería del Carmen,5411,"Grocery Stores, Supermarkets",Valladolid,ES
+23,Cafetería Gran Vía,4121,Taxicabs and Limousines,Barcelona,ES
+24,Electro del Puerto,5921,"Package Stores, Beer, Wine, Liquor",Valencia,ES
+25,Supermercado Los Arcos,6011,Automated Cash Disbursements,Almería,ES
+26,La Tienda de Gran Vía,4111,Local Commuter Transport,Barcelona,ES
+27,La Tienda de San Marcos,5411,"Grocery Stores, Supermarkets",Barcelona,ES
+28,Panadería Nuevo,5814,Fast Food Restaurants,Ciudad Real,ES
+29,Casa Nuevo,5411,"Grocery Stores, Supermarkets",Barcelona,ES
+30,La Tienda de Buenavista,4121,Taxicabs and Limousines,Pamplona,ES
+31,Muebles La Plaza,5814,Fast Food Restaurants,Madrid,ES
+32,Casa Nuevo,7011,"Hotels, Motels, Resorts",Madrid,DE
+33,Librería del Puerto,5921,"Package Stores, Beer, Wine, Liquor",L'Hospitalet de Llobregat,PT
+34,Cafetería del Sol,6011,Automated Cash Disbursements,Madrid,ES
+35,Cafetería Real,5942,Book Stores,Alicante,ES
+36,Peluquería Gran Vía,4121,Taxicabs and Limousines,Las Palmas de Gran Canaria,ES
+37,Bar del Sol,5499,Miscellaneous Food Stores,Madrid,ES
+38,Óptica del Puerto,5499,Miscellaneous Food Stores,Valencia,ES
+39,La Tienda de Real,5541,Service Stations,Murcia,ES
+40,El Rincón de Real,5912,Drug Stores and Pharmacies,Vitoria-Gasteiz,PT
+41,Supermercado El Faro,5812,"Eating Places, Restaurants",Córdoba,ES
+42,El Rincón de Los Arcos,8011,Doctors and Physicians,Valencia,ES
+43,Cafetería El Faro,5661,Shoe Stores,Las Palmas de Gran Canaria,GB
+44,Librería San Marcos,5661,Shoe Stores,Madrid,ES
+45,La Tienda de del Sol,5499,Miscellaneous Food Stores,Madrid,ES
+46,El Rincón de La Estrella,4111,Local Commuter Transport,Córdoba,ES
+47,Bar Nuevo,5541,Service Stations,Zaragoza,ES
+48,Cafetería del Carmen,4121,Taxicabs and Limousines,Sevilla,ES
+49,La Tienda de Los Arcos,5814,Fast Food Restaurants,Las Palmas de Gran Canaria,ES
+50,Óptica del Sol,5691,Men's and Women's Clothing Stores,Pamplona,ES
+51,Muebles Los Arcos,5999,Miscellaneous and Specialty Retail,Murcia,ES
+52,Restaurante Nuevo,5541,Service Stations,Lleida,ES
+53,Librería del Carmen,5812,"Eating Places, Restaurants",Salamanca,IT
+54,Electro del Puerto,5912,Drug Stores and Pharmacies,Valencia,ES
+55,Cafetería Real,5999,Miscellaneous and Specialty Retail,Madrid,ES
+56,Bar Real,7994,Video Game Arcades,Barcelona,ES
+57,Óptica El Faro,5691,Men's and Women's Clothing Stores,Alicante,ES
+58,Óptica Moderno,5411,"Grocery Stores, Supermarkets",Badalona,ES
+59,La Tienda de La Estrella,4900,"Utilities: Electric, Gas, Water",Barcelona,ES
+60,Farmacia El Faro,5812,"Eating Places, Restaurants",Barcelona,ES
+61,Panadería La Plaza,5814,Fast Food Restaurants,Lleida,ES
+62,Peluquería del Puerto,4111,Local Commuter Transport,Logroño,ES
+63,Farmacia Los Arcos,5814,Fast Food Restaurants,Madrid,ES
+64,La Tienda de San Marcos,5541,Service Stations,L'Hospitalet de Llobregat,ES
+65,Librería El Faro,5411,"Grocery Stores, Supermarkets",Vigo,ES
+66,Óptica La Esquina,5661,Shoe Stores,Sevilla,ES
+67,Peluquería Buenavista,5812,"Eating Places, Restaurants",Ciudad Real,ES
+68,El Rincón de Gran Vía,5411,"Grocery Stores, Supermarkets",Segovia,ES
+69,Peluquería La Esquina,7011,"Hotels, Motels, Resorts",Barcelona,ES
+70,El Rincón de La Estrella,5411,"Grocery Stores, Supermarkets",Sevilla,ES
+71,Óptica Nuevo,5691,Men's and Women's Clothing Stores,Valencia,ES
+72,Óptica La Plaza,4900,"Utilities: Electric, Gas, Water",Las Palmas de Gran Canaria,ES
+73,Muebles Moderno,5814,Fast Food Restaurants,Barcelona,ES
+74,Electro Los Arcos,6011,Automated Cash Disbursements,Cartagena,ES
+75,Taller La Esquina,5812,"Eating Places, Restaurants",Madrid,ES
+76,Librería San Marcos,8011,Doctors and Physicians,Burgos,ES
+77,Bar La Estrella,5541,Service Stations,Almería,ES
+78,La Tienda de El Faro,5732,Electronics Stores,Soria,ES
+79,Casa Central,5411,"Grocery Stores, Supermarkets",Guadalajara,ES
+80,La Tienda de La Plaza,5812,"Eating Places, Restaurants",Barcelona,ES
+81,Casa Los Arcos,7011,"Hotels, Motels, Resorts",Santander,PT
+82,Electro Moderno,5541,Service Stations,Madrid,ES
+83,Peluquería Los Arcos,6011,Automated Cash Disbursements,Cuenca,ES
+84,Cafetería Los Arcos,5732,Electronics Stores,San Sebastián,PT
+85,Electro Central,4900,"Utilities: Electric, Gas, Water",Palma,ES
+86,Panadería El Faro,4900,"Utilities: Electric, Gas, Water",Salamanca,PT
+87,La Tienda de La Esquina,5812,"Eating Places, Restaurants",Sabadell,ES
+88,Taller San Marcos,7832,Motion Picture Theaters,Cáceres,ES
+89,Restaurante del Sol,5411,"Grocery Stores, Supermarkets",Elche,ES
+90,La Tienda de Los Arcos,5812,"Eating Places, Restaurants",Badalona,ES
+91,Muebles Moderno,5411,"Grocery Stores, Supermarkets",Sabadell,ES
+92,Cafetería El Faro,5661,Shoe Stores,Santander,ES
+93,Electro Los Arcos,5921,"Package Stores, Beer, Wine, Liquor",Málaga,ES
+94,Bar Central,5999,Miscellaneous and Specialty Retail,Barcelona,ES
+95,El Rincón de San Marcos,5812,"Eating Places, Restaurants",Badalona,ES
+96,Librería Buenavista,4121,Taxicabs and Limousines,Barcelona,ES
+97,Electro La Esquina,6011,Automated Cash Disbursements,Salamanca,ES
+98,Supermercado El Faro,5411,"Grocery Stores, Supermarkets",Madrid,ES
+99,Farmacia La Plaza,7994,Video Game Arcades,Madrid,FR
+100,Óptica Nuevo,5732,Electronics Stores,Las Palmas de Gran Canaria,ES
+101,Óptica Buenavista,6011,Automated Cash Disbursements,Burgos,ES
+102,Librería Los Arcos,4814,Telecommunication Services,Jerez de la Frontera,GB
+103,Muebles El Faro,5541,Service Stations,Logroño,ES
+104,Bar Nuevo,5942,Book Stores,Vigo,ES
+105,Óptica Buenavista,6011,Automated Cash Disbursements,Toledo,ES
+106,Librería El Faro,5411,"Grocery Stores, Supermarkets",Albacete,ES
+107,Peluquería San Marcos,5732,Electronics Stores,Toledo,ES
+108,Taller La Estrella,5691,Men's and Women's Clothing Stores,Madrid,FR
+109,El Rincón de Gran Vía,4900,"Utilities: Electric, Gas, Water",Ávila,ES
+110,Panadería El Faro,5912,Drug Stores and Pharmacies,Santa Cruz de Tenerife,ES
+111,El Rincón de El Faro,5499,Miscellaneous Food Stores,Soria,ES
+112,Cafetería del Puerto,5812,"Eating Places, Restaurants",Soria,ES
+113,Farmacia Los Arcos,5814,Fast Food Restaurants,Madrid,ES
+114,Farmacia Buenavista,5541,Service Stations,Madrid,ES
+115,Farmacia del Puerto,5921,"Package Stores, Beer, Wine, Liquor",Madrid,ES
+116,Electro Moderno,5541,Service Stations,León,ES
+117,Supermercado Real,5541,Service Stations,A Coruña,ES
+118,Taller El Faro,7994,Video Game Arcades,San Sebastián,ES
+119,Taller Nuevo,4814,Telecommunication Services,Jerez de la Frontera,ES
+120,Bar El Faro,5999,Miscellaneous and Specialty Retail,Sabadell,GB
+121,Muebles La Estrella,5691,Men's and Women's Clothing Stores,Palma,ES
+122,Casa Nuevo,5814,Fast Food Restaurants,Ciudad Real,ES
+123,Librería Los Arcos,5814,Fast Food Restaurants,Palma,ES
+124,Electro El Faro,5411,"Grocery Stores, Supermarkets",Zaragoza,ES
+125,Electro San Marcos,5541,Service Stations,Almería,ES
+126,Muebles La Plaza,5712,Furniture and Home Furnishings,Lleida,ES
+127,Óptica San Marcos,5814,Fast Food Restaurants,Zaragoza,ES
+128,La Tienda de del Puerto,5541,Service Stations,Ourense,ES
+129,Electro del Puerto,4111,Local Commuter Transport,Huelva,ES
+130,Peluquería El Faro,7011,"Hotels, Motels, Resorts",Madrid,GB
+131,Panadería Moderno,4111,Local Commuter Transport,Barcelona,ES
+132,Cafetería La Estrella,4814,Telecommunication Services,Pamplona,ES
+133,Electro Gran Vía,5814,Fast Food Restaurants,Valladolid,ES
+134,Bar Real,4900,"Utilities: Electric, Gas, Water",Madrid,ES
+135,Supermercado Gran Vía,4814,Telecommunication Services,Valencia,ES
+136,Muebles La Estrella,4121,Taxicabs and Limousines,Alicante,ES
+137,Óptica Central,5411,"Grocery Stores, Supermarkets",Oviedo,ES
+138,Restaurante Central,5691,Men's and Women's Clothing Stores,Barcelona,ES
+139,Restaurante del Carmen,5812,"Eating Places, Restaurants",Alcorcón,FR
+140,Casa del Puerto,5814,Fast Food Restaurants,Palencia,ES
+141,La Tienda de San Marcos,5411,"Grocery Stores, Supermarkets",Albacete,ES
+142,Muebles El Faro,5541,Service Stations,Barcelona,ES
+143,Peluquería Los Arcos,5921,"Package Stores, Beer, Wine, Liquor",Huelva,IT
+144,Librería Real,5411,"Grocery Stores, Supermarkets",Bilbao,FR
+145,Librería del Sol,5661,Shoe Stores,León,ES
+146,Peluquería Real,5411,"Grocery Stores, Supermarkets",Salamanca,ES
+147,Taller San Marcos,5814,Fast Food Restaurants,Barcelona,ES
+148,Peluquería La Plaza,4111,Local Commuter Transport,Valencia,ES
+149,Peluquería El Faro,5541,Service Stations,Palma,ES
+150,Panadería La Plaza,5411,"Grocery Stores, Supermarkets",Valladolid,ES
+151,Farmacia Moderno,5814,Fast Food Restaurants,Las Palmas de Gran Canaria,ES
+152,Librería del Carmen,5411,"Grocery Stores, Supermarkets",Huelva,ES
+153,Peluquería San Marcos,7230,Beauty and Barber Shops,Gijón,ES
+154,Óptica del Sol,5541,Service Stations,Madrid,ES
+155,Librería Los Arcos,5812,"Eating Places, Restaurants",Castellón de la Plana,ES
+156,Farmacia del Carmen,5812,"Eating Places, Restaurants",Ciudad Real,IT
+157,Electro San Marcos,5541,Service Stations,Palma,ES
+158,Casa El Faro,5812,"Eating Places, Restaurants",Madrid,ES
+159,Óptica Central,7230,Beauty and Barber Shops,Granada,ES
+160,Taller del Carmen,5712,Furniture and Home Furnishings,Alicante,ES
+161,Electro Buenavista,5411,"Grocery Stores, Supermarkets",León,ES
+162,Librería La Esquina,5411,"Grocery Stores, Supermarkets",Madrid,FR
+163,Electro San Marcos,5999,Miscellaneous and Specialty Retail,Madrid,ES
+164,Librería Real,5691,Men's and Women's Clothing Stores,Madrid,ES
+165,La Tienda de del Carmen,5691,Men's and Women's Clothing Stores,Vitoria-Gasteiz,ES
+166,La Tienda de Buenavista,5812,"Eating Places, Restaurants",Cádiz,PT
+167,Bar Nuevo,4814,Telecommunication Services,Santa Cruz de Tenerife,ES
+168,Farmacia Real,5411,"Grocery Stores, Supermarkets",Alicante,ES
+169,Cafetería San Marcos,5411,"Grocery Stores, Supermarkets",Valladolid,ES
+170,Bar Moderno,5812,"Eating Places, Restaurants",Badajoz,ES
+171,Farmacia La Estrella,5411,"Grocery Stores, Supermarkets",Santa Cruz de Tenerife,ES
+172,El Rincón de Moderno,5912,Drug Stores and Pharmacies,Castellón de la Plana,ES
+173,Librería Nuevo,5691,Men's and Women's Clothing Stores,Madrid,ES
+174,El Rincón de Buenavista,4814,Telecommunication Services,Valencia,PT
+175,La Tienda de Moderno,4121,Taxicabs and Limousines,Madrid,ES
+176,Restaurante Nuevo,5812,"Eating Places, Restaurants",Córdoba,ES
+177,Bar Moderno,6011,Automated Cash Disbursements,Valencia,PT
+178,Muebles del Puerto,5812,"Eating Places, Restaurants",Sevilla,ES
+179,Cafetería Real,5499,Miscellaneous Food Stores,Zaragoza,PT
+180,Cafetería del Carmen,6011,Automated Cash Disbursements,Huesca,ES

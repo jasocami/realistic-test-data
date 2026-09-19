@@ -1,0 +1,11 @@
+id,code,name,type,city,province,address,postal_code,phone,student_capacity,founded
+1,11275552,Concertado Ramón y Cajal,Concertado,Jerez de la Frontera,Cádiz,"Calle de Cervantes, 72, 4º Dcha.",11055,+34 956 690 798,709,1963
+2,01463268,CEIP Juan Ramón Jiménez,CEIP,Vitoria-Gasteiz,Álava,"Calle de la Iglesia, 171, 2º Izq.",01039,+34 945 082 326,397,1921
+3,12608142,IES Juan Ramón Jiménez,IES,Castellón de la Plana,Castellón,"Calle de las Flores, 77, 9º B",12011,+34 964 557 181,1086,1936
+4,30912589,Concertado Rosalía de Castro,Concertado,Murcia,Murcia,"Calle de la Fuente, 80, 5º Izq.",30015,+34 968 527 695,496,1978
+5,03459039,Privado Ramón y Cajal,Privado,Alicante,Alicante,"Calle de San José, 102, 4º B",03058,+34 965 356 318,604,2017
+6,15020643,CEIP San Isidoro,CEIP,A Coruña,A Coruña,"Calle de San Juan, 68",15031,+34 981 987 713,288,1905
+7,33216275,CEIP Concepción Arenal,CEIP,Gijón,Asturias,"Calle de la Libertad, 115",33043,+34 985 339 524,318,2015
+8,09233279,IES Blas de Otero,IES,Burgos,Burgos,"Calle de Aragón, 92, 7º D",09012,+34 947 054 865,1146,1915
+9,28010656,CEIP Antonio Machado,CEIP,Madrid,Madrid,"Calle de la Fuente, 108",28019,+34 914 056 284,519,1952
+10,47811097,Concertado Luis Vives,Concertado,Valladolid,Valladolid,"Calle de Aragón, 56",47008,+34 983 018 507,691,1932

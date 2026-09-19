@@ -1,0 +1,201 @@
+id,school_id,teacher_code,full_name,national_id,department,email,qualification,contract_type,hired_at
+1,10,PRF-00001,Anacleto Aarón Gordillo Ramos,90847336G,Matemáticas,anacleto.aaron@example.org,Grado en Educación Primaria,permanent,2011-09-01
+2,8,PRF-00002,Natalio Molina Donaire,89412183M,Ciencias Sociales,natalio.molina@example.org,Grado en Educación Primaria,permanent,2001-09-01
+3,2,PRF-00003,Roxana de Aroca,94406890D,Matemáticas,roxana.de@example.org,Grado en Educación Primaria,permanent,1992-09-01
+4,9,PRF-00004,Íngrid Mata Calatayud,16800457S,Formación Profesional,ingrid.mata@example.org,Licenciatura + CAP,permanent,2017-09-01
+5,6,PRF-00005,Camilo Bravo,55451379N,Ciencias Sociales,camilo.bravo@example.org,Grado en Educación Primaria,temporary,1989-09-01
+6,8,PRF-00006,Lourdes Cuenca,30751815X,Tecnología,lourdes.cuenca@example.org,Licenciatura + CAP,interim,1988-09-01
+7,1,PRF-00007,Pastor Barral Río,67781001R,Artes,pastor.barral@example.org,Técnico Superior FP,permanent,2014-09-01
+8,10,PRF-00008,Gonzalo Cañete Coronado,64693966A,Formación Profesional,gonzalo.canete@example.org,Doctorado,permanent,1999-09-01
+9,8,PRF-00009,Josué Bernardino Villanueva Sarabia,37139744B,Artes,josue.bernardino@example.org,Grado en Educación Primaria,permanent,1985-09-01
+10,10,PRF-00010,Maite Mosquera Higueras,23377464B,Matemáticas,maite.mosquera@example.org,Licenciatura + CAP,permanent,2010-09-01
+11,10,PRF-00011,Azeneth Baños Reyes,71055753J,Ciencias Sociales,azeneth.banos@example.org,Grado en Educación Primaria,permanent,1993-09-01
+12,3,PRF-00012,Elías Arroyo Torralba,74682063M,Lengua y Literatura,elias.arroyo@example.org,Técnico Superior FP,interim,2013-09-01
+13,10,PRF-00013,Serafina Ballesteros Grande,54464508W,Orientación,serafina.ballesteros@example.org,Grado en Educación Primaria,interim,1994-09-01
+14,10,PRF-00014,Fito Barrio Romero,54521852F,Artes,fito.barrio@example.org,Grado en Educación Primaria,temporary,2009-09-01
+15,1,PRF-00015,Águeda Caro Sevilla,84259068V,Educación Física,agueda.caro@example.org,Grado + Máster en Formación del Profesorado,interim,2020-09-01
+16,9,PRF-00016,Jacinto Ramón-Blasco,89696310J,Idiomas,jacinto.ramon-blasco@example.org,Grado en Educación Primaria,interim,1998-09-01
+17,3,PRF-00017,Victoria Clara Moliner González,04352515H,Artes,victoria.clara@example.org,Licenciatura + CAP,permanent,2011-09-01
+18,5,PRF-00018,Samu del Arco,16753077S,Educación Física,samu.del@example.org,Grado + Máster en Formación del Profesorado,permanent,2023-09-01
+19,4,PRF-00019,Aránzazu Sobrino Dávila,65742049E,Artes,aranzazu.sobrino@example.org,Grado en Educación Primaria,temporary,1991-09-01
+20,2,PRF-00020,Adoración Lloret Samper,23632719N,Ciencias Sociales,adoracion.lloret@example.org,Licenciatura + CAP,permanent,1997-09-01
+21,1,PRF-00021,Inmaculada Canales Bernat,98629317G,Tecnología,inmaculada.canales@example.org,Grado en Educación Primaria,interim,1990-09-01
+22,7,PRF-00022,Reyes Gisela Dávila Baena,30075609G,Educación Física,reyes.gisela@example.org,Grado en Educación Primaria,temporary,2020-09-01
+23,10,PRF-00023,Emiliana Patiño Reina,89626960P,Tecnología,emiliana.patino@example.org,Grado + Máster en Formación del Profesorado,temporary,1998-09-01
+24,9,PRF-00024,Beatriz Casares Ávila,04180171J,Formación Profesional,beatriz.casares@example.org,Grado en Educación Primaria,interim,1999-09-01
+25,8,PRF-00025,Concha Quintero Diego,79604127T,Artes,concha.quintero@example.org,Técnico Superior FP,temporary,1993-09-01
+26,2,PRF-00026,Manu de Toledo,53530897F,Formación Profesional,manu.de@example.org,Grado + Máster en Formación del Profesorado,permanent,2024-09-01
+27,1,PRF-00027,Noemí María Belén Cabello Villegas,92203192X,Ciencias Sociales,noemi.maria@example.org,Grado en Educación Primaria,interim,1993-09-01
+28,7,PRF-00028,Graciela Mate Múgica,61146325C,Ciencias,graciela.mate@example.org,Licenciatura + CAP,permanent,2022-09-01
+29,1,PRF-00029,Leonardo Bruno Gimeno Piñeiro,83997384G,Ciencias Sociales,leonardo.bruno@example.org,Técnico Superior FP,permanent,2013-09-01
+30,8,PRF-00030,Trini Seco,36891478F,Ciencias Sociales,trini.seco@example.org,Doctorado,interim,1987-09-01
+31,5,PRF-00031,Iván Aragón Barrena,09190478T,Idiomas,ivan.aragon@example.org,Grado + Máster en Formación del Profesorado,temporary,2017-09-01
+32,4,PRF-00032,Juan Francisco Sanjuan Viñas,55860693H,Tecnología,juan.francisco@example.org,Grado + Máster en Formación del Profesorado,interim,1998-09-01
+33,8,PRF-00033,Sebastian Ramírez-Otero,53448457E,Formación Profesional,sebastian.ramirez-otero3@example.org,Grado en Educación Primaria,interim,2021-09-01
+34,3,PRF-00034,Lucio Ariza-Gallart,69724682K,Matemáticas,lucio.ariza-gallart@example.org,Licenciatura + CAP,temporary,2005-09-01
+35,8,PRF-00035,Seve Belda Carreras,89650813X,Educación Física,seve.belda@example.org,Técnico Superior FP,temporary,1986-09-01
+36,3,PRF-00036,Eva María López Riquelme,14843576C,Educación Física,eva.maria@example.org,Grado + Máster en Formación del Profesorado,permanent,2020-09-01
+37,5,PRF-00037,Judith Roldan Bárcena,72283094M,Ciencias,judith.roldan@example.org,Grado + Máster en Formación del Profesorado,permanent,2018-09-01
+38,4,PRF-00038,Leonor Manzanares Losada,47414212B,Orientación,leonor.manzanares@example.org,Grado + Máster en Formación del Profesorado,interim,2000-09-01
+39,7,PRF-00039,Beatriz Ramirez,26422772G,Educación Física,beatriz.ramirez@example.org,Grado en Educación Primaria,permanent,2018-09-01
+40,9,PRF-00040,Andrea Franco Fuertes,85707144J,Matemáticas,andrea.franco@example.org,Grado en Educación Primaria,temporary,2006-09-01
+41,9,PRF-00041,Sol Cortes Barriga,87124028M,Formación Profesional,sol.cortes@example.org,Grado en Educación Primaria,interim,1995-09-01
+42,7,PRF-00042,Laura Terrón Moll,23250794W,Ciencias Sociales,laura.terron@example.org,Licenciatura + CAP,interim,2022-09-01
+43,8,PRF-00043,Herminio Lopez Fonseca,09589016V,Artes,herminio.lopez@example.org,Grado en Educación Primaria,permanent,1997-09-01
+44,3,PRF-00044,Emiliana Falcón Cabo,71400908F,Ciencias,emiliana.falcon@example.org,Técnico Superior FP,permanent,1987-09-01
+45,4,PRF-00045,Amaro Ricart Lasa,81153920F,Lengua y Literatura,amaro.ricart@example.org,Grado en Educación Primaria,interim,2003-09-01
+46,10,PRF-00046,Rafael Botella Palomo,70725714R,Matemáticas,rafael.botella@example.org,Grado + Máster en Formación del Profesorado,interim,2019-09-01
+47,1,PRF-00047,Visitación Herranz-Ruiz,16205005X,Tecnología,visitacion.herranz-ruiz@example.org,Grado en Educación Primaria,permanent,1997-09-01
+48,9,PRF-00048,Leonel Parejo Casal,61716619Y,Idiomas,leonel.parejo@example.org,Grado en Educación Primaria,permanent,1993-09-01
+49,3,PRF-00049,Consuelo Pina Gras,21605603R,Ciencias,consuelo.pina@example.org,Grado en Educación Primaria,permanent,1997-09-01
+50,4,PRF-00050,Consuelo de Ordóñez,16793318Y,Ciencias Sociales,consuelo.de@example.org,Grado + Máster en Formación del Profesorado,permanent,2021-09-01
+51,9,PRF-00051,Macarena Marisol Sanz Vives,62890465R,Lengua y Literatura,macarena.marisol@example.org,Licenciatura + CAP,interim,2016-09-01
+52,4,PRF-00052,Ale Lastra Uribe,66686283Z,Ciencias,ale.lastra@example.org,Licenciatura + CAP,permanent,2024-09-01
+53,10,PRF-00053,Manuela Pol Checa,23556895L,Tecnología,manuela.pol2@example.org,Licenciatura + CAP,interim,2004-09-01
+54,10,PRF-00054,Lara Jimena Zurita Caparrós,73614904T,Formación Profesional,lara.jimena@example.org,Técnico Superior FP,temporary,2013-09-01
+55,3,PRF-00055,Marino Pujadas-Rocha,80388876N,Tecnología,marino.pujadas-rocha@example.org,Licenciatura + CAP,temporary,2022-09-01
+56,1,PRF-00056,Adrián Herrero Carlos,93223230K,Ciencias Sociales,adrian.herrero@example.org,Grado + Máster en Formación del Profesorado,permanent,2012-09-01
+57,5,PRF-00057,Constanza Catalá Marqués,71198398N,Artes,constanza.catala@example.org,Grado + Máster en Formación del Profesorado,permanent,2024-09-01
+58,7,PRF-00058,Erasmo Izquierdo Pinilla,61046260M,Artes,erasmo.izquierdo@example.org,Grado en Educación Primaria,permanent,2018-09-01
+59,5,PRF-00059,Isaura Vanesa Santiago Sarmiento,69841257D,Ciencias Sociales,isaura.vanesa@example.org,Grado + Máster en Formación del Profesorado,permanent,2019-09-01
+60,4,PRF-00060,Corona Cabeza Ramirez,62594138Y,Formación Profesional,corona.cabeza@example.org,Doctorado,permanent,1996-09-01
+61,5,PRF-00061,Verónica Sandoval Martí,59273273L,Idiomas,veronica.sandoval@example.org,Técnico Superior FP,permanent,2024-09-01
+62,6,PRF-00062,Claudia Sanabria Fabregat,31957218Y,Orientación,claudia.sanabria@example.org,Grado en Educación Primaria,permanent,2001-09-01
+63,6,PRF-00063,Vanesa Aragón-Llobet,10276030K,Orientación,vanesa.aragon-llobet@example.org,Grado en Educación Primaria,permanent,2006-09-01
+64,4,PRF-00064,Elodia Iglesia Solana,06034213W,Artes,elodia.iglesia@example.org,Técnico Superior FP,interim,2019-09-01
+65,8,PRF-00065,Ruperta de Bayona,68445836K,Ciencias Sociales,ruperta.de@example.org,Técnico Superior FP,interim,1999-09-01
+66,8,PRF-00066,Tatiana Fernandez Trujillo,26117741E,Lengua y Literatura,tatiana.fernandez@example.org,Licenciatura + CAP,interim,2006-09-01
+67,5,PRF-00067,Remigio Fuster Rico,21787419W,Tecnología,remigio.fuster@example.org,Doctorado,temporary,2022-09-01
+68,8,PRF-00068,Benita Marquez Uriarte,36708859P,Lengua y Literatura,benita.marquez@example.org,Licenciatura + CAP,temporary,2005-09-01
+69,8,PRF-00069,Amelia Puig-Arce,55880820C,Artes,amelia.puig-arce@example.org,Grado en Educación Primaria,interim,1987-09-01
+70,6,PRF-00070,Sabina Antón Escudero,40360698E,Artes,sabina.anton@example.org,Grado en Educación Primaria,permanent,2017-09-01
+71,2,PRF-00071,Paca del Vives,09307303P,Artes,paca.del@example.org,Grado en Educación Primaria,interim,1993-09-01
+72,4,PRF-00072,Martina Seco Torre,31385079S,Matemáticas,martina.seco@example.org,Grado en Educación Primaria,permanent,1998-09-01
+73,5,PRF-00073,Cándida Ainoa Pozo Lobato,31717897T,Educación Física,candida.ainoa@example.org,Grado + Máster en Formación del Profesorado,interim,2020-09-01
+74,1,PRF-00074,Tomás Saura Doménech,15390293G,Lengua y Literatura,tomas.saura@example.org,Licenciatura + CAP,permanent,2015-09-01
+75,1,PRF-00075,Antonia Riquelme Madrigal,49569482C,Ciencias Sociales,antonia.riquelme@example.org,Técnico Superior FP,permanent,1991-09-01
+76,5,PRF-00076,Primitiva Cano-Pomares,10222162L,Educación Física,primitiva.cano-pomares@example.org,Licenciatura + CAP,interim,2021-09-01
+77,8,PRF-00077,Elisa Plana Cámara,28781968K,Ciencias,elisa.plana@example.org,Grado + Máster en Formación del Profesorado,interim,2000-09-01
+78,1,PRF-00078,Mar Alberdi Uría,09931137J,Ciencias Sociales,mar.alberdi@example.org,Grado + Máster en Formación del Profesorado,interim,2008-09-01
+79,1,PRF-00079,Leandro Bustos Fonseca,89172208N,Artes,leandro.bustos@example.org,Grado en Educación Primaria,temporary,2003-09-01
+80,5,PRF-00080,Rogelio Gutierrez Alcolea,48827225L,Orientación,rogelio.gutierrez@example.org,Doctorado,temporary,2021-09-01
+81,5,PRF-00081,Eligio Pacheco Hervia,17414225M,Idiomas,eligio.pacheco@example.org,Licenciatura + CAP,interim,2023-09-01
+82,1,PRF-00082,Magdalena Alcalá Rodrigo,59598080C,Artes,magdalena.alcala@example.org,Doctorado,permanent,1988-09-01
+83,6,PRF-00083,Calista Montes Pérez,97086578J,Tecnología,calista.montes@example.org,Grado en Educación Primaria,permanent,2002-09-01
+84,3,PRF-00084,Chelo Reina Peña,21110474Q,Idiomas,chelo.reina@example.org,Grado + Máster en Formación del Profesorado,temporary,2018-09-01
+85,6,PRF-00085,Carmelita Torrens,83679338W,Educación Física,carmelita.torrens@example.org,Grado en Educación Primaria,permanent,2018-09-01
+86,10,PRF-00086,Lázaro Nicolau,43775693T,Formación Profesional,lazaro.nicolau@example.org,Técnico Superior FP,permanent,1993-09-01
+87,3,PRF-00087,Rosenda Sanabria Vilar,60033707G,Artes,rosenda.sanabria@example.org,Licenciatura + CAP,permanent,2012-09-01
+88,1,PRF-00088,Jose Angel Miró-Pozo,74436690L,Ciencias,jose.angel@example.org,Grado en Educación Primaria,permanent,2010-09-01
+89,6,PRF-00089,Mirta Marquez Armengol,01495765Y,Artes,mirta.marquez@example.org,Grado en Educación Primaria,interim,2002-09-01
+90,8,PRF-00090,Asdrubal Chacón,05334703Z,Artes,asdrubal.chacon@example.org,Grado en Educación Primaria,interim,1999-09-01
+91,10,PRF-00091,Jacinta Duran Mayo,67383905T,Artes,jacinta.duran@example.org,Licenciatura + CAP,permanent,2013-09-01
+92,9,PRF-00092,Nereida Acuña Saura,39636926Z,Matemáticas,nereida.acuna@example.org,Grado + Máster en Formación del Profesorado,permanent,2013-09-01
+93,8,PRF-00093,Cecilia Bellido Tena,68552368V,Educación Física,cecilia.bellido@example.org,Doctorado,permanent,1993-09-01
+94,7,PRF-00094,Carolina Acedo,37905444H,Idiomas,carolina.acedo@example.org,Grado en Educación Primaria,permanent,2020-09-01
+95,7,PRF-00095,África de Font,45584108V,Matemáticas,africa.de@example.org,Grado en Educación Primaria,permanent,2021-09-01
+96,2,PRF-00096,Soraya Amador,35055689D,Idiomas,soraya.amador@example.org,Licenciatura + CAP,permanent,2009-09-01
+97,2,PRF-00097,Celia Criado Alfonso,28785342Z,Ciencias Sociales,celia.criado@example.org,Licenciatura + CAP,interim,2012-09-01
+98,1,PRF-00098,Eloísa Campoy Godoy,87713905R,Tecnología,eloisa.campoy@example.org,Técnico Superior FP,interim,2023-09-01
+99,10,PRF-00099,Salomé Gracia Montesinos,73973410M,Ciencias Sociales,salome.gracia@example.org,Grado en Educación Primaria,permanent,2021-09-01
+100,4,PRF-00100,Lucila Aguado-Alfaro,31503129Y,Tecnología,lucila.aguado-alfaro@example.org,Grado en Educación Primaria,permanent,1998-09-01
+101,7,PRF-00101,Loreto Chacón Figueras,10892902X,Formación Profesional,loreto.chacon@example.org,Grado en Educación Primaria,interim,2022-09-01
+102,10,PRF-00102,Evangelina Rosado Espejo,82114583Y,Matemáticas,evangelina.rosado@example.org,Licenciatura + CAP,interim,1999-09-01
+103,1,PRF-00103,Clotilde Chaves Segura,54024168C,Tecnología,clotilde.chaves@example.org,Grado en Educación Primaria,permanent,1985-09-01
+104,7,PRF-00104,Ofelia Mínguez Aliaga,02460975K,Artes,ofelia.minguez9@example.org,Licenciatura + CAP,permanent,2024-09-01
+105,7,PRF-00105,Alejo Sabater Bravo,56308041Q,Matemáticas,alejo.sabater@example.org,Grado en Educación Primaria,permanent,2024-09-01
+106,10,PRF-00106,Cecilio Haro Mascaró,77934059P,Tecnología,cecilio.haro@example.org,Grado + Máster en Formación del Profesorado,interim,1986-09-01
+107,10,PRF-00107,Dionisio Garmendia Folch,78064109Q,Matemáticas,dionisio.garmendia@example.org,Doctorado,permanent,2015-09-01
+108,7,PRF-00108,Rosalina de Maza,36712044L,Orientación,rosalina.de@example.org,Grado en Educación Primaria,interim,2024-09-01
+109,9,PRF-00109,Glauco Torrijos Alfaro,76042232T,Ciencias Sociales,glauco.torrijos@example.org,Grado en Educación Primaria,permanent,2012-09-01
+110,5,PRF-00110,Vera Asensio Valdés,66048838Z,Idiomas,vera.asensio@example.org,Grado en Educación Primaria,permanent,2019-09-01
+111,2,PRF-00111,Benito del Gomila,10274557C,Formación Profesional,benito.del@example.org,Grado en Educación Primaria,interim,1990-09-01
+112,9,PRF-00112,Rafaela del Gelabert,96933698Z,Tecnología,rafaela.del@example.org,Grado en Educación Primaria,interim,2017-09-01
+113,6,PRF-00113,Alex Gaya Marí,27598900G,Lengua y Literatura,alex.gaya@example.org,Grado en Educación Primaria,permanent,2020-09-01
+114,9,PRF-00114,Azucena Azeneth Medina Echevarría,18634078F,Formación Profesional,azucena.azeneth@example.org,Grado en Educación Primaria,interim,2021-09-01
+115,10,PRF-00115,Adela Aguirre Galvez,99308292L,Matemáticas,adela.aguirre@example.org,Licenciatura + CAP,interim,2009-09-01
+116,3,PRF-00116,Martin Sala,46017243Q,Orientación,martin.sala@example.org,Grado + Máster en Formación del Profesorado,permanent,2003-09-01
+117,10,PRF-00117,Prudencio Cerro-Bernal,96186586B,Matemáticas,prudencio.cerro-bernal3@example.org,Grado + Máster en Formación del Profesorado,temporary,2023-09-01
+118,2,PRF-00118,Marisa Perales Flor,76062080E,Ciencias,marisa.perales@example.org,Grado en Educación Primaria,interim,1994-09-01
+119,8,PRF-00119,Noelia Olivé Santiago,88550370W,Ciencias Sociales,noelia.olive@example.org,Grado en Educación Primaria,interim,2019-09-01
+120,1,PRF-00120,Ibán Macias Reyes,85565213S,Lengua y Literatura,iban.macias@example.org,Doctorado,permanent,1997-09-01
+121,3,PRF-00121,María Fernanda Domínguez Tamayo,17015220G,Idiomas,maria.fernanda3@example.org,Grado + Máster en Formación del Profesorado,interim,1986-09-01
+122,5,PRF-00122,Wálter del Carpio,24604298W,Artes,walter.del@example.org,Licenciatura + CAP,permanent,2018-09-01
+123,3,PRF-00123,Lina Robles Ricart,82165470V,Educación Física,lina.robles@example.org,Doctorado,temporary,2023-09-01
+124,5,PRF-00124,Dorita Guillén Sanz,72768623G,Tecnología,dorita.guillen@example.org,Licenciatura + CAP,permanent,2020-09-01
+125,8,PRF-00125,Lourdes del Lladó,12204518M,Idiomas,lourdes.del@example.org,Grado + Máster en Formación del Profesorado,interim,1995-09-01
+126,2,PRF-00126,Narciso Lluch Calderón,12199338T,Artes,narciso.lluch@example.org,Grado en Educación Primaria,permanent,1996-09-01
+127,2,PRF-00127,Juan Bautista Mercader Esteban,06625041Y,Tecnología,juan.bautista@example.org,Grado en Educación Primaria,interim,1987-09-01
+128,5,PRF-00128,Cristian Monreal-Barranco,61509915A,Tecnología,cristian.monreal-barranco@example.org,Grado en Educación Primaria,interim,2019-09-01
+129,6,PRF-00129,Josefa Fiol Santana,30576020G,Idiomas,josefa.fiol@example.org,Licenciatura + CAP,interim,2006-09-01
+130,10,PRF-00130,Martina Prieto Rosa,38982701R,Tecnología,martina.prieto@example.org,Doctorado,permanent,1995-09-01
+131,4,PRF-00131,Iván Sala-Dávila,38868260P,Artes,ivan.sala-davila4@example.org,Grado en Educación Primaria,permanent,1998-09-01
+132,8,PRF-00132,Eliseo Antúnez Camacho,51878339E,Artes,eliseo.antunez@example.org,Licenciatura + CAP,temporary,1994-09-01
+133,9,PRF-00133,Angelino Maza Infante,00664409P,Educación Física,angelino.maza@example.org,Grado en Educación Primaria,permanent,1988-09-01
+134,4,PRF-00134,Raúl Villanueva Arroyo,95580781A,Idiomas,raul.villanueva@example.org,Licenciatura + CAP,permanent,2024-09-01
+135,6,PRF-00135,Candelaria Campoy Murcia,02412787H,Educación Física,candelaria.campoy@example.org,Grado en Educación Primaria,permanent,2016-09-01
+136,10,PRF-00136,Lino Ayuso Haro,86828692N,Orientación,lino.ayuso@example.org,Doctorado,permanent,2014-09-01
+137,9,PRF-00137,Cristina Anaya Arrieta,46734296K,Orientación,cristina.anaya@example.org,Grado en Educación Primaria,temporary,2024-09-01
+138,2,PRF-00138,María José del Sáez,40578627A,Tecnología,maria.jose@example.org,Grado en Educación Primaria,permanent,2021-09-01
+139,4,PRF-00139,Kike Gimenez,19328302E,Lengua y Literatura,kike.gimenez@example.org,Grado + Máster en Formación del Profesorado,permanent,1987-09-01
+140,6,PRF-00140,Encarnita Lladó-Menendez,99899336D,Lengua y Literatura,encarnita.llado-menendez@example.org,Licenciatura + CAP,permanent,2017-09-01
+141,10,PRF-00141,Joel Luque Márquez,47449775Q,Artes,joel.luque@example.org,Grado + Máster en Formación del Profesorado,interim,1999-09-01
+142,5,PRF-00142,Arsenio Peiró Larrea,92618619B,Lengua y Literatura,arsenio.peiro@example.org,Técnico Superior FP,permanent,2018-09-01
+143,9,PRF-00143,María Manuela Oliveras Cámara,56507926P,Tecnología,maria.manuela@example.org,Grado en Educación Primaria,interim,2013-09-01
+144,7,PRF-00144,Eligia Mercader Salinas,24815098F,Matemáticas,eligia.mercader@example.org,Grado en Educación Primaria,interim,2015-09-01
+145,3,PRF-00145,Abigaíl Pardo-Molins,08464826K,Tecnología,abigail.pardo-molins@example.org,Grado + Máster en Formación del Profesorado,temporary,1997-09-01
+146,7,PRF-00146,Ariadna Expósito Tovar,46161665K,Educación Física,ariadna.exposito@example.org,Grado + Máster en Formación del Profesorado,permanent,2021-09-01
+147,2,PRF-00147,Luna Amalia Arnal Rico,94558996Q,Orientación,luna.amalia@example.org,Grado en Educación Primaria,temporary,2009-09-01
+148,5,PRF-00148,Juanita del Monreal,66385540L,Formación Profesional,juanita.del@example.org,Técnico Superior FP,interim,2023-09-01
+149,8,PRF-00149,Cleto Llorente Vendrell,87085778G,Formación Profesional,cleto.llorente@example.org,Licenciatura + CAP,interim,2020-09-01
+150,1,PRF-00150,Miguela Santana Ortuño,13222283C,Matemáticas,miguela.santana@example.org,Grado en Educación Primaria,interim,2005-09-01
+151,9,PRF-00151,Jose Ignacio Benavente Luna,85309152J,Ciencias Sociales,jose.ignacio@example.org,Grado en Educación Primaria,permanent,2015-09-01
+152,4,PRF-00152,Narcisa Castilla-Baños,96679162L,Lengua y Literatura,narcisa.castilla-banos@example.org,Grado + Máster en Formación del Profesorado,permanent,2002-09-01
+153,7,PRF-00153,Haroldo de Suarez,43001017X,Matemáticas,haroldo.de@example.org,Grado en Educación Primaria,interim,2020-09-01
+154,9,PRF-00154,Carla Gibert,77742940L,Formación Profesional,carla.gibert@example.org,Licenciatura + CAP,permanent,2006-09-01
+155,3,PRF-00155,Amparo Segura Escolano,69730852G,Tecnología,amparo.segura@example.org,Grado en Educación Primaria,temporary,1987-09-01
+156,3,PRF-00156,Ema Andreu,27274227E,Ciencias,ema.andreu@example.org,Grado + Máster en Formación del Profesorado,interim,2011-09-01
+157,2,PRF-00157,Julieta Guitart Guzman,18633900J,Ciencias,julieta.guitart@example.org,Licenciatura + CAP,permanent,1993-09-01
+158,9,PRF-00158,Pastora Arjona,66567436P,Idiomas,pastora.arjona@example.org,Grado en Educación Primaria,interim,2007-09-01
+159,1,PRF-00159,Paulino Ruy Tejada Carbó,58271501N,Formación Profesional,paulino.ruy@example.org,Licenciatura + CAP,permanent,2006-09-01
+160,9,PRF-00160,Diana Campo Puga,90283561M,Educación Física,diana.campo@example.org,Licenciatura + CAP,permanent,2023-09-01
+161,7,PRF-00161,Tomás Miguel Arana Quesada,70196006Y,Matemáticas,tomas.miguel@example.org,Grado en Educación Primaria,temporary,2017-09-01
+162,2,PRF-00162,Arcelia Peiró Mate,21019284K,Lengua y Literatura,arcelia.peiro@example.org,Grado en Educación Primaria,permanent,2009-09-01
+163,2,PRF-00163,Gisela Mesa,75813214Q,Orientación,gisela.mesa@example.org,Grado en Educación Primaria,temporary,1999-09-01
+164,1,PRF-00164,Alejo Lara Benitez,96740221J,Educación Física,alejo.lara@example.org,Licenciatura + CAP,permanent,2022-09-01
+165,7,PRF-00165,Juan Francisco Salas,63091405J,Ciencias,juan.francisco@example.org,Grado en Educación Primaria,permanent,2020-09-01
+166,4,PRF-00166,Hilda Tur Crespo,63974408T,Orientación,hilda.tur@example.org,Licenciatura + CAP,permanent,2005-09-01
+167,6,PRF-00167,Clotilde Girón Olivera,25951416X,Orientación,clotilde.giron@example.org,Grado + Máster en Formación del Profesorado,interim,2003-09-01
+168,6,PRF-00168,Octavia Flor Anglada,48477974T,Educación Física,octavia.flor@example.org,Doctorado,interim,2001-09-01
+169,6,PRF-00169,Rosaura Romero Pellicer,43829496Y,Educación Física,rosaura.romero@example.org,Grado en Educación Primaria,interim,2021-09-01
+170,3,PRF-00170,Saturnina Ibáñez Ferrero,52396441A,Orientación,saturnina.ibanez@example.org,Licenciatura + CAP,permanent,1998-09-01
+171,3,PRF-00171,Luz Catalá Angulo,42910642W,Lengua y Literatura,luz.catala8@example.org,Licenciatura + CAP,permanent,1995-09-01
+172,8,PRF-00172,Felisa Lucena Sáenz,61497184Z,Ciencias Sociales,felisa.lucena@example.org,Licenciatura + CAP,permanent,1998-09-01
+173,5,PRF-00173,Rómulo Pla,23818947D,Tecnología,romulo.pla@example.org,Grado en Educación Primaria,temporary,2021-09-01
+174,10,PRF-00174,Rocío Coloma Llorente,31069649F,Orientación,rocio.coloma@example.org,Grado + Máster en Formación del Profesorado,permanent,2011-09-01
+175,3,PRF-00175,Lorenza Mir Díaz,36235751X,Idiomas,lorenza.mir@example.org,Grado + Máster en Formación del Profesorado,permanent,1989-09-01
+176,8,PRF-00176,Rosalinda Carbonell Ribas,44908219Y,Idiomas,rosalinda.carbonell@example.org,Licenciatura + CAP,temporary,1993-09-01
+177,5,PRF-00177,Bernarda Andreu Barrena,88918941K,Idiomas,bernarda.andreu@example.org,Grado + Máster en Formación del Profesorado,temporary,2017-09-01
+178,9,PRF-00178,Julie del Belmonte,17518475L,Idiomas,julie.del@example.org,Grado en Educación Primaria,permanent,1989-09-01
+179,10,PRF-00179,Aurelia Olmedo Aguado,87621258K,Ciencias,aurelia.olmedo@example.org,Grado + Máster en Formación del Profesorado,permanent,1997-09-01
+180,5,PRF-00180,Paloma Pazos Criado,17642226F,Matemáticas,paloma.pazos@example.org,Grado + Máster en Formación del Profesorado,permanent,2018-09-01
+181,9,PRF-00181,Félix Rincón Esparza,47499549H,Matemáticas,felix.rincon@example.org,Grado en Educación Primaria,interim,2000-09-01
+182,8,PRF-00182,Pacífica de Echeverría,69412999B,Ciencias Sociales,pacifica.de@example.org,Grado + Máster en Formación del Profesorado,interim,2019-09-01
+183,9,PRF-00183,Leire Custodia Palacios Peinado,58017702H,Idiomas,leire.custodia@example.org,Grado en Educación Primaria,interim,2024-09-01
+184,10,PRF-00184,Roberto Peñas-Páez,29016202T,Ciencias Sociales,roberto.penas-paez@example.org,Grado + Máster en Formación del Profesorado,temporary,2011-09-01
+185,4,PRF-00185,Primitivo Castro Moreno,25126779S,Orientación,primitivo.castro@example.org,Grado + Máster en Formación del Profesorado,permanent,1993-09-01
+186,10,PRF-00186,Nicanor Leandro Villa Daza,82780219E,Matemáticas,nicanor.leandro@example.org,Licenciatura + CAP,permanent,2013-09-01
+187,4,PRF-00187,Flavia Roman-Salvà,32665344P,Orientación,flavia.roman-salva@example.org,Licenciatura + CAP,permanent,1998-09-01
+188,1,PRF-00188,Mar del Jaume,46542754T,Ciencias,mar.del@example.org,Licenciatura + CAP,permanent,2010-09-01
+189,10,PRF-00189,Amarilis Pombo Almansa,47836762M,Ciencias Sociales,amarilis.pombo3@example.org,Grado + Máster en Formación del Profesorado,permanent,2009-09-01
+190,8,PRF-00190,Manola Hierro,36379927E,Idiomas,manola.hierro@example.org,Técnico Superior FP,interim,1996-09-01
+191,5,PRF-00191,Raquel Nadal,35115994P,Artes,raquel.nadal@example.org,Grado en Educación Primaria,permanent,2018-09-01
+192,10,PRF-00192,Marisa Tovar Lledó,14419696F,Formación Profesional,marisa.tovar@example.org,Licenciatura + CAP,interim,1995-09-01
+193,3,PRF-00193,Maximino Sabater Torrijos,52161105A,Matemáticas,maximino.sabater@example.org,Doctorado,interim,2012-09-01
+194,7,PRF-00194,Mirta Solé Dalmau,15671915Z,Ciencias Sociales,mirta.sole@example.org,Grado en Educación Primaria,interim,2016-09-01
+195,1,PRF-00195,Lara Guijarro Ariño,11929854F,Artes,lara.guijarro@example.org,Grado + Máster en Formación del Profesorado,permanent,2002-09-01
+196,5,PRF-00196,Josefina de Saldaña,95562741H,Educación Física,josefina.de@example.org,Grado en Educación Primaria,temporary,2018-09-01
+197,5,PRF-00197,Isabel Vallés Tomas,77499665S,Lengua y Literatura,isabel.valles@example.org,Licenciatura + CAP,permanent,2023-09-01
+198,3,PRF-00198,Blanca Tudela Ponce,14065431B,Orientación,blanca.tudela@example.org,Grado en Educación Primaria,permanent,2021-09-01
+199,4,PRF-00199,Reynaldo del Azorin,87002293D,Tecnología,reynaldo.del@example.org,Grado + Máster en Formación del Profesorado,permanent,2013-09-01
+200,9,PRF-00200,Amaya España Solana,97361189G,Educación Física,amaya.espana@example.org,Licenciatura + CAP,temporary,2020-09-01

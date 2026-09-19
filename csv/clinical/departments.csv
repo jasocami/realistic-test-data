@@ -1,0 +1,121 @@
+id,hospital_id,name,floor,phone_extension
+1,1,Dermatology,7,9882
+2,1,Neurology,2,3855
+3,1,Obstetrics & Gynaecology,6,7471
+4,1,Oncology,1,3291
+5,2,General Surgery,1,1702
+6,2,Internal Medicine,7,9587
+7,2,Neurology,4,8788
+8,2,Obstetrics & Gynaecology,8,1346
+9,2,Oncology,0,8802
+10,2,Orthopaedics,3,5704
+11,2,Paediatrics,0,1125
+12,2,Psychiatry,6,4005
+13,2,Radiology,3,6972
+14,3,Cardiology,6,1703
+15,3,Emergency,2,5601
+16,3,General Surgery,8,5425
+17,3,Internal Medicine,8,5696
+18,3,Obstetrics & Gynaecology,2,4800
+19,3,Psychiatry,7,7533
+20,4,Cardiology,7,3840
+21,4,Dermatology,7,9586
+22,4,Emergency,7,7696
+23,4,Neurology,5,3427
+24,4,Orthopaedics,1,6850
+25,4,Psychiatry,7,1572
+26,4,Radiology,1,3718
+27,5,Cardiology,8,7775
+28,5,Dermatology,4,2594
+29,5,General Surgery,3,4772
+30,5,Internal Medicine,0,5092
+31,5,Neurology,5,5592
+32,5,Obstetrics & Gynaecology,4,9027
+33,5,Orthopaedics,0,7888
+34,5,Paediatrics,1,3708
+35,5,Psychiatry,7,5668
+36,5,Radiology,8,2820
+37,6,Cardiology,2,3348
+38,6,Oncology,1,6499
+39,7,Internal Medicine,1,4534
+40,7,Neurology,6,9726
+41,7,Orthopaedics,2,4534
+42,8,Dermatology,5,3636
+43,8,Emergency,6,9627
+44,8,General Surgery,0,4162
+45,8,Internal Medicine,0,9073
+46,8,Neurology,1,3764
+47,8,Obstetrics & Gynaecology,4,1681
+48,8,Oncology,8,8681
+49,8,Orthopaedics,8,3586
+50,8,Radiology,0,5361
+51,9,General Surgery,5,4008
+52,9,Internal Medicine,4,8651
+53,9,Oncology,6,1810
+54,9,Paediatrics,8,1801
+55,10,Cardiology,8,3761
+56,10,Dermatology,5,7427
+57,10,Emergency,6,6446
+58,10,General Surgery,2,8970
+59,10,Internal Medicine,1,1587
+60,10,Neurology,4,1602
+61,10,Obstetrics & Gynaecology,1,2114
+62,10,Orthopaedics,0,1955
+63,10,Radiology,1,8152
+64,11,Cardiology,2,2773
+65,11,Emergency,3,2185
+66,11,General Surgery,7,3388
+67,11,Oncology,8,4977
+68,11,Psychiatry,0,5236
+69,12,Emergency,7,4507
+70,12,General Surgery,5,2455
+71,12,Internal Medicine,6,9125
+72,12,Neurology,3,1992
+73,12,Oncology,6,6321
+74,12,Orthopaedics,6,4585
+75,12,Paediatrics,7,2376
+76,12,Psychiatry,0,8255
+77,12,Radiology,7,9469
+78,13,Cardiology,8,3342
+79,13,Dermatology,0,6211
+80,13,Emergency,8,2791
+81,13,Internal Medicine,0,9373
+82,13,Neurology,5,5146
+83,13,Obstetrics & Gynaecology,8,5882
+84,13,Oncology,5,8439
+85,13,Orthopaedics,0,1404
+86,13,Paediatrics,7,4537
+87,13,Psychiatry,3,9252
+88,13,Radiology,5,6315
+89,14,Emergency,0,6791
+90,14,General Surgery,7,6304
+91,14,Neurology,2,1864
+92,14,Orthopaedics,8,2663
+93,14,Radiology,5,9671
+94,15,Cardiology,6,5817
+95,15,Dermatology,2,2892
+96,15,Emergency,5,3948
+97,15,Internal Medicine,5,1881
+98,15,Neurology,5,7033
+99,15,Obstetrics & Gynaecology,4,3702
+100,15,Orthopaedics,6,5242
+101,15,Psychiatry,7,2554
+102,15,Radiology,6,5128
+103,16,Emergency,6,6666
+104,16,General Surgery,0,5166
+105,16,Internal Medicine,0,4124
+106,16,Neurology,3,7500
+107,16,Oncology,4,5998
+108,16,Orthopaedics,7,3987
+109,16,Paediatrics,3,2293
+110,16,Radiology,7,9050
+111,17,Cardiology,6,7327
+112,17,Dermatology,2,8985
+113,17,Emergency,8,7040
+114,17,General Surgery,7,2732
+115,17,Internal Medicine,1,1586
+116,17,Obstetrics & Gynaecology,7,6130
+117,17,Oncology,2,1266
+118,17,Orthopaedics,4,5504
+119,17,Paediatrics,3,6984
+120,17,Psychiatry,6,2904

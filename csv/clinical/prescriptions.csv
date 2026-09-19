@@ -1,0 +1,2801 @@
+id,patient_id,doctor_id,medication,dosage,frequency,start_date,end_date,refills_allowed
+1,496,20,Gabapentin,300 mg,Three times daily,2025-02-14,2025-03-14,0
+2,501,149,Atorvastatin,10 mg,Once daily at night,2024-03-10,,7
+3,461,248,Paracetamol,1000 mg,Up to four times daily,2025-03-20,,8
+4,200,75,Ibuprofen,400 mg,Three times daily after food,2025-03-28,,5
+5,51,195,Amoxicillin,250 mg,Three times daily for 7 days,2025-05-25,2025-06-01,0
+6,145,223,Bisoprolol,2.5 mg,Once daily,2024-02-14,2024-02-28,2
+7,448,34,Ramipril,10 mg,Once daily,2025-04-02,,11
+8,93,165,Sertraline,50 mg,Once daily,2025-02-15,,5
+9,108,16,Ibuprofen,200 mg,Three times daily after food,2024-04-27,2024-05-04,2
+10,398,7,Salbutamol,100 mcg/dose,Two puffs as required,2023-12-24,2024-02-18,3
+11,373,199,Atorvastatin,40 mg,Once daily at night,2025-04-21,2025-04-28,3
+12,228,178,Lisinopril,5 mg,Once daily,2025-01-12,2025-01-26,1
+13,592,231,Ramipril,10 mg,Once daily,2024-10-03,2024-11-28,0
+14,325,81,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-03-17,2024-03-24,0
+15,708,225,Atorvastatin,20 mg,Once daily at night,2025-01-24,,5
+16,311,151,Atorvastatin,40 mg,Once daily at night,2025-04-25,2025-06-20,0
+17,729,245,Sertraline,100 mg,Once daily,2025-05-08,,10
+18,25,223,Atorvastatin,20 mg,Once daily at night,2025-05-26,,9
+19,590,1,Ramipril,10 mg,Once daily,2023-12-25,,6
+20,644,128,Cetirizine,10 mg,Once daily,2025-01-27,,9
+21,641,48,Bisoprolol,2.5 mg,Once daily,2025-05-11,2025-05-25,1
+22,437,82,Paracetamol,1000 mg,Up to four times daily,2024-10-11,,5
+23,422,16,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-12-29,2025-01-05,1
+24,42,184,Cetirizine,10 mg,Once daily,2024-02-27,,8
+25,198,128,Lisinopril,10 mg,Once daily,2025-03-25,,7
+26,163,140,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-02-24,,8
+27,180,175,Amoxicillin,250 mg,Three times daily for 7 days,2024-03-12,,6
+28,221,183,Sertraline,50 mg,Once daily,2025-01-31,2025-03-28,3
+29,445,187,Ibuprofen,400 mg,Three times daily after food,2024-02-24,2024-03-23,3
+30,577,185,Lisinopril,10 mg,Once daily,2024-08-08,2024-08-22,3
+31,340,212,Sertraline,50 mg,Once daily,2025-01-21,,5
+32,737,33,Metformin,1000 mg,Twice daily with meals,2025-01-14,,7
+33,673,201,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-11-12,2025-02-10,0
+34,232,96,Salbutamol,100 mcg/dose,Two puffs as required,2024-04-04,,8
+35,755,190,Metformin,500 mg,Twice daily with meals,2024-12-22,2025-01-19,1
+36,639,1,Furosemide,20 mg,Once daily in the morning,2024-04-27,,10
+37,193,104,Sertraline,50 mg,Once daily,2025-06-04,2025-06-18,2
+38,257,95,Paracetamol,1000 mg,Up to four times daily,2025-01-02,2025-01-30,1
+39,65,103,Metformin,1000 mg,Twice daily with meals,2024-03-15,2024-03-29,1
+40,615,229,Apixaban,2.5 mg,Twice daily,2025-02-07,2025-05-08,3
+41,691,25,Omeprazole,40 mg,Once daily before breakfast,2025-06-15,,6
+42,515,147,Omeprazole,40 mg,Once daily before breakfast,2024-11-30,2025-01-25,2
+43,745,176,Cetirizine,10 mg,Once daily,2024-05-29,2024-06-26,2
+44,221,124,Atorvastatin,10 mg,Once daily at night,2025-03-01,2025-03-29,3
+45,499,41,Amoxicillin,500 mg,Three times daily for 7 days,2025-06-29,2025-07-27,0
+46,361,193,Paracetamol,500 mg,Up to four times daily,2023-08-29,,7
+47,732,219,Atorvastatin,20 mg,Once daily at night,2025-02-02,2025-03-30,1
+48,581,8,Salbutamol,100 mcg/dose,Two puffs as required,2025-05-06,,5
+49,50,49,Ramipril,5 mg,Once daily,2024-10-26,2024-11-02,2
+50,551,194,Lisinopril,5 mg,Once daily,2025-04-17,2025-05-15,2
+51,586,23,Sertraline,100 mg,Once daily,2025-03-30,2025-04-06,2
+52,82,55,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-22,2025-06-17,0
+53,225,124,Atorvastatin,20 mg,Once daily at night,2025-01-21,2025-04-21,3
+54,293,109,Bisoprolol,5 mg,Once daily,2024-10-09,2025-01-07,1
+55,129,28,Amlodipine,5 mg,Once daily,2025-03-03,,8
+56,113,34,Gabapentin,300 mg,Three times daily,2024-06-22,,7
+57,554,85,Amlodipine,10 mg,Once daily,2025-05-12,2025-07-07,0
+58,717,38,Sertraline,100 mg,Once daily,2024-09-11,,6
+59,640,32,Lisinopril,20 mg,Once daily,2024-09-26,2024-12-25,3
+60,669,32,Paracetamol,500 mg,Up to four times daily,2025-06-24,2025-09-22,2
+61,271,219,Apixaban,5 mg,Twice daily,2024-11-23,,8
+62,406,66,Furosemide,20 mg,Once daily in the morning,2025-03-13,,9
+63,625,29,Gabapentin,300 mg,Three times daily,2025-06-07,2025-07-05,2
+64,180,68,Ibuprofen,600 mg,Three times daily after food,2024-03-29,2024-04-12,3
+65,791,163,Levothyroxine,75 mcg,Once daily on an empty stomach,2023-08-25,,11
+66,358,188,Atorvastatin,10 mg,Once daily at night,2025-02-03,2025-02-10,3
+67,53,4,Prednisolone,5 mg,"Once daily, reducing course",2025-02-13,,6
+68,81,53,Amlodipine,5 mg,Once daily,2025-01-10,2025-03-07,1
+69,700,59,Apixaban,5 mg,Twice daily,2025-06-26,2025-07-03,0
+70,9,210,Paracetamol,1000 mg,Up to four times daily,2025-03-15,,8
+71,448,178,Atorvastatin,40 mg,Once daily at night,2025-03-06,,6
+72,430,138,Gabapentin,300 mg,Three times daily,2025-03-08,,7
+73,656,192,Gabapentin,300 mg,Three times daily,2025-06-27,2025-07-04,1
+74,694,121,Sertraline,50 mg,Once daily,2024-05-20,2024-06-03,2
+75,744,14,Apixaban,2.5 mg,Twice daily,2025-03-19,2025-05-14,3
+76,542,209,Sertraline,100 mg,Once daily,2025-04-17,2025-05-15,0
+77,694,139,Amoxicillin,250 mg,Three times daily for 7 days,2025-03-08,2025-05-03,2
+78,132,152,Salbutamol,100 mcg/dose,Two puffs as required,2025-02-03,2025-02-17,0
+79,464,102,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-03-29,2025-04-26,3
+80,598,46,Atorvastatin,10 mg,Once daily at night,2024-11-01,2025-01-30,0
+81,94,31,Omeprazole,20 mg,Once daily before breakfast,2024-11-23,2024-12-07,0
+82,66,157,Metformin,500 mg,Twice daily with meals,2023-09-13,,5
+83,331,104,Ibuprofen,600 mg,Three times daily after food,2023-03-15,2023-03-29,2
+84,228,44,Paracetamol,500 mg,Up to four times daily,2025-02-27,2025-03-27,1
+85,713,161,Metformin,850 mg,Twice daily with meals,2024-03-10,2024-03-17,0
+86,660,240,Gabapentin,300 mg,Three times daily,2025-04-24,,7
+87,422,13,Amlodipine,10 mg,Once daily,2025-03-09,2025-04-06,3
+88,779,213,Salbutamol,100 mcg/dose,Two puffs as required,2024-09-20,2024-10-18,2
+89,517,33,Lisinopril,5 mg,Once daily,2025-06-15,,11
+90,576,234,Ramipril,2.5 mg,Once daily,2025-06-17,2025-06-24,3
+91,88,98,Ramipril,5 mg,Once daily,2025-02-11,2025-04-08,1
+92,490,31,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-02-06,2024-05-06,3
+93,176,157,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-06-30,2024-07-07,0
+94,104,165,Amlodipine,10 mg,Once daily,2025-06-26,,5
+95,417,232,Furosemide,40 mg,Once daily in the morning,2025-06-10,,6
+96,18,216,Amlodipine,10 mg,Once daily,2025-01-10,2025-01-17,3
+97,267,20,Sertraline,100 mg,Once daily,2025-03-19,,11
+98,339,244,Sertraline,100 mg,Once daily,2025-03-11,2025-06-09,2
+99,425,15,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-05-24,2025-08-22,0
+100,16,181,Lisinopril,5 mg,Once daily,2024-07-21,2024-09-15,2
+101,223,135,Amlodipine,5 mg,Once daily,2024-05-08,,8
+102,624,33,Amoxicillin,250 mg,Three times daily for 7 days,2024-06-05,2024-09-03,2
+103,582,18,Apixaban,5 mg,Twice daily,2025-01-07,,10
+104,350,128,Salbutamol,100 mcg/dose,Two puffs as required,2023-08-12,2023-11-10,1
+105,602,103,Cetirizine,10 mg,Once daily,2024-06-18,,5
+106,185,5,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-01-04,2025-04-04,1
+107,315,51,Gabapentin,300 mg,Three times daily,2025-04-05,,7
+108,636,83,Amlodipine,5 mg,Once daily,2024-12-14,,11
+109,565,32,Cetirizine,10 mg,Once daily,2023-10-31,2023-11-07,0
+110,797,133,Metformin,500 mg,Twice daily with meals,2024-07-23,,5
+111,736,48,Amoxicillin,500 mg,Three times daily for 7 days,2024-01-12,,9
+112,588,76,Amoxicillin,500 mg,Three times daily for 7 days,2024-08-27,,8
+113,41,43,Ibuprofen,600 mg,Three times daily after food,2025-05-19,2025-06-02,3
+114,652,14,Bisoprolol,2.5 mg,Once daily,2023-12-11,2023-12-18,0
+115,263,194,Metformin,1000 mg,Twice daily with meals,2024-05-06,,9
+116,504,149,Atorvastatin,40 mg,Once daily at night,2024-07-19,2024-09-13,0
+117,592,61,Salbutamol,100 mcg/dose,Two puffs as required,2024-01-13,2024-04-12,0
+118,483,185,Paracetamol,500 mg,Up to four times daily,2024-12-15,2024-12-29,1
+119,622,173,Amoxicillin,250 mg,Three times daily for 7 days,2024-11-24,2024-12-01,3
+120,253,228,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-12-29,2025-01-26,1
+121,742,230,Cetirizine,10 mg,Once daily,2025-01-06,2025-03-03,0
+122,329,119,Amlodipine,5 mg,Once daily,2025-06-19,,5
+123,154,172,Paracetamol,1000 mg,Up to four times daily,2025-05-14,,11
+124,790,244,Metformin,1000 mg,Twice daily with meals,2025-05-07,,6
+125,732,226,Ramipril,5 mg,Once daily,2024-05-31,,6
+126,555,44,Atorvastatin,20 mg,Once daily at night,2024-03-28,2024-04-04,2
+127,103,139,Salbutamol,100 mcg/dose,Two puffs as required,2025-05-11,2025-05-25,3
+128,103,6,Ibuprofen,200 mg,Three times daily after food,2025-05-13,,11
+129,542,220,Paracetamol,500 mg,Up to four times daily,2025-02-03,2025-02-10,3
+130,446,60,Metformin,1000 mg,Twice daily with meals,2025-04-21,2025-06-16,1
+131,422,23,Furosemide,40 mg,Once daily in the morning,2025-02-13,2025-03-13,3
+132,565,214,Cetirizine,10 mg,Once daily,2024-08-29,,8
+133,19,210,Lisinopril,5 mg,Once daily,2025-06-23,2025-09-21,3
+134,389,240,Amoxicillin,250 mg,Three times daily for 7 days,2025-03-04,2025-04-01,3
+135,442,239,Bisoprolol,5 mg,Once daily,2025-01-07,,5
+136,662,124,Atorvastatin,10 mg,Once daily at night,2024-04-14,,10
+137,734,22,Lisinopril,5 mg,Once daily,2024-09-27,2024-11-22,1
+138,481,106,Prednisolone,5 mg,"Once daily, reducing course",2024-10-14,2024-12-09,2
+139,142,181,Metformin,850 mg,Twice daily with meals,2024-03-07,,11
+140,34,52,Bisoprolol,5 mg,Once daily,2024-12-19,,7
+141,101,123,Cetirizine,10 mg,Once daily,2025-02-28,,9
+142,704,161,Omeprazole,20 mg,Once daily before breakfast,2024-12-14,,11
+143,783,170,Atorvastatin,40 mg,Once daily at night,2025-01-25,2025-02-08,1
+144,445,233,Lisinopril,20 mg,Once daily,2025-05-27,2025-08-25,1
+145,541,35,Amlodipine,10 mg,Once daily,2025-03-24,,9
+146,569,206,Atorvastatin,40 mg,Once daily at night,2025-03-23,,6
+147,174,174,Sertraline,50 mg,Once daily,2023-10-09,,8
+148,749,180,Amlodipine,10 mg,Once daily,2024-10-21,2025-01-19,1
+149,144,152,Atorvastatin,10 mg,Once daily at night,2025-03-01,,7
+150,202,125,Metformin,1000 mg,Twice daily with meals,2024-09-16,,8
+151,327,65,Atorvastatin,10 mg,Once daily at night,2024-11-13,,9
+152,168,28,Paracetamol,1000 mg,Up to four times daily,2024-09-30,2024-12-29,0
+153,346,107,Omeprazole,40 mg,Once daily before breakfast,2024-03-11,2024-04-08,1
+154,81,63,Metformin,850 mg,Twice daily with meals,2023-02-23,2023-04-20,0
+155,48,44,Bisoprolol,2.5 mg,Once daily,2024-02-12,2024-04-08,1
+156,284,176,Apixaban,5 mg,Twice daily,2025-02-13,,7
+157,595,197,Metformin,1000 mg,Twice daily with meals,2023-10-10,,9
+158,347,224,Prednisolone,25 mg,"Once daily, reducing course",2023-04-08,2023-07-07,3
+159,30,69,Cetirizine,10 mg,Once daily,2025-04-29,2025-05-13,3
+160,610,96,Apixaban,5 mg,Twice daily,2025-04-03,,11
+161,769,21,Atorvastatin,40 mg,Once daily at night,2025-04-29,,10
+162,396,205,Amlodipine,5 mg,Once daily,2024-11-26,,7
+163,725,202,Omeprazole,20 mg,Once daily before breakfast,2024-04-02,2024-04-30,3
+164,56,152,Omeprazole,40 mg,Once daily before breakfast,2025-04-27,,11
+165,659,129,Omeprazole,40 mg,Once daily before breakfast,2025-05-01,2025-05-08,3
+166,641,116,Paracetamol,1000 mg,Up to four times daily,2024-08-24,,5
+167,130,41,Gabapentin,300 mg,Three times daily,2025-02-11,,7
+168,449,235,Ramipril,5 mg,Once daily,2025-06-29,,8
+169,613,220,Amoxicillin,500 mg,Three times daily for 7 days,2024-04-12,2024-04-19,1
+170,316,80,Ramipril,2.5 mg,Once daily,2025-04-23,2025-05-07,0
+171,601,60,Paracetamol,500 mg,Up to four times daily,2023-12-16,2024-03-15,2
+172,10,23,Paracetamol,500 mg,Up to four times daily,2024-09-28,2024-10-26,0
+173,435,237,Atorvastatin,10 mg,Once daily at night,2025-02-01,,5
+174,675,19,Lisinopril,5 mg,Once daily,2025-03-30,,6
+175,368,82,Metformin,850 mg,Twice daily with meals,2024-04-18,2024-06-13,2
+176,32,235,Atorvastatin,10 mg,Once daily at night,2024-08-03,2024-11-01,3
+177,700,62,Sertraline,50 mg,Once daily,2025-06-13,2025-06-27,3
+178,529,39,Metformin,500 mg,Twice daily with meals,2023-11-24,2024-01-19,2
+179,725,7,Atorvastatin,10 mg,Once daily at night,2024-04-23,2024-06-18,2
+180,758,13,Apixaban,5 mg,Twice daily,2025-05-02,,7
+181,429,172,Furosemide,20 mg,Once daily in the morning,2025-03-27,,11
+182,722,13,Paracetamol,1000 mg,Up to four times daily,2023-08-16,2023-10-11,0
+183,127,105,Metformin,1000 mg,Twice daily with meals,2025-01-19,,9
+184,472,98,Furosemide,20 mg,Once daily in the morning,2025-05-25,,10
+185,657,50,Amoxicillin,500 mg,Three times daily for 7 days,2025-06-11,2025-06-18,0
+186,789,117,Bisoprolol,2.5 mg,Once daily,2024-12-03,2025-01-28,3
+187,492,161,Lisinopril,20 mg,Once daily,2025-06-29,,7
+188,81,214,Atorvastatin,20 mg,Once daily at night,2023-10-09,,5
+189,589,33,Furosemide,20 mg,Once daily in the morning,2024-11-03,,10
+190,674,115,Prednisolone,5 mg,"Once daily, reducing course",2024-08-21,2024-11-19,2
+191,118,82,Gabapentin,300 mg,Three times daily,2025-01-01,,7
+192,409,121,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-16,2024-11-30,3
+193,542,164,Furosemide,40 mg,Once daily in the morning,2024-10-25,2025-01-23,1
+194,558,41,Ramipril,2.5 mg,Once daily,2024-07-05,2024-08-02,0
+195,559,71,Bisoprolol,2.5 mg,Once daily,2024-11-06,2025-01-01,3
+196,583,32,Bisoprolol,2.5 mg,Once daily,2024-06-14,,11
+197,173,7,Amlodipine,10 mg,Once daily,2025-05-08,2025-07-03,3
+198,622,71,Ramipril,5 mg,Once daily,2025-05-14,,9
+199,89,65,Bisoprolol,2.5 mg,Once daily,2024-09-18,2024-11-13,2
+200,635,233,Atorvastatin,40 mg,Once daily at night,2024-02-09,,7
+201,726,171,Ibuprofen,200 mg,Three times daily after food,2024-08-28,2024-09-11,2
+202,125,65,Atorvastatin,40 mg,Once daily at night,2023-09-11,2023-11-06,1
+203,83,148,Sertraline,100 mg,Once daily,2025-01-10,2025-01-24,1
+204,359,164,Metformin,500 mg,Twice daily with meals,2024-10-30,,9
+205,720,107,Salbutamol,100 mcg/dose,Two puffs as required,2024-02-01,,9
+206,13,29,Amlodipine,5 mg,Once daily,2025-04-27,2025-07-26,0
+207,369,125,Lisinopril,20 mg,Once daily,2024-11-10,2024-12-08,1
+208,451,117,Sertraline,100 mg,Once daily,2024-08-31,2024-09-07,3
+209,758,32,Gabapentin,300 mg,Three times daily,2025-01-19,,11
+210,77,109,Sertraline,50 mg,Once daily,2024-01-27,2024-04-26,3
+211,758,120,Ramipril,2.5 mg,Once daily,2024-07-08,2024-07-22,2
+212,693,185,Ramipril,2.5 mg,Once daily,2025-03-17,,7
+213,597,179,Omeprazole,20 mg,Once daily before breakfast,2025-04-18,,5
+214,245,30,Gabapentin,300 mg,Three times daily,2025-03-20,2025-06-18,1
+215,540,3,Levothyroxine,75 mcg,Once daily on an empty stomach,2023-05-03,2023-05-31,1
+216,525,23,Lisinopril,10 mg,Once daily,2025-03-12,2025-05-07,2
+217,203,227,Lisinopril,10 mg,Once daily,2025-03-29,,7
+218,334,235,Amoxicillin,250 mg,Three times daily for 7 days,2025-03-21,,8
+219,433,195,Cetirizine,10 mg,Once daily,2024-10-28,2025-01-26,1
+220,307,139,Ibuprofen,200 mg,Three times daily after food,2025-05-20,2025-06-03,0
+221,624,207,Amlodipine,5 mg,Once daily,2025-06-23,2025-09-21,0
+222,627,209,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-07-04,,5
+223,13,133,Levothyroxine,100 mcg,Once daily on an empty stomach,2023-09-20,,9
+224,228,91,Amoxicillin,500 mg,Three times daily for 7 days,2025-01-13,,10
+225,665,7,Omeprazole,20 mg,Once daily before breakfast,2024-09-11,,9
+226,787,12,Metformin,500 mg,Twice daily with meals,2025-06-18,,8
+227,413,78,Amlodipine,10 mg,Once daily,2024-08-26,2024-11-24,0
+228,691,157,Omeprazole,40 mg,Once daily before breakfast,2025-04-25,,5
+229,376,42,Atorvastatin,20 mg,Once daily at night,2024-01-10,2024-03-06,3
+230,59,203,Lisinopril,5 mg,Once daily,2025-05-26,2025-06-02,3
+231,603,88,Ramipril,2.5 mg,Once daily,2023-11-20,2024-01-15,0
+232,277,138,Paracetamol,500 mg,Up to four times daily,2025-02-11,,9
+233,724,169,Lisinopril,20 mg,Once daily,2025-03-21,2025-04-18,1
+234,71,41,Cetirizine,10 mg,Once daily,2025-02-24,2025-04-21,1
+235,48,87,Omeprazole,20 mg,Once daily before breakfast,2023-08-08,2023-09-05,1
+236,43,104,Ramipril,5 mg,Once daily,2024-09-13,,5
+237,675,11,Lisinopril,20 mg,Once daily,2025-06-24,,8
+238,380,228,Atorvastatin,20 mg,Once daily at night,2025-06-21,2025-09-19,2
+239,583,111,Metformin,500 mg,Twice daily with meals,2024-09-22,2024-10-20,1
+240,223,27,Omeprazole,20 mg,Once daily before breakfast,2024-09-16,2024-09-30,1
+241,620,170,Amlodipine,5 mg,Once daily,2023-12-28,2024-01-25,2
+242,705,44,Metformin,1000 mg,Twice daily with meals,2024-02-04,2024-03-03,2
+243,587,220,Lisinopril,20 mg,Once daily,2023-07-09,2023-10-07,2
+244,390,113,Amoxicillin,500 mg,Three times daily for 7 days,2024-09-05,2024-10-31,1
+245,123,47,Atorvastatin,10 mg,Once daily at night,2023-11-12,2024-02-10,3
+246,196,187,Prednisolone,25 mg,"Once daily, reducing course",2025-06-25,,5
+247,527,48,Paracetamol,1000 mg,Up to four times daily,2024-10-24,,9
+248,453,17,Metformin,850 mg,Twice daily with meals,2025-04-23,2025-07-22,2
+249,453,141,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-30,2025-05-07,0
+250,66,230,Sertraline,50 mg,Once daily,2023-09-04,2023-09-18,2
+251,611,162,Paracetamol,1000 mg,Up to four times daily,2024-10-14,2024-10-21,0
+252,596,156,Salbutamol,100 mcg/dose,Two puffs as required,2024-12-18,2024-12-25,0
+253,290,48,Furosemide,20 mg,Once daily in the morning,2024-06-20,2024-09-18,1
+254,598,58,Bisoprolol,2.5 mg,Once daily,2024-10-24,2025-01-22,1
+255,297,181,Sertraline,50 mg,Once daily,2025-02-06,2025-04-03,2
+256,453,85,Lisinopril,10 mg,Once daily,2025-06-19,2025-08-14,2
+257,699,205,Amlodipine,10 mg,Once daily,2025-02-03,2025-02-10,3
+258,150,29,Omeprazole,20 mg,Once daily before breakfast,2025-06-13,,11
+259,161,239,Furosemide,20 mg,Once daily in the morning,2024-10-11,2024-10-25,3
+260,468,153,Metformin,850 mg,Twice daily with meals,2023-08-21,,7
+261,405,150,Lisinopril,20 mg,Once daily,2024-05-30,,7
+262,545,153,Ibuprofen,400 mg,Three times daily after food,2025-06-17,2025-07-01,3
+263,351,18,Omeprazole,40 mg,Once daily before breakfast,2025-05-14,2025-05-21,2
+264,125,72,Cetirizine,10 mg,Once daily,2024-05-26,,9
+265,731,94,Lisinopril,5 mg,Once daily,2024-10-25,,9
+266,693,69,Ramipril,10 mg,Once daily,2024-09-14,2024-12-13,3
+267,433,225,Paracetamol,500 mg,Up to four times daily,2025-06-14,2025-07-12,0
+268,711,132,Amoxicillin,250 mg,Three times daily for 7 days,2025-03-21,,7
+269,241,3,Metformin,1000 mg,Twice daily with meals,2024-10-09,2024-11-06,1
+270,776,229,Lisinopril,5 mg,Once daily,2023-02-28,2023-03-14,0
+271,682,176,Amlodipine,5 mg,Once daily,2024-04-21,2024-06-16,0
+272,668,39,Paracetamol,500 mg,Up to four times daily,2024-07-31,,7
+273,654,60,Gabapentin,300 mg,Three times daily,2023-08-30,,6
+274,752,167,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-04-22,2025-07-21,3
+275,110,62,Amlodipine,10 mg,Once daily,2024-12-11,2024-12-25,2
+276,610,124,Bisoprolol,2.5 mg,Once daily,2024-12-28,2025-02-22,0
+277,294,247,Paracetamol,1000 mg,Up to four times daily,2024-03-04,,11
+278,339,37,Omeprazole,40 mg,Once daily before breakfast,2025-03-18,2025-06-16,3
+279,404,237,Furosemide,20 mg,Once daily in the morning,2024-06-03,2024-06-10,0
+280,442,236,Apixaban,2.5 mg,Twice daily,2024-02-03,,9
+281,532,217,Ibuprofen,200 mg,Three times daily after food,2024-04-01,,5
+282,635,62,Ibuprofen,200 mg,Three times daily after food,2024-12-15,2024-12-29,2
+283,211,132,Amoxicillin,250 mg,Three times daily for 7 days,2024-12-03,2024-12-17,1
+284,704,152,Omeprazole,40 mg,Once daily before breakfast,2024-03-08,2024-03-22,2
+285,303,159,Atorvastatin,40 mg,Once daily at night,2024-09-04,,11
+286,456,175,Lisinopril,5 mg,Once daily,2023-08-10,,9
+287,191,208,Cetirizine,10 mg,Once daily,2024-07-26,2024-08-02,1
+288,130,153,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-12-08,,8
+289,65,7,Amlodipine,5 mg,Once daily,2024-03-24,2024-03-31,2
+290,314,48,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-02-25,,6
+291,340,148,Amoxicillin,250 mg,Three times daily for 7 days,2024-11-29,2024-12-27,2
+292,579,214,Omeprazole,20 mg,Once daily before breakfast,2025-01-19,2025-03-16,2
+293,726,85,Metformin,500 mg,Twice daily with meals,2024-07-07,,5
+294,340,19,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-02,,11
+295,465,106,Furosemide,40 mg,Once daily in the morning,2025-03-24,2025-06-22,2
+296,196,204,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-07-17,2024-09-11,0
+297,655,62,Lisinopril,20 mg,Once daily,2024-09-04,,6
+298,243,152,Amoxicillin,250 mg,Three times daily for 7 days,2025-02-24,2025-03-24,1
+299,584,45,Bisoprolol,5 mg,Once daily,2025-05-04,,10
+300,493,198,Furosemide,20 mg,Once daily in the morning,2023-04-14,,11
+301,655,175,Furosemide,40 mg,Once daily in the morning,2024-08-05,,8
+302,774,209,Metformin,1000 mg,Twice daily with meals,2025-05-28,,5
+303,393,116,Gabapentin,300 mg,Three times daily,2025-05-03,,9
+304,505,156,Cetirizine,10 mg,Once daily,2025-02-26,2025-05-27,2
+305,102,117,Metformin,850 mg,Twice daily with meals,2025-01-14,2025-01-28,3
+306,421,51,Paracetamol,1000 mg,Up to four times daily,2024-01-19,2024-03-15,1
+307,112,190,Amoxicillin,500 mg,Three times daily for 7 days,2024-10-01,2024-10-29,3
+308,556,215,Paracetamol,500 mg,Up to four times daily,2023-09-11,2023-11-06,0
+309,382,25,Omeprazole,20 mg,Once daily before breakfast,2024-07-30,,6
+310,561,186,Omeprazole,20 mg,Once daily before breakfast,2025-01-22,2025-02-19,2
+311,548,158,Ramipril,2.5 mg,Once daily,2023-10-09,,9
+312,673,104,Metformin,1000 mg,Twice daily with meals,2025-01-13,2025-01-27,0
+313,779,87,Apixaban,5 mg,Twice daily,2025-03-25,,9
+314,632,116,Atorvastatin,20 mg,Once daily at night,2023-10-25,,9
+315,460,169,Lisinopril,20 mg,Once daily,2024-06-28,2024-08-23,3
+316,715,230,Lisinopril,20 mg,Once daily,2024-05-08,,5
+317,334,70,Amlodipine,5 mg,Once daily,2025-05-26,,10
+318,783,195,Ramipril,5 mg,Once daily,2025-03-08,2025-04-05,1
+319,391,93,Atorvastatin,10 mg,Once daily at night,2024-10-06,2024-12-01,0
+320,751,181,Gabapentin,300 mg,Three times daily,2025-03-30,2025-05-25,2
+321,528,117,Atorvastatin,20 mg,Once daily at night,2024-12-29,,8
+322,174,151,Salbutamol,100 mcg/dose,Two puffs as required,2023-04-30,,5
+323,499,105,Salbutamol,100 mcg/dose,Two puffs as required,2024-04-20,,7
+324,592,177,Ramipril,2.5 mg,Once daily,2023-09-27,2023-10-11,1
+325,776,10,Furosemide,40 mg,Once daily in the morning,2024-04-04,2024-04-11,2
+326,752,128,Lisinopril,20 mg,Once daily,2023-12-05,2024-03-04,3
+327,608,49,Ramipril,5 mg,Once daily,2025-01-03,,10
+328,31,74,Bisoprolol,2.5 mg,Once daily,2023-05-22,2023-06-19,0
+329,96,66,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-05-26,,6
+330,637,243,Ibuprofen,200 mg,Three times daily after food,2025-02-16,2025-04-13,0
+331,554,92,Paracetamol,1000 mg,Up to four times daily,2025-02-11,2025-04-08,3
+332,77,240,Bisoprolol,5 mg,Once daily,2024-06-21,2024-08-16,2
+333,251,205,Ramipril,10 mg,Once daily,2024-06-16,2024-07-14,2
+334,568,217,Furosemide,40 mg,Once daily in the morning,2023-09-16,,5
+335,168,105,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-06-11,2024-09-09,3
+336,114,127,Amoxicillin,250 mg,Three times daily for 7 days,2024-12-16,2025-02-10,0
+337,443,210,Ibuprofen,600 mg,Three times daily after food,2023-12-18,,11
+338,113,115,Amlodipine,10 mg,Once daily,2025-03-13,2025-03-27,2
+339,116,26,Ramipril,2.5 mg,Once daily,2025-06-17,,6
+340,289,80,Amlodipine,10 mg,Once daily,2025-06-04,2025-09-02,0
+341,54,22,Lisinopril,5 mg,Once daily,2025-04-25,,8
+342,550,27,Amoxicillin,250 mg,Three times daily for 7 days,2025-03-23,2025-04-20,0
+343,631,99,Ibuprofen,400 mg,Three times daily after food,2025-02-16,2025-05-17,3
+344,702,38,Ibuprofen,400 mg,Three times daily after food,2025-06-05,,11
+345,214,219,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-06-05,,6
+346,29,225,Ramipril,10 mg,Once daily,2024-01-01,,10
+347,485,168,Paracetamol,1000 mg,Up to four times daily,2025-03-09,,11
+348,5,127,Gabapentin,300 mg,Three times daily,2025-05-20,,8
+349,394,217,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-01-21,2024-02-18,1
+350,311,11,Ramipril,10 mg,Once daily,2024-05-15,2024-08-13,1
+351,795,176,Cetirizine,10 mg,Once daily,2025-04-19,,9
+352,600,157,Metformin,850 mg,Twice daily with meals,2025-06-28,2025-07-26,3
+353,122,113,Prednisolone,5 mg,"Once daily, reducing course",2024-11-24,,11
+354,280,30,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-04-13,2025-04-20,0
+355,677,148,Gabapentin,300 mg,Three times daily,2025-05-03,,8
+356,206,75,Salbutamol,100 mcg/dose,Two puffs as required,2024-10-30,2024-12-25,0
+357,90,59,Paracetamol,500 mg,Up to four times daily,2025-06-11,2025-06-25,1
+358,696,42,Ibuprofen,200 mg,Three times daily after food,2024-05-13,,7
+359,424,26,Sertraline,100 mg,Once daily,2025-05-16,2025-06-13,0
+360,64,163,Amlodipine,5 mg,Once daily,2025-05-10,,11
+361,109,131,Bisoprolol,2.5 mg,Once daily,2025-05-18,,10
+362,252,186,Ramipril,5 mg,Once daily,2024-03-01,2024-04-26,3
+363,94,242,Amlodipine,10 mg,Once daily,2024-03-20,,5
+364,757,164,Amoxicillin,500 mg,Three times daily for 7 days,2025-01-04,,5
+365,44,198,Ramipril,10 mg,Once daily,2025-05-12,,6
+366,20,173,Sertraline,50 mg,Once daily,2025-03-31,2025-04-07,1
+367,284,204,Cetirizine,10 mg,Once daily,2025-02-19,2025-04-16,3
+368,599,169,Ibuprofen,600 mg,Three times daily after food,2025-04-21,2025-07-20,1
+369,338,184,Paracetamol,1000 mg,Up to four times daily,2023-12-06,,11
+370,721,61,Metformin,500 mg,Twice daily with meals,2025-04-13,,8
+371,161,84,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-10-12,2024-10-26,2
+372,760,154,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-24,,10
+373,76,127,Paracetamol,1000 mg,Up to four times daily,2025-02-16,,11
+374,463,11,Lisinopril,20 mg,Once daily,2025-02-20,,11
+375,178,138,Ibuprofen,400 mg,Three times daily after food,2023-12-24,2023-12-31,3
+376,73,35,Sertraline,50 mg,Once daily,2024-08-28,,8
+377,424,200,Ibuprofen,200 mg,Three times daily after food,2024-09-07,2024-12-06,1
+378,209,131,Lisinopril,5 mg,Once daily,2025-04-14,2025-05-12,2
+379,526,116,Amlodipine,10 mg,Once daily,2025-01-26,2025-02-09,2
+380,784,37,Metformin,1000 mg,Twice daily with meals,2024-12-06,2025-01-31,3
+381,278,91,Paracetamol,1000 mg,Up to four times daily,2024-01-05,2024-01-19,1
+382,258,119,Lisinopril,5 mg,Once daily,2024-12-05,2025-03-05,1
+383,192,198,Furosemide,40 mg,Once daily in the morning,2024-04-19,,10
+384,710,141,Furosemide,40 mg,Once daily in the morning,2023-12-25,,10
+385,178,139,Sertraline,100 mg,Once daily,2024-02-15,,5
+386,218,23,Amlodipine,5 mg,Once daily,2024-04-26,2024-07-25,0
+387,721,31,Paracetamol,500 mg,Up to four times daily,2024-05-09,,7
+388,84,219,Amoxicillin,250 mg,Three times daily for 7 days,2024-04-14,2024-05-12,1
+389,264,54,Metformin,1000 mg,Twice daily with meals,2023-08-10,2023-08-17,0
+390,236,110,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-03-26,,6
+391,573,187,Amlodipine,5 mg,Once daily,2024-06-21,,9
+392,445,80,Lisinopril,20 mg,Once daily,2024-07-13,2024-07-20,0
+393,203,202,Salbutamol,100 mcg/dose,Two puffs as required,2025-03-25,2025-04-01,0
+394,642,221,Ibuprofen,400 mg,Three times daily after food,2025-05-21,,10
+395,383,35,Ibuprofen,600 mg,Three times daily after food,2025-01-15,2025-02-12,0
+396,302,142,Omeprazole,20 mg,Once daily before breakfast,2023-11-03,2023-11-17,2
+397,485,7,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-02-04,,5
+398,609,74,Lisinopril,5 mg,Once daily,2025-02-28,,7
+399,158,167,Furosemide,40 mg,Once daily in the morning,2023-08-16,,11
+400,242,125,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-06-30,,8
+401,609,66,Omeprazole,40 mg,Once daily before breakfast,2024-08-31,2024-09-07,0
+402,550,196,Apixaban,5 mg,Twice daily,2025-04-02,2025-04-09,1
+403,520,84,Cetirizine,10 mg,Once daily,2024-07-27,,10
+404,752,171,Metformin,1000 mg,Twice daily with meals,2023-12-06,2023-12-20,1
+405,674,114,Paracetamol,1000 mg,Up to four times daily,2024-01-10,,9
+406,212,82,Lisinopril,5 mg,Once daily,2024-12-27,2025-02-21,2
+407,70,215,Atorvastatin,20 mg,Once daily at night,2025-03-11,2025-03-25,1
+408,751,87,Ibuprofen,400 mg,Three times daily after food,2024-04-11,2024-07-10,1
+409,403,25,Atorvastatin,20 mg,Once daily at night,2025-04-26,,9
+410,600,20,Omeprazole,40 mg,Once daily before breakfast,2025-05-14,2025-05-21,3
+411,226,213,Ibuprofen,400 mg,Three times daily after food,2023-11-03,2024-02-01,0
+412,443,85,Omeprazole,20 mg,Once daily before breakfast,2024-01-29,,9
+413,520,204,Amlodipine,10 mg,Once daily,2024-10-20,,7
+414,197,215,Gabapentin,300 mg,Three times daily,2024-12-10,2025-02-04,3
+415,5,2,Metformin,850 mg,Twice daily with meals,2024-05-11,,9
+416,182,237,Paracetamol,500 mg,Up to four times daily,2025-01-19,2025-04-19,3
+417,23,95,Lisinopril,20 mg,Once daily,2025-05-04,,10
+418,231,156,Bisoprolol,5 mg,Once daily,2025-06-16,2025-07-14,1
+419,251,244,Paracetamol,500 mg,Up to four times daily,2025-04-07,,9
+420,95,47,Paracetamol,1000 mg,Up to four times daily,2024-07-17,,8
+421,354,12,Paracetamol,500 mg,Up to four times daily,2025-03-15,,10
+422,212,211,Cetirizine,10 mg,Once daily,2025-06-29,,7
+423,648,95,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-05-17,2024-05-31,2
+424,771,52,Metformin,1000 mg,Twice daily with meals,2024-02-08,2024-04-04,2
+425,581,17,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-05-13,,6
+426,262,226,Salbutamol,100 mcg/dose,Two puffs as required,2023-09-22,2023-11-17,1
+427,94,186,Ibuprofen,200 mg,Three times daily after food,2025-03-01,2025-03-29,3
+428,502,73,Ramipril,2.5 mg,Once daily,2025-06-02,,11
+429,184,167,Atorvastatin,40 mg,Once daily at night,2023-08-09,2023-09-06,1
+430,278,173,Furosemide,20 mg,Once daily in the morning,2023-12-12,2023-12-26,0
+431,258,124,Omeprazole,40 mg,Once daily before breakfast,2024-10-03,2024-10-31,1
+432,651,49,Ramipril,10 mg,Once daily,2024-08-20,,9
+433,406,243,Furosemide,20 mg,Once daily in the morning,2025-06-30,2025-07-07,2
+434,507,193,Amlodipine,10 mg,Once daily,2024-01-30,2024-02-06,3
+435,545,88,Furosemide,20 mg,Once daily in the morning,2025-06-25,2025-07-02,2
+436,303,169,Lisinopril,10 mg,Once daily,2024-09-06,2024-09-20,3
+437,257,66,Lisinopril,20 mg,Once daily,2025-03-22,,5
+438,385,187,Gabapentin,300 mg,Three times daily,2023-12-29,,6
+439,580,120,Cetirizine,10 mg,Once daily,2024-10-18,,9
+440,117,144,Furosemide,40 mg,Once daily in the morning,2025-04-04,2025-07-03,0
+441,778,189,Amlodipine,5 mg,Once daily,2023-12-11,2024-02-05,0
+442,307,60,Cetirizine,10 mg,Once daily,2025-01-27,,5
+443,612,125,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-01,2025-08-30,0
+444,309,151,Ramipril,10 mg,Once daily,2025-02-27,2025-05-28,2
+445,11,224,Amlodipine,10 mg,Once daily,2024-06-11,2024-06-25,3
+446,53,3,Sertraline,100 mg,Once daily,2025-02-13,2025-02-27,2
+447,635,203,Amoxicillin,250 mg,Three times daily for 7 days,2024-06-12,,7
+448,546,98,Amlodipine,10 mg,Once daily,2025-05-26,2025-06-09,1
+449,100,133,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-02-01,,8
+450,400,157,Sertraline,100 mg,Once daily,2024-12-30,,10
+451,334,12,Lisinopril,20 mg,Once daily,2024-09-05,2024-09-19,3
+452,463,178,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-10-11,2024-11-08,0
+453,649,53,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-14,2025-01-09,1
+454,495,131,Metformin,850 mg,Twice daily with meals,2023-10-06,2023-12-01,3
+455,316,101,Amlodipine,10 mg,Once daily,2024-03-23,,9
+456,153,49,Ramipril,2.5 mg,Once daily,2025-04-23,2025-06-18,3
+457,326,232,Atorvastatin,40 mg,Once daily at night,2023-12-25,,10
+458,613,87,Paracetamol,1000 mg,Up to four times daily,2024-12-10,2025-03-10,1
+459,449,208,Metformin,500 mg,Twice daily with meals,2025-06-23,2025-07-21,1
+460,617,87,Levothyroxine,75 mcg,Once daily on an empty stomach,2023-11-20,2024-01-15,1
+461,767,68,Amlodipine,10 mg,Once daily,2025-04-23,,10
+462,109,66,Ramipril,5 mg,Once daily,2024-11-11,2025-02-09,2
+463,649,228,Ramipril,2.5 mg,Once daily,2025-04-11,,9
+464,7,214,Metformin,500 mg,Twice daily with meals,2025-05-31,2025-08-29,2
+465,618,165,Furosemide,20 mg,Once daily in the morning,2025-03-11,2025-06-09,0
+466,10,157,Ramipril,5 mg,Once daily,2024-01-27,,6
+467,538,94,Amlodipine,5 mg,Once daily,2023-06-24,,11
+468,666,107,Ibuprofen,600 mg,Three times daily after food,2024-01-16,,8
+469,472,114,Sertraline,100 mg,Once daily,2025-04-14,,10
+470,65,133,Atorvastatin,20 mg,Once daily at night,2024-09-14,,8
+471,39,144,Bisoprolol,5 mg,Once daily,2025-06-22,,7
+472,526,249,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-05,2025-07-04,0
+473,670,46,Metformin,500 mg,Twice daily with meals,2025-05-11,,6
+474,88,5,Omeprazole,40 mg,Once daily before breakfast,2025-04-11,2025-06-06,1
+475,351,114,Atorvastatin,10 mg,Once daily at night,2024-09-13,,11
+476,393,192,Apixaban,5 mg,Twice daily,2024-09-18,2024-09-25,0
+477,168,221,Furosemide,40 mg,Once daily in the morning,2025-02-03,,7
+478,336,24,Paracetamol,500 mg,Up to four times daily,2024-11-09,,5
+479,146,32,Amoxicillin,500 mg,Three times daily for 7 days,2025-02-24,2025-05-25,2
+480,493,114,Amoxicillin,500 mg,Three times daily for 7 days,2024-11-27,2024-12-11,0
+481,438,241,Amlodipine,5 mg,Once daily,2025-05-06,2025-08-04,3
+482,402,233,Atorvastatin,10 mg,Once daily at night,2024-06-20,,10
+483,23,78,Omeprazole,20 mg,Once daily before breakfast,2024-11-18,2025-02-16,2
+484,469,94,Cetirizine,10 mg,Once daily,2025-05-22,,9
+485,336,115,Metformin,850 mg,Twice daily with meals,2024-10-11,,8
+486,170,39,Gabapentin,300 mg,Three times daily,2024-09-26,2024-12-25,2
+487,177,126,Metformin,1000 mg,Twice daily with meals,2025-05-25,2025-06-08,1
+488,493,151,Ibuprofen,400 mg,Three times daily after food,2024-09-30,2024-10-28,3
+489,752,212,Atorvastatin,40 mg,Once daily at night,2024-12-26,,11
+490,541,103,Ibuprofen,400 mg,Three times daily after food,2025-06-04,,6
+491,173,3,Lisinopril,10 mg,Once daily,2025-05-16,,8
+492,596,89,Ibuprofen,400 mg,Three times daily after food,2024-12-23,,11
+493,768,76,Lisinopril,5 mg,Once daily,2023-12-10,2024-02-04,2
+494,486,134,Atorvastatin,10 mg,Once daily at night,2025-05-22,,11
+495,471,104,Atorvastatin,20 mg,Once daily at night,2023-11-20,,6
+496,711,219,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-04-22,2025-05-20,0
+497,131,86,Furosemide,20 mg,Once daily in the morning,2025-01-02,,5
+498,223,215,Bisoprolol,5 mg,Once daily,2024-09-26,2024-10-03,2
+499,351,105,Paracetamol,500 mg,Up to four times daily,2025-01-22,2025-03-19,2
+500,44,183,Omeprazole,40 mg,Once daily before breakfast,2025-06-29,,10
+501,364,66,Gabapentin,300 mg,Three times daily,2024-11-16,,8
+502,481,142,Salbutamol,100 mcg/dose,Two puffs as required,2023-06-21,2023-06-28,1
+503,631,182,Lisinopril,20 mg,Once daily,2024-12-27,,6
+504,615,137,Atorvastatin,10 mg,Once daily at night,2025-02-26,,11
+505,406,100,Ramipril,10 mg,Once daily,2024-12-30,2025-01-06,2
+506,629,218,Bisoprolol,2.5 mg,Once daily,2024-06-26,,5
+507,17,207,Lisinopril,20 mg,Once daily,2024-11-09,,7
+508,511,39,Paracetamol,1000 mg,Up to four times daily,2024-08-19,,8
+509,56,169,Sertraline,100 mg,Once daily,2023-06-13,2023-09-11,2
+510,737,79,Paracetamol,1000 mg,Up to four times daily,2025-01-28,,6
+511,116,155,Sertraline,100 mg,Once daily,2023-10-23,2024-01-21,1
+512,35,199,Amoxicillin,500 mg,Three times daily for 7 days,2024-02-27,,9
+513,480,101,Lisinopril,10 mg,Once daily,2025-01-01,2025-02-26,1
+514,22,27,Amlodipine,5 mg,Once daily,2025-04-12,2025-04-26,2
+515,640,41,Ramipril,5 mg,Once daily,2025-04-26,,8
+516,257,18,Lisinopril,5 mg,Once daily,2024-11-08,,8
+517,376,217,Atorvastatin,10 mg,Once daily at night,2024-06-28,2024-07-12,0
+518,467,241,Gabapentin,300 mg,Three times daily,2024-10-30,2025-01-28,0
+519,450,225,Sertraline,100 mg,Once daily,2025-06-25,,6
+520,18,235,Salbutamol,100 mcg/dose,Two puffs as required,2023-09-12,2023-09-26,2
+521,756,36,Cetirizine,10 mg,Once daily,2025-01-15,,6
+522,694,116,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-06-30,,9
+523,35,57,Metformin,850 mg,Twice daily with meals,2023-08-23,2023-08-30,3
+524,627,199,Metformin,1000 mg,Twice daily with meals,2025-03-20,,6
+525,409,57,Lisinopril,20 mg,Once daily,2024-08-12,,5
+526,403,122,Lisinopril,20 mg,Once daily,2025-02-14,2025-05-15,3
+527,693,158,Omeprazole,40 mg,Once daily before breakfast,2024-09-24,,5
+528,186,12,Paracetamol,500 mg,Up to four times daily,2024-11-19,2024-12-03,1
+529,544,62,Apixaban,5 mg,Twice daily,2024-07-08,2024-07-15,3
+530,706,115,Sertraline,100 mg,Once daily,2025-04-08,2025-04-15,1
+531,493,140,Cetirizine,10 mg,Once daily,2025-06-02,,7
+532,640,58,Atorvastatin,10 mg,Once daily at night,2024-06-05,2024-06-19,1
+533,471,72,Salbutamol,100 mcg/dose,Two puffs as required,2024-01-11,,5
+534,482,199,Paracetamol,1000 mg,Up to four times daily,2024-08-16,2024-10-11,3
+535,687,232,Metformin,500 mg,Twice daily with meals,2025-05-26,2025-07-21,0
+536,91,116,Amlodipine,10 mg,Once daily,2025-02-28,,5
+537,253,55,Metformin,500 mg,Twice daily with meals,2024-01-23,2024-01-30,3
+538,144,71,Lisinopril,10 mg,Once daily,2025-03-05,2025-03-12,2
+539,497,205,Amoxicillin,250 mg,Three times daily for 7 days,2024-05-17,2024-07-12,1
+540,640,34,Metformin,500 mg,Twice daily with meals,2024-09-26,,6
+541,5,126,Paracetamol,500 mg,Up to four times daily,2024-11-27,,9
+542,635,70,Paracetamol,1000 mg,Up to four times daily,2023-06-13,,10
+543,235,69,Paracetamol,500 mg,Up to four times daily,2025-05-29,2025-06-12,0
+544,159,157,Omeprazole,20 mg,Once daily before breakfast,2025-06-08,2025-07-06,0
+545,26,142,Lisinopril,5 mg,Once daily,2024-08-30,,8
+546,24,56,Furosemide,20 mg,Once daily in the morning,2025-04-06,,5
+547,648,150,Cetirizine,10 mg,Once daily,2024-09-22,2024-09-29,3
+548,269,12,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-05-26,2025-06-23,1
+549,244,234,Paracetamol,500 mg,Up to four times daily,2025-01-13,2025-02-10,1
+550,448,16,Paracetamol,500 mg,Up to four times daily,2025-02-22,2025-05-23,1
+551,725,168,Metformin,1000 mg,Twice daily with meals,2024-11-13,2025-01-08,1
+552,795,17,Atorvastatin,40 mg,Once daily at night,2025-05-27,2025-08-25,1
+553,691,69,Amlodipine,10 mg,Once daily,2025-04-24,2025-05-01,2
+554,672,243,Metformin,500 mg,Twice daily with meals,2025-03-08,2025-04-05,0
+555,82,42,Paracetamol,1000 mg,Up to four times daily,2024-10-02,2024-10-30,2
+556,190,62,Lisinopril,20 mg,Once daily,2023-10-08,2024-01-06,0
+557,301,71,Sertraline,50 mg,Once daily,2024-05-12,,11
+558,578,158,Lisinopril,5 mg,Once daily,2024-09-04,2024-09-18,0
+559,373,192,Apixaban,5 mg,Twice daily,2025-06-30,2025-09-28,0
+560,25,158,Paracetamol,1000 mg,Up to four times daily,2025-05-28,2025-07-23,2
+561,567,76,Lisinopril,5 mg,Once daily,2025-01-16,,10
+562,415,156,Ibuprofen,400 mg,Three times daily after food,2024-04-29,,11
+563,725,46,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-02-26,2025-03-05,1
+564,616,176,Paracetamol,1000 mg,Up to four times daily,2024-10-23,2024-12-18,2
+565,183,232,Furosemide,40 mg,Once daily in the morning,2025-05-01,,7
+566,427,203,Amlodipine,5 mg,Once daily,2024-10-13,,9
+567,531,44,Amoxicillin,250 mg,Three times daily for 7 days,2025-06-04,,10
+568,113,154,Sertraline,50 mg,Once daily,2023-07-09,2023-10-07,1
+569,530,196,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-10-15,,9
+570,673,27,Atorvastatin,10 mg,Once daily at night,2025-04-25,,11
+571,443,79,Lisinopril,20 mg,Once daily,2025-06-17,2025-07-01,0
+572,498,56,Ramipril,10 mg,Once daily,2025-02-28,,9
+573,21,43,Bisoprolol,2.5 mg,Once daily,2025-05-17,,7
+574,17,60,Lisinopril,10 mg,Once daily,2024-08-30,,5
+575,667,160,Sertraline,100 mg,Once daily,2024-10-20,2024-10-27,3
+576,24,174,Lisinopril,5 mg,Once daily,2025-02-24,2025-03-03,2
+577,82,101,Paracetamol,1000 mg,Up to four times daily,2025-05-02,,10
+578,189,210,Lisinopril,20 mg,Once daily,2025-05-03,,7
+579,68,171,Omeprazole,20 mg,Once daily before breakfast,2024-09-25,,10
+580,645,10,Ramipril,5 mg,Once daily,2024-11-29,,7
+581,713,106,Paracetamol,500 mg,Up to four times daily,2024-03-28,,11
+582,19,35,Salbutamol,100 mcg/dose,Two puffs as required,2025-02-14,,11
+583,5,39,Ibuprofen,600 mg,Three times daily after food,2024-11-05,2024-11-19,0
+584,761,170,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-20,2025-07-18,1
+585,773,196,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-22,2025-09-20,0
+586,233,237,Omeprazole,20 mg,Once daily before breakfast,2025-03-28,2025-06-26,2
+587,722,239,Amlodipine,5 mg,Once daily,2024-10-07,2024-11-04,3
+588,685,145,Omeprazole,20 mg,Once daily before breakfast,2024-02-27,,11
+589,728,91,Metformin,850 mg,Twice daily with meals,2024-01-16,,6
+590,309,214,Prednisolone,25 mg,"Once daily, reducing course",2025-03-07,,10
+591,364,149,Metformin,1000 mg,Twice daily with meals,2025-01-24,,9
+592,673,94,Amoxicillin,500 mg,Three times daily for 7 days,2025-04-06,2025-05-04,3
+593,503,231,Metformin,850 mg,Twice daily with meals,2024-09-05,2024-10-31,0
+594,157,100,Metformin,850 mg,Twice daily with meals,2025-02-20,2025-03-06,2
+595,739,80,Lisinopril,10 mg,Once daily,2025-04-17,,11
+596,180,24,Apixaban,5 mg,Twice daily,2024-11-12,2025-01-07,2
+597,223,14,Omeprazole,40 mg,Once daily before breakfast,2025-04-14,2025-07-13,0
+598,457,43,Salbutamol,100 mcg/dose,Two puffs as required,2025-05-18,2025-06-15,0
+599,462,11,Metformin,850 mg,Twice daily with meals,2024-07-13,2024-10-11,0
+600,394,33,Metformin,850 mg,Twice daily with meals,2025-03-12,,7
+601,263,238,Bisoprolol,5 mg,Once daily,2023-10-20,2023-12-15,3
+602,219,9,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-05-08,2025-05-15,2
+603,263,11,Sertraline,100 mg,Once daily,2024-08-16,,7
+604,409,115,Ramipril,2.5 mg,Once daily,2023-12-18,,9
+605,124,241,Metformin,1000 mg,Twice daily with meals,2024-05-31,2024-07-26,3
+606,534,134,Metformin,500 mg,Twice daily with meals,2025-03-27,,10
+607,408,127,Gabapentin,300 mg,Three times daily,2024-10-17,,6
+608,317,15,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-05-16,,10
+609,51,221,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-21,2024-12-19,2
+610,509,183,Omeprazole,20 mg,Once daily before breakfast,2024-11-22,,11
+611,147,125,Ramipril,10 mg,Once daily,2025-02-28,,11
+612,184,127,Omeprazole,40 mg,Once daily before breakfast,2024-12-22,,11
+613,225,161,Lisinopril,20 mg,Once daily,2025-01-07,2025-03-04,1
+614,661,233,Ramipril,5 mg,Once daily,2023-07-01,2023-09-29,2
+615,194,192,Lisinopril,5 mg,Once daily,2024-09-28,,6
+616,606,126,Ramipril,10 mg,Once daily,2024-05-18,2024-06-01,2
+617,345,52,Gabapentin,300 mg,Three times daily,2025-06-08,,10
+618,91,142,Sertraline,100 mg,Once daily,2025-02-18,2025-04-15,3
+619,283,136,Atorvastatin,10 mg,Once daily at night,2024-07-06,,6
+620,471,233,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-30,2024-12-14,2
+621,465,90,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-10-18,,8
+622,77,77,Apixaban,5 mg,Twice daily,2025-03-04,2025-03-18,0
+623,199,171,Metformin,500 mg,Twice daily with meals,2025-06-17,2025-07-15,0
+624,595,116,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-04-14,,11
+625,293,115,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-05-14,2024-07-09,0
+626,332,219,Bisoprolol,5 mg,Once daily,2025-05-04,2025-05-11,2
+627,761,184,Atorvastatin,20 mg,Once daily at night,2025-04-05,2025-05-31,0
+628,230,23,Prednisolone,5 mg,"Once daily, reducing course",2025-02-03,2025-02-17,1
+629,245,45,Omeprazole,40 mg,Once daily before breakfast,2025-01-14,2025-03-11,3
+630,41,166,Sertraline,50 mg,Once daily,2025-05-31,,5
+631,646,228,Furosemide,40 mg,Once daily in the morning,2024-01-18,2024-02-01,1
+632,684,150,Prednisolone,25 mg,"Once daily, reducing course",2023-11-09,2023-11-16,2
+633,691,202,Metformin,850 mg,Twice daily with meals,2025-04-11,2025-06-06,0
+634,162,95,Cetirizine,10 mg,Once daily,2025-06-10,,10
+635,190,88,Atorvastatin,20 mg,Once daily at night,2024-10-30,2025-01-28,3
+636,432,79,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-07-08,2024-10-06,3
+637,357,55,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-22,2025-08-17,2
+638,416,189,Ibuprofen,200 mg,Three times daily after food,2024-12-06,2025-01-31,1
+639,238,77,Sertraline,50 mg,Once daily,2024-06-17,2024-06-24,0
+640,714,201,Bisoprolol,5 mg,Once daily,2025-04-16,2025-07-15,3
+641,572,78,Amoxicillin,500 mg,Three times daily for 7 days,2023-07-05,,7
+642,158,105,Amlodipine,5 mg,Once daily,2024-01-04,,11
+643,68,57,Lisinopril,5 mg,Once daily,2024-08-29,,6
+644,739,117,Ibuprofen,400 mg,Three times daily after food,2025-03-09,,5
+645,527,203,Amoxicillin,250 mg,Three times daily for 7 days,2023-06-19,2023-07-03,2
+646,675,67,Furosemide,40 mg,Once daily in the morning,2025-01-27,,5
+647,479,191,Bisoprolol,2.5 mg,Once daily,2024-01-15,,9
+648,698,53,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-10-12,,10
+649,85,18,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-01-02,,8
+650,697,102,Ibuprofen,200 mg,Three times daily after food,2024-09-26,,5
+651,241,205,Cetirizine,10 mg,Once daily,2025-06-14,2025-07-12,2
+652,156,51,Sertraline,50 mg,Once daily,2024-07-19,2024-07-26,1
+653,542,22,Bisoprolol,2.5 mg,Once daily,2025-03-07,2025-05-02,3
+654,756,72,Omeprazole,40 mg,Once daily before breakfast,2025-02-26,,6
+655,406,233,Amlodipine,5 mg,Once daily,2025-02-10,,5
+656,273,66,Lisinopril,10 mg,Once daily,2024-12-30,2025-01-27,0
+657,423,246,Bisoprolol,5 mg,Once daily,2024-04-28,2024-05-12,2
+658,209,138,Cetirizine,10 mg,Once daily,2025-05-15,,7
+659,785,34,Amlodipine,5 mg,Once daily,2024-11-05,2025-02-03,2
+660,251,158,Atorvastatin,40 mg,Once daily at night,2024-11-01,2024-12-27,2
+661,316,137,Metformin,850 mg,Twice daily with meals,2023-10-24,,9
+662,728,125,Gabapentin,300 mg,Three times daily,2024-08-03,2024-08-10,2
+663,87,53,Sertraline,100 mg,Once daily,2025-02-03,,11
+664,559,196,Omeprazole,20 mg,Once daily before breakfast,2024-06-09,,6
+665,199,107,Ibuprofen,400 mg,Three times daily after food,2023-07-23,,7
+666,758,55,Atorvastatin,40 mg,Once daily at night,2025-01-09,2025-04-09,3
+667,531,231,Amlodipine,5 mg,Once daily,2025-04-20,,7
+668,746,188,Ibuprofen,200 mg,Three times daily after food,2023-10-03,,10
+669,169,242,Ibuprofen,400 mg,Three times daily after food,2024-01-16,,6
+670,629,224,Furosemide,20 mg,Once daily in the morning,2024-07-09,2024-10-07,1
+671,197,132,Cetirizine,10 mg,Once daily,2024-11-01,,11
+672,50,5,Ibuprofen,600 mg,Three times daily after food,2023-12-20,2023-12-27,1
+673,654,74,Salbutamol,100 mcg/dose,Two puffs as required,2024-06-11,,9
+674,774,6,Gabapentin,300 mg,Three times daily,2025-03-18,,11
+675,28,61,Ramipril,5 mg,Once daily,2024-08-10,,11
+676,633,212,Atorvastatin,20 mg,Once daily at night,2025-04-04,2025-05-30,2
+677,81,193,Levothyroxine,50 mcg,Once daily on an empty stomach,2023-06-24,,6
+678,34,32,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-01-10,2025-03-07,3
+679,555,237,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-04-10,2025-06-05,1
+680,714,145,Levothyroxine,50 mcg,Once daily on an empty stomach,2023-09-30,,9
+681,757,137,Atorvastatin,10 mg,Once daily at night,2024-11-12,2025-02-10,1
+682,695,205,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-30,2025-06-25,1
+683,318,243,Cetirizine,10 mg,Once daily,2025-01-07,2025-01-14,3
+684,7,11,Atorvastatin,10 mg,Once daily at night,2024-03-09,,9
+685,370,17,Gabapentin,300 mg,Three times daily,2025-02-15,2025-04-12,2
+686,174,170,Apixaban,2.5 mg,Twice daily,2025-06-13,2025-07-11,2
+687,371,50,Paracetamol,500 mg,Up to four times daily,2025-03-23,,8
+688,5,76,Sertraline,50 mg,Once daily,2025-01-26,2025-02-02,3
+689,285,242,Ibuprofen,200 mg,Three times daily after food,2025-06-27,2025-07-11,0
+690,279,196,Gabapentin,300 mg,Three times daily,2024-12-13,2025-03-13,0
+691,404,141,Amlodipine,5 mg,Once daily,2025-03-18,,5
+692,220,232,Lisinopril,10 mg,Once daily,2025-05-15,2025-05-29,2
+693,596,246,Lisinopril,10 mg,Once daily,2025-02-10,2025-02-17,1
+694,773,185,Lisinopril,20 mg,Once daily,2025-05-24,2025-06-21,2
+695,63,226,Cetirizine,10 mg,Once daily,2025-04-10,2025-04-17,1
+696,545,242,Atorvastatin,20 mg,Once daily at night,2025-05-05,,8
+697,747,112,Salbutamol,100 mcg/dose,Two puffs as required,2024-05-23,2024-08-21,3
+698,763,203,Lisinopril,20 mg,Once daily,2025-04-12,2025-04-26,2
+699,137,176,Amlodipine,10 mg,Once daily,2024-12-30,2025-01-06,3
+700,134,98,Salbutamol,100 mcg/dose,Two puffs as required,2023-09-19,2023-10-17,0
+701,46,102,Salbutamol,100 mcg/dose,Two puffs as required,2024-03-25,2024-04-01,0
+702,40,3,Ramipril,10 mg,Once daily,2025-02-25,,9
+703,388,159,Omeprazole,20 mg,Once daily before breakfast,2024-10-09,2024-10-23,1
+704,23,217,Lisinopril,10 mg,Once daily,2024-12-07,2025-03-07,1
+705,481,141,Amlodipine,10 mg,Once daily,2023-12-11,2023-12-25,1
+706,648,223,Omeprazole,40 mg,Once daily before breakfast,2023-12-29,2024-01-05,0
+707,473,44,Amlodipine,5 mg,Once daily,2024-08-18,2024-11-16,3
+708,121,248,Furosemide,40 mg,Once daily in the morning,2025-06-13,,7
+709,786,80,Amlodipine,5 mg,Once daily,2023-04-17,2023-04-24,2
+710,510,23,Omeprazole,40 mg,Once daily before breakfast,2024-03-12,2024-04-09,3
+711,466,139,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-03-06,2025-06-04,3
+712,715,205,Paracetamol,1000 mg,Up to four times daily,2025-01-19,2025-01-26,3
+713,658,201,Sertraline,50 mg,Once daily,2025-06-15,,10
+714,611,224,Metformin,1000 mg,Twice daily with meals,2024-07-03,2024-07-31,2
+715,141,208,Sertraline,50 mg,Once daily,2023-09-04,,10
+716,434,146,Gabapentin,300 mg,Three times daily,2025-05-04,2025-08-02,3
+717,147,207,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-03-26,,6
+718,502,138,Lisinopril,20 mg,Once daily,2024-04-03,,7
+719,795,37,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-05-05,2025-05-19,0
+720,393,45,Omeprazole,40 mg,Once daily before breakfast,2024-06-25,2024-07-09,3
+721,298,146,Lisinopril,20 mg,Once daily,2025-04-18,,6
+722,530,197,Amlodipine,5 mg,Once daily,2024-12-20,,7
+723,345,4,Ramipril,10 mg,Once daily,2025-05-14,,5
+724,180,6,Gabapentin,300 mg,Three times daily,2025-02-24,,6
+725,397,48,Salbutamol,100 mcg/dose,Two puffs as required,2025-02-28,,5
+726,77,54,Paracetamol,1000 mg,Up to four times daily,2024-05-23,2024-06-06,3
+727,192,250,Ibuprofen,600 mg,Three times daily after food,2025-05-21,2025-07-16,3
+728,333,108,Paracetamol,1000 mg,Up to four times daily,2024-03-02,2024-04-27,3
+729,575,145,Metformin,500 mg,Twice daily with meals,2025-06-17,,8
+730,146,54,Omeprazole,40 mg,Once daily before breakfast,2024-07-03,,10
+731,158,217,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-16,2025-09-14,1
+732,420,181,Amlodipine,5 mg,Once daily,2024-02-16,,9
+733,594,207,Amlodipine,5 mg,Once daily,2024-04-04,,10
+734,723,177,Atorvastatin,10 mg,Once daily at night,2025-01-27,,10
+735,57,194,Ibuprofen,600 mg,Three times daily after food,2024-12-28,2025-01-11,3
+736,194,77,Ibuprofen,600 mg,Three times daily after food,2024-11-25,2024-12-09,2
+737,26,172,Paracetamol,1000 mg,Up to four times daily,2025-06-03,,11
+738,234,190,Paracetamol,1000 mg,Up to four times daily,2023-03-04,,7
+739,161,166,Cetirizine,10 mg,Once daily,2023-02-12,2023-04-09,3
+740,183,127,Atorvastatin,20 mg,Once daily at night,2023-12-02,2023-12-09,2
+741,552,116,Paracetamol,1000 mg,Up to four times daily,2024-08-25,2024-09-08,0
+742,57,173,Omeprazole,40 mg,Once daily before breakfast,2025-04-11,,8
+743,558,108,Lisinopril,20 mg,Once daily,2023-07-17,2023-07-31,0
+744,623,207,Amlodipine,10 mg,Once daily,2025-06-07,2025-06-21,2
+745,52,87,Sertraline,100 mg,Once daily,2025-06-09,2025-07-07,0
+746,466,190,Lisinopril,5 mg,Once daily,2024-12-05,2024-12-12,1
+747,367,197,Ramipril,10 mg,Once daily,2023-06-21,2023-07-19,2
+748,248,215,Amlodipine,5 mg,Once daily,2023-12-30,2024-03-29,3
+749,565,246,Apixaban,5 mg,Twice daily,2024-02-06,,8
+750,59,145,Omeprazole,40 mg,Once daily before breakfast,2025-01-07,,8
+751,119,63,Furosemide,20 mg,Once daily in the morning,2025-01-21,2025-03-18,1
+752,201,123,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-07-14,,8
+753,113,145,Salbutamol,100 mcg/dose,Two puffs as required,2024-12-06,2025-03-06,2
+754,105,186,Furosemide,40 mg,Once daily in the morning,2025-04-18,2025-05-02,0
+755,612,116,Omeprazole,40 mg,Once daily before breakfast,2025-05-21,,9
+756,21,29,Ramipril,10 mg,Once daily,2024-11-17,,7
+757,160,165,Paracetamol,500 mg,Up to four times daily,2024-06-24,2024-07-22,2
+758,612,159,Ibuprofen,400 mg,Three times daily after food,2024-12-20,2025-01-17,3
+759,491,4,Paracetamol,1000 mg,Up to four times daily,2025-04-18,,11
+760,510,47,Salbutamol,100 mcg/dose,Two puffs as required,2025-03-19,2025-04-02,3
+761,12,82,Omeprazole,20 mg,Once daily before breakfast,2025-06-13,2025-06-27,2
+762,460,174,Gabapentin,300 mg,Three times daily,2024-08-06,2024-08-20,2
+763,274,105,Levothyroxine,50 mcg,Once daily on an empty stomach,2023-10-08,2024-01-06,2
+764,380,222,Furosemide,20 mg,Once daily in the morning,2025-01-15,,7
+765,577,101,Atorvastatin,40 mg,Once daily at night,2024-11-23,2024-11-30,3
+766,45,24,Ibuprofen,400 mg,Three times daily after food,2024-10-01,2024-11-26,3
+767,650,86,Bisoprolol,2.5 mg,Once daily,2024-01-27,2024-04-26,0
+768,752,21,Ramipril,2.5 mg,Once daily,2024-01-31,,8
+769,723,4,Paracetamol,1000 mg,Up to four times daily,2025-02-12,,11
+770,690,38,Metformin,500 mg,Twice daily with meals,2024-08-16,2024-10-11,3
+771,720,195,Salbutamol,100 mcg/dose,Two puffs as required,2025-03-30,,8
+772,686,19,Paracetamol,500 mg,Up to four times daily,2025-01-03,2025-01-31,1
+773,319,179,Prednisolone,5 mg,"Once daily, reducing course",2024-10-18,,5
+774,24,39,Apixaban,5 mg,Twice daily,2025-06-03,2025-06-17,1
+775,773,156,Gabapentin,300 mg,Three times daily,2024-10-11,2024-10-25,3
+776,444,104,Prednisolone,5 mg,"Once daily, reducing course",2024-10-03,,7
+777,402,166,Atorvastatin,10 mg,Once daily at night,2024-07-31,2024-08-14,0
+778,137,101,Bisoprolol,5 mg,Once daily,2024-09-28,,5
+779,270,99,Omeprazole,40 mg,Once daily before breakfast,2025-04-22,2025-05-06,3
+780,62,196,Prednisolone,5 mg,"Once daily, reducing course",2024-10-15,,8
+781,779,202,Furosemide,20 mg,Once daily in the morning,2024-01-10,,5
+782,248,162,Paracetamol,1000 mg,Up to four times daily,2023-09-24,,8
+783,206,95,Lisinopril,5 mg,Once daily,2025-03-15,2025-06-13,2
+784,662,17,Metformin,850 mg,Twice daily with meals,2024-12-05,,6
+785,474,114,Atorvastatin,10 mg,Once daily at night,2025-04-16,,9
+786,158,248,Omeprazole,20 mg,Once daily before breakfast,2024-02-01,,9
+787,222,202,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-12-10,2025-01-07,2
+788,452,48,Prednisolone,5 mg,"Once daily, reducing course",2025-06-06,,9
+789,754,5,Apixaban,2.5 mg,Twice daily,2025-02-28,2025-03-14,1
+790,15,98,Ibuprofen,600 mg,Three times daily after food,2024-03-15,2024-05-10,1
+791,238,81,Metformin,500 mg,Twice daily with meals,2024-05-02,2024-05-16,3
+792,435,75,Metformin,1000 mg,Twice daily with meals,2024-11-16,,7
+793,242,216,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-09-30,,5
+794,62,97,Amoxicillin,500 mg,Three times daily for 7 days,2025-01-06,2025-01-13,2
+795,348,176,Amlodipine,5 mg,Once daily,2025-01-31,2025-03-28,0
+796,796,51,Bisoprolol,5 mg,Once daily,2023-05-03,2023-08-01,2
+797,34,213,Sertraline,50 mg,Once daily,2025-05-08,2025-05-15,2
+798,64,229,Atorvastatin,40 mg,Once daily at night,2023-07-24,,10
+799,699,145,Omeprazole,40 mg,Once daily before breakfast,2025-02-13,,10
+800,619,60,Salbutamol,100 mcg/dose,Two puffs as required,2024-12-15,2024-12-29,2
+801,565,103,Lisinopril,5 mg,Once daily,2025-02-05,,7
+802,792,45,Atorvastatin,20 mg,Once daily at night,2024-06-14,,11
+803,727,166,Ibuprofen,200 mg,Three times daily after food,2025-06-24,,6
+804,17,243,Furosemide,40 mg,Once daily in the morning,2023-12-18,2024-01-01,1
+805,63,10,Omeprazole,20 mg,Once daily before breakfast,2025-02-22,2025-03-22,3
+806,392,21,Metformin,1000 mg,Twice daily with meals,2025-04-11,2025-06-06,3
+807,555,20,Omeprazole,40 mg,Once daily before breakfast,2024-08-09,,11
+808,316,217,Metformin,500 mg,Twice daily with meals,2024-11-18,2024-12-16,0
+809,637,79,Amlodipine,10 mg,Once daily,2024-12-11,,9
+810,432,3,Paracetamol,500 mg,Up to four times daily,2024-08-06,,6
+811,478,187,Lisinopril,5 mg,Once daily,2025-05-17,,11
+812,693,144,Ramipril,10 mg,Once daily,2025-03-23,2025-05-18,3
+813,218,1,Atorvastatin,10 mg,Once daily at night,2023-08-22,,10
+814,643,99,Ibuprofen,600 mg,Three times daily after food,2023-06-27,,10
+815,233,1,Ramipril,10 mg,Once daily,2025-06-11,2025-06-18,2
+816,515,124,Omeprazole,40 mg,Once daily before breakfast,2025-01-26,2025-03-23,1
+817,525,4,Lisinopril,20 mg,Once daily,2024-05-11,2024-08-09,2
+818,101,46,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-04-21,2025-05-05,1
+819,555,6,Prednisolone,5 mg,"Once daily, reducing course",2024-03-19,2024-06-17,3
+820,511,34,Omeprazole,20 mg,Once daily before breakfast,2024-09-09,,7
+821,392,160,Amlodipine,5 mg,Once daily,2025-06-27,2025-07-11,1
+822,327,16,Atorvastatin,40 mg,Once daily at night,2025-02-06,,7
+823,495,81,Omeprazole,20 mg,Once daily before breakfast,2023-11-19,,7
+824,16,200,Furosemide,40 mg,Once daily in the morning,2024-05-26,,10
+825,109,130,Salbutamol,100 mcg/dose,Two puffs as required,2024-10-25,,10
+826,26,50,Lisinopril,10 mg,Once daily,2025-06-06,,6
+827,745,171,Bisoprolol,2.5 mg,Once daily,2025-01-08,2025-01-15,2
+828,176,57,Lisinopril,5 mg,Once daily,2024-10-28,2024-11-25,3
+829,203,26,Salbutamol,100 mcg/dose,Two puffs as required,2025-03-29,,9
+830,553,27,Amlodipine,10 mg,Once daily,2025-03-20,2025-05-15,0
+831,465,139,Ibuprofen,600 mg,Three times daily after food,2024-10-01,2024-12-30,1
+832,387,47,Omeprazole,20 mg,Once daily before breakfast,2025-01-21,2025-01-28,2
+833,13,67,Amoxicillin,500 mg,Three times daily for 7 days,2023-09-14,2023-09-21,3
+834,734,121,Furosemide,20 mg,Once daily in the morning,2025-02-15,2025-03-15,2
+835,442,42,Amoxicillin,500 mg,Three times daily for 7 days,2023-12-07,2023-12-21,2
+836,658,141,Amoxicillin,250 mg,Three times daily for 7 days,2025-05-11,,11
+837,592,203,Paracetamol,500 mg,Up to four times daily,2024-12-17,,6
+838,354,81,Omeprazole,40 mg,Once daily before breakfast,2025-03-19,,10
+839,110,52,Gabapentin,300 mg,Three times daily,2024-10-29,,9
+840,148,122,Paracetamol,1000 mg,Up to four times daily,2025-01-31,,9
+841,161,222,Paracetamol,1000 mg,Up to four times daily,2025-01-26,,11
+842,786,27,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-02-04,,10
+843,123,134,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-09-30,2024-12-29,1
+844,111,24,Furosemide,20 mg,Once daily in the morning,2025-03-18,,8
+845,541,128,Sertraline,50 mg,Once daily,2025-03-02,,8
+846,349,185,Ibuprofen,400 mg,Three times daily after food,2023-04-30,2023-05-07,3
+847,689,60,Metformin,500 mg,Twice daily with meals,2025-02-23,2025-03-23,1
+848,744,35,Gabapentin,300 mg,Three times daily,2025-03-14,2025-03-21,1
+849,795,189,Lisinopril,20 mg,Once daily,2025-03-18,2025-04-15,0
+850,761,241,Atorvastatin,10 mg,Once daily at night,2025-05-29,,10
+851,128,15,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-04-10,,8
+852,480,119,Metformin,850 mg,Twice daily with meals,2025-05-16,2025-08-14,0
+853,730,160,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-06-24,2025-09-22,0
+854,309,197,Prednisolone,5 mg,"Once daily, reducing course",2025-05-12,2025-06-09,1
+855,559,1,Omeprazole,20 mg,Once daily before breakfast,2024-12-21,2025-01-18,3
+856,197,28,Amlodipine,5 mg,Once daily,2024-12-09,2025-01-06,1
+857,551,30,Amoxicillin,250 mg,Three times daily for 7 days,2025-01-15,,7
+858,496,244,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-05-21,2025-08-19,0
+859,727,29,Gabapentin,300 mg,Three times daily,2025-05-06,2025-06-03,1
+860,653,202,Metformin,850 mg,Twice daily with meals,2024-10-05,2024-11-30,3
+861,533,167,Gabapentin,300 mg,Three times daily,2025-04-04,,5
+862,231,97,Lisinopril,20 mg,Once daily,2025-02-16,2025-03-16,0
+863,677,49,Amlodipine,5 mg,Once daily,2025-06-29,,5
+864,325,248,Metformin,850 mg,Twice daily with meals,2025-02-11,2025-02-25,1
+865,566,160,Amlodipine,5 mg,Once daily,2024-09-24,,9
+866,432,11,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-01-08,2025-03-05,1
+867,337,160,Ibuprofen,200 mg,Three times daily after food,2024-04-01,,11
+868,534,173,Ramipril,5 mg,Once daily,2024-07-16,,10
+869,287,74,Cetirizine,10 mg,Once daily,2025-03-30,,7
+870,683,123,Amlodipine,10 mg,Once daily,2023-08-10,2023-09-07,0
+871,18,231,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-06-12,2025-07-10,1
+872,113,242,Atorvastatin,20 mg,Once daily at night,2023-03-13,2023-05-08,1
+873,484,245,Paracetamol,1000 mg,Up to four times daily,2025-02-18,2025-04-15,1
+874,32,45,Sertraline,50 mg,Once daily,2024-12-03,2025-01-28,1
+875,143,122,Cetirizine,10 mg,Once daily,2024-09-22,2024-11-17,2
+876,676,53,Prednisolone,25 mg,"Once daily, reducing course",2025-02-24,,11
+877,756,249,Atorvastatin,20 mg,Once daily at night,2024-06-15,2024-06-29,2
+878,83,250,Ramipril,5 mg,Once daily,2025-04-20,2025-06-15,3
+879,565,62,Sertraline,50 mg,Once daily,2024-04-18,2024-05-16,0
+880,454,55,Amlodipine,10 mg,Once daily,2024-02-28,2024-03-13,1
+881,692,28,Ramipril,5 mg,Once daily,2025-05-24,2025-06-21,2
+882,347,229,Sertraline,100 mg,Once daily,2025-05-08,2025-05-22,1
+883,408,151,Gabapentin,300 mg,Three times daily,2025-02-14,,11
+884,631,55,Gabapentin,300 mg,Three times daily,2024-10-25,2024-11-22,0
+885,188,138,Paracetamol,1000 mg,Up to four times daily,2025-06-07,2025-06-14,1
+886,351,9,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-08,2025-06-22,2
+887,137,206,Lisinopril,20 mg,Once daily,2025-05-17,,6
+888,217,192,Metformin,850 mg,Twice daily with meals,2024-08-30,,9
+889,447,209,Lisinopril,5 mg,Once daily,2024-10-11,2024-10-25,1
+890,668,208,Cetirizine,10 mg,Once daily,2025-03-11,,8
+891,631,208,Lisinopril,20 mg,Once daily,2025-02-13,2025-03-13,2
+892,4,44,Lisinopril,5 mg,Once daily,2024-01-23,2024-03-19,0
+893,678,169,Atorvastatin,20 mg,Once daily at night,2024-09-15,2024-10-13,0
+894,236,131,Gabapentin,300 mg,Three times daily,2024-12-18,,8
+895,46,160,Cetirizine,10 mg,Once daily,2024-09-25,2024-10-02,2
+896,270,115,Omeprazole,40 mg,Once daily before breakfast,2024-03-24,2024-06-22,1
+897,770,135,Amlodipine,5 mg,Once daily,2024-08-10,2024-11-08,3
+898,339,196,Ibuprofen,400 mg,Three times daily after food,2025-04-07,,7
+899,145,31,Paracetamol,500 mg,Up to four times daily,2023-11-17,2023-12-01,3
+900,539,183,Metformin,1000 mg,Twice daily with meals,2024-07-29,2024-10-27,2
+901,570,138,Omeprazole,20 mg,Once daily before breakfast,2024-07-10,2024-08-07,1
+902,519,234,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-12,,8
+903,267,24,Amlodipine,10 mg,Once daily,2024-12-08,,10
+904,541,97,Sertraline,50 mg,Once daily,2025-05-19,,6
+905,449,22,Sertraline,50 mg,Once daily,2025-04-15,2025-04-29,2
+906,366,109,Sertraline,100 mg,Once daily,2023-12-24,2024-02-18,1
+907,200,126,Ibuprofen,200 mg,Three times daily after food,2025-06-29,2025-07-27,0
+908,450,50,Sertraline,50 mg,Once daily,2025-01-20,2025-01-27,1
+909,55,33,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-02-24,2025-04-21,0
+910,153,135,Bisoprolol,2.5 mg,Once daily,2024-08-25,,6
+911,516,236,Amoxicillin,250 mg,Three times daily for 7 days,2023-12-30,,9
+912,555,145,Gabapentin,300 mg,Three times daily,2025-02-28,,5
+913,336,201,Ibuprofen,200 mg,Three times daily after food,2024-09-17,2024-09-24,1
+914,644,138,Amoxicillin,500 mg,Three times daily for 7 days,2025-03-15,2025-04-12,3
+915,595,176,Lisinopril,5 mg,Once daily,2024-09-22,2024-09-29,3
+916,459,71,Amlodipine,10 mg,Once daily,2025-04-24,2025-05-22,1
+917,480,106,Atorvastatin,10 mg,Once daily at night,2025-02-24,2025-03-24,2
+918,687,182,Amoxicillin,500 mg,Three times daily for 7 days,2025-05-14,2025-05-21,2
+919,288,55,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-01-07,2025-04-07,0
+920,550,167,Amoxicillin,500 mg,Three times daily for 7 days,2025-06-09,2025-09-07,1
+921,426,184,Atorvastatin,10 mg,Once daily at night,2023-09-30,,8
+922,404,79,Amlodipine,10 mg,Once daily,2024-04-13,2024-05-11,1
+923,109,110,Gabapentin,300 mg,Three times daily,2024-06-19,2024-08-14,0
+924,744,65,Ibuprofen,400 mg,Three times daily after food,2024-10-20,2024-11-17,0
+925,784,203,Ramipril,10 mg,Once daily,2024-05-27,2024-07-22,1
+926,732,86,Ramipril,10 mg,Once daily,2024-04-27,2024-06-22,0
+927,658,17,Apixaban,2.5 mg,Twice daily,2024-09-23,2024-12-22,3
+928,289,219,Lisinopril,10 mg,Once daily,2023-09-23,,11
+929,320,143,Amoxicillin,500 mg,Three times daily for 7 days,2024-12-11,,5
+930,754,72,Ibuprofen,200 mg,Three times daily after food,2025-04-16,2025-04-30,3
+931,131,31,Sertraline,100 mg,Once daily,2025-06-05,,6
+932,181,172,Atorvastatin,40 mg,Once daily at night,2025-04-17,,10
+933,615,126,Ramipril,10 mg,Once daily,2025-05-03,2025-05-17,1
+934,108,65,Omeprazole,40 mg,Once daily before breakfast,2023-04-03,,10
+935,272,236,Ibuprofen,200 mg,Three times daily after food,2024-07-29,,5
+936,304,207,Furosemide,40 mg,Once daily in the morning,2025-02-02,2025-03-30,3
+937,350,58,Bisoprolol,2.5 mg,Once daily,2024-04-25,,7
+938,48,133,Metformin,1000 mg,Twice daily with meals,2025-02-27,2025-03-13,0
+939,431,228,Omeprazole,20 mg,Once daily before breakfast,2025-03-12,2025-04-09,0
+940,78,65,Metformin,500 mg,Twice daily with meals,2023-10-18,2023-12-13,1
+941,89,188,Atorvastatin,20 mg,Once daily at night,2024-05-04,,11
+942,244,50,Omeprazole,40 mg,Once daily before breakfast,2024-10-22,,8
+943,320,91,Lisinopril,20 mg,Once daily,2023-05-30,2023-06-13,1
+944,46,81,Lisinopril,10 mg,Once daily,2023-10-03,2024-01-01,3
+945,92,216,Amlodipine,5 mg,Once daily,2024-05-23,2024-07-18,2
+946,733,250,Paracetamol,500 mg,Up to four times daily,2024-12-22,2024-12-29,1
+947,741,66,Paracetamol,1000 mg,Up to four times daily,2024-11-01,,8
+948,291,32,Lisinopril,5 mg,Once daily,2024-05-30,,6
+949,45,241,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-26,2025-09-24,1
+950,581,179,Bisoprolol,2.5 mg,Once daily,2025-04-03,2025-05-29,2
+951,167,185,Metformin,500 mg,Twice daily with meals,2025-05-21,,8
+952,771,164,Gabapentin,300 mg,Three times daily,2024-10-14,,9
+953,318,17,Furosemide,20 mg,Once daily in the morning,2025-03-23,2025-04-20,0
+954,358,223,Ramipril,2.5 mg,Once daily,2025-06-07,2025-09-05,3
+955,591,72,Ibuprofen,600 mg,Three times daily after food,2025-04-08,2025-04-22,2
+956,358,56,Ibuprofen,600 mg,Three times daily after food,2023-06-29,2023-08-24,1
+957,644,202,Lisinopril,10 mg,Once daily,2025-05-04,2025-06-01,3
+958,91,168,Ibuprofen,400 mg,Three times daily after food,2025-05-13,2025-07-08,1
+959,613,205,Ibuprofen,200 mg,Three times daily after food,2024-06-05,2024-06-19,0
+960,4,103,Amlodipine,10 mg,Once daily,2024-02-09,2024-02-16,2
+961,637,238,Salbutamol,100 mcg/dose,Two puffs as required,2025-01-29,,7
+962,680,18,Metformin,850 mg,Twice daily with meals,2025-04-27,2025-07-26,1
+963,792,246,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-05-15,2024-05-29,0
+964,440,133,Prednisolone,25 mg,"Once daily, reducing course",2024-02-27,2024-03-05,1
+965,537,165,Amoxicillin,250 mg,Three times daily for 7 days,2025-04-14,2025-05-12,2
+966,541,169,Apixaban,5 mg,Twice daily,2024-05-22,2024-07-17,0
+967,360,115,Cetirizine,10 mg,Once daily,2024-07-14,,9
+968,374,73,Lisinopril,20 mg,Once daily,2025-04-06,2025-07-05,2
+969,315,202,Metformin,1000 mg,Twice daily with meals,2025-02-28,,7
+970,477,39,Amlodipine,5 mg,Once daily,2025-03-22,2025-05-17,3
+971,590,192,Cetirizine,10 mg,Once daily,2023-11-17,,10
+972,347,2,Furosemide,40 mg,Once daily in the morning,2024-01-08,2024-02-05,1
+973,179,38,Amoxicillin,500 mg,Three times daily for 7 days,2024-07-14,2024-07-21,3
+974,521,189,Lisinopril,5 mg,Once daily,2025-02-24,2025-03-24,0
+975,4,109,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-03-28,,7
+976,274,181,Lisinopril,5 mg,Once daily,2024-04-04,,10
+977,69,28,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-06-17,,9
+978,402,66,Ramipril,5 mg,Once daily,2024-05-27,2024-06-03,2
+979,347,102,Bisoprolol,5 mg,Once daily,2025-06-23,2025-07-21,2
+980,260,3,Paracetamol,500 mg,Up to four times daily,2024-05-17,2024-08-15,2
+981,178,211,Ramipril,10 mg,Once daily,2025-03-06,2025-03-13,3
+982,440,142,Gabapentin,300 mg,Three times daily,2024-06-18,2024-09-16,3
+983,278,205,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-05-31,,10
+984,358,97,Ibuprofen,200 mg,Three times daily after food,2024-06-07,2024-07-05,3
+985,116,2,Amlodipine,5 mg,Once daily,2024-01-18,,5
+986,551,86,Ibuprofen,400 mg,Three times daily after food,2025-02-05,2025-02-19,3
+987,492,246,Atorvastatin,20 mg,Once daily at night,2025-04-24,,11
+988,306,106,Salbutamol,100 mcg/dose,Two puffs as required,2025-02-13,,6
+989,120,218,Amlodipine,10 mg,Once daily,2024-07-07,2024-09-01,2
+990,439,123,Lisinopril,5 mg,Once daily,2024-03-11,2024-06-09,1
+991,560,246,Omeprazole,40 mg,Once daily before breakfast,2023-11-21,,11
+992,691,76,Amlodipine,5 mg,Once daily,2025-05-27,,9
+993,317,157,Sertraline,50 mg,Once daily,2024-03-30,2024-04-13,2
+994,717,142,Ramipril,5 mg,Once daily,2024-07-16,2024-09-10,1
+995,10,64,Paracetamol,1000 mg,Up to four times daily,2023-07-01,2023-07-15,1
+996,602,100,Sertraline,100 mg,Once daily,2023-12-22,2024-03-21,3
+997,511,149,Ramipril,10 mg,Once daily,2024-11-04,2024-12-02,1
+998,539,189,Metformin,850 mg,Twice daily with meals,2024-06-17,2024-06-24,3
+999,527,237,Sertraline,100 mg,Once daily,2024-04-24,,5
+1000,441,146,Ibuprofen,200 mg,Three times daily after food,2024-05-29,2024-06-12,3
+1001,412,178,Atorvastatin,20 mg,Once daily at night,2024-07-15,,7
+1002,133,86,Amlodipine,5 mg,Once daily,2025-03-12,2025-04-09,2
+1003,281,114,Ibuprofen,400 mg,Three times daily after food,2024-08-28,2024-09-04,3
+1004,494,156,Ibuprofen,400 mg,Three times daily after food,2025-03-12,2025-03-19,0
+1005,725,8,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-09-18,2024-10-02,2
+1006,604,61,Omeprazole,40 mg,Once daily before breakfast,2024-12-30,,9
+1007,291,234,Sertraline,50 mg,Once daily,2024-10-22,2025-01-20,2
+1008,773,214,Atorvastatin,40 mg,Once daily at night,2024-08-24,,5
+1009,633,6,Prednisolone,5 mg,"Once daily, reducing course",2024-09-17,2024-12-16,0
+1010,172,162,Amlodipine,10 mg,Once daily,2024-10-26,,9
+1011,537,139,Omeprazole,40 mg,Once daily before breakfast,2025-04-10,,11
+1012,295,111,Lisinopril,5 mg,Once daily,2024-01-29,2024-02-12,3
+1013,792,85,Sertraline,100 mg,Once daily,2024-03-29,,7
+1014,575,59,Ibuprofen,600 mg,Three times daily after food,2024-10-03,2024-11-28,0
+1015,419,196,Apixaban,5 mg,Twice daily,2025-03-13,,7
+1016,414,185,Atorvastatin,40 mg,Once daily at night,2024-06-25,,8
+1017,767,172,Metformin,1000 mg,Twice daily with meals,2025-05-17,2025-05-31,1
+1018,225,121,Salbutamol,100 mcg/dose,Two puffs as required,2024-12-13,2025-01-10,1
+1019,451,160,Paracetamol,1000 mg,Up to four times daily,2024-11-12,,8
+1020,287,26,Paracetamol,1000 mg,Up to four times daily,2025-05-23,,5
+1021,125,25,Ibuprofen,600 mg,Three times daily after food,2024-08-12,2024-08-19,0
+1022,128,10,Ibuprofen,600 mg,Three times daily after food,2023-12-31,,5
+1023,351,69,Metformin,500 mg,Twice daily with meals,2025-01-29,,5
+1024,277,195,Atorvastatin,10 mg,Once daily at night,2024-12-26,2025-01-09,0
+1025,392,156,Cetirizine,10 mg,Once daily,2024-12-06,,8
+1026,543,168,Paracetamol,1000 mg,Up to four times daily,2025-03-15,2025-04-12,0
+1027,603,194,Paracetamol,1000 mg,Up to four times daily,2024-04-10,2024-07-09,1
+1028,746,145,Lisinopril,10 mg,Once daily,2023-12-04,,5
+1029,527,17,Gabapentin,300 mg,Three times daily,2025-06-19,,6
+1030,365,120,Lisinopril,20 mg,Once daily,2024-09-03,,7
+1031,435,226,Ibuprofen,200 mg,Three times daily after food,2024-05-14,2024-05-28,3
+1032,153,220,Bisoprolol,2.5 mg,Once daily,2024-02-13,2024-04-09,0
+1033,70,161,Levothyroxine,75 mcg,Once daily on an empty stomach,2023-10-26,2024-01-24,0
+1034,472,197,Amlodipine,10 mg,Once daily,2023-11-08,2023-11-22,0
+1035,111,164,Bisoprolol,5 mg,Once daily,2025-01-31,,7
+1036,23,127,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-05-26,2025-06-23,2
+1037,105,85,Amoxicillin,250 mg,Three times daily for 7 days,2025-01-13,2025-03-10,1
+1038,685,176,Metformin,1000 mg,Twice daily with meals,2025-02-13,2025-02-27,3
+1039,93,87,Gabapentin,300 mg,Three times daily,2025-02-15,,7
+1040,325,20,Cetirizine,10 mg,Once daily,2024-12-26,2025-03-26,1
+1041,316,66,Amoxicillin,250 mg,Three times daily for 7 days,2024-03-19,2024-04-02,2
+1042,433,90,Sertraline,50 mg,Once daily,2024-12-22,,9
+1043,297,246,Amoxicillin,250 mg,Three times daily for 7 days,2025-05-18,,7
+1044,556,160,Salbutamol,100 mcg/dose,Two puffs as required,2025-02-05,2025-02-19,1
+1045,423,75,Metformin,850 mg,Twice daily with meals,2023-09-09,2023-09-23,2
+1046,591,172,Atorvastatin,10 mg,Once daily at night,2025-06-23,2025-07-07,2
+1047,342,189,Bisoprolol,5 mg,Once daily,2025-03-20,,10
+1048,124,229,Metformin,500 mg,Twice daily with meals,2025-01-26,2025-02-23,0
+1049,92,207,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-01-15,,10
+1050,291,199,Salbutamol,100 mcg/dose,Two puffs as required,2025-05-12,2025-07-07,2
+1051,282,71,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-18,2025-07-16,3
+1052,610,95,Lisinopril,5 mg,Once daily,2025-05-19,2025-07-14,1
+1053,704,120,Omeprazole,20 mg,Once daily before breakfast,2025-03-30,,6
+1054,112,192,Bisoprolol,2.5 mg,Once daily,2024-12-30,,9
+1055,48,168,Levothyroxine,75 mcg,Once daily on an empty stomach,2023-09-23,2023-11-18,0
+1056,569,164,Sertraline,50 mg,Once daily,2023-11-22,2023-12-20,3
+1057,491,226,Sertraline,100 mg,Once daily,2024-09-30,2024-11-25,0
+1058,283,170,Lisinopril,20 mg,Once daily,2023-06-19,2023-07-03,1
+1059,53,162,Salbutamol,100 mcg/dose,Two puffs as required,2024-03-16,2024-05-11,2
+1060,356,114,Paracetamol,500 mg,Up to four times daily,2025-03-04,,6
+1061,511,170,Omeprazole,20 mg,Once daily before breakfast,2024-11-20,,11
+1062,60,163,Metformin,1000 mg,Twice daily with meals,2024-02-05,,8
+1063,424,164,Metformin,850 mg,Twice daily with meals,2023-11-23,,8
+1064,381,242,Prednisolone,5 mg,"Once daily, reducing course",2024-11-10,,7
+1065,612,151,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-05-09,2025-05-16,0
+1066,546,87,Furosemide,40 mg,Once daily in the morning,2025-02-19,2025-03-05,0
+1067,585,2,Ramipril,10 mg,Once daily,2025-01-29,,5
+1068,191,249,Atorvastatin,10 mg,Once daily at night,2025-06-30,,9
+1069,548,94,Apixaban,5 mg,Twice daily,2025-02-08,,10
+1070,31,47,Gabapentin,300 mg,Three times daily,2025-02-08,2025-05-09,0
+1071,324,44,Paracetamol,500 mg,Up to four times daily,2025-06-20,,5
+1072,217,198,Amlodipine,10 mg,Once daily,2025-06-13,2025-09-11,1
+1073,10,220,Apixaban,2.5 mg,Twice daily,2025-04-28,2025-05-12,0
+1074,485,190,Lisinopril,5 mg,Once daily,2025-05-08,,9
+1075,393,138,Lisinopril,5 mg,Once daily,2024-11-05,2025-02-03,0
+1076,415,111,Metformin,500 mg,Twice daily with meals,2025-02-04,,6
+1077,88,220,Cetirizine,10 mg,Once daily,2025-03-25,,6
+1078,607,186,Lisinopril,5 mg,Once daily,2023-12-31,2024-01-28,1
+1079,16,188,Ibuprofen,200 mg,Three times daily after food,2023-06-04,2023-06-18,1
+1080,362,226,Ramipril,10 mg,Once daily,2024-04-01,,5
+1081,518,159,Atorvastatin,20 mg,Once daily at night,2025-04-23,,5
+1082,739,199,Salbutamol,100 mcg/dose,Two puffs as required,2025-03-01,,9
+1083,680,223,Ibuprofen,200 mg,Three times daily after food,2025-01-23,,6
+1084,564,222,Paracetamol,500 mg,Up to four times daily,2025-02-27,,6
+1085,139,41,Sertraline,100 mg,Once daily,2025-05-01,,10
+1086,745,33,Salbutamol,100 mcg/dose,Two puffs as required,2024-08-31,,10
+1087,450,234,Atorvastatin,20 mg,Once daily at night,2025-06-24,2025-07-22,2
+1088,651,141,Salbutamol,100 mcg/dose,Two puffs as required,2025-03-04,,6
+1089,55,141,Apixaban,2.5 mg,Twice daily,2025-04-06,2025-04-20,2
+1090,618,173,Omeprazole,40 mg,Once daily before breakfast,2025-04-04,,10
+1091,496,45,Gabapentin,300 mg,Three times daily,2024-11-21,,8
+1092,154,247,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-04-18,,8
+1093,281,206,Atorvastatin,20 mg,Once daily at night,2024-12-06,2025-03-06,2
+1094,622,249,Lisinopril,20 mg,Once daily,2023-12-17,,6
+1095,176,105,Amlodipine,10 mg,Once daily,2025-01-24,2025-02-21,1
+1096,383,127,Sertraline,100 mg,Once daily,2025-03-09,2025-03-23,1
+1097,337,55,Sertraline,100 mg,Once daily,2025-02-23,,10
+1098,695,164,Amlodipine,10 mg,Once daily,2025-06-14,2025-08-09,3
+1099,419,20,Ramipril,5 mg,Once daily,2024-12-11,,5
+1100,214,197,Omeprazole,40 mg,Once daily before breakfast,2024-12-06,2024-12-20,1
+1101,369,109,Bisoprolol,5 mg,Once daily,2025-01-13,2025-01-27,3
+1102,784,42,Sertraline,50 mg,Once daily,2023-10-31,2023-11-07,1
+1103,33,221,Amoxicillin,250 mg,Three times daily for 7 days,2025-01-07,2025-01-14,3
+1104,739,116,Lisinopril,10 mg,Once daily,2025-02-27,2025-03-27,1
+1105,530,72,Omeprazole,20 mg,Once daily before breakfast,2024-05-14,2024-06-11,3
+1106,103,61,Furosemide,40 mg,Once daily in the morning,2024-11-17,2025-02-15,3
+1107,667,195,Omeprazole,40 mg,Once daily before breakfast,2024-05-08,2024-05-15,0
+1108,486,227,Paracetamol,500 mg,Up to four times daily,2024-12-21,2025-03-21,0
+1109,217,86,Atorvastatin,40 mg,Once daily at night,2025-06-24,2025-07-01,2
+1110,605,192,Amoxicillin,500 mg,Three times daily for 7 days,2024-08-22,,5
+1111,694,241,Cetirizine,10 mg,Once daily,2025-05-25,2025-08-23,3
+1112,612,1,Furosemide,20 mg,Once daily in the morning,2025-06-06,2025-06-13,0
+1113,697,103,Cetirizine,10 mg,Once daily,2024-12-09,2025-03-09,1
+1114,248,53,Cetirizine,10 mg,Once daily,2024-01-11,,10
+1115,179,43,Salbutamol,100 mcg/dose,Two puffs as required,2024-10-21,,10
+1116,677,6,Atorvastatin,40 mg,Once daily at night,2025-03-26,2025-04-02,0
+1117,85,89,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-05-29,2025-08-27,0
+1118,376,27,Atorvastatin,20 mg,Once daily at night,2023-03-19,,7
+1119,292,216,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-01-12,2025-04-12,1
+1120,748,3,Ramipril,5 mg,Once daily,2025-04-10,,9
+1121,48,27,Amlodipine,10 mg,Once daily,2025-04-23,,9
+1122,744,113,Amoxicillin,500 mg,Three times daily for 7 days,2023-09-11,2023-10-09,2
+1123,45,243,Salbutamol,100 mcg/dose,Two puffs as required,2024-08-15,2024-11-13,3
+1124,72,73,Furosemide,40 mg,Once daily in the morning,2023-11-29,2024-01-24,1
+1125,714,194,Ramipril,2.5 mg,Once daily,2024-08-27,2024-09-10,0
+1126,454,65,Metformin,1000 mg,Twice daily with meals,2024-01-25,2024-02-08,3
+1127,46,233,Lisinopril,10 mg,Once daily,2025-04-30,2025-05-28,1
+1128,250,220,Salbutamol,100 mcg/dose,Two puffs as required,2024-03-31,,10
+1129,257,74,Lisinopril,5 mg,Once daily,2025-05-24,,6
+1130,355,144,Atorvastatin,40 mg,Once daily at night,2025-02-23,2025-03-02,1
+1131,191,141,Atorvastatin,10 mg,Once daily at night,2024-01-19,2024-02-16,2
+1132,775,67,Amoxicillin,250 mg,Three times daily for 7 days,2023-12-07,2023-12-14,0
+1133,85,245,Apixaban,2.5 mg,Twice daily,2025-02-27,,7
+1134,497,237,Apixaban,2.5 mg,Twice daily,2024-11-13,2024-11-20,2
+1135,438,148,Gabapentin,300 mg,Three times daily,2024-12-06,,7
+1136,787,70,Lisinopril,20 mg,Once daily,2025-06-25,2025-09-23,0
+1137,205,110,Apixaban,2.5 mg,Twice daily,2024-08-13,2024-09-10,0
+1138,696,248,Ibuprofen,200 mg,Three times daily after food,2025-04-14,,11
+1139,637,21,Atorvastatin,10 mg,Once daily at night,2025-06-08,2025-06-15,1
+1140,82,233,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-04-16,2025-06-11,3
+1141,530,122,Sertraline,100 mg,Once daily,2024-04-26,2024-05-03,3
+1142,249,112,Sertraline,50 mg,Once daily,2024-06-11,2024-06-18,2
+1143,727,48,Paracetamol,1000 mg,Up to four times daily,2025-06-11,2025-09-09,0
+1144,525,161,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-04-03,,10
+1145,277,148,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-06-28,,5
+1146,539,181,Omeprazole,40 mg,Once daily before breakfast,2024-12-01,2024-12-08,0
+1147,261,104,Metformin,500 mg,Twice daily with meals,2024-09-12,,7
+1148,663,223,Amoxicillin,500 mg,Three times daily for 7 days,2023-07-10,2023-08-07,2
+1149,666,176,Cetirizine,10 mg,Once daily,2023-11-12,,7
+1150,797,141,Omeprazole,40 mg,Once daily before breakfast,2024-10-20,2024-11-17,1
+1151,72,173,Ramipril,10 mg,Once daily,2024-03-16,2024-05-11,1
+1152,52,160,Ibuprofen,600 mg,Three times daily after food,2025-01-04,2025-02-01,1
+1153,258,11,Ramipril,5 mg,Once daily,2024-05-21,,9
+1154,304,7,Ibuprofen,400 mg,Three times daily after food,2024-09-05,,8
+1155,439,52,Ibuprofen,600 mg,Three times daily after food,2024-12-07,2025-03-07,0
+1156,599,136,Omeprazole,40 mg,Once daily before breakfast,2025-02-02,2025-03-30,1
+1157,299,207,Bisoprolol,5 mg,Once daily,2025-02-03,2025-02-17,1
+1158,760,111,Lisinopril,5 mg,Once daily,2024-09-19,2024-12-18,0
+1159,142,126,Amlodipine,5 mg,Once daily,2025-05-13,2025-06-10,3
+1160,25,151,Omeprazole,20 mg,Once daily before breakfast,2025-05-02,,10
+1161,397,161,Lisinopril,10 mg,Once daily,2024-01-19,,8
+1162,474,73,Omeprazole,40 mg,Once daily before breakfast,2024-05-09,2024-07-04,1
+1163,741,81,Gabapentin,300 mg,Three times daily,2023-07-30,2023-08-27,0
+1164,634,132,Gabapentin,300 mg,Three times daily,2025-05-16,,8
+1165,485,153,Apixaban,5 mg,Twice daily,2025-03-28,2025-04-25,1
+1166,362,218,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-10-14,,9
+1167,137,88,Sertraline,50 mg,Once daily,2025-06-10,2025-06-17,0
+1168,427,5,Paracetamol,1000 mg,Up to four times daily,2025-05-13,2025-07-08,1
+1169,187,46,Lisinopril,20 mg,Once daily,2025-06-07,2025-08-02,3
+1170,41,172,Atorvastatin,40 mg,Once daily at night,2025-02-04,2025-03-04,2
+1171,702,14,Ibuprofen,200 mg,Three times daily after food,2025-05-24,,6
+1172,416,210,Ibuprofen,200 mg,Three times daily after food,2024-11-26,,10
+1173,564,231,Apixaban,2.5 mg,Twice daily,2025-03-25,2025-04-08,0
+1174,663,92,Gabapentin,300 mg,Three times daily,2023-12-02,2024-01-27,2
+1175,628,24,Amlodipine,10 mg,Once daily,2024-09-11,2024-10-09,3
+1176,151,36,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-01-14,2025-02-11,2
+1177,796,75,Atorvastatin,40 mg,Once daily at night,2024-11-18,2024-12-16,1
+1178,764,179,Omeprazole,40 mg,Once daily before breakfast,2025-06-28,2025-07-12,0
+1179,730,169,Atorvastatin,40 mg,Once daily at night,2025-04-01,2025-04-29,0
+1180,40,73,Metformin,1000 mg,Twice daily with meals,2024-12-14,2025-02-08,3
+1181,500,219,Ramipril,10 mg,Once daily,2025-06-18,,8
+1182,290,96,Amoxicillin,500 mg,Three times daily for 7 days,2024-10-26,2024-11-09,2
+1183,72,145,Omeprazole,40 mg,Once daily before breakfast,2024-08-20,2024-10-15,3
+1184,63,9,Lisinopril,5 mg,Once daily,2024-06-16,2024-08-11,3
+1185,453,236,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-06-04,,11
+1186,298,127,Cetirizine,10 mg,Once daily,2025-06-10,,11
+1187,557,51,Ibuprofen,600 mg,Three times daily after food,2025-05-26,,7
+1188,251,198,Paracetamol,1000 mg,Up to four times daily,2024-03-06,2024-05-01,0
+1189,593,192,Salbutamol,100 mcg/dose,Two puffs as required,2024-06-15,2024-08-10,1
+1190,600,116,Lisinopril,10 mg,Once daily,2025-02-05,,7
+1191,202,98,Ramipril,10 mg,Once daily,2025-03-18,,9
+1192,581,197,Paracetamol,1000 mg,Up to four times daily,2025-03-16,2025-04-13,1
+1193,510,47,Omeprazole,20 mg,Once daily before breakfast,2024-09-24,2024-10-01,1
+1194,666,225,Levothyroxine,75 mcg,Once daily on an empty stomach,2023-09-26,2023-12-25,0
+1195,721,116,Omeprazole,40 mg,Once daily before breakfast,2025-02-28,2025-03-14,3
+1196,204,48,Lisinopril,5 mg,Once daily,2024-12-22,2025-01-19,2
+1197,440,74,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-11-24,2024-12-22,1
+1198,740,188,Paracetamol,500 mg,Up to four times daily,2023-09-01,2023-09-29,3
+1199,374,67,Lisinopril,10 mg,Once daily,2025-01-15,,11
+1200,795,41,Amlodipine,5 mg,Once daily,2025-05-06,,7
+1201,323,161,Metformin,1000 mg,Twice daily with meals,2025-01-10,,7
+1202,116,190,Amlodipine,10 mg,Once daily,2023-06-05,,5
+1203,433,190,Ramipril,5 mg,Once daily,2024-09-30,2024-10-14,3
+1204,575,102,Amoxicillin,250 mg,Three times daily for 7 days,2024-04-18,,9
+1205,684,236,Atorvastatin,40 mg,Once daily at night,2024-09-15,2024-09-29,3
+1206,765,162,Amlodipine,5 mg,Once daily,2025-02-13,,7
+1207,336,44,Ibuprofen,600 mg,Three times daily after food,2025-03-24,,9
+1208,715,141,Paracetamol,500 mg,Up to four times daily,2024-07-02,,6
+1209,303,152,Levothyroxine,100 mcg,Once daily on an empty stomach,2023-09-26,,9
+1210,746,11,Metformin,850 mg,Twice daily with meals,2023-06-18,2023-09-16,2
+1211,791,234,Lisinopril,10 mg,Once daily,2025-02-06,,11
+1212,732,191,Bisoprolol,5 mg,Once daily,2025-06-03,2025-07-01,1
+1213,567,216,Levothyroxine,75 mcg,Once daily on an empty stomach,2023-12-14,,5
+1214,657,231,Lisinopril,20 mg,Once daily,2025-01-02,,6
+1215,148,175,Paracetamol,1000 mg,Up to four times daily,2025-04-03,,5
+1216,139,177,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-14,2025-05-12,0
+1217,461,62,Omeprazole,20 mg,Once daily before breakfast,2024-07-12,2024-07-19,0
+1218,213,161,Amoxicillin,500 mg,Three times daily for 7 days,2024-10-01,2024-10-08,1
+1219,712,216,Omeprazole,20 mg,Once daily before breakfast,2024-09-06,2024-12-05,1
+1220,14,170,Amlodipine,5 mg,Once daily,2023-09-11,2023-09-25,0
+1221,403,228,Ramipril,10 mg,Once daily,2025-04-16,,11
+1222,578,16,Lisinopril,20 mg,Once daily,2025-02-22,2025-04-19,3
+1223,215,48,Paracetamol,500 mg,Up to four times daily,2024-04-30,,9
+1224,401,103,Amlodipine,10 mg,Once daily,2025-04-24,2025-05-01,0
+1225,46,1,Bisoprolol,5 mg,Once daily,2024-10-13,,6
+1226,416,37,Amlodipine,5 mg,Once daily,2025-02-23,2025-03-09,2
+1227,701,186,Furosemide,20 mg,Once daily in the morning,2024-09-21,2024-10-05,2
+1228,199,140,Bisoprolol,5 mg,Once daily,2024-07-03,2024-07-17,0
+1229,193,5,Salbutamol,100 mcg/dose,Two puffs as required,2024-10-02,2024-10-30,1
+1230,662,204,Amlodipine,5 mg,Once daily,2024-07-04,2024-08-29,3
+1231,352,231,Cetirizine,10 mg,Once daily,2025-02-21,2025-02-28,3
+1232,27,179,Sertraline,100 mg,Once daily,2024-08-31,,6
+1233,563,234,Paracetamol,500 mg,Up to four times daily,2025-01-14,2025-01-21,1
+1234,708,88,Furosemide,20 mg,Once daily in the morning,2025-05-13,,11
+1235,461,237,Paracetamol,1000 mg,Up to four times daily,2024-12-02,,9
+1236,534,68,Furosemide,40 mg,Once daily in the morning,2024-09-24,2024-10-08,2
+1237,675,60,Amlodipine,10 mg,Once daily,2025-03-01,2025-05-30,2
+1238,715,189,Ramipril,2.5 mg,Once daily,2025-04-18,,11
+1239,754,234,Lisinopril,20 mg,Once daily,2025-01-10,,7
+1240,773,173,Bisoprolol,5 mg,Once daily,2024-08-07,,6
+1241,673,36,Omeprazole,20 mg,Once daily before breakfast,2025-01-29,2025-02-12,3
+1242,546,19,Amlodipine,5 mg,Once daily,2025-04-09,2025-04-16,1
+1243,60,144,Salbutamol,100 mcg/dose,Two puffs as required,2024-04-20,2024-07-19,2
+1244,257,21,Prednisolone,25 mg,"Once daily, reducing course",2024-12-02,2024-12-30,1
+1245,167,219,Metformin,1000 mg,Twice daily with meals,2024-08-22,,6
+1246,586,244,Amoxicillin,250 mg,Three times daily for 7 days,2024-07-13,2024-07-27,0
+1247,311,17,Prednisolone,5 mg,"Once daily, reducing course",2025-06-19,,5
+1248,446,7,Apixaban,5 mg,Twice daily,2024-11-09,2025-02-07,1
+1249,84,186,Ibuprofen,600 mg,Three times daily after food,2024-08-03,2024-08-10,0
+1250,666,100,Ramipril,2.5 mg,Once daily,2023-09-11,2023-12-10,3
+1251,129,146,Ramipril,5 mg,Once daily,2025-06-01,2025-07-27,0
+1252,406,64,Amlodipine,5 mg,Once daily,2024-04-27,,5
+1253,712,209,Gabapentin,300 mg,Three times daily,2024-04-05,2024-04-12,2
+1254,787,193,Atorvastatin,20 mg,Once daily at night,2025-04-21,2025-04-28,3
+1255,730,169,Amlodipine,10 mg,Once daily,2025-05-14,,10
+1256,548,85,Lisinopril,20 mg,Once daily,2025-04-22,2025-07-21,3
+1257,265,103,Metformin,500 mg,Twice daily with meals,2024-02-22,2024-04-18,3
+1258,544,64,Apixaban,5 mg,Twice daily,2024-05-14,,8
+1259,435,179,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-02-27,2025-03-06,0
+1260,325,240,Paracetamol,1000 mg,Up to four times daily,2024-09-15,,9
+1261,607,86,Omeprazole,20 mg,Once daily before breakfast,2024-11-01,2024-11-29,1
+1262,764,28,Paracetamol,1000 mg,Up to four times daily,2024-12-27,,8
+1263,311,34,Lisinopril,5 mg,Once daily,2024-08-20,,7
+1264,598,177,Lisinopril,20 mg,Once daily,2023-03-10,2023-05-05,3
+1265,712,10,Atorvastatin,10 mg,Once daily at night,2025-04-06,2025-04-13,1
+1266,188,77,Ibuprofen,400 mg,Three times daily after food,2024-08-17,2024-09-14,3
+1267,467,110,Atorvastatin,40 mg,Once daily at night,2025-02-22,2025-03-01,2
+1268,482,64,Paracetamol,500 mg,Up to four times daily,2024-05-03,,10
+1269,421,60,Ibuprofen,200 mg,Three times daily after food,2025-06-13,,11
+1270,447,24,Amoxicillin,500 mg,Three times daily for 7 days,2023-12-18,,11
+1271,83,53,Bisoprolol,2.5 mg,Once daily,2025-01-06,,10
+1272,781,20,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-02,2024-11-30,2
+1273,436,11,Bisoprolol,5 mg,Once daily,2025-02-23,2025-05-24,0
+1274,192,211,Prednisolone,25 mg,"Once daily, reducing course",2024-01-05,,9
+1275,138,153,Metformin,500 mg,Twice daily with meals,2025-05-02,2025-05-16,0
+1276,737,117,Prednisolone,5 mg,"Once daily, reducing course",2024-06-22,2024-07-06,1
+1277,501,222,Prednisolone,5 mg,"Once daily, reducing course",2023-11-11,,9
+1278,163,158,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-09-18,2024-09-25,3
+1279,373,243,Lisinopril,10 mg,Once daily,2025-04-04,2025-04-11,3
+1280,208,213,Prednisolone,25 mg,"Once daily, reducing course",2025-04-04,2025-04-18,1
+1281,591,244,Bisoprolol,5 mg,Once daily,2024-12-27,2025-02-21,0
+1282,539,147,Apixaban,2.5 mg,Twice daily,2024-08-14,2024-11-12,2
+1283,286,119,Salbutamol,100 mcg/dose,Two puffs as required,2023-12-03,2023-12-31,1
+1284,48,168,Amoxicillin,250 mg,Three times daily for 7 days,2025-03-02,2025-03-16,3
+1285,488,36,Atorvastatin,20 mg,Once daily at night,2024-12-02,,6
+1286,79,47,Bisoprolol,2.5 mg,Once daily,2025-02-13,2025-02-27,3
+1287,514,53,Lisinopril,20 mg,Once daily,2025-04-09,2025-04-23,2
+1288,688,195,Paracetamol,500 mg,Up to four times daily,2025-03-10,,8
+1289,741,141,Lisinopril,20 mg,Once daily,2023-03-31,2023-06-29,3
+1290,579,33,Ibuprofen,600 mg,Three times daily after food,2025-02-03,2025-02-17,3
+1291,394,205,Cetirizine,10 mg,Once daily,2023-09-05,2023-09-19,3
+1292,126,17,Ibuprofen,600 mg,Three times daily after food,2025-02-16,2025-02-23,3
+1293,446,10,Atorvastatin,40 mg,Once daily at night,2025-05-10,,7
+1294,670,202,Atorvastatin,20 mg,Once daily at night,2025-03-21,,7
+1295,320,54,Lisinopril,10 mg,Once daily,2023-10-29,2023-11-12,3
+1296,506,36,Levothyroxine,75 mcg,Once daily on an empty stomach,2023-12-27,2024-01-10,3
+1297,340,112,Ramipril,2.5 mg,Once daily,2025-04-08,2025-05-06,3
+1298,34,243,Sertraline,100 mg,Once daily,2024-11-30,,7
+1299,18,221,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-04-02,2025-05-28,2
+1300,581,40,Metformin,500 mg,Twice daily with meals,2025-04-08,2025-06-03,2
+1301,361,227,Ibuprofen,200 mg,Three times daily after food,2023-10-27,,9
+1302,357,182,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-06-23,,7
+1303,227,192,Atorvastatin,40 mg,Once daily at night,2024-04-22,2024-06-17,2
+1304,559,38,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-26,,6
+1305,739,12,Paracetamol,1000 mg,Up to four times daily,2025-03-24,2025-04-21,1
+1306,32,7,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-22,,11
+1307,511,158,Atorvastatin,40 mg,Once daily at night,2024-12-04,2024-12-18,1
+1308,1,115,Metformin,500 mg,Twice daily with meals,2025-03-20,2025-05-15,1
+1309,648,196,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-18,,10
+1310,654,91,Sertraline,100 mg,Once daily,2024-05-19,,7
+1311,236,242,Furosemide,40 mg,Once daily in the morning,2025-06-20,2025-07-18,1
+1312,98,230,Salbutamol,100 mcg/dose,Two puffs as required,2024-12-17,2025-01-14,0
+1313,542,158,Amoxicillin,500 mg,Three times daily for 7 days,2024-11-27,,11
+1314,703,45,Amlodipine,10 mg,Once daily,2023-07-24,,6
+1315,456,89,Prednisolone,5 mg,"Once daily, reducing course",2023-11-07,,11
+1316,598,23,Ibuprofen,600 mg,Three times daily after food,2023-07-01,2023-07-29,3
+1317,459,75,Paracetamol,1000 mg,Up to four times daily,2024-07-19,,10
+1318,696,115,Lisinopril,20 mg,Once daily,2025-06-26,,5
+1319,247,218,Apixaban,2.5 mg,Twice daily,2024-01-11,,8
+1320,205,105,Apixaban,2.5 mg,Twice daily,2025-04-13,2025-04-27,1
+1321,237,107,Apixaban,5 mg,Twice daily,2024-09-16,,9
+1322,352,63,Metformin,500 mg,Twice daily with meals,2025-04-18,2025-06-13,3
+1323,105,122,Atorvastatin,40 mg,Once daily at night,2024-08-29,2024-09-12,2
+1324,565,249,Ramipril,5 mg,Once daily,2024-05-16,2024-05-30,3
+1325,667,215,Metformin,1000 mg,Twice daily with meals,2025-01-24,,10
+1326,92,5,Omeprazole,40 mg,Once daily before breakfast,2024-02-29,,8
+1327,91,115,Metformin,1000 mg,Twice daily with meals,2025-04-06,2025-04-13,1
+1328,26,238,Prednisolone,5 mg,"Once daily, reducing course",2025-02-13,,9
+1329,201,96,Omeprazole,40 mg,Once daily before breakfast,2024-07-08,2024-08-05,2
+1330,703,20,Paracetamol,1000 mg,Up to four times daily,2023-12-10,2023-12-24,0
+1331,508,133,Amoxicillin,250 mg,Three times daily for 7 days,2025-06-30,2025-07-07,3
+1332,330,180,Lisinopril,10 mg,Once daily,2024-02-01,,11
+1333,97,209,Apixaban,2.5 mg,Twice daily,2023-08-05,2023-09-02,3
+1334,520,38,Furosemide,40 mg,Once daily in the morning,2024-12-26,,10
+1335,355,94,Atorvastatin,40 mg,Once daily at night,2024-04-27,,10
+1336,348,67,Cetirizine,10 mg,Once daily,2024-11-12,2024-12-10,1
+1337,771,21,Lisinopril,20 mg,Once daily,2023-09-01,,11
+1338,397,137,Atorvastatin,10 mg,Once daily at night,2024-10-07,,5
+1339,290,89,Lisinopril,10 mg,Once daily,2024-06-27,,5
+1340,760,213,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-10-17,2025-01-15,1
+1341,237,201,Atorvastatin,10 mg,Once daily at night,2025-03-06,,10
+1342,728,112,Metformin,1000 mg,Twice daily with meals,2024-10-03,2025-01-01,1
+1343,280,107,Ibuprofen,200 mg,Three times daily after food,2024-07-31,,9
+1344,613,91,Metformin,850 mg,Twice daily with meals,2025-06-03,,7
+1345,695,196,Lisinopril,20 mg,Once daily,2024-06-08,,10
+1346,69,165,Atorvastatin,20 mg,Once daily at night,2024-11-23,,11
+1347,454,160,Ibuprofen,200 mg,Three times daily after food,2024-05-14,2024-05-21,1
+1348,36,70,Ramipril,10 mg,Once daily,2024-09-27,,11
+1349,712,31,Metformin,500 mg,Twice daily with meals,2024-06-23,2024-08-18,1
+1350,327,186,Ramipril,10 mg,Once daily,2025-03-11,2025-03-18,0
+1351,726,212,Omeprazole,40 mg,Once daily before breakfast,2025-06-03,2025-07-29,1
+1352,750,11,Sertraline,50 mg,Once daily,2024-10-25,,7
+1353,547,233,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-08-11,2024-09-08,3
+1354,657,218,Amlodipine,10 mg,Once daily,2024-12-03,,7
+1355,159,77,Lisinopril,10 mg,Once daily,2025-01-14,,5
+1356,244,75,Gabapentin,300 mg,Three times daily,2024-11-21,2025-02-19,2
+1357,338,243,Omeprazole,40 mg,Once daily before breakfast,2024-01-11,2024-04-10,2
+1358,348,79,Bisoprolol,2.5 mg,Once daily,2024-08-12,,10
+1359,343,41,Amlodipine,10 mg,Once daily,2023-12-15,2024-02-09,1
+1360,371,90,Ibuprofen,600 mg,Three times daily after food,2024-12-25,2025-03-25,0
+1361,545,239,Gabapentin,300 mg,Three times daily,2025-05-31,,6
+1362,35,234,Amlodipine,5 mg,Once daily,2023-06-04,2023-09-02,1
+1363,155,132,Metformin,500 mg,Twice daily with meals,2023-08-11,2023-08-18,3
+1364,654,211,Furosemide,20 mg,Once daily in the morning,2024-02-05,,6
+1365,361,69,Amlodipine,5 mg,Once daily,2025-02-05,,10
+1366,531,106,Omeprazole,40 mg,Once daily before breakfast,2025-03-17,2025-03-24,0
+1367,433,175,Ramipril,2.5 mg,Once daily,2025-04-04,,10
+1368,84,87,Ibuprofen,400 mg,Three times daily after food,2025-03-04,2025-04-29,0
+1369,244,43,Ibuprofen,400 mg,Three times daily after food,2025-02-05,,11
+1370,31,168,Amlodipine,5 mg,Once daily,2024-11-13,,10
+1371,493,94,Sertraline,100 mg,Once daily,2025-01-07,,7
+1372,369,27,Cetirizine,10 mg,Once daily,2024-07-07,,5
+1373,390,227,Omeprazole,40 mg,Once daily before breakfast,2024-02-07,,10
+1374,149,81,Lisinopril,10 mg,Once daily,2024-07-15,2024-07-29,1
+1375,333,250,Salbutamol,100 mcg/dose,Two puffs as required,2023-06-10,2023-08-05,3
+1376,520,129,Atorvastatin,10 mg,Once daily at night,2024-09-24,2024-11-19,3
+1377,298,157,Ibuprofen,200 mg,Three times daily after food,2025-06-04,2025-06-18,1
+1378,447,45,Sertraline,50 mg,Once daily,2024-07-12,2024-10-10,2
+1379,542,235,Ibuprofen,400 mg,Three times daily after food,2024-11-14,,9
+1380,723,240,Amlodipine,10 mg,Once daily,2025-04-02,,5
+1381,316,78,Lisinopril,5 mg,Once daily,2024-12-11,2025-02-05,0
+1382,613,105,Paracetamol,500 mg,Up to four times daily,2024-05-05,2024-06-02,3
+1383,296,215,Metformin,850 mg,Twice daily with meals,2025-03-20,2025-04-17,0
+1384,257,249,Apixaban,5 mg,Twice daily,2024-12-03,,7
+1385,630,193,Gabapentin,300 mg,Three times daily,2025-05-02,2025-05-09,2
+1386,562,47,Lisinopril,10 mg,Once daily,2024-12-25,,10
+1387,396,174,Atorvastatin,40 mg,Once daily at night,2025-04-28,2025-06-23,0
+1388,739,173,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-04-01,2025-04-08,3
+1389,229,192,Lisinopril,10 mg,Once daily,2025-03-05,2025-06-03,3
+1390,90,111,Cetirizine,10 mg,Once daily,2025-01-15,,6
+1391,58,191,Ramipril,5 mg,Once daily,2025-03-16,2025-03-30,2
+1392,739,190,Atorvastatin,40 mg,Once daily at night,2025-06-07,,10
+1393,723,146,Apixaban,5 mg,Twice daily,2025-03-14,2025-03-21,0
+1394,322,152,Prednisolone,25 mg,"Once daily, reducing course",2024-01-05,,9
+1395,594,240,Metformin,1000 mg,Twice daily with meals,2024-04-21,,10
+1396,399,73,Ramipril,2.5 mg,Once daily,2025-05-31,2025-08-29,3
+1397,708,248,Furosemide,40 mg,Once daily in the morning,2025-04-25,,6
+1398,410,236,Atorvastatin,20 mg,Once daily at night,2025-05-06,2025-06-03,1
+1399,76,230,Omeprazole,40 mg,Once daily before breakfast,2024-07-12,2024-08-09,3
+1400,343,42,Cetirizine,10 mg,Once daily,2024-10-31,,8
+1401,282,62,Ibuprofen,200 mg,Three times daily after food,2025-03-16,2025-04-13,3
+1402,221,39,Amlodipine,5 mg,Once daily,2025-02-23,,11
+1403,174,44,Amoxicillin,250 mg,Three times daily for 7 days,2025-04-29,2025-05-13,2
+1404,562,41,Paracetamol,500 mg,Up to four times daily,2024-12-14,2024-12-28,1
+1405,583,173,Bisoprolol,2.5 mg,Once daily,2024-12-31,2025-03-31,1
+1406,210,177,Metformin,500 mg,Twice daily with meals,2024-11-11,,10
+1407,340,135,Bisoprolol,5 mg,Once daily,2025-01-23,,7
+1408,256,63,Amlodipine,5 mg,Once daily,2024-01-10,2024-02-07,3
+1409,345,128,Omeprazole,20 mg,Once daily before breakfast,2025-03-30,2025-04-13,3
+1410,765,140,Cetirizine,10 mg,Once daily,2024-12-31,,10
+1411,133,244,Ibuprofen,600 mg,Three times daily after food,2024-06-17,2024-07-01,0
+1412,559,163,Metformin,850 mg,Twice daily with meals,2024-08-27,,7
+1413,303,43,Atorvastatin,20 mg,Once daily at night,2023-10-03,2023-11-28,1
+1414,580,212,Amoxicillin,250 mg,Three times daily for 7 days,2024-01-04,2024-01-18,2
+1415,185,206,Amlodipine,5 mg,Once daily,2024-02-15,,11
+1416,149,160,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-03-25,,7
+1417,1,245,Amlodipine,5 mg,Once daily,2025-05-07,2025-08-05,0
+1418,356,165,Furosemide,40 mg,Once daily in the morning,2024-08-24,,11
+1419,375,243,Atorvastatin,40 mg,Once daily at night,2025-01-25,2025-03-22,2
+1420,350,137,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-12-21,2025-01-18,0
+1421,417,46,Ibuprofen,600 mg,Three times daily after food,2025-04-24,,9
+1422,224,30,Ibuprofen,200 mg,Three times daily after food,2024-10-21,2025-01-19,0
+1423,727,247,Amoxicillin,250 mg,Three times daily for 7 days,2025-05-06,2025-05-13,3
+1424,414,99,Amlodipine,10 mg,Once daily,2024-10-27,2024-11-10,3
+1425,88,23,Cetirizine,10 mg,Once daily,2024-08-19,,11
+1426,216,86,Ibuprofen,400 mg,Three times daily after food,2024-08-24,2024-11-22,2
+1427,737,60,Atorvastatin,10 mg,Once daily at night,2025-01-08,,9
+1428,343,12,Lisinopril,10 mg,Once daily,2025-06-14,2025-07-12,0
+1429,285,10,Salbutamol,100 mcg/dose,Two puffs as required,2024-06-26,,11
+1430,348,64,Lisinopril,10 mg,Once daily,2023-09-27,2023-11-22,0
+1431,371,69,Gabapentin,300 mg,Three times daily,2024-09-15,,5
+1432,30,226,Sertraline,50 mg,Once daily,2025-01-20,2025-04-20,3
+1433,503,94,Ibuprofen,600 mg,Three times daily after food,2024-09-06,2024-10-04,0
+1434,71,39,Omeprazole,40 mg,Once daily before breakfast,2025-05-10,2025-06-07,1
+1435,669,74,Metformin,500 mg,Twice daily with meals,2025-06-08,2025-09-06,3
+1436,449,59,Atorvastatin,20 mg,Once daily at night,2025-04-05,,5
+1437,319,180,Lisinopril,10 mg,Once daily,2025-01-25,2025-03-22,2
+1438,764,1,Lisinopril,5 mg,Once daily,2024-12-29,2025-01-26,0
+1439,72,140,Amlodipine,5 mg,Once daily,2025-05-25,2025-06-08,2
+1440,368,4,Lisinopril,10 mg,Once daily,2023-04-15,2023-04-22,3
+1441,569,10,Sertraline,50 mg,Once daily,2024-08-29,2024-10-24,1
+1442,549,184,Furosemide,40 mg,Once daily in the morning,2024-08-09,2024-09-06,2
+1443,600,17,Apixaban,2.5 mg,Twice daily,2025-04-20,2025-04-27,1
+1444,791,161,Furosemide,40 mg,Once daily in the morning,2023-06-15,2023-09-13,0
+1445,482,28,Paracetamol,1000 mg,Up to four times daily,2023-12-29,,5
+1446,445,188,Ramipril,2.5 mg,Once daily,2024-08-30,,10
+1447,696,119,Furosemide,40 mg,Once daily in the morning,2024-10-20,2024-11-17,1
+1448,559,241,Furosemide,20 mg,Once daily in the morning,2025-03-11,,6
+1449,655,250,Atorvastatin,20 mg,Once daily at night,2024-12-09,2025-03-09,0
+1450,344,203,Paracetamol,500 mg,Up to four times daily,2024-03-11,2024-03-18,2
+1451,242,230,Lisinopril,20 mg,Once daily,2024-04-18,2024-07-17,0
+1452,564,102,Lisinopril,5 mg,Once daily,2025-02-06,2025-05-07,3
+1453,417,238,Cetirizine,10 mg,Once daily,2025-03-02,,11
+1454,631,9,Ramipril,10 mg,Once daily,2024-10-16,2024-12-11,3
+1455,348,33,Atorvastatin,40 mg,Once daily at night,2024-06-08,2024-08-03,0
+1456,579,8,Paracetamol,1000 mg,Up to four times daily,2024-09-07,,11
+1457,777,228,Amlodipine,5 mg,Once daily,2024-09-13,,10
+1458,571,133,Furosemide,20 mg,Once daily in the morning,2024-05-13,,7
+1459,764,93,Ramipril,5 mg,Once daily,2025-05-26,2025-07-21,1
+1460,449,9,Ibuprofen,200 mg,Three times daily after food,2025-04-14,2025-04-28,3
+1461,446,33,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-06-05,2025-09-03,3
+1462,177,104,Bisoprolol,5 mg,Once daily,2025-06-05,2025-09-03,1
+1463,555,87,Ibuprofen,400 mg,Three times daily after food,2024-09-13,,5
+1464,599,29,Lisinopril,10 mg,Once daily,2024-11-25,,9
+1465,651,83,Ibuprofen,400 mg,Three times daily after food,2024-06-18,,11
+1466,176,181,Sertraline,100 mg,Once daily,2025-04-17,,6
+1467,437,122,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-01-29,2025-02-26,1
+1468,697,115,Sertraline,50 mg,Once daily,2024-12-18,2025-01-01,0
+1469,576,1,Sertraline,100 mg,Once daily,2024-05-20,,6
+1470,747,175,Metformin,500 mg,Twice daily with meals,2024-05-26,2024-06-09,2
+1471,673,218,Amlodipine,5 mg,Once daily,2024-11-19,,10
+1472,338,10,Cetirizine,10 mg,Once daily,2024-07-12,2024-08-09,3
+1473,713,33,Ibuprofen,200 mg,Three times daily after food,2025-06-22,,9
+1474,191,57,Metformin,850 mg,Twice daily with meals,2024-02-01,,5
+1475,367,113,Gabapentin,300 mg,Three times daily,2025-04-19,,6
+1476,732,197,Lisinopril,10 mg,Once daily,2023-10-08,,11
+1477,17,38,Amlodipine,5 mg,Once daily,2023-10-29,2023-11-05,2
+1478,461,153,Omeprazole,20 mg,Once daily before breakfast,2025-03-05,2025-04-02,3
+1479,631,131,Sertraline,100 mg,Once daily,2025-04-08,2025-04-22,1
+1480,593,71,Omeprazole,20 mg,Once daily before breakfast,2024-04-02,2024-04-16,0
+1481,84,211,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-06-25,,9
+1482,109,178,Omeprazole,20 mg,Once daily before breakfast,2024-10-12,2024-12-07,3
+1483,654,199,Ramipril,10 mg,Once daily,2024-09-28,2024-10-05,0
+1484,521,164,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-06-23,,8
+1485,539,218,Lisinopril,5 mg,Once daily,2025-01-16,,5
+1486,506,231,Metformin,850 mg,Twice daily with meals,2023-07-04,2023-08-01,1
+1487,587,20,Furosemide,40 mg,Once daily in the morning,2023-02-18,,6
+1488,458,90,Omeprazole,40 mg,Once daily before breakfast,2025-06-26,2025-08-21,3
+1489,640,235,Salbutamol,100 mcg/dose,Two puffs as required,2023-10-08,,6
+1490,792,110,Ibuprofen,400 mg,Three times daily after food,2024-04-07,2024-04-14,1
+1491,562,213,Ramipril,10 mg,Once daily,2024-06-30,,7
+1492,209,200,Amoxicillin,250 mg,Three times daily for 7 days,2023-09-08,,6
+1493,48,95,Atorvastatin,20 mg,Once daily at night,2023-04-30,2023-06-25,1
+1494,207,144,Bisoprolol,5 mg,Once daily,2025-01-28,,11
+1495,734,99,Ibuprofen,200 mg,Three times daily after food,2025-03-20,,5
+1496,527,197,Gabapentin,300 mg,Three times daily,2025-06-01,,5
+1497,132,217,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-19,2025-07-17,2
+1498,80,144,Omeprazole,20 mg,Once daily before breakfast,2025-05-14,2025-05-28,2
+1499,659,132,Sertraline,50 mg,Once daily,2025-03-12,2025-03-26,2
+1500,630,56,Cetirizine,10 mg,Once daily,2025-03-07,,5
+1501,6,157,Cetirizine,10 mg,Once daily,2025-05-20,2025-07-15,3
+1502,460,150,Amlodipine,10 mg,Once daily,2025-06-11,2025-09-09,3
+1503,494,91,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-15,,7
+1504,110,65,Amoxicillin,500 mg,Three times daily for 7 days,2025-06-27,,6
+1505,571,189,Lisinopril,5 mg,Once daily,2025-02-28,2025-05-29,2
+1506,564,146,Prednisolone,5 mg,"Once daily, reducing course",2025-01-10,2025-01-24,3
+1507,789,119,Prednisolone,5 mg,"Once daily, reducing course",2025-04-02,,9
+1508,39,73,Metformin,1000 mg,Twice daily with meals,2025-04-13,2025-04-27,0
+1509,334,236,Salbutamol,100 mcg/dose,Two puffs as required,2024-09-11,2024-10-09,3
+1510,193,161,Amoxicillin,250 mg,Three times daily for 7 days,2024-09-11,2024-12-10,2
+1511,155,47,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-12-23,,6
+1512,149,164,Cetirizine,10 mg,Once daily,2024-12-21,2025-01-04,0
+1513,246,127,Salbutamol,100 mcg/dose,Two puffs as required,2025-05-21,2025-06-04,2
+1514,285,108,Lisinopril,5 mg,Once daily,2024-02-25,,7
+1515,141,102,Paracetamol,1000 mg,Up to four times daily,2023-05-12,,6
+1516,105,96,Prednisolone,5 mg,"Once daily, reducing course",2025-01-29,,8
+1517,245,198,Sertraline,100 mg,Once daily,2023-03-30,,6
+1518,10,50,Gabapentin,300 mg,Three times daily,2023-06-30,2023-08-25,0
+1519,657,108,Paracetamol,1000 mg,Up to four times daily,2025-01-28,2025-02-04,3
+1520,663,104,Omeprazole,40 mg,Once daily before breakfast,2024-05-18,2024-06-01,2
+1521,453,203,Atorvastatin,10 mg,Once daily at night,2025-06-04,,7
+1522,633,249,Amlodipine,10 mg,Once daily,2024-10-02,,9
+1523,354,130,Ibuprofen,200 mg,Three times daily after food,2025-03-28,2025-06-26,2
+1524,693,206,Omeprazole,20 mg,Once daily before breakfast,2024-08-25,2024-09-22,3
+1525,412,34,Apixaban,2.5 mg,Twice daily,2025-01-08,2025-01-22,0
+1526,271,118,Lisinopril,5 mg,Once daily,2025-05-20,,9
+1527,380,59,Prednisolone,25 mg,"Once daily, reducing course",2025-01-14,,10
+1528,519,158,Sertraline,100 mg,Once daily,2025-04-01,,11
+1529,740,112,Atorvastatin,40 mg,Once daily at night,2024-08-15,2024-08-29,2
+1530,292,91,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-06-27,2025-07-11,1
+1531,605,195,Atorvastatin,40 mg,Once daily at night,2024-03-21,2024-03-28,2
+1532,776,220,Atorvastatin,10 mg,Once daily at night,2025-05-24,2025-05-31,1
+1533,71,246,Apixaban,2.5 mg,Twice daily,2025-01-07,2025-01-14,3
+1534,460,135,Sertraline,100 mg,Once daily,2024-11-19,2024-12-17,2
+1535,491,21,Salbutamol,100 mcg/dose,Two puffs as required,2024-06-11,2024-06-18,2
+1536,75,203,Omeprazole,40 mg,Once daily before breakfast,2025-01-30,2025-02-13,0
+1537,667,167,Ramipril,5 mg,Once daily,2024-03-22,2024-05-17,1
+1538,446,16,Cetirizine,10 mg,Once daily,2025-04-26,2025-05-24,0
+1539,461,80,Sertraline,50 mg,Once daily,2024-05-30,2024-06-06,2
+1540,253,61,Atorvastatin,40 mg,Once daily at night,2024-08-23,2024-11-21,3
+1541,279,165,Salbutamol,100 mcg/dose,Two puffs as required,2024-05-27,,6
+1542,37,47,Lisinopril,10 mg,Once daily,2024-10-13,,8
+1543,728,181,Omeprazole,20 mg,Once daily before breakfast,2024-09-05,2024-10-03,1
+1544,420,4,Amoxicillin,500 mg,Three times daily for 7 days,2024-09-22,2024-12-21,0
+1545,236,230,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-05-22,,8
+1546,262,34,Amlodipine,5 mg,Once daily,2025-05-05,,6
+1547,729,43,Omeprazole,40 mg,Once daily before breakfast,2023-11-09,,10
+1548,605,229,Apixaban,2.5 mg,Twice daily,2024-11-23,,10
+1549,139,156,Bisoprolol,5 mg,Once daily,2025-04-26,2025-05-24,3
+1550,116,44,Metformin,500 mg,Twice daily with meals,2025-04-14,2025-04-21,1
+1551,649,95,Ramipril,10 mg,Once daily,2025-01-13,,8
+1552,72,220,Paracetamol,1000 mg,Up to four times daily,2023-08-24,,9
+1553,582,220,Furosemide,40 mg,Once daily in the morning,2024-12-29,2025-01-12,0
+1554,129,21,Lisinopril,5 mg,Once daily,2025-04-13,,8
+1555,629,187,Amlodipine,5 mg,Once daily,2024-10-07,,11
+1556,651,136,Salbutamol,100 mcg/dose,Two puffs as required,2024-02-15,2024-02-22,2
+1557,792,45,Bisoprolol,2.5 mg,Once daily,2024-12-02,2024-12-30,3
+1558,9,129,Lisinopril,10 mg,Once daily,2024-05-06,,8
+1559,444,238,Sertraline,100 mg,Once daily,2024-04-22,2024-04-29,0
+1560,659,136,Atorvastatin,20 mg,Once daily at night,2025-04-16,2025-07-15,3
+1561,335,181,Sertraline,50 mg,Once daily,2025-02-20,,10
+1562,677,135,Metformin,500 mg,Twice daily with meals,2025-04-07,2025-04-14,2
+1563,27,46,Ramipril,10 mg,Once daily,2025-04-04,2025-04-18,3
+1564,486,44,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-01-27,2025-02-03,0
+1565,192,70,Paracetamol,1000 mg,Up to four times daily,2024-06-06,,7
+1566,262,1,Atorvastatin,10 mg,Once daily at night,2025-05-17,2025-08-15,2
+1567,640,239,Paracetamol,1000 mg,Up to four times daily,2025-02-02,2025-02-16,2
+1568,44,232,Lisinopril,10 mg,Once daily,2025-05-07,2025-05-21,3
+1569,324,191,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-12-18,2024-12-25,3
+1570,544,138,Atorvastatin,20 mg,Once daily at night,2024-12-03,2025-01-28,3
+1571,769,79,Amlodipine,10 mg,Once daily,2025-05-25,,8
+1572,148,68,Amoxicillin,500 mg,Three times daily for 7 days,2025-06-13,2025-09-11,1
+1573,510,205,Atorvastatin,40 mg,Once daily at night,2024-10-20,2024-11-17,3
+1574,116,245,Levothyroxine,75 mcg,Once daily on an empty stomach,2023-04-20,2023-05-18,0
+1575,425,179,Cetirizine,10 mg,Once daily,2025-04-30,2025-05-14,0
+1576,544,236,Atorvastatin,40 mg,Once daily at night,2025-06-19,,9
+1577,220,193,Bisoprolol,2.5 mg,Once daily,2025-03-22,,6
+1578,501,220,Ramipril,5 mg,Once daily,2025-03-02,2025-03-30,0
+1579,7,152,Lisinopril,20 mg,Once daily,2024-05-01,,8
+1580,55,120,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-12-04,,8
+1581,548,243,Amoxicillin,500 mg,Three times daily for 7 days,2025-05-05,,8
+1582,108,79,Bisoprolol,2.5 mg,Once daily,2023-08-19,,8
+1583,2,209,Paracetamol,500 mg,Up to four times daily,2024-05-09,2024-06-06,2
+1584,254,14,Paracetamol,1000 mg,Up to four times daily,2025-02-15,2025-05-16,3
+1585,356,118,Paracetamol,500 mg,Up to four times daily,2025-04-19,2025-06-14,0
+1586,89,24,Sertraline,50 mg,Once daily,2024-01-17,,9
+1587,456,244,Lisinopril,20 mg,Once daily,2025-01-21,2025-01-28,2
+1588,260,83,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-02-09,2025-02-16,3
+1589,493,147,Amoxicillin,500 mg,Three times daily for 7 days,2024-12-02,,6
+1590,6,31,Cetirizine,10 mg,Once daily,2025-05-25,2025-06-22,2
+1591,221,137,Apixaban,5 mg,Twice daily,2025-03-29,2025-05-24,3
+1592,325,248,Amoxicillin,500 mg,Three times daily for 7 days,2024-07-01,,11
+1593,753,4,Metformin,500 mg,Twice daily with meals,2024-12-04,,9
+1594,549,77,Metformin,500 mg,Twice daily with meals,2024-02-28,,11
+1595,189,113,Amlodipine,5 mg,Once daily,2025-03-08,2025-06-06,2
+1596,713,65,Bisoprolol,5 mg,Once daily,2024-04-01,2024-06-30,3
+1597,330,214,Sertraline,100 mg,Once daily,2024-06-22,,7
+1598,130,238,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-02-05,2025-04-02,0
+1599,173,184,Lisinopril,10 mg,Once daily,2025-05-22,2025-06-19,2
+1600,37,50,Lisinopril,10 mg,Once daily,2025-04-25,2025-05-23,1
+1601,696,69,Cetirizine,10 mg,Once daily,2023-08-26,2023-09-02,0
+1602,498,198,Lisinopril,5 mg,Once daily,2024-09-05,,10
+1603,248,70,Ibuprofen,200 mg,Three times daily after food,2023-07-22,2023-09-16,3
+1604,264,172,Bisoprolol,2.5 mg,Once daily,2023-08-03,,6
+1605,43,68,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-04-25,2025-07-24,2
+1606,552,244,Apixaban,2.5 mg,Twice daily,2025-02-16,2025-05-17,2
+1607,164,90,Gabapentin,300 mg,Three times daily,2023-07-02,2023-09-30,3
+1608,680,137,Furosemide,20 mg,Once daily in the morning,2024-12-31,,8
+1609,70,184,Lisinopril,20 mg,Once daily,2024-04-30,,8
+1610,422,218,Metformin,1000 mg,Twice daily with meals,2025-01-25,2025-04-25,2
+1611,144,32,Amlodipine,5 mg,Once daily,2025-01-23,,5
+1612,529,130,Bisoprolol,5 mg,Once daily,2024-01-03,2024-01-31,2
+1613,632,7,Ramipril,2.5 mg,Once daily,2023-11-09,2023-11-23,0
+1614,698,149,Paracetamol,500 mg,Up to four times daily,2024-12-17,,8
+1615,740,182,Omeprazole,40 mg,Once daily before breakfast,2025-03-16,2025-05-11,1
+1616,360,185,Ibuprofen,200 mg,Three times daily after food,2023-12-16,,6
+1617,408,180,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-22,,9
+1618,753,119,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-11-19,2024-12-03,3
+1619,247,13,Furosemide,20 mg,Once daily in the morning,2024-11-08,,6
+1620,732,31,Omeprazole,20 mg,Once daily before breakfast,2025-04-21,,8
+1621,36,62,Ramipril,2.5 mg,Once daily,2025-01-31,2025-05-01,1
+1622,562,228,Omeprazole,40 mg,Once daily before breakfast,2025-05-25,2025-06-22,3
+1623,377,248,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-05-14,2025-05-28,3
+1624,57,1,Metformin,1000 mg,Twice daily with meals,2025-04-19,,10
+1625,604,181,Bisoprolol,2.5 mg,Once daily,2024-03-08,2024-05-03,0
+1626,645,32,Amoxicillin,500 mg,Three times daily for 7 days,2024-11-09,,6
+1627,682,64,Paracetamol,500 mg,Up to four times daily,2024-09-22,,10
+1628,554,106,Bisoprolol,5 mg,Once daily,2024-12-09,,7
+1629,585,29,Paracetamol,500 mg,Up to four times daily,2025-04-07,2025-06-02,3
+1630,783,123,Cetirizine,10 mg,Once daily,2025-05-10,2025-05-24,2
+1631,693,225,Metformin,850 mg,Twice daily with meals,2024-06-27,2024-07-04,2
+1632,640,203,Amoxicillin,250 mg,Three times daily for 7 days,2024-09-25,2024-10-09,0
+1633,608,170,Ramipril,2.5 mg,Once daily,2025-06-12,2025-06-19,1
+1634,530,172,Amoxicillin,250 mg,Three times daily for 7 days,2025-05-17,,7
+1635,307,173,Prednisolone,5 mg,"Once daily, reducing course",2025-04-11,,5
+1636,582,142,Paracetamol,500 mg,Up to four times daily,2025-04-08,2025-06-03,2
+1637,390,44,Omeprazole,40 mg,Once daily before breakfast,2023-11-06,,10
+1638,56,81,Cetirizine,10 mg,Once daily,2024-09-25,2024-10-02,1
+1639,519,32,Metformin,850 mg,Twice daily with meals,2025-04-02,2025-04-09,2
+1640,573,187,Ramipril,5 mg,Once daily,2024-05-20,2024-05-27,1
+1641,713,210,Amlodipine,10 mg,Once daily,2025-06-02,,8
+1642,768,213,Atorvastatin,20 mg,Once daily at night,2024-06-09,2024-06-23,0
+1643,167,123,Paracetamol,500 mg,Up to four times daily,2024-11-01,,5
+1644,387,249,Ramipril,2.5 mg,Once daily,2024-10-18,,7
+1645,436,135,Atorvastatin,40 mg,Once daily at night,2025-06-29,2025-09-27,3
+1646,110,28,Amoxicillin,250 mg,Three times daily for 7 days,2025-05-19,2025-06-16,0
+1647,680,152,Paracetamol,500 mg,Up to four times daily,2025-02-04,,10
+1648,311,157,Furosemide,20 mg,Once daily in the morning,2024-12-24,2025-03-24,3
+1649,403,223,Metformin,500 mg,Twice daily with meals,2025-02-17,2025-05-18,3
+1650,756,148,Atorvastatin,10 mg,Once daily at night,2024-10-15,2024-12-10,3
+1651,50,50,Bisoprolol,5 mg,Once daily,2024-05-04,,9
+1652,638,216,Ibuprofen,600 mg,Three times daily after food,2024-01-23,2024-02-20,3
+1653,339,69,Atorvastatin,40 mg,Once daily at night,2024-12-12,2025-02-06,3
+1654,327,126,Paracetamol,1000 mg,Up to four times daily,2025-06-11,2025-08-06,2
+1655,424,55,Metformin,1000 mg,Twice daily with meals,2023-07-31,2023-09-25,0
+1656,619,35,Atorvastatin,40 mg,Once daily at night,2025-02-17,2025-03-03,2
+1657,726,91,Prednisolone,25 mg,"Once daily, reducing course",2025-06-19,2025-06-26,2
+1658,96,100,Sertraline,100 mg,Once daily,2025-01-21,2025-02-04,3
+1659,781,148,Omeprazole,20 mg,Once daily before breakfast,2025-04-02,,5
+1660,83,124,Ibuprofen,600 mg,Three times daily after food,2025-05-29,2025-07-24,1
+1661,506,93,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-10-06,,10
+1662,664,176,Sertraline,100 mg,Once daily,2025-01-26,,6
+1663,770,145,Sertraline,100 mg,Once daily,2025-04-27,2025-05-04,1
+1664,531,225,Paracetamol,1000 mg,Up to four times daily,2025-06-14,,8
+1665,48,64,Ibuprofen,600 mg,Three times daily after food,2025-03-21,2025-03-28,2
+1666,794,215,Sertraline,50 mg,Once daily,2025-05-18,,7
+1667,300,151,Metformin,500 mg,Twice daily with meals,2025-02-15,,9
+1668,673,25,Furosemide,20 mg,Once daily in the morning,2024-11-06,,10
+1669,471,97,Salbutamol,100 mcg/dose,Two puffs as required,2024-10-19,,11
+1670,548,104,Gabapentin,300 mg,Three times daily,2025-04-15,2025-05-13,3
+1671,318,233,Furosemide,40 mg,Once daily in the morning,2025-03-25,2025-04-01,2
+1672,766,96,Omeprazole,20 mg,Once daily before breakfast,2024-10-12,,5
+1673,392,214,Amoxicillin,250 mg,Three times daily for 7 days,2025-02-11,,8
+1674,708,119,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-02-18,,6
+1675,528,13,Ibuprofen,600 mg,Three times daily after food,2025-02-14,2025-05-15,1
+1676,321,9,Ibuprofen,200 mg,Three times daily after food,2024-10-07,,6
+1677,192,222,Salbutamol,100 mcg/dose,Two puffs as required,2024-12-03,,5
+1678,275,119,Cetirizine,10 mg,Once daily,2025-03-21,,7
+1679,750,159,Lisinopril,5 mg,Once daily,2025-03-30,2025-04-27,2
+1680,298,236,Prednisolone,5 mg,"Once daily, reducing course",2025-06-23,,10
+1681,244,118,Atorvastatin,10 mg,Once daily at night,2025-05-02,2025-05-30,1
+1682,713,116,Lisinopril,5 mg,Once daily,2024-03-26,2024-05-21,0
+1683,220,2,Paracetamol,500 mg,Up to four times daily,2025-04-28,2025-05-26,2
+1684,610,231,Prednisolone,25 mg,"Once daily, reducing course",2025-02-07,,5
+1685,708,140,Paracetamol,1000 mg,Up to four times daily,2025-01-13,2025-03-10,2
+1686,167,50,Omeprazole,40 mg,Once daily before breakfast,2024-07-21,,5
+1687,204,134,Salbutamol,100 mcg/dose,Two puffs as required,2024-09-19,,11
+1688,736,25,Gabapentin,300 mg,Three times daily,2025-03-20,,7
+1689,542,231,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-13,2025-01-08,3
+1690,7,74,Amlodipine,10 mg,Once daily,2023-12-12,2023-12-26,3
+1691,269,219,Atorvastatin,10 mg,Once daily at night,2025-06-14,2025-06-28,0
+1692,319,232,Amoxicillin,250 mg,Three times daily for 7 days,2024-11-29,,11
+1693,709,107,Ramipril,5 mg,Once daily,2025-05-30,2025-07-25,3
+1694,383,68,Gabapentin,300 mg,Three times daily,2025-03-05,,9
+1695,401,156,Metformin,850 mg,Twice daily with meals,2025-05-28,,11
+1696,412,216,Metformin,1000 mg,Twice daily with meals,2024-09-03,,10
+1697,140,234,Amlodipine,5 mg,Once daily,2023-11-17,2023-11-24,3
+1698,106,32,Salbutamol,100 mcg/dose,Two puffs as required,2024-03-04,2024-03-18,0
+1699,7,96,Metformin,850 mg,Twice daily with meals,2024-08-01,2024-08-29,3
+1700,346,186,Lisinopril,5 mg,Once daily,2025-04-15,2025-04-29,0
+1701,464,134,Omeprazole,20 mg,Once daily before breakfast,2024-10-08,2024-10-15,0
+1702,85,243,Paracetamol,500 mg,Up to four times daily,2025-05-29,,5
+1703,415,52,Amlodipine,5 mg,Once daily,2024-12-26,2025-03-26,1
+1704,156,64,Cetirizine,10 mg,Once daily,2025-06-09,,8
+1705,420,187,Sertraline,100 mg,Once daily,2025-02-01,,5
+1706,699,207,Apixaban,2.5 mg,Twice daily,2025-03-24,2025-04-07,0
+1707,602,69,Gabapentin,300 mg,Three times daily,2024-02-16,,11
+1708,421,39,Cetirizine,10 mg,Once daily,2024-07-26,2024-08-02,0
+1709,528,42,Lisinopril,10 mg,Once daily,2024-06-15,,5
+1710,687,207,Lisinopril,5 mg,Once daily,2025-02-13,2025-02-20,2
+1711,610,94,Amlodipine,5 mg,Once daily,2025-03-11,,6
+1712,415,128,Sertraline,50 mg,Once daily,2024-10-25,2024-11-22,2
+1713,28,83,Ibuprofen,600 mg,Three times daily after food,2024-01-14,2024-03-10,2
+1714,332,101,Sertraline,50 mg,Once daily,2024-12-28,,11
+1715,332,161,Paracetamol,1000 mg,Up to four times daily,2025-04-14,2025-04-21,3
+1716,449,126,Amlodipine,5 mg,Once daily,2025-06-15,,10
+1717,101,191,Lisinopril,20 mg,Once daily,2025-04-07,2025-06-02,3
+1718,243,170,Lisinopril,10 mg,Once daily,2025-04-19,,8
+1719,667,138,Atorvastatin,20 mg,Once daily at night,2024-09-09,,11
+1720,38,91,Ramipril,10 mg,Once daily,2025-05-16,2025-07-11,3
+1721,167,230,Lisinopril,20 mg,Once daily,2024-04-05,,6
+1722,78,122,Amlodipine,10 mg,Once daily,2025-04-25,,6
+1723,580,10,Lisinopril,20 mg,Once daily,2023-11-04,2023-12-30,3
+1724,583,191,Metformin,850 mg,Twice daily with meals,2024-09-01,2024-09-15,3
+1725,327,43,Apixaban,2.5 mg,Twice daily,2025-01-15,,8
+1726,585,91,Bisoprolol,2.5 mg,Once daily,2025-05-13,2025-05-27,3
+1727,758,46,Atorvastatin,10 mg,Once daily at night,2025-01-20,2025-02-03,0
+1728,235,151,Lisinopril,10 mg,Once daily,2025-05-03,,7
+1729,453,195,Metformin,850 mg,Twice daily with meals,2023-12-05,,6
+1730,740,208,Lisinopril,10 mg,Once daily,2023-02-05,2023-02-19,0
+1731,344,145,Bisoprolol,5 mg,Once daily,2024-08-07,,10
+1732,70,239,Atorvastatin,10 mg,Once daily at night,2024-12-03,2024-12-31,1
+1733,161,194,Cetirizine,10 mg,Once daily,2023-02-04,,8
+1734,800,239,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-15,2025-05-13,1
+1735,676,174,Sertraline,100 mg,Once daily,2025-03-26,2025-04-02,0
+1736,413,10,Atorvastatin,40 mg,Once daily at night,2025-06-27,2025-08-22,1
+1737,355,180,Apixaban,5 mg,Twice daily,2023-12-06,,5
+1738,351,131,Ibuprofen,200 mg,Three times daily after food,2025-01-03,,7
+1739,27,168,Salbutamol,100 mcg/dose,Two puffs as required,2025-02-20,,8
+1740,110,207,Bisoprolol,5 mg,Once daily,2025-03-30,,9
+1741,423,26,Omeprazole,40 mg,Once daily before breakfast,2025-06-08,,6
+1742,633,70,Atorvastatin,40 mg,Once daily at night,2024-07-17,,10
+1743,596,76,Metformin,500 mg,Twice daily with meals,2025-02-08,,5
+1744,452,82,Amoxicillin,500 mg,Three times daily for 7 days,2025-03-22,,9
+1745,56,125,Ramipril,2.5 mg,Once daily,2023-05-02,2023-05-09,2
+1746,87,25,Omeprazole,40 mg,Once daily before breakfast,2024-10-08,2024-12-03,2
+1747,367,166,Omeprazole,20 mg,Once daily before breakfast,2023-11-06,,6
+1748,479,5,Amlodipine,5 mg,Once daily,2024-01-01,2024-02-26,3
+1749,548,93,Ibuprofen,600 mg,Three times daily after food,2025-04-27,2025-05-04,0
+1750,102,39,Bisoprolol,2.5 mg,Once daily,2025-06-12,,9
+1751,362,33,Ibuprofen,200 mg,Three times daily after food,2023-05-05,2023-05-19,0
+1752,744,88,Ibuprofen,200 mg,Three times daily after food,2023-10-12,,8
+1753,609,99,Cetirizine,10 mg,Once daily,2025-02-26,2025-03-05,3
+1754,598,157,Atorvastatin,20 mg,Once daily at night,2024-10-30,2024-11-13,3
+1755,786,51,Omeprazole,40 mg,Once daily before breakfast,2025-05-03,2025-06-28,2
+1756,300,232,Sertraline,100 mg,Once daily,2025-02-23,2025-03-09,3
+1757,260,152,Amlodipine,10 mg,Once daily,2024-09-12,2024-10-10,3
+1758,63,49,Atorvastatin,20 mg,Once daily at night,2024-09-05,,8
+1759,280,49,Amlodipine,5 mg,Once daily,2024-02-15,2024-02-29,0
+1760,499,243,Ibuprofen,600 mg,Three times daily after food,2024-08-27,2024-10-22,2
+1761,476,57,Ibuprofen,200 mg,Three times daily after food,2024-05-25,2024-06-22,1
+1762,794,216,Furosemide,40 mg,Once daily in the morning,2024-09-25,2024-12-24,3
+1763,527,2,Amoxicillin,500 mg,Three times daily for 7 days,2023-12-16,2024-03-15,1
+1764,122,95,Bisoprolol,2.5 mg,Once daily,2025-06-27,2025-09-25,1
+1765,579,146,Metformin,500 mg,Twice daily with meals,2024-06-11,2024-09-09,2
+1766,425,103,Amoxicillin,500 mg,Three times daily for 7 days,2025-04-22,,7
+1767,552,115,Ibuprofen,400 mg,Three times daily after food,2024-11-24,,11
+1768,483,179,Omeprazole,20 mg,Once daily before breakfast,2024-05-20,2024-06-17,3
+1769,433,68,Atorvastatin,20 mg,Once daily at night,2024-12-13,2025-02-07,3
+1770,29,114,Lisinopril,10 mg,Once daily,2025-05-08,2025-05-15,3
+1771,550,13,Amoxicillin,500 mg,Three times daily for 7 days,2025-04-08,2025-07-07,1
+1772,355,172,Metformin,500 mg,Twice daily with meals,2024-09-11,,11
+1773,573,38,Lisinopril,10 mg,Once daily,2025-02-20,2025-04-17,2
+1774,655,176,Lisinopril,10 mg,Once daily,2025-03-22,2025-05-17,3
+1775,670,75,Amoxicillin,500 mg,Three times daily for 7 days,2025-04-22,,6
+1776,472,217,Paracetamol,1000 mg,Up to four times daily,2025-05-25,,8
+1777,373,183,Cetirizine,10 mg,Once daily,2025-06-19,2025-06-26,3
+1778,716,184,Lisinopril,5 mg,Once daily,2024-06-10,2024-06-24,1
+1779,451,2,Omeprazole,20 mg,Once daily before breakfast,2025-05-22,2025-06-05,2
+1780,606,201,Ibuprofen,600 mg,Three times daily after food,2023-07-14,2023-07-21,1
+1781,109,96,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-11-15,2025-01-10,1
+1782,388,79,Lisinopril,20 mg,Once daily,2024-12-08,2025-03-08,2
+1783,679,17,Lisinopril,5 mg,Once daily,2025-03-21,2025-05-16,2
+1784,36,182,Omeprazole,40 mg,Once daily before breakfast,2025-06-11,,5
+1785,782,126,Sertraline,100 mg,Once daily,2023-03-06,2023-03-13,1
+1786,490,125,Cetirizine,10 mg,Once daily,2024-09-23,,8
+1787,418,193,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-09,2024-11-16,0
+1788,217,217,Lisinopril,10 mg,Once daily,2024-04-09,,8
+1789,608,23,Ramipril,5 mg,Once daily,2025-03-26,2025-04-02,1
+1790,405,214,Bisoprolol,2.5 mg,Once daily,2024-08-04,,7
+1791,441,88,Salbutamol,100 mcg/dose,Two puffs as required,2024-09-19,2024-10-03,1
+1792,485,28,Lisinopril,20 mg,Once daily,2025-06-02,2025-06-09,2
+1793,130,9,Lisinopril,10 mg,Once daily,2025-06-08,,10
+1794,531,101,Cetirizine,10 mg,Once daily,2024-11-18,2025-01-13,1
+1795,412,45,Amoxicillin,250 mg,Three times daily for 7 days,2025-02-10,2025-03-10,2
+1796,350,50,Atorvastatin,10 mg,Once daily at night,2024-08-11,2024-08-25,3
+1797,479,71,Metformin,500 mg,Twice daily with meals,2024-07-01,2024-07-29,3
+1798,368,185,Metformin,500 mg,Twice daily with meals,2024-10-03,2025-01-01,1
+1799,333,244,Amlodipine,5 mg,Once daily,2024-12-10,2024-12-17,3
+1800,82,130,Ramipril,10 mg,Once daily,2025-06-20,,5
+1801,704,113,Metformin,1000 mg,Twice daily with meals,2025-01-20,2025-03-17,3
+1802,299,77,Omeprazole,40 mg,Once daily before breakfast,2024-07-11,,5
+1803,204,73,Ramipril,5 mg,Once daily,2024-10-22,,10
+1804,9,82,Omeprazole,20 mg,Once daily before breakfast,2024-12-25,2025-01-22,0
+1805,114,231,Lisinopril,10 mg,Once daily,2025-01-02,2025-04-02,1
+1806,580,17,Sertraline,100 mg,Once daily,2025-02-27,,10
+1807,271,235,Amoxicillin,500 mg,Three times daily for 7 days,2024-11-09,,8
+1808,358,156,Amlodipine,10 mg,Once daily,2023-09-18,2023-11-13,2
+1809,510,12,Paracetamol,500 mg,Up to four times daily,2024-09-24,,11
+1810,425,28,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-06-21,2025-06-28,0
+1811,35,77,Bisoprolol,5 mg,Once daily,2024-09-13,2024-09-20,3
+1812,665,231,Ramipril,2.5 mg,Once daily,2023-07-12,,10
+1813,342,190,Amoxicillin,250 mg,Three times daily for 7 days,2024-06-16,2024-09-14,3
+1814,136,31,Metformin,500 mg,Twice daily with meals,2025-05-27,,7
+1815,689,135,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-12-03,2024-12-31,2
+1816,177,206,Ramipril,2.5 mg,Once daily,2024-11-07,2024-12-05,1
+1817,470,103,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-03-18,,7
+1818,444,96,Prednisolone,5 mg,"Once daily, reducing course",2024-05-12,,7
+1819,636,157,Amlodipine,10 mg,Once daily,2024-12-26,,10
+1820,714,124,Atorvastatin,10 mg,Once daily at night,2023-11-04,2023-12-30,0
+1821,329,127,Ramipril,5 mg,Once daily,2024-11-28,2025-01-23,1
+1822,82,4,Apixaban,2.5 mg,Twice daily,2024-09-01,2024-09-15,2
+1823,683,196,Atorvastatin,20 mg,Once daily at night,2024-09-18,2024-10-16,3
+1824,521,210,Omeprazole,20 mg,Once daily before breakfast,2025-02-08,2025-05-09,1
+1825,511,183,Metformin,500 mg,Twice daily with meals,2025-01-07,2025-02-04,1
+1826,442,78,Sertraline,50 mg,Once daily,2024-07-15,,11
+1827,258,160,Metformin,850 mg,Twice daily with meals,2025-04-28,,8
+1828,749,101,Paracetamol,500 mg,Up to four times daily,2024-03-01,2024-03-08,1
+1829,543,229,Furosemide,20 mg,Once daily in the morning,2025-03-21,2025-04-04,2
+1830,442,79,Omeprazole,40 mg,Once daily before breakfast,2023-11-09,,9
+1831,401,183,Omeprazole,20 mg,Once daily before breakfast,2024-07-28,2024-08-11,0
+1832,272,37,Cetirizine,10 mg,Once daily,2024-07-23,,7
+1833,717,2,Amoxicillin,500 mg,Three times daily for 7 days,2025-02-11,2025-04-08,2
+1834,20,38,Amlodipine,10 mg,Once daily,2025-06-11,2025-06-18,3
+1835,52,68,Omeprazole,40 mg,Once daily before breakfast,2025-02-10,,10
+1836,83,129,Paracetamol,1000 mg,Up to four times daily,2025-06-10,,8
+1837,202,12,Prednisolone,5 mg,"Once daily, reducing course",2025-03-16,2025-03-30,1
+1838,448,118,Metformin,1000 mg,Twice daily with meals,2025-05-31,2025-06-28,0
+1839,314,238,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-05-18,2024-07-13,0
+1840,432,161,Sertraline,50 mg,Once daily,2023-05-14,,5
+1841,515,50,Amoxicillin,250 mg,Three times daily for 7 days,2024-09-20,2024-11-15,0
+1842,391,187,Salbutamol,100 mcg/dose,Two puffs as required,2023-03-31,,7
+1843,451,14,Atorvastatin,40 mg,Once daily at night,2025-04-19,2025-07-18,3
+1844,49,177,Amoxicillin,250 mg,Three times daily for 7 days,2024-03-27,2024-06-25,1
+1845,631,207,Paracetamol,1000 mg,Up to four times daily,2024-11-18,2024-12-16,2
+1846,298,175,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-28,2025-06-23,1
+1847,666,38,Sertraline,100 mg,Once daily,2024-08-31,2024-09-07,3
+1848,107,6,Bisoprolol,5 mg,Once daily,2025-05-03,2025-05-10,3
+1849,172,122,Metformin,500 mg,Twice daily with meals,2024-09-17,2024-09-24,0
+1850,85,221,Apixaban,5 mg,Twice daily,2025-02-06,,10
+1851,85,229,Paracetamol,1000 mg,Up to four times daily,2025-01-24,,9
+1852,100,218,Amlodipine,10 mg,Once daily,2025-05-13,2025-08-11,0
+1853,780,76,Amlodipine,10 mg,Once daily,2024-08-27,2024-11-25,1
+1854,73,239,Bisoprolol,5 mg,Once daily,2025-03-05,2025-04-02,0
+1855,18,238,Lisinopril,5 mg,Once daily,2024-06-21,2024-09-19,2
+1856,394,237,Cetirizine,10 mg,Once daily,2024-03-13,2024-06-11,2
+1857,265,166,Sertraline,100 mg,Once daily,2025-03-11,,6
+1858,128,102,Amlodipine,10 mg,Once daily,2025-01-15,2025-03-12,0
+1859,476,90,Metformin,500 mg,Twice daily with meals,2023-10-17,2023-11-14,1
+1860,497,245,Furosemide,40 mg,Once daily in the morning,2024-06-08,2024-08-03,3
+1861,270,136,Lisinopril,5 mg,Once daily,2025-06-03,2025-06-17,0
+1862,26,114,Ramipril,10 mg,Once daily,2025-03-08,,5
+1863,718,127,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-03-18,2025-04-01,1
+1864,302,214,Paracetamol,500 mg,Up to four times daily,2024-03-22,,5
+1865,252,71,Lisinopril,5 mg,Once daily,2024-01-31,,11
+1866,423,49,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-06-12,,7
+1867,755,95,Paracetamol,500 mg,Up to four times daily,2024-10-01,2024-10-15,0
+1868,142,44,Salbutamol,100 mcg/dose,Two puffs as required,2025-01-06,,5
+1869,7,138,Sertraline,50 mg,Once daily,2024-02-18,2024-03-03,2
+1870,662,97,Bisoprolol,5 mg,Once daily,2025-06-11,,5
+1871,316,138,Lisinopril,20 mg,Once daily,2024-06-15,,8
+1872,675,106,Furosemide,40 mg,Once daily in the morning,2025-05-25,,10
+1873,458,48,Amlodipine,10 mg,Once daily,2025-05-31,2025-06-28,2
+1874,690,159,Paracetamol,1000 mg,Up to four times daily,2025-01-01,2025-01-08,0
+1875,247,192,Lisinopril,20 mg,Once daily,2023-12-20,,8
+1876,730,200,Atorvastatin,40 mg,Once daily at night,2024-08-07,2024-11-05,2
+1877,9,33,Sertraline,100 mg,Once daily,2024-10-22,,7
+1878,7,126,Ibuprofen,600 mg,Three times daily after food,2024-08-26,,9
+1879,766,136,Ramipril,2.5 mg,Once daily,2024-06-17,,11
+1880,31,197,Lisinopril,5 mg,Once daily,2025-01-16,,10
+1881,53,202,Amoxicillin,500 mg,Three times daily for 7 days,2024-05-11,2024-05-18,0
+1882,223,17,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-05-28,,7
+1883,307,46,Lisinopril,10 mg,Once daily,2025-02-01,,9
+1884,463,147,Lisinopril,10 mg,Once daily,2025-02-22,,8
+1885,297,155,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-01-25,,10
+1886,1,237,Ibuprofen,200 mg,Three times daily after food,2025-06-12,,7
+1887,655,67,Atorvastatin,10 mg,Once daily at night,2025-01-15,,9
+1888,334,204,Prednisolone,5 mg,"Once daily, reducing course",2024-10-15,,7
+1889,411,128,Amoxicillin,500 mg,Three times daily for 7 days,2024-01-12,2024-01-26,1
+1890,600,92,Omeprazole,20 mg,Once daily before breakfast,2025-06-30,2025-07-14,1
+1891,8,114,Furosemide,20 mg,Once daily in the morning,2024-10-19,,5
+1892,641,32,Sertraline,100 mg,Once daily,2024-08-19,2024-09-02,2
+1893,341,43,Prednisolone,5 mg,"Once daily, reducing course",2025-05-03,,7
+1894,646,179,Amoxicillin,250 mg,Three times daily for 7 days,2024-09-06,,5
+1895,272,217,Ramipril,2.5 mg,Once daily,2024-08-23,2024-11-21,2
+1896,703,209,Amoxicillin,250 mg,Three times daily for 7 days,2025-05-18,,11
+1897,293,59,Levothyroxine,50 mcg,Once daily on an empty stomach,2023-05-30,,8
+1898,746,137,Ramipril,2.5 mg,Once daily,2024-03-24,,11
+1899,279,60,Bisoprolol,5 mg,Once daily,2023-05-14,,9
+1900,189,54,Paracetamol,500 mg,Up to four times daily,2025-05-05,,6
+1901,688,182,Gabapentin,300 mg,Three times daily,2025-03-13,2025-03-20,1
+1902,639,63,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-05-07,2025-08-05,0
+1903,665,96,Sertraline,50 mg,Once daily,2024-09-16,2024-12-15,2
+1904,581,177,Lisinopril,5 mg,Once daily,2025-05-15,,10
+1905,132,106,Prednisolone,5 mg,"Once daily, reducing course",2024-09-11,,10
+1906,306,236,Salbutamol,100 mcg/dose,Two puffs as required,2023-11-27,,8
+1907,140,118,Cetirizine,10 mg,Once daily,2024-10-10,2024-12-05,2
+1908,170,78,Furosemide,40 mg,Once daily in the morning,2025-04-27,,11
+1909,700,37,Ibuprofen,200 mg,Three times daily after food,2025-04-16,2025-05-14,1
+1910,329,104,Apixaban,5 mg,Twice daily,2025-04-03,2025-04-10,1
+1911,165,250,Atorvastatin,20 mg,Once daily at night,2023-04-29,2023-05-06,3
+1912,376,148,Ramipril,2.5 mg,Once daily,2024-04-10,2024-06-05,1
+1913,562,222,Salbutamol,100 mcg/dose,Two puffs as required,2023-07-03,2023-10-01,3
+1914,343,134,Omeprazole,20 mg,Once daily before breakfast,2024-01-06,2024-04-05,0
+1915,60,12,Paracetamol,1000 mg,Up to four times daily,2024-03-19,2024-05-14,3
+1916,557,106,Amoxicillin,250 mg,Three times daily for 7 days,2025-05-09,,5
+1917,291,212,Amlodipine,10 mg,Once daily,2024-07-13,2024-07-20,1
+1918,192,121,Atorvastatin,40 mg,Once daily at night,2024-04-21,2024-07-20,0
+1919,287,55,Lisinopril,10 mg,Once daily,2025-03-25,2025-04-08,0
+1920,6,218,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-10-27,2024-11-10,0
+1921,649,60,Ibuprofen,600 mg,Three times daily after food,2025-03-18,2025-05-13,0
+1922,457,58,Cetirizine,10 mg,Once daily,2025-06-05,2025-09-03,1
+1923,69,151,Atorvastatin,40 mg,Once daily at night,2024-10-07,2024-10-14,1
+1924,245,159,Metformin,500 mg,Twice daily with meals,2024-12-22,2024-12-29,3
+1925,103,115,Metformin,850 mg,Twice daily with meals,2025-01-06,,11
+1926,215,143,Lisinopril,5 mg,Once daily,2024-10-18,,10
+1927,394,241,Sertraline,50 mg,Once daily,2025-01-01,2025-02-26,0
+1928,96,213,Sertraline,100 mg,Once daily,2025-05-18,2025-06-15,2
+1929,374,189,Paracetamol,1000 mg,Up to four times daily,2025-02-27,2025-03-06,1
+1930,386,227,Cetirizine,10 mg,Once daily,2024-02-01,,7
+1931,352,13,Metformin,850 mg,Twice daily with meals,2025-02-08,2025-02-22,2
+1932,19,102,Amlodipine,10 mg,Once daily,2025-02-03,,8
+1933,718,97,Ramipril,10 mg,Once daily,2024-11-26,2025-01-21,2
+1934,18,213,Ibuprofen,400 mg,Three times daily after food,2023-12-17,2024-01-14,2
+1935,582,30,Gabapentin,300 mg,Three times daily,2025-05-13,,8
+1936,389,67,Ibuprofen,600 mg,Three times daily after food,2025-04-23,2025-05-21,3
+1937,507,52,Omeprazole,20 mg,Once daily before breakfast,2024-03-14,,9
+1938,479,95,Omeprazole,40 mg,Once daily before breakfast,2025-03-06,2025-03-13,1
+1939,16,60,Ibuprofen,200 mg,Three times daily after food,2023-05-07,2023-08-05,1
+1940,729,120,Amoxicillin,500 mg,Three times daily for 7 days,2025-04-30,,6
+1941,699,250,Bisoprolol,2.5 mg,Once daily,2025-04-02,2025-05-28,2
+1942,216,3,Omeprazole,40 mg,Once daily before breakfast,2025-05-15,2025-08-13,3
+1943,336,191,Cetirizine,10 mg,Once daily,2024-08-29,2024-09-05,2
+1944,197,20,Metformin,850 mg,Twice daily with meals,2025-06-17,,11
+1945,326,168,Ibuprofen,600 mg,Three times daily after food,2023-10-12,,5
+1946,310,108,Bisoprolol,2.5 mg,Once daily,2024-07-01,2024-07-29,2
+1947,748,55,Atorvastatin,10 mg,Once daily at night,2023-12-31,2024-01-07,0
+1948,152,160,Metformin,850 mg,Twice daily with meals,2024-05-07,,8
+1949,482,216,Salbutamol,100 mcg/dose,Two puffs as required,2024-12-02,2024-12-30,3
+1950,79,95,Metformin,850 mg,Twice daily with meals,2025-06-04,2025-07-30,0
+1951,114,80,Sertraline,50 mg,Once daily,2025-01-24,,6
+1952,627,127,Furosemide,20 mg,Once daily in the morning,2025-01-31,,10
+1953,191,243,Metformin,850 mg,Twice daily with meals,2024-03-08,,7
+1954,607,71,Apixaban,5 mg,Twice daily,2024-08-02,2024-08-09,1
+1955,446,6,Metformin,850 mg,Twice daily with meals,2025-03-30,2025-06-28,2
+1956,596,75,Atorvastatin,20 mg,Once daily at night,2025-05-26,2025-06-09,3
+1957,624,59,Gabapentin,300 mg,Three times daily,2025-02-01,2025-02-08,3
+1958,476,72,Salbutamol,100 mcg/dose,Two puffs as required,2023-07-26,2023-08-09,2
+1959,312,180,Paracetamol,500 mg,Up to four times daily,2025-02-27,,7
+1960,113,46,Omeprazole,40 mg,Once daily before breakfast,2025-01-22,,6
+1961,625,177,Apixaban,5 mg,Twice daily,2025-01-29,2025-03-26,3
+1962,535,171,Furosemide,20 mg,Once daily in the morning,2025-01-17,2025-03-14,2
+1963,90,44,Apixaban,2.5 mg,Twice daily,2025-01-10,2025-02-07,2
+1964,148,227,Amlodipine,10 mg,Once daily,2025-05-18,2025-07-13,2
+1965,311,246,Furosemide,20 mg,Once daily in the morning,2025-05-11,,8
+1966,443,11,Atorvastatin,20 mg,Once daily at night,2025-05-04,,9
+1967,186,157,Furosemide,40 mg,Once daily in the morning,2025-06-28,2025-09-26,0
+1968,455,75,Metformin,850 mg,Twice daily with meals,2024-10-23,2024-10-30,0
+1969,122,151,Ibuprofen,400 mg,Three times daily after food,2024-07-16,2024-08-13,1
+1970,574,98,Atorvastatin,10 mg,Once daily at night,2024-04-29,2024-06-24,1
+1971,571,59,Atorvastatin,10 mg,Once daily at night,2024-06-20,2024-07-04,1
+1972,237,38,Ramipril,2.5 mg,Once daily,2024-11-03,,5
+1973,755,11,Omeprazole,40 mg,Once daily before breakfast,2025-02-24,,6
+1974,317,146,Atorvastatin,10 mg,Once daily at night,2024-09-11,2024-12-10,3
+1975,364,107,Amlodipine,5 mg,Once daily,2024-03-25,2024-04-22,3
+1976,281,63,Paracetamol,1000 mg,Up to four times daily,2025-05-07,2025-06-04,3
+1977,595,41,Salbutamol,100 mcg/dose,Two puffs as required,2023-12-11,2024-01-08,3
+1978,116,183,Amlodipine,10 mg,Once daily,2023-12-07,2024-03-06,0
+1979,245,103,Ibuprofen,600 mg,Three times daily after food,2024-02-10,2024-02-17,3
+1980,252,173,Paracetamol,500 mg,Up to four times daily,2025-02-24,,9
+1981,305,135,Ramipril,2.5 mg,Once daily,2024-05-30,,7
+1982,584,155,Metformin,500 mg,Twice daily with meals,2024-08-05,,6
+1983,660,21,Omeprazole,20 mg,Once daily before breakfast,2024-10-18,,10
+1984,224,40,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-01-08,,9
+1985,10,124,Atorvastatin,40 mg,Once daily at night,2024-05-31,,5
+1986,688,186,Atorvastatin,40 mg,Once daily at night,2025-04-15,,5
+1987,276,69,Sertraline,100 mg,Once daily,2023-11-30,,9
+1988,114,96,Amoxicillin,500 mg,Three times daily for 7 days,2024-11-05,2024-12-31,0
+1989,503,209,Amoxicillin,250 mg,Three times daily for 7 days,2024-05-12,2024-07-07,0
+1990,786,203,Atorvastatin,10 mg,Once daily at night,2023-09-22,,8
+1991,574,15,Bisoprolol,5 mg,Once daily,2023-07-04,2023-08-29,1
+1992,343,154,Lisinopril,20 mg,Once daily,2024-07-16,2024-10-14,0
+1993,609,105,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-09-21,2024-11-16,3
+1994,341,184,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-11-22,,10
+1995,374,230,Amoxicillin,500 mg,Three times daily for 7 days,2025-03-15,2025-05-10,0
+1996,604,81,Omeprazole,40 mg,Once daily before breakfast,2024-07-19,2024-09-13,2
+1997,49,173,Amoxicillin,500 mg,Three times daily for 7 days,2024-04-02,,9
+1998,102,161,Cetirizine,10 mg,Once daily,2025-05-19,2025-06-02,2
+1999,264,239,Prednisolone,5 mg,"Once daily, reducing course",2025-06-06,2025-07-04,0
+2000,529,246,Omeprazole,20 mg,Once daily before breakfast,2025-05-07,,5
+2001,160,159,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-04-11,2024-04-25,1
+2002,716,88,Sertraline,100 mg,Once daily,2024-10-23,,7
+2003,339,92,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-07,,8
+2004,263,122,Prednisolone,5 mg,"Once daily, reducing course",2023-08-04,2023-08-18,0
+2005,651,220,Lisinopril,5 mg,Once daily,2023-10-17,,5
+2006,703,114,Salbutamol,100 mcg/dose,Two puffs as required,2024-01-31,,9
+2007,306,139,Atorvastatin,40 mg,Once daily at night,2024-06-28,2024-09-26,1
+2008,486,143,Gabapentin,300 mg,Three times daily,2024-12-30,2025-01-13,2
+2009,319,80,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-05-27,,9
+2010,793,223,Prednisolone,5 mg,"Once daily, reducing course",2025-06-02,,8
+2011,744,209,Paracetamol,500 mg,Up to four times daily,2025-02-15,,7
+2012,33,188,Sertraline,50 mg,Once daily,2024-11-29,,6
+2013,189,19,Atorvastatin,10 mg,Once daily at night,2025-03-14,2025-04-11,2
+2014,71,170,Ibuprofen,400 mg,Three times daily after food,2025-05-12,2025-05-19,2
+2015,711,165,Amlodipine,10 mg,Once daily,2024-03-02,2024-03-16,3
+2016,593,98,Lisinopril,20 mg,Once daily,2024-09-15,2024-12-14,1
+2017,673,87,Amlodipine,5 mg,Once daily,2024-11-01,,9
+2018,489,173,Ibuprofen,200 mg,Three times daily after food,2025-06-21,,8
+2019,248,191,Furosemide,20 mg,Once daily in the morning,2025-02-07,,11
+2020,430,179,Amlodipine,10 mg,Once daily,2024-06-27,,7
+2021,764,235,Furosemide,20 mg,Once daily in the morning,2025-02-25,,11
+2022,736,154,Lisinopril,5 mg,Once daily,2023-07-14,,7
+2023,138,103,Ibuprofen,600 mg,Three times daily after food,2025-05-12,2025-08-10,3
+2024,337,197,Lisinopril,5 mg,Once daily,2025-04-16,2025-04-30,0
+2025,798,74,Ibuprofen,200 mg,Three times daily after food,2025-02-13,2025-05-14,2
+2026,1,227,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-02-02,2025-02-09,0
+2027,130,2,Sertraline,100 mg,Once daily,2025-02-09,2025-03-09,2
+2028,168,72,Salbutamol,100 mcg/dose,Two puffs as required,2024-05-28,2024-06-04,1
+2029,572,118,Atorvastatin,20 mg,Once daily at night,2025-03-25,2025-05-20,1
+2030,511,183,Lisinopril,10 mg,Once daily,2024-08-21,,10
+2031,251,141,Paracetamol,500 mg,Up to four times daily,2024-05-03,2024-05-31,1
+2032,210,6,Amlodipine,10 mg,Once daily,2025-02-02,,9
+2033,281,6,Omeprazole,20 mg,Once daily before breakfast,2024-12-24,2025-01-07,0
+2034,124,181,Sertraline,50 mg,Once daily,2025-01-16,2025-01-30,1
+2035,239,218,Ramipril,5 mg,Once daily,2024-12-05,,11
+2036,23,172,Bisoprolol,5 mg,Once daily,2025-03-19,2025-04-16,1
+2037,569,115,Atorvastatin,40 mg,Once daily at night,2023-11-17,2024-01-12,0
+2038,475,64,Amoxicillin,250 mg,Three times daily for 7 days,2025-04-18,,9
+2039,233,135,Lisinopril,5 mg,Once daily,2024-07-28,,11
+2040,590,163,Paracetamol,500 mg,Up to four times daily,2025-02-21,2025-03-21,2
+2041,694,56,Ibuprofen,400 mg,Three times daily after food,2025-06-27,2025-07-11,1
+2042,175,238,Amoxicillin,500 mg,Three times daily for 7 days,2025-04-24,,8
+2043,328,68,Amlodipine,10 mg,Once daily,2024-07-16,,10
+2044,116,239,Salbutamol,100 mcg/dose,Two puffs as required,2025-05-25,,9
+2045,656,117,Furosemide,20 mg,Once daily in the morning,2025-04-18,,11
+2046,781,86,Atorvastatin,20 mg,Once daily at night,2024-12-11,2025-03-11,2
+2047,678,193,Atorvastatin,20 mg,Once daily at night,2025-02-28,2025-04-25,0
+2048,395,143,Apixaban,5 mg,Twice daily,2024-07-22,,9
+2049,705,61,Salbutamol,100 mcg/dose,Two puffs as required,2025-02-18,2025-02-25,0
+2050,767,239,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-02-12,2025-02-19,1
+2051,220,110,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-06-27,2025-07-04,1
+2052,112,118,Metformin,500 mg,Twice daily with meals,2024-10-07,2024-10-14,1
+2053,621,186,Amlodipine,10 mg,Once daily,2024-11-29,,11
+2054,76,113,Salbutamol,100 mcg/dose,Two puffs as required,2023-06-16,,5
+2055,215,234,Amlodipine,10 mg,Once daily,2023-12-29,2024-01-12,0
+2056,148,81,Lisinopril,20 mg,Once daily,2025-03-02,2025-05-31,2
+2057,108,183,Amoxicillin,500 mg,Three times daily for 7 days,2024-05-11,2024-08-09,2
+2058,482,28,Lisinopril,5 mg,Once daily,2023-07-08,2023-10-06,0
+2059,672,241,Ramipril,10 mg,Once daily,2024-02-24,2024-03-09,2
+2060,728,77,Metformin,500 mg,Twice daily with meals,2024-04-18,,7
+2061,378,10,Cetirizine,10 mg,Once daily,2025-02-10,2025-02-24,1
+2062,95,194,Amlodipine,5 mg,Once daily,2025-03-13,,8
+2063,135,188,Atorvastatin,20 mg,Once daily at night,2025-03-27,2025-05-22,2
+2064,586,142,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-05-19,2025-06-16,1
+2065,70,239,Amlodipine,5 mg,Once daily,2024-05-16,2024-05-30,0
+2066,635,136,Gabapentin,300 mg,Three times daily,2023-09-18,,7
+2067,341,247,Sertraline,100 mg,Once daily,2024-09-17,2024-11-12,0
+2068,129,207,Amlodipine,10 mg,Once daily,2025-06-02,,8
+2069,561,154,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-26,2025-07-25,1
+2070,688,187,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-04-04,,7
+2071,706,177,Amoxicillin,500 mg,Three times daily for 7 days,2025-03-19,,7
+2072,341,71,Atorvastatin,20 mg,Once daily at night,2025-02-17,2025-02-24,1
+2073,20,157,Atorvastatin,20 mg,Once daily at night,2025-04-27,,8
+2074,330,237,Sertraline,100 mg,Once daily,2025-06-01,2025-06-15,2
+2075,729,87,Gabapentin,300 mg,Three times daily,2025-04-23,,9
+2076,370,240,Furosemide,40 mg,Once daily in the morning,2024-09-14,2024-09-21,2
+2077,782,193,Ibuprofen,400 mg,Three times daily after food,2025-04-16,2025-05-14,1
+2078,163,47,Lisinopril,10 mg,Once daily,2024-01-13,2024-02-10,2
+2079,266,107,Metformin,1000 mg,Twice daily with meals,2024-11-25,,7
+2080,696,146,Ramipril,5 mg,Once daily,2024-09-04,,8
+2081,617,6,Ibuprofen,200 mg,Three times daily after food,2024-01-31,,6
+2082,433,103,Amoxicillin,250 mg,Three times daily for 7 days,2024-10-24,,5
+2083,118,65,Lisinopril,20 mg,Once daily,2025-05-02,2025-05-09,0
+2084,235,106,Atorvastatin,10 mg,Once daily at night,2024-08-15,,6
+2085,752,80,Lisinopril,20 mg,Once daily,2023-07-28,2023-10-26,0
+2086,490,65,Gabapentin,300 mg,Three times daily,2024-02-02,,10
+2087,102,98,Omeprazole,40 mg,Once daily before breakfast,2025-03-09,2025-03-16,2
+2088,751,244,Sertraline,100 mg,Once daily,2024-07-08,2024-09-02,2
+2089,289,49,Metformin,850 mg,Twice daily with meals,2024-06-09,,6
+2090,515,21,Cetirizine,10 mg,Once daily,2024-10-30,,9
+2091,623,60,Atorvastatin,40 mg,Once daily at night,2024-11-30,2025-01-25,2
+2092,440,42,Metformin,850 mg,Twice daily with meals,2024-10-28,2024-12-23,1
+2093,215,186,Salbutamol,100 mcg/dose,Two puffs as required,2024-09-26,,10
+2094,780,108,Amoxicillin,250 mg,Three times daily for 7 days,2025-02-10,2025-02-17,3
+2095,276,159,Omeprazole,20 mg,Once daily before breakfast,2023-10-23,,9
+2096,435,210,Paracetamol,500 mg,Up to four times daily,2024-06-23,,10
+2097,63,234,Paracetamol,1000 mg,Up to four times daily,2024-04-29,2024-05-06,3
+2098,317,5,Bisoprolol,5 mg,Once daily,2024-11-22,2024-12-20,0
+2099,681,140,Ibuprofen,200 mg,Three times daily after food,2025-06-16,,6
+2100,351,25,Lisinopril,5 mg,Once daily,2025-06-13,2025-08-08,0
+2101,450,64,Ibuprofen,600 mg,Three times daily after food,2025-03-13,2025-04-10,0
+2102,388,204,Amoxicillin,500 mg,Three times daily for 7 days,2025-03-31,,11
+2103,249,52,Amlodipine,5 mg,Once daily,2023-09-28,2023-10-26,1
+2104,632,68,Prednisolone,25 mg,"Once daily, reducing course",2023-11-28,2024-01-23,3
+2105,422,127,Gabapentin,300 mg,Three times daily,2025-02-06,,6
+2106,43,74,Metformin,500 mg,Twice daily with meals,2024-12-21,2025-01-18,2
+2107,112,226,Metformin,1000 mg,Twice daily with meals,2024-11-25,2024-12-02,3
+2108,170,114,Cetirizine,10 mg,Once daily,2024-05-05,,6
+2109,237,243,Lisinopril,5 mg,Once daily,2024-10-27,,10
+2110,319,70,Amoxicillin,250 mg,Three times daily for 7 days,2024-12-12,2025-02-06,0
+2111,668,17,Lisinopril,20 mg,Once daily,2023-09-28,,9
+2112,405,180,Salbutamol,100 mcg/dose,Two puffs as required,2024-03-25,2024-06-23,1
+2113,472,145,Lisinopril,20 mg,Once daily,2025-06-30,2025-07-28,0
+2114,83,57,Amoxicillin,250 mg,Three times daily for 7 days,2025-01-06,,9
+2115,288,176,Sertraline,50 mg,Once daily,2025-06-25,2025-09-23,0
+2116,441,238,Amoxicillin,500 mg,Three times daily for 7 days,2025-03-24,,11
+2117,511,53,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-04,,7
+2118,304,68,Amlodipine,10 mg,Once daily,2025-05-05,,5
+2119,122,127,Gabapentin,300 mg,Three times daily,2025-03-06,2025-03-13,1
+2120,76,135,Salbutamol,100 mcg/dose,Two puffs as required,2025-01-18,2025-01-25,0
+2121,736,99,Levothyroxine,75 mcg,Once daily on an empty stomach,2023-12-16,2024-03-15,1
+2122,13,209,Cetirizine,10 mg,Once daily,2023-05-24,2023-06-21,1
+2123,658,236,Metformin,1000 mg,Twice daily with meals,2024-07-13,,5
+2124,773,85,Lisinopril,10 mg,Once daily,2024-07-17,,6
+2125,348,12,Amlodipine,10 mg,Once daily,2023-09-20,,6
+2126,524,156,Omeprazole,40 mg,Once daily before breakfast,2025-05-07,2025-08-05,0
+2127,765,142,Furosemide,40 mg,Once daily in the morning,2025-04-06,2025-07-05,1
+2128,145,105,Amlodipine,10 mg,Once daily,2024-04-16,,8
+2129,177,196,Ibuprofen,200 mg,Three times daily after food,2024-09-17,,9
+2130,231,117,Sertraline,100 mg,Once daily,2025-03-10,,10
+2131,449,65,Cetirizine,10 mg,Once daily,2025-06-09,,11
+2132,753,183,Lisinopril,5 mg,Once daily,2025-01-14,2025-02-11,1
+2133,55,188,Metformin,850 mg,Twice daily with meals,2024-10-25,,9
+2134,356,176,Omeprazole,40 mg,Once daily before breakfast,2025-01-31,,9
+2135,357,217,Gabapentin,300 mg,Three times daily,2025-03-29,,6
+2136,559,174,Ibuprofen,200 mg,Three times daily after food,2025-05-07,,6
+2137,121,229,Amlodipine,10 mg,Once daily,2025-02-27,2025-04-24,3
+2138,176,63,Amlodipine,10 mg,Once daily,2025-01-10,2025-04-10,1
+2139,28,130,Metformin,500 mg,Twice daily with meals,2024-09-26,2024-10-10,1
+2140,222,129,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-03-21,2025-03-28,1
+2141,798,64,Prednisolone,5 mg,"Once daily, reducing course",2025-02-10,,5
+2142,48,172,Paracetamol,1000 mg,Up to four times daily,2025-01-07,,10
+2143,633,51,Sertraline,100 mg,Once daily,2024-10-03,2025-01-01,3
+2144,566,181,Sertraline,50 mg,Once daily,2023-10-26,2024-01-24,3
+2145,531,122,Bisoprolol,2.5 mg,Once daily,2025-03-06,,11
+2146,689,7,Paracetamol,500 mg,Up to four times daily,2024-08-12,,10
+2147,379,205,Amlodipine,10 mg,Once daily,2024-02-27,2024-03-05,3
+2148,686,8,Gabapentin,300 mg,Three times daily,2024-08-02,2024-08-09,2
+2149,439,141,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-02-27,2024-03-12,1
+2150,277,148,Metformin,500 mg,Twice daily with meals,2025-05-31,2025-06-28,3
+2151,586,213,Metformin,850 mg,Twice daily with meals,2024-07-11,2024-09-05,0
+2152,617,184,Lisinopril,10 mg,Once daily,2023-09-08,2023-09-22,2
+2153,502,243,Lisinopril,20 mg,Once daily,2024-10-25,,5
+2154,155,26,Lisinopril,20 mg,Once daily,2025-03-27,2025-06-25,0
+2155,491,37,Amlodipine,10 mg,Once daily,2024-09-16,,9
+2156,347,94,Paracetamol,1000 mg,Up to four times daily,2025-06-21,,8
+2157,614,230,Amoxicillin,500 mg,Three times daily for 7 days,2024-03-23,2024-04-06,0
+2158,309,204,Lisinopril,10 mg,Once daily,2025-01-15,,9
+2159,60,183,Omeprazole,40 mg,Once daily before breakfast,2024-12-20,2024-12-27,3
+2160,139,23,Atorvastatin,20 mg,Once daily at night,2024-11-08,2024-11-22,2
+2161,673,121,Metformin,1000 mg,Twice daily with meals,2024-11-09,,10
+2162,357,63,Prednisolone,25 mg,"Once daily, reducing course",2025-01-20,,5
+2163,729,250,Ibuprofen,200 mg,Three times daily after food,2024-10-24,,5
+2164,473,120,Ibuprofen,200 mg,Three times daily after food,2024-09-12,2024-10-10,0
+2165,461,166,Metformin,850 mg,Twice daily with meals,2025-05-03,,9
+2166,773,137,Ramipril,10 mg,Once daily,2025-03-20,,5
+2167,649,28,Furosemide,40 mg,Once daily in the morning,2025-01-15,2025-02-12,3
+2168,214,187,Atorvastatin,20 mg,Once daily at night,2025-03-04,,5
+2169,531,207,Atorvastatin,40 mg,Once daily at night,2025-03-03,2025-03-31,0
+2170,98,238,Sertraline,100 mg,Once daily,2025-04-17,,11
+2171,796,236,Levothyroxine,100 mcg,Once daily on an empty stomach,2023-06-03,,10
+2172,469,160,Amlodipine,10 mg,Once daily,2025-04-24,,7
+2173,106,124,Cetirizine,10 mg,Once daily,2023-06-27,2023-07-11,1
+2174,654,78,Amoxicillin,500 mg,Three times daily for 7 days,2023-11-13,,10
+2175,432,14,Lisinopril,10 mg,Once daily,2025-01-07,2025-01-14,0
+2176,600,12,Omeprazole,20 mg,Once daily before breakfast,2025-02-28,,10
+2177,548,61,Amlodipine,10 mg,Once daily,2024-10-04,,9
+2178,23,164,Ramipril,10 mg,Once daily,2025-02-16,2025-03-02,0
+2179,40,240,Sertraline,50 mg,Once daily,2025-06-14,2025-06-28,2
+2180,725,144,Atorvastatin,10 mg,Once daily at night,2024-05-23,2024-08-21,0
+2181,661,52,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-03-14,2024-05-09,2
+2182,701,8,Lisinopril,10 mg,Once daily,2025-02-28,2025-03-28,3
+2183,786,9,Levothyroxine,75 mcg,Once daily on an empty stomach,2023-11-24,2023-12-01,1
+2184,220,136,Gabapentin,300 mg,Three times daily,2025-06-14,,6
+2185,394,44,Omeprazole,40 mg,Once daily before breakfast,2024-11-09,,10
+2186,655,81,Omeprazole,20 mg,Once daily before breakfast,2024-08-18,2024-08-25,2
+2187,167,51,Atorvastatin,10 mg,Once daily at night,2024-09-03,,11
+2188,329,46,Omeprazole,40 mg,Once daily before breakfast,2024-06-13,2024-07-11,1
+2189,293,24,Amlodipine,10 mg,Once daily,2024-01-26,2024-02-02,3
+2190,768,16,Lisinopril,5 mg,Once daily,2024-01-14,2024-01-21,1
+2191,449,77,Bisoprolol,2.5 mg,Once daily,2025-05-03,,5
+2192,789,73,Ibuprofen,200 mg,Three times daily after food,2024-11-21,2024-11-28,3
+2193,754,223,Metformin,500 mg,Twice daily with meals,2025-05-15,2025-05-29,1
+2194,544,63,Amlodipine,10 mg,Once daily,2025-02-12,,11
+2195,318,193,Amlodipine,10 mg,Once daily,2024-11-01,,6
+2196,706,50,Atorvastatin,40 mg,Once daily at night,2025-04-02,2025-07-01,0
+2197,409,244,Furosemide,40 mg,Once daily in the morning,2023-09-27,2023-10-04,1
+2198,622,92,Sertraline,50 mg,Once daily,2024-07-25,2024-09-19,2
+2199,113,151,Levothyroxine,50 mcg,Once daily on an empty stomach,2023-09-12,2023-09-19,3
+2200,401,148,Amlodipine,10 mg,Once daily,2024-09-01,2024-09-15,2
+2201,168,107,Omeprazole,40 mg,Once daily before breakfast,2024-05-24,,5
+2202,209,45,Amoxicillin,500 mg,Three times daily for 7 days,2024-08-29,,9
+2203,572,134,Omeprazole,20 mg,Once daily before breakfast,2025-05-02,2025-07-31,2
+2204,680,247,Lisinopril,5 mg,Once daily,2025-04-02,2025-04-09,1
+2205,675,214,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-05-07,,10
+2206,474,72,Omeprazole,20 mg,Once daily before breakfast,2025-02-22,2025-03-22,0
+2207,740,142,Atorvastatin,40 mg,Once daily at night,2024-06-29,,11
+2208,344,231,Atorvastatin,20 mg,Once daily at night,2024-08-24,,8
+2209,51,29,Amoxicillin,250 mg,Three times daily for 7 days,2025-01-09,,5
+2210,562,21,Ibuprofen,400 mg,Three times daily after food,2023-12-31,2024-01-07,1
+2211,584,120,Apixaban,2.5 mg,Twice daily,2024-12-14,2025-01-11,0
+2212,65,184,Lisinopril,20 mg,Once daily,2024-12-18,2025-01-15,1
+2213,391,189,Salbutamol,100 mcg/dose,Two puffs as required,2024-02-09,,11
+2214,652,216,Lisinopril,20 mg,Once daily,2025-02-05,2025-04-02,1
+2215,257,156,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-05-28,2025-06-04,1
+2216,74,85,Metformin,500 mg,Twice daily with meals,2025-03-29,2025-06-27,0
+2217,584,238,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-01,2025-08-30,0
+2218,358,212,Lisinopril,5 mg,Once daily,2025-01-30,,7
+2219,668,192,Cetirizine,10 mg,Once daily,2024-07-07,2024-08-04,1
+2220,123,234,Sertraline,50 mg,Once daily,2024-06-30,,5
+2221,570,231,Paracetamol,1000 mg,Up to four times daily,2024-03-08,,11
+2222,494,147,Lisinopril,20 mg,Once daily,2025-04-12,2025-05-10,0
+2223,667,200,Prednisolone,5 mg,"Once daily, reducing course",2024-03-18,2024-06-16,1
+2224,206,33,Metformin,850 mg,Twice daily with meals,2024-12-02,,6
+2225,18,238,Apixaban,2.5 mg,Twice daily,2024-07-04,,10
+2226,293,16,Metformin,1000 mg,Twice daily with meals,2023-11-13,,5
+2227,556,5,Metformin,500 mg,Twice daily with meals,2023-08-13,2023-10-08,0
+2228,612,128,Sertraline,50 mg,Once daily,2025-02-15,,11
+2229,596,95,Paracetamol,1000 mg,Up to four times daily,2025-04-10,2025-05-08,2
+2230,559,221,Ramipril,10 mg,Once daily,2025-06-28,,9
+2231,615,119,Omeprazole,20 mg,Once daily before breakfast,2025-05-14,2025-07-09,0
+2232,617,169,Bisoprolol,2.5 mg,Once daily,2024-01-28,2024-02-11,1
+2233,442,47,Salbutamol,100 mcg/dose,Two puffs as required,2025-02-12,,6
+2234,430,25,Apixaban,2.5 mg,Twice daily,2024-01-26,,8
+2235,763,82,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-22,2025-06-29,1
+2236,779,43,Metformin,850 mg,Twice daily with meals,2024-01-22,2024-04-21,0
+2237,706,168,Ibuprofen,400 mg,Three times daily after food,2025-03-25,,11
+2238,276,210,Prednisolone,25 mg,"Once daily, reducing course",2025-02-04,,11
+2239,716,141,Ibuprofen,200 mg,Three times daily after food,2023-12-16,2023-12-30,0
+2240,376,147,Paracetamol,1000 mg,Up to four times daily,2023-04-24,,9
+2241,218,205,Furosemide,40 mg,Once daily in the morning,2025-06-19,2025-09-17,3
+2242,661,108,Atorvastatin,10 mg,Once daily at night,2023-08-08,2023-08-22,0
+2243,119,150,Amlodipine,5 mg,Once daily,2024-10-09,2024-10-16,0
+2244,507,71,Paracetamol,500 mg,Up to four times daily,2025-05-22,,7
+2245,260,49,Apixaban,2.5 mg,Twice daily,2023-08-17,,7
+2246,688,145,Salbutamol,100 mcg/dose,Two puffs as required,2025-05-11,,10
+2247,601,54,Ramipril,5 mg,Once daily,2025-04-02,2025-07-01,2
+2248,2,97,Bisoprolol,2.5 mg,Once daily,2024-12-22,,10
+2249,304,34,Furosemide,20 mg,Once daily in the morning,2024-10-06,2024-11-03,3
+2250,84,138,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-04-09,2024-06-04,3
+2251,586,76,Omeprazole,20 mg,Once daily before breakfast,2024-05-03,,9
+2252,128,17,Ibuprofen,600 mg,Three times daily after food,2025-06-22,2025-06-29,1
+2253,531,234,Furosemide,20 mg,Once daily in the morning,2024-10-13,,7
+2254,237,217,Lisinopril,10 mg,Once daily,2024-10-22,2025-01-20,0
+2255,384,232,Cetirizine,10 mg,Once daily,2023-11-04,2023-11-18,1
+2256,28,195,Salbutamol,100 mcg/dose,Two puffs as required,2024-02-16,,6
+2257,408,231,Amlodipine,5 mg,Once daily,2025-04-21,,6
+2258,6,36,Omeprazole,20 mg,Once daily before breakfast,2024-11-10,2024-12-08,3
+2259,472,150,Prednisolone,5 mg,"Once daily, reducing course",2025-06-07,,5
+2260,511,116,Sertraline,50 mg,Once daily,2024-09-30,,5
+2261,773,168,Sertraline,50 mg,Once daily,2024-07-30,,11
+2262,32,92,Lisinopril,20 mg,Once daily,2024-06-12,,7
+2263,157,57,Metformin,500 mg,Twice daily with meals,2025-03-04,2025-06-02,1
+2264,603,37,Metformin,1000 mg,Twice daily with meals,2024-05-14,2024-05-21,2
+2265,240,230,Gabapentin,300 mg,Three times daily,2024-09-12,2024-11-07,3
+2266,261,216,Furosemide,40 mg,Once daily in the morning,2024-08-06,2024-08-20,2
+2267,54,136,Amlodipine,10 mg,Once daily,2025-05-17,,7
+2268,563,79,Lisinopril,5 mg,Once daily,2024-12-14,,5
+2269,352,195,Lisinopril,10 mg,Once daily,2024-01-05,,11
+2270,270,56,Sertraline,50 mg,Once daily,2025-06-18,,8
+2271,435,170,Omeprazole,40 mg,Once daily before breakfast,2024-07-01,2024-08-26,0
+2272,319,75,Omeprazole,20 mg,Once daily before breakfast,2025-02-27,2025-04-24,3
+2273,45,50,Paracetamol,1000 mg,Up to four times daily,2024-05-12,2024-06-09,1
+2274,404,193,Sertraline,50 mg,Once daily,2024-09-30,2024-10-07,0
+2275,162,161,Atorvastatin,20 mg,Once daily at night,2025-06-29,2025-07-06,2
+2276,542,149,Gabapentin,300 mg,Three times daily,2025-03-15,2025-04-12,3
+2277,252,235,Gabapentin,300 mg,Three times daily,2025-03-13,2025-03-27,1
+2278,375,227,Amlodipine,10 mg,Once daily,2024-11-04,2024-12-02,0
+2279,366,249,Atorvastatin,10 mg,Once daily at night,2024-02-15,,10
+2280,787,37,Cetirizine,10 mg,Once daily,2025-04-08,,5
+2281,145,35,Bisoprolol,5 mg,Once daily,2024-02-09,2024-02-23,0
+2282,642,53,Ibuprofen,400 mg,Three times daily after food,2024-11-05,,10
+2283,475,107,Gabapentin,300 mg,Three times daily,2025-02-16,2025-02-23,1
+2284,752,225,Omeprazole,20 mg,Once daily before breakfast,2024-05-23,,5
+2285,781,34,Omeprazole,20 mg,Once daily before breakfast,2025-06-20,,8
+2286,624,130,Prednisolone,5 mg,"Once daily, reducing course",2024-06-27,,5
+2287,775,10,Amlodipine,10 mg,Once daily,2024-01-12,2024-01-26,1
+2288,469,3,Atorvastatin,10 mg,Once daily at night,2025-06-07,,5
+2289,694,222,Amoxicillin,500 mg,Three times daily for 7 days,2024-10-17,2024-11-14,1
+2290,524,155,Prednisolone,25 mg,"Once daily, reducing course",2025-05-31,,9
+2291,339,40,Paracetamol,500 mg,Up to four times daily,2025-04-18,,8
+2292,695,73,Metformin,850 mg,Twice daily with meals,2024-10-25,2024-12-20,0
+2293,157,157,Paracetamol,500 mg,Up to four times daily,2024-12-08,,11
+2294,585,100,Gabapentin,300 mg,Three times daily,2025-06-01,2025-06-08,2
+2295,500,38,Gabapentin,300 mg,Three times daily,2024-12-31,2025-01-14,1
+2296,688,158,Lisinopril,5 mg,Once daily,2025-05-25,,10
+2297,785,69,Lisinopril,20 mg,Once daily,2025-01-08,2025-03-05,0
+2298,550,199,Atorvastatin,40 mg,Once daily at night,2025-03-24,,6
+2299,670,54,Metformin,500 mg,Twice daily with meals,2025-02-14,2025-03-14,2
+2300,744,26,Amlodipine,5 mg,Once daily,2025-01-09,2025-04-09,0
+2301,63,20,Metformin,500 mg,Twice daily with meals,2025-06-22,2025-07-06,0
+2302,277,166,Omeprazole,20 mg,Once daily before breakfast,2025-05-12,,11
+2303,252,166,Metformin,500 mg,Twice daily with meals,2024-12-27,2025-01-24,2
+2304,170,4,Gabapentin,300 mg,Three times daily,2025-06-11,,5
+2305,496,141,Amoxicillin,250 mg,Three times daily for 7 days,2025-05-05,2025-05-12,3
+2306,72,67,Omeprazole,40 mg,Once daily before breakfast,2025-05-24,2025-06-07,3
+2307,469,153,Amlodipine,10 mg,Once daily,2025-06-19,2025-07-03,0
+2308,19,219,Cetirizine,10 mg,Once daily,2025-01-18,,8
+2309,719,158,Furosemide,20 mg,Once daily in the morning,2025-01-13,,5
+2310,741,119,Atorvastatin,20 mg,Once daily at night,2025-03-31,2025-06-29,0
+2311,79,29,Paracetamol,500 mg,Up to four times daily,2024-08-22,,10
+2312,542,197,Furosemide,40 mg,Once daily in the morning,2025-02-24,,7
+2313,16,217,Ramipril,5 mg,Once daily,2023-05-14,,9
+2314,597,72,Paracetamol,500 mg,Up to four times daily,2023-09-14,,11
+2315,745,184,Gabapentin,300 mg,Three times daily,2024-04-19,,9
+2316,160,74,Salbutamol,100 mcg/dose,Two puffs as required,2025-05-09,,5
+2317,172,70,Gabapentin,300 mg,Three times daily,2023-12-27,2024-02-21,2
+2318,329,36,Sertraline,50 mg,Once daily,2023-10-28,,10
+2319,382,73,Ramipril,10 mg,Once daily,2024-02-14,,11
+2320,448,112,Paracetamol,1000 mg,Up to four times daily,2024-09-13,,11
+2321,390,212,Paracetamol,500 mg,Up to four times daily,2025-03-05,2025-04-02,2
+2322,374,186,Bisoprolol,5 mg,Once daily,2025-06-29,,10
+2323,68,218,Metformin,850 mg,Twice daily with meals,2025-04-11,2025-06-06,2
+2324,290,182,Salbutamol,100 mcg/dose,Two puffs as required,2025-05-27,2025-07-22,2
+2325,730,216,Omeprazole,40 mg,Once daily before breakfast,2025-02-09,,8
+2326,94,56,Atorvastatin,40 mg,Once daily at night,2025-01-11,2025-01-18,2
+2327,540,11,Lisinopril,5 mg,Once daily,2024-01-21,2024-04-20,1
+2328,798,108,Prednisolone,25 mg,"Once daily, reducing course",2025-02-19,2025-03-05,2
+2329,293,99,Ramipril,5 mg,Once daily,2024-05-23,2024-07-18,3
+2330,620,209,Lisinopril,20 mg,Once daily,2024-11-15,,6
+2331,474,146,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-10-09,2024-11-06,3
+2332,241,214,Lisinopril,20 mg,Once daily,2025-01-10,2025-04-10,2
+2333,593,3,Atorvastatin,40 mg,Once daily at night,2024-09-16,,11
+2334,533,35,Atorvastatin,20 mg,Once daily at night,2025-04-11,,7
+2335,785,190,Omeprazole,20 mg,Once daily before breakfast,2025-05-12,,7
+2336,415,127,Gabapentin,300 mg,Three times daily,2024-05-06,2024-05-13,1
+2337,288,55,Ibuprofen,200 mg,Three times daily after food,2024-08-13,2024-08-20,1
+2338,506,24,Sertraline,100 mg,Once daily,2024-07-01,,11
+2339,738,144,Ramipril,10 mg,Once daily,2025-04-05,2025-04-19,3
+2340,684,200,Lisinopril,20 mg,Once daily,2024-08-20,2024-09-17,1
+2341,477,61,Ibuprofen,600 mg,Three times daily after food,2024-04-17,2024-04-24,3
+2342,690,49,Metformin,850 mg,Twice daily with meals,2024-09-16,2024-09-30,3
+2343,135,198,Cetirizine,10 mg,Once daily,2024-04-11,,9
+2344,432,215,Cetirizine,10 mg,Once daily,2023-04-17,2023-07-16,2
+2345,318,53,Ramipril,10 mg,Once daily,2024-06-19,2024-07-03,3
+2346,620,102,Salbutamol,100 mcg/dose,Two puffs as required,2025-03-10,2025-04-07,1
+2347,536,197,Ibuprofen,600 mg,Three times daily after food,2025-04-16,2025-04-23,0
+2348,326,95,Amlodipine,10 mg,Once daily,2023-10-06,,6
+2349,12,20,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-23,,10
+2350,235,92,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-02-20,,9
+2351,287,54,Omeprazole,20 mg,Once daily before breakfast,2025-04-28,2025-06-23,0
+2352,416,107,Sertraline,100 mg,Once daily,2025-02-22,,5
+2353,123,50,Amoxicillin,250 mg,Three times daily for 7 days,2024-11-25,,11
+2354,209,77,Ramipril,5 mg,Once daily,2023-09-03,2023-10-01,1
+2355,241,41,Amoxicillin,250 mg,Three times daily for 7 days,2025-03-27,2025-06-25,3
+2356,194,66,Amlodipine,5 mg,Once daily,2025-05-18,2025-07-13,0
+2357,550,20,Omeprazole,40 mg,Once daily before breakfast,2025-04-10,,9
+2358,583,105,Ibuprofen,400 mg,Three times daily after food,2024-05-20,,10
+2359,69,129,Cetirizine,10 mg,Once daily,2024-04-12,,8
+2360,727,130,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-06-03,,7
+2361,138,122,Metformin,850 mg,Twice daily with meals,2025-01-05,2025-02-02,2
+2362,6,223,Bisoprolol,5 mg,Once daily,2025-04-24,2025-05-01,0
+2363,15,166,Bisoprolol,5 mg,Once daily,2024-09-13,2024-09-27,1
+2364,455,214,Metformin,850 mg,Twice daily with meals,2025-01-26,2025-02-23,2
+2365,451,102,Ramipril,5 mg,Once daily,2024-12-01,,11
+2366,480,120,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-04-04,2025-07-03,2
+2367,594,146,Salbutamol,100 mcg/dose,Two puffs as required,2023-06-23,2023-08-18,1
+2368,214,76,Lisinopril,20 mg,Once daily,2025-01-04,,10
+2369,132,54,Ibuprofen,200 mg,Three times daily after food,2025-01-30,2025-03-27,3
+2370,534,28,Bisoprolol,5 mg,Once daily,2024-09-13,,5
+2371,578,61,Prednisolone,25 mg,"Once daily, reducing course",2025-04-14,2025-06-09,0
+2372,357,61,Ibuprofen,400 mg,Three times daily after food,2025-03-28,2025-04-04,3
+2373,81,93,Lisinopril,5 mg,Once daily,2023-04-07,2023-05-05,0
+2374,724,213,Amlodipine,10 mg,Once daily,2024-12-31,2025-02-25,3
+2375,49,71,Prednisolone,25 mg,"Once daily, reducing course",2025-06-25,,5
+2376,137,236,Atorvastatin,40 mg,Once daily at night,2024-12-18,2024-12-25,0
+2377,99,24,Paracetamol,500 mg,Up to four times daily,2025-03-27,2025-04-10,2
+2378,301,171,Ibuprofen,400 mg,Three times daily after food,2024-12-31,,11
+2379,5,43,Metformin,500 mg,Twice daily with meals,2024-06-09,,8
+2380,532,121,Amoxicillin,250 mg,Three times daily for 7 days,2025-06-12,,8
+2381,189,170,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-06-18,2025-09-16,2
+2382,626,235,Metformin,850 mg,Twice daily with meals,2025-06-28,,9
+2383,553,60,Amlodipine,10 mg,Once daily,2025-03-17,,10
+2384,707,51,Amlodipine,5 mg,Once daily,2024-11-27,,10
+2385,57,15,Omeprazole,40 mg,Once daily before breakfast,2024-11-18,2024-12-16,1
+2386,631,46,Ibuprofen,200 mg,Three times daily after food,2025-03-23,2025-04-20,0
+2387,750,203,Bisoprolol,5 mg,Once daily,2025-04-15,2025-05-13,2
+2388,553,48,Paracetamol,1000 mg,Up to four times daily,2025-03-29,2025-04-12,2
+2389,313,157,Ramipril,2.5 mg,Once daily,2024-12-20,,8
+2390,285,215,Bisoprolol,5 mg,Once daily,2025-06-12,2025-08-07,1
+2391,189,227,Cetirizine,10 mg,Once daily,2025-03-02,2025-05-31,1
+2392,733,157,Sertraline,50 mg,Once daily,2025-02-19,2025-03-19,3
+2393,735,229,Ramipril,5 mg,Once daily,2024-12-09,2024-12-23,2
+2394,576,64,Bisoprolol,2.5 mg,Once daily,2024-09-06,,10
+2395,296,38,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-02-03,,6
+2396,632,194,Amlodipine,10 mg,Once daily,2024-12-12,2025-01-09,1
+2397,31,73,Bisoprolol,5 mg,Once daily,2024-12-29,2025-01-05,1
+2398,724,244,Metformin,500 mg,Twice daily with meals,2025-01-07,2025-01-21,0
+2399,281,8,Atorvastatin,40 mg,Once daily at night,2024-08-21,2024-10-16,3
+2400,539,187,Paracetamol,1000 mg,Up to four times daily,2024-12-24,2025-01-07,1
+2401,787,46,Amoxicillin,250 mg,Three times daily for 7 days,2025-06-09,,6
+2402,779,197,Amlodipine,10 mg,Once daily,2025-01-31,,11
+2403,227,70,Metformin,500 mg,Twice daily with meals,2024-01-09,2024-01-23,2
+2404,167,187,Amoxicillin,250 mg,Three times daily for 7 days,2025-04-29,,11
+2405,727,96,Omeprazole,20 mg,Once daily before breakfast,2025-04-20,,6
+2406,376,198,Paracetamol,1000 mg,Up to four times daily,2023-07-24,,5
+2407,219,148,Omeprazole,20 mg,Once daily before breakfast,2025-04-13,,6
+2408,290,194,Apixaban,2.5 mg,Twice daily,2025-03-12,,8
+2409,603,221,Cetirizine,10 mg,Once daily,2024-06-05,2024-07-03,2
+2410,108,107,Amoxicillin,500 mg,Three times daily for 7 days,2024-05-11,,11
+2411,260,2,Ibuprofen,400 mg,Three times daily after food,2023-12-13,2023-12-27,0
+2412,699,238,Paracetamol,500 mg,Up to four times daily,2025-03-13,2025-03-20,3
+2413,243,2,Atorvastatin,20 mg,Once daily at night,2025-04-29,2025-06-24,1
+2414,596,127,Ibuprofen,600 mg,Three times daily after food,2025-03-28,,5
+2415,101,88,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-03-08,,10
+2416,631,4,Cetirizine,10 mg,Once daily,2025-05-27,2025-06-10,0
+2417,586,159,Ibuprofen,400 mg,Three times daily after food,2024-05-14,2024-05-21,1
+2418,795,106,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-26,2025-08-21,1
+2419,9,21,Atorvastatin,20 mg,Once daily at night,2024-04-26,2024-06-21,2
+2420,419,82,Paracetamol,1000 mg,Up to four times daily,2024-09-02,2024-09-16,0
+2421,483,245,Amoxicillin,500 mg,Three times daily for 7 days,2025-03-30,2025-06-28,2
+2422,410,198,Cetirizine,10 mg,Once daily,2025-04-26,,7
+2423,161,121,Cetirizine,10 mg,Once daily,2025-05-16,,7
+2424,70,211,Ibuprofen,200 mg,Three times daily after food,2025-04-19,2025-07-18,0
+2425,678,158,Bisoprolol,2.5 mg,Once daily,2024-12-31,,5
+2426,478,191,Salbutamol,100 mcg/dose,Two puffs as required,2025-03-19,2025-04-16,1
+2427,485,76,Salbutamol,100 mcg/dose,Two puffs as required,2025-05-06,,9
+2428,168,102,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-26,2025-07-24,2
+2429,735,46,Metformin,850 mg,Twice daily with meals,2025-04-22,2025-06-17,2
+2430,482,28,Metformin,500 mg,Twice daily with meals,2024-03-19,2024-06-17,0
+2431,376,60,Amlodipine,10 mg,Once daily,2023-07-30,2023-08-27,3
+2432,448,65,Ibuprofen,400 mg,Three times daily after food,2024-09-24,2024-10-01,3
+2433,689,7,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-07,,8
+2434,161,188,Bisoprolol,2.5 mg,Once daily,2024-03-03,,5
+2435,61,212,Sertraline,100 mg,Once daily,2025-06-09,2025-09-07,2
+2436,180,99,Omeprazole,20 mg,Once daily before breakfast,2024-08-28,,10
+2437,540,118,Gabapentin,300 mg,Three times daily,2023-06-11,,9
+2438,689,46,Ibuprofen,400 mg,Three times daily after food,2025-05-09,2025-06-06,2
+2439,60,26,Ibuprofen,600 mg,Three times daily after food,2024-11-10,2025-02-08,3
+2440,267,119,Salbutamol,100 mcg/dose,Two puffs as required,2025-03-27,2025-06-25,3
+2441,484,5,Ramipril,10 mg,Once daily,2024-06-07,2024-07-05,1
+2442,395,244,Atorvastatin,10 mg,Once daily at night,2024-06-15,2024-06-29,0
+2443,650,154,Atorvastatin,20 mg,Once daily at night,2023-10-31,,11
+2444,99,249,Ramipril,2.5 mg,Once daily,2024-06-11,,11
+2445,360,195,Lisinopril,20 mg,Once daily,2024-12-17,2025-01-14,3
+2446,85,122,Lisinopril,5 mg,Once daily,2025-04-23,,9
+2447,551,30,Bisoprolol,5 mg,Once daily,2025-06-15,,6
+2448,475,162,Gabapentin,300 mg,Three times daily,2025-06-20,,8
+2449,533,150,Paracetamol,500 mg,Up to four times daily,2024-05-26,2024-07-21,2
+2450,196,116,Metformin,500 mg,Twice daily with meals,2024-08-22,,8
+2451,131,236,Atorvastatin,40 mg,Once daily at night,2024-12-05,,11
+2452,591,179,Atorvastatin,40 mg,Once daily at night,2025-01-06,2025-01-13,3
+2453,270,130,Ramipril,2.5 mg,Once daily,2024-11-03,2024-12-01,3
+2454,123,183,Atorvastatin,40 mg,Once daily at night,2024-09-16,2024-09-23,0
+2455,368,220,Furosemide,40 mg,Once daily in the morning,2024-07-24,2024-07-31,3
+2456,764,61,Metformin,1000 mg,Twice daily with meals,2025-04-04,2025-07-03,2
+2457,597,54,Paracetamol,500 mg,Up to four times daily,2024-05-27,,11
+2458,536,236,Salbutamol,100 mcg/dose,Two puffs as required,2024-05-12,,7
+2459,561,237,Ramipril,10 mg,Once daily,2024-12-21,2025-01-04,3
+2460,26,163,Paracetamol,500 mg,Up to four times daily,2025-03-20,2025-06-18,3
+2461,141,78,Furosemide,40 mg,Once daily in the morning,2023-06-04,,10
+2462,127,106,Salbutamol,100 mcg/dose,Two puffs as required,2025-03-19,2025-03-26,2
+2463,96,108,Amlodipine,5 mg,Once daily,2025-01-14,,10
+2464,660,62,Paracetamol,500 mg,Up to four times daily,2025-05-13,2025-05-27,3
+2465,168,241,Ibuprofen,200 mg,Three times daily after food,2024-06-16,,9
+2466,76,7,Amoxicillin,500 mg,Three times daily for 7 days,2024-04-12,2024-07-11,1
+2467,161,18,Ibuprofen,400 mg,Three times daily after food,2023-09-24,2023-10-08,0
+2468,486,29,Atorvastatin,40 mg,Once daily at night,2025-06-22,,11
+2469,196,68,Ramipril,2.5 mg,Once daily,2024-07-09,,11
+2470,295,21,Atorvastatin,20 mg,Once daily at night,2025-06-02,2025-06-30,1
+2471,539,97,Salbutamol,100 mcg/dose,Two puffs as required,2025-02-14,2025-05-15,0
+2472,130,1,Atorvastatin,20 mg,Once daily at night,2025-02-13,2025-02-27,3
+2473,773,216,Amlodipine,10 mg,Once daily,2024-10-23,,5
+2474,295,185,Lisinopril,10 mg,Once daily,2025-06-25,,6
+2475,290,10,Sertraline,100 mg,Once daily,2024-09-06,,5
+2476,699,33,Sertraline,50 mg,Once daily,2025-04-14,2025-07-13,0
+2477,299,106,Ibuprofen,200 mg,Three times daily after food,2025-03-26,,10
+2478,721,133,Amlodipine,5 mg,Once daily,2025-03-29,2025-04-12,0
+2479,556,133,Amoxicillin,500 mg,Three times daily for 7 days,2023-07-26,2023-09-20,2
+2480,432,8,Atorvastatin,40 mg,Once daily at night,2023-08-22,,7
+2481,617,199,Cetirizine,10 mg,Once daily,2024-07-26,2024-08-23,3
+2482,579,195,Atorvastatin,20 mg,Once daily at night,2024-09-08,2024-12-07,1
+2483,98,218,Ibuprofen,200 mg,Three times daily after food,2024-08-13,2024-08-20,3
+2484,612,103,Atorvastatin,20 mg,Once daily at night,2025-06-12,,7
+2485,317,207,Lisinopril,20 mg,Once daily,2024-03-25,2024-04-22,3
+2486,655,53,Ibuprofen,200 mg,Three times daily after food,2025-02-23,2025-03-02,1
+2487,387,184,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-05-26,,6
+2488,212,143,Cetirizine,10 mg,Once daily,2025-03-05,2025-04-02,3
+2489,424,204,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-25,2025-05-02,2
+2490,170,219,Apixaban,5 mg,Twice daily,2024-11-22,2024-12-20,0
+2491,230,164,Amlodipine,5 mg,Once daily,2025-06-16,2025-09-14,3
+2492,596,184,Cetirizine,10 mg,Once daily,2025-03-28,,11
+2493,582,9,Ibuprofen,400 mg,Three times daily after food,2025-05-31,2025-06-14,1
+2494,587,183,Paracetamol,500 mg,Up to four times daily,2024-07-10,2024-08-07,1
+2495,2,156,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-17,2024-11-24,3
+2496,536,145,Apixaban,2.5 mg,Twice daily,2024-12-19,2024-12-26,2
+2497,727,224,Amlodipine,10 mg,Once daily,2025-06-22,,6
+2498,288,43,Amoxicillin,250 mg,Three times daily for 7 days,2024-11-10,2025-01-05,0
+2499,147,225,Ramipril,10 mg,Once daily,2025-06-23,2025-08-18,1
+2500,457,202,Cetirizine,10 mg,Once daily,2025-06-07,,11
+2501,739,132,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-20,,7
+2502,368,18,Amlodipine,10 mg,Once daily,2024-08-24,,6
+2503,776,64,Salbutamol,100 mcg/dose,Two puffs as required,2024-02-14,,10
+2504,776,194,Ramipril,10 mg,Once daily,2025-04-23,,7
+2505,398,170,Gabapentin,300 mg,Three times daily,2024-07-21,,6
+2506,694,73,Salbutamol,100 mcg/dose,Two puffs as required,2025-01-09,2025-01-23,2
+2507,752,38,Amlodipine,10 mg,Once daily,2023-08-09,2023-08-16,2
+2508,558,79,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-27,,7
+2509,281,44,Amlodipine,5 mg,Once daily,2025-04-17,2025-07-16,1
+2510,204,167,Sertraline,100 mg,Once daily,2024-08-30,2024-11-28,3
+2511,464,87,Omeprazole,40 mg,Once daily before breakfast,2024-04-23,2024-04-30,1
+2512,345,32,Metformin,500 mg,Twice daily with meals,2025-04-03,2025-04-17,2
+2513,457,187,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-05-07,2025-06-04,1
+2514,94,63,Furosemide,20 mg,Once daily in the morning,2024-06-09,2024-07-07,2
+2515,602,151,Paracetamol,500 mg,Up to four times daily,2024-05-26,,5
+2516,575,132,Omeprazole,40 mg,Once daily before breakfast,2025-01-18,2025-02-01,0
+2517,118,53,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-10-17,2024-11-14,2
+2518,50,29,Apixaban,2.5 mg,Twice daily,2025-03-17,2025-03-24,2
+2519,761,238,Ramipril,5 mg,Once daily,2025-06-21,,7
+2520,714,190,Metformin,850 mg,Twice daily with meals,2025-06-11,,9
+2521,20,189,Metformin,1000 mg,Twice daily with meals,2025-05-04,2025-05-18,3
+2522,747,220,Omeprazole,40 mg,Once daily before breakfast,2024-03-16,2024-05-11,3
+2523,177,102,Sertraline,50 mg,Once daily,2024-07-01,,8
+2524,742,81,Lisinopril,20 mg,Once daily,2024-04-16,,7
+2525,135,224,Salbutamol,100 mcg/dose,Two puffs as required,2024-04-24,2024-06-19,1
+2526,630,137,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-05-03,2025-05-17,1
+2527,551,164,Lisinopril,5 mg,Once daily,2025-06-01,,11
+2528,578,234,Omeprazole,40 mg,Once daily before breakfast,2025-01-20,,8
+2529,318,20,Atorvastatin,40 mg,Once daily at night,2024-11-16,,8
+2530,568,25,Atorvastatin,10 mg,Once daily at night,2024-07-11,,6
+2531,733,183,Amlodipine,10 mg,Once daily,2025-02-06,2025-04-03,3
+2532,789,42,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-11-26,2024-12-24,2
+2533,249,97,Salbutamol,100 mcg/dose,Two puffs as required,2024-10-02,2024-10-30,0
+2534,490,188,Lisinopril,20 mg,Once daily,2025-06-13,2025-06-27,3
+2535,207,143,Sertraline,50 mg,Once daily,2024-07-28,2024-08-04,1
+2536,242,147,Metformin,1000 mg,Twice daily with meals,2024-04-26,,6
+2537,399,164,Ramipril,5 mg,Once daily,2025-05-22,2025-07-17,2
+2538,700,180,Ramipril,5 mg,Once daily,2025-06-10,2025-08-05,1
+2539,190,199,Ramipril,5 mg,Once daily,2024-07-14,2024-08-11,2
+2540,580,69,Lisinopril,10 mg,Once daily,2024-04-20,2024-05-04,2
+2541,428,77,Atorvastatin,10 mg,Once daily at night,2024-11-12,,11
+2542,49,237,Paracetamol,500 mg,Up to four times daily,2024-09-04,2024-12-03,3
+2543,414,221,Omeprazole,20 mg,Once daily before breakfast,2025-06-25,2025-09-23,2
+2544,58,138,Gabapentin,300 mg,Three times daily,2025-04-21,,9
+2545,594,226,Apixaban,2.5 mg,Twice daily,2023-06-19,,8
+2546,67,12,Gabapentin,300 mg,Three times daily,2025-04-28,,10
+2547,263,52,Prednisolone,25 mg,"Once daily, reducing course",2024-08-04,,8
+2548,509,232,Ibuprofen,600 mg,Three times daily after food,2024-07-22,2024-08-19,1
+2549,226,51,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-04-07,,6
+2550,109,205,Atorvastatin,40 mg,Once daily at night,2025-04-06,2025-04-13,2
+2551,13,49,Paracetamol,500 mg,Up to four times daily,2023-10-07,2023-11-04,3
+2552,263,108,Amlodipine,5 mg,Once daily,2024-10-09,2024-11-06,3
+2553,703,108,Paracetamol,1000 mg,Up to four times daily,2023-04-04,2023-05-02,3
+2554,247,103,Furosemide,20 mg,Once daily in the morning,2024-11-11,2024-11-18,3
+2555,576,29,Cetirizine,10 mg,Once daily,2024-11-09,2024-11-16,0
+2556,406,191,Atorvastatin,10 mg,Once daily at night,2024-09-05,2024-12-04,1
+2557,18,61,Amlodipine,5 mg,Once daily,2025-06-11,2025-06-25,2
+2558,251,115,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-10-21,2024-12-16,2
+2559,91,26,Bisoprolol,5 mg,Once daily,2025-03-12,2025-06-10,2
+2560,710,151,Bisoprolol,2.5 mg,Once daily,2024-07-10,,5
+2561,489,97,Lisinopril,5 mg,Once daily,2025-01-21,2025-04-21,3
+2562,448,231,Ramipril,5 mg,Once daily,2025-04-20,,5
+2563,98,247,Metformin,500 mg,Twice daily with meals,2024-12-01,,5
+2564,700,127,Ibuprofen,200 mg,Three times daily after food,2025-04-23,,6
+2565,719,219,Atorvastatin,40 mg,Once daily at night,2024-09-03,2024-10-29,1
+2566,389,119,Salbutamol,100 mcg/dose,Two puffs as required,2025-06-05,,11
+2567,426,166,Amlodipine,5 mg,Once daily,2024-07-21,,5
+2568,203,111,Furosemide,20 mg,Once daily in the morning,2025-03-16,2025-03-23,2
+2569,208,186,Sertraline,100 mg,Once daily,2024-11-19,2025-02-17,1
+2570,515,169,Ramipril,2.5 mg,Once daily,2024-07-31,2024-09-25,1
+2571,143,138,Amlodipine,5 mg,Once daily,2024-12-25,,8
+2572,303,177,Prednisolone,25 mg,"Once daily, reducing course",2024-08-08,,9
+2573,499,237,Salbutamol,100 mcg/dose,Two puffs as required,2024-05-17,2024-07-12,0
+2574,332,118,Amlodipine,10 mg,Once daily,2025-04-28,2025-05-26,1
+2575,220,135,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-04-14,,5
+2576,517,25,Levothyroxine,75 mcg,Once daily on an empty stomach,2024-07-05,2024-08-30,3
+2577,490,153,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-07-29,,7
+2578,599,124,Atorvastatin,40 mg,Once daily at night,2024-12-23,,9
+2579,730,8,Amlodipine,10 mg,Once daily,2025-05-08,,7
+2580,292,27,Ibuprofen,200 mg,Three times daily after food,2024-12-21,2025-01-18,2
+2581,127,215,Atorvastatin,10 mg,Once daily at night,2025-04-26,2025-05-10,1
+2582,119,217,Furosemide,20 mg,Once daily in the morning,2024-10-14,2024-10-28,1
+2583,454,171,Gabapentin,300 mg,Three times daily,2024-04-18,2024-05-02,2
+2584,75,107,Metformin,850 mg,Twice daily with meals,2025-03-01,,7
+2585,515,135,Sertraline,50 mg,Once daily,2024-06-07,,7
+2586,480,3,Lisinopril,10 mg,Once daily,2024-08-20,2024-09-17,3
+2587,209,6,Lisinopril,5 mg,Once daily,2023-10-15,,7
+2588,536,176,Atorvastatin,20 mg,Once daily at night,2024-10-25,,8
+2589,144,96,Salbutamol,100 mcg/dose,Two puffs as required,2025-01-02,2025-01-30,0
+2590,660,211,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-07-18,,11
+2591,272,54,Amoxicillin,500 mg,Three times daily for 7 days,2024-12-22,,5
+2592,632,23,Atorvastatin,20 mg,Once daily at night,2023-12-12,,10
+2593,273,30,Lisinopril,20 mg,Once daily,2025-04-01,2025-04-29,3
+2594,467,198,Bisoprolol,5 mg,Once daily,2025-01-13,2025-03-10,3
+2595,95,175,Ramipril,2.5 mg,Once daily,2024-10-29,,6
+2596,198,244,Ramipril,2.5 mg,Once daily,2025-04-02,,8
+2597,119,179,Salbutamol,100 mcg/dose,Two puffs as required,2023-07-02,,7
+2598,147,99,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-05-08,2025-06-05,2
+2599,719,106,Amlodipine,10 mg,Once daily,2025-06-13,2025-07-11,0
+2600,170,57,Ibuprofen,200 mg,Three times daily after food,2024-11-08,2024-11-15,1
+2601,662,202,Sertraline,50 mg,Once daily,2025-04-05,,5
+2602,342,106,Cetirizine,10 mg,Once daily,2024-09-18,,9
+2603,325,61,Cetirizine,10 mg,Once daily,2025-05-20,2025-08-18,0
+2604,599,237,Atorvastatin,40 mg,Once daily at night,2024-11-28,2025-02-26,3
+2605,493,157,Metformin,1000 mg,Twice daily with meals,2023-12-02,2023-12-30,2
+2606,662,142,Ibuprofen,600 mg,Three times daily after food,2025-06-30,2025-08-25,0
+2607,714,212,Lisinopril,20 mg,Once daily,2024-12-24,,9
+2608,69,147,Ramipril,10 mg,Once daily,2025-01-05,2025-03-02,0
+2609,402,181,Amoxicillin,500 mg,Three times daily for 7 days,2024-01-24,2024-03-20,3
+2610,760,3,Ramipril,10 mg,Once daily,2025-03-14,,5
+2611,269,11,Gabapentin,300 mg,Three times daily,2025-06-17,,7
+2612,190,226,Salbutamol,100 mcg/dose,Two puffs as required,2024-10-21,,6
+2613,608,4,Atorvastatin,10 mg,Once daily at night,2025-06-16,2025-09-14,2
+2614,86,84,Atorvastatin,40 mg,Once daily at night,2024-08-16,,6
+2615,716,144,Paracetamol,1000 mg,Up to four times daily,2024-11-01,2024-11-29,3
+2616,705,52,Atorvastatin,20 mg,Once daily at night,2025-06-01,2025-06-29,0
+2617,704,187,Amoxicillin,250 mg,Three times daily for 7 days,2024-03-02,2024-03-09,3
+2618,101,147,Ibuprofen,200 mg,Three times daily after food,2025-03-18,2025-05-13,0
+2619,181,157,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-10-12,,5
+2620,1,131,Lisinopril,5 mg,Once daily,2024-09-12,,8
+2621,140,62,Paracetamol,1000 mg,Up to four times daily,2024-08-10,2024-09-07,0
+2622,426,6,Ibuprofen,400 mg,Three times daily after food,2024-02-13,2024-05-13,0
+2623,165,88,Lisinopril,5 mg,Once daily,2025-02-13,2025-02-20,0
+2624,773,231,Bisoprolol,2.5 mg,Once daily,2024-11-28,,10
+2625,393,218,Amlodipine,5 mg,Once daily,2025-06-23,,8
+2626,5,125,Paracetamol,500 mg,Up to four times daily,2024-06-01,,11
+2627,5,99,Cetirizine,10 mg,Once daily,2025-05-18,2025-08-16,3
+2628,95,46,Metformin,1000 mg,Twice daily with meals,2024-01-22,,8
+2629,596,144,Atorvastatin,10 mg,Once daily at night,2025-03-02,2025-05-31,2
+2630,423,77,Omeprazole,40 mg,Once daily before breakfast,2025-03-17,2025-05-12,3
+2631,532,78,Omeprazole,40 mg,Once daily before breakfast,2025-05-04,,5
+2632,401,163,Lisinopril,20 mg,Once daily,2024-05-10,2024-05-24,3
+2633,704,107,Furosemide,20 mg,Once daily in the morning,2024-05-22,2024-06-05,2
+2634,638,189,Paracetamol,1000 mg,Up to four times daily,2025-05-11,2025-08-09,2
+2635,239,146,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-03-08,2025-03-22,3
+2636,629,6,Cetirizine,10 mg,Once daily,2025-02-10,,5
+2637,180,101,Bisoprolol,2.5 mg,Once daily,2024-11-11,2025-01-06,0
+2638,199,122,Salbutamol,100 mcg/dose,Two puffs as required,2024-08-05,2024-08-12,2
+2639,379,180,Cetirizine,10 mg,Once daily,2024-07-12,2024-08-09,3
+2640,559,117,Amoxicillin,250 mg,Three times daily for 7 days,2024-06-25,,6
+2641,674,89,Lisinopril,20 mg,Once daily,2024-06-23,2024-09-21,0
+2642,372,149,Metformin,850 mg,Twice daily with meals,2025-03-13,2025-05-08,0
+2643,318,172,Omeprazole,20 mg,Once daily before breakfast,2024-10-10,,5
+2644,405,184,Sertraline,50 mg,Once daily,2024-09-10,,6
+2645,777,15,Salbutamol,100 mcg/dose,Two puffs as required,2024-01-07,2024-01-14,3
+2646,115,76,Sertraline,100 mg,Once daily,2023-04-12,2023-04-19,3
+2647,734,184,Ibuprofen,600 mg,Three times daily after food,2024-08-04,2024-11-02,1
+2648,161,240,Paracetamol,500 mg,Up to four times daily,2024-05-02,2024-06-27,2
+2649,255,3,Sertraline,50 mg,Once daily,2024-06-18,2024-06-25,1
+2650,208,128,Amoxicillin,250 mg,Three times daily for 7 days,2025-03-22,,10
+2651,76,117,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-06-28,2025-07-26,0
+2652,578,139,Atorvastatin,20 mg,Once daily at night,2025-02-09,2025-02-23,0
+2653,327,102,Amlodipine,5 mg,Once daily,2025-03-09,2025-04-06,0
+2654,555,114,Bisoprolol,5 mg,Once daily,2025-01-01,2025-01-15,3
+2655,756,100,Paracetamol,500 mg,Up to four times daily,2025-04-29,,8
+2656,380,1,Apixaban,5 mg,Twice daily,2025-04-03,2025-04-10,2
+2657,573,89,Cetirizine,10 mg,Once daily,2024-08-17,2024-09-14,1
+2658,3,91,Paracetamol,500 mg,Up to four times daily,2025-01-14,2025-04-14,0
+2659,424,226,Paracetamol,500 mg,Up to four times daily,2024-10-30,,5
+2660,252,8,Paracetamol,500 mg,Up to four times daily,2024-09-30,,8
+2661,792,224,Metformin,500 mg,Twice daily with meals,2024-05-01,,5
+2662,596,245,Sertraline,50 mg,Once daily,2025-04-11,2025-05-09,0
+2663,413,149,Furosemide,20 mg,Once daily in the morning,2025-05-23,2025-06-06,2
+2664,434,67,Amoxicillin,500 mg,Three times daily for 7 days,2025-06-16,2025-08-11,1
+2665,749,178,Cetirizine,10 mg,Once daily,2024-04-05,,7
+2666,303,195,Salbutamol,100 mcg/dose,Two puffs as required,2024-11-01,,5
+2667,612,220,Metformin,850 mg,Twice daily with meals,2025-04-16,2025-04-23,1
+2668,469,171,Metformin,500 mg,Twice daily with meals,2025-05-30,,9
+2669,448,56,Cetirizine,10 mg,Once daily,2024-10-04,,5
+2670,51,91,Furosemide,20 mg,Once daily in the morning,2025-02-08,,7
+2671,209,78,Amlodipine,10 mg,Once daily,2023-12-15,2024-03-14,3
+2672,191,234,Paracetamol,500 mg,Up to four times daily,2024-05-31,2024-06-14,0
+2673,507,84,Atorvastatin,10 mg,Once daily at night,2024-03-26,,7
+2674,718,25,Ibuprofen,600 mg,Three times daily after food,2025-01-28,2025-02-25,3
+2675,650,62,Metformin,850 mg,Twice daily with meals,2024-03-07,2024-03-21,3
+2676,472,73,Paracetamol,500 mg,Up to four times daily,2023-09-17,,10
+2677,453,84,Amlodipine,5 mg,Once daily,2025-03-04,2025-03-11,1
+2678,394,40,Lisinopril,20 mg,Once daily,2024-08-14,2024-08-21,0
+2679,386,100,Ramipril,2.5 mg,Once daily,2025-06-10,2025-06-17,3
+2680,508,169,Bisoprolol,5 mg,Once daily,2025-03-07,,10
+2681,643,125,Ibuprofen,400 mg,Three times daily after food,2023-08-21,,11
+2682,251,13,Prednisolone,25 mg,"Once daily, reducing course",2024-04-13,2024-06-08,0
+2683,542,71,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-05-21,,10
+2684,789,107,Atorvastatin,10 mg,Once daily at night,2025-03-16,,7
+2685,448,231,Lisinopril,10 mg,Once daily,2025-03-05,2025-03-12,2
+2686,599,191,Gabapentin,300 mg,Three times daily,2025-03-02,2025-03-09,3
+2687,173,65,Furosemide,20 mg,Once daily in the morning,2025-03-26,,9
+2688,250,191,Amoxicillin,250 mg,Three times daily for 7 days,2023-07-30,2023-08-27,0
+2689,48,105,Ramipril,10 mg,Once daily,2023-05-15,,5
+2690,270,132,Lisinopril,5 mg,Once daily,2024-05-06,,11
+2691,521,33,Amlodipine,10 mg,Once daily,2025-03-11,2025-03-25,1
+2692,767,60,Bisoprolol,5 mg,Once daily,2025-05-06,,8
+2693,22,166,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-03-19,2025-05-14,3
+2694,645,191,Amlodipine,5 mg,Once daily,2024-11-19,2024-12-17,0
+2695,712,204,Metformin,500 mg,Twice daily with meals,2024-06-04,2024-07-30,3
+2696,633,49,Atorvastatin,20 mg,Once daily at night,2024-06-29,2024-07-13,1
+2697,48,209,Omeprazole,40 mg,Once daily before breakfast,2023-03-14,,5
+2698,385,8,Gabapentin,300 mg,Three times daily,2025-01-05,2025-01-12,1
+2699,232,218,Amoxicillin,500 mg,Three times daily for 7 days,2024-06-04,,10
+2700,399,19,Amlodipine,5 mg,Once daily,2025-04-24,,5
+2701,264,106,Ramipril,2.5 mg,Once daily,2024-08-29,2024-11-27,2
+2702,710,8,Lisinopril,20 mg,Once daily,2025-06-02,,6
+2703,285,29,Prednisolone,25 mg,"Once daily, reducing course",2024-11-06,2024-11-13,3
+2704,296,189,Paracetamol,1000 mg,Up to four times daily,2025-05-31,,5
+2705,442,133,Cetirizine,10 mg,Once daily,2024-05-29,,11
+2706,1,139,Ramipril,2.5 mg,Once daily,2025-05-31,2025-08-29,3
+2707,346,209,Lisinopril,10 mg,Once daily,2023-11-29,2023-12-13,0
+2708,595,67,Salbutamol,100 mcg/dose,Two puffs as required,2023-10-14,2023-12-09,3
+2709,722,196,Ramipril,10 mg,Once daily,2025-05-03,,6
+2710,752,140,Cetirizine,10 mg,Once daily,2024-08-27,2024-10-22,3
+2711,401,114,Salbutamol,100 mcg/dose,Two puffs as required,2025-01-27,,9
+2712,679,137,Atorvastatin,10 mg,Once daily at night,2025-03-24,,10
+2713,312,223,Omeprazole,20 mg,Once daily before breakfast,2025-06-03,2025-06-17,2
+2714,798,180,Ramipril,10 mg,Once daily,2025-04-08,2025-05-06,0
+2715,86,104,Sertraline,50 mg,Once daily,2025-06-05,2025-07-31,0
+2716,420,99,Ramipril,10 mg,Once daily,2024-08-08,2024-10-03,2
+2717,633,140,Omeprazole,40 mg,Once daily before breakfast,2024-09-05,,11
+2718,253,133,Lisinopril,5 mg,Once daily,2024-07-07,,11
+2719,403,63,Bisoprolol,2.5 mg,Once daily,2025-06-18,2025-07-16,2
+2720,641,103,Atorvastatin,40 mg,Once daily at night,2024-10-31,2024-11-28,0
+2721,343,35,Furosemide,20 mg,Once daily in the morning,2023-12-15,,9
+2722,491,173,Bisoprolol,2.5 mg,Once daily,2024-04-07,2024-07-06,1
+2723,589,102,Amlodipine,10 mg,Once daily,2025-06-19,2025-08-14,1
+2724,655,12,Sertraline,50 mg,Once daily,2025-02-23,,6
+2725,82,131,Metformin,1000 mg,Twice daily with meals,2024-09-20,2024-11-15,0
+2726,312,153,Bisoprolol,5 mg,Once daily,2025-05-12,2025-07-07,2
+2727,741,159,Paracetamol,1000 mg,Up to four times daily,2025-06-05,,11
+2728,759,169,Gabapentin,300 mg,Three times daily,2025-05-22,,5
+2729,609,156,Furosemide,40 mg,Once daily in the morning,2024-07-19,2024-08-02,0
+2730,194,219,Lisinopril,10 mg,Once daily,2025-04-05,2025-07-04,1
+2731,419,223,Ibuprofen,400 mg,Three times daily after food,2024-06-01,2024-06-29,2
+2732,121,179,Amlodipine,5 mg,Once daily,2025-02-10,,6
+2733,577,204,Gabapentin,300 mg,Three times daily,2024-08-15,2024-08-29,3
+2734,179,220,Omeprazole,40 mg,Once daily before breakfast,2024-07-29,,5
+2735,541,227,Amlodipine,10 mg,Once daily,2025-05-14,,11
+2736,121,103,Metformin,1000 mg,Twice daily with meals,2025-02-20,2025-03-20,1
+2737,423,40,Sertraline,100 mg,Once daily,2025-04-27,2025-05-04,3
+2738,336,18,Salbutamol,100 mcg/dose,Two puffs as required,2024-08-15,2024-08-29,0
+2739,766,59,Atorvastatin,10 mg,Once daily at night,2024-02-23,2024-03-01,0
+2740,146,188,Atorvastatin,10 mg,Once daily at night,2025-06-28,2025-09-26,2
+2741,748,197,Metformin,500 mg,Twice daily with meals,2024-02-27,2024-04-23,0
+2742,54,63,Gabapentin,300 mg,Three times daily,2025-06-30,,11
+2743,674,46,Omeprazole,40 mg,Once daily before breakfast,2023-12-11,,6
+2744,118,190,Lisinopril,20 mg,Once daily,2024-07-27,2024-08-10,0
+2745,99,156,Amoxicillin,500 mg,Three times daily for 7 days,2024-07-23,,11
+2746,786,99,Omeprazole,20 mg,Once daily before breakfast,2023-09-23,2023-09-30,1
+2747,246,77,Metformin,850 mg,Twice daily with meals,2024-03-01,,5
+2748,183,235,Ibuprofen,400 mg,Three times daily after food,2023-07-26,,11
+2749,115,221,Ibuprofen,400 mg,Three times daily after food,2023-12-23,2023-12-30,1
+2750,161,203,Levothyroxine,100 mcg,Once daily on an empty stomach,2023-10-07,,6
+2751,173,244,Bisoprolol,5 mg,Once daily,2025-04-24,,6
+2752,75,236,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-02-21,2025-03-21,1
+2753,735,218,Salbutamol,100 mcg/dose,Two puffs as required,2024-08-07,2024-09-04,1
+2754,187,54,Metformin,500 mg,Twice daily with meals,2025-05-30,2025-06-27,3
+2755,141,7,Bisoprolol,2.5 mg,Once daily,2025-02-20,2025-02-27,3
+2756,487,51,Lisinopril,20 mg,Once daily,2024-12-09,2025-01-06,3
+2757,92,119,Sertraline,100 mg,Once daily,2024-08-20,,7
+2758,478,11,Paracetamol,500 mg,Up to four times daily,2024-11-02,,9
+2759,727,176,Omeprazole,40 mg,Once daily before breakfast,2025-03-10,,10
+2760,368,229,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-05-18,,11
+2761,792,229,Sertraline,50 mg,Once daily,2024-08-07,2024-09-04,0
+2762,38,128,Lisinopril,20 mg,Once daily,2025-05-18,,7
+2763,279,204,Sertraline,50 mg,Once daily,2023-08-26,,5
+2764,416,90,Paracetamol,1000 mg,Up to four times daily,2024-08-29,2024-09-26,2
+2765,442,125,Lisinopril,5 mg,Once daily,2024-05-17,2024-05-31,1
+2766,739,139,Omeprazole,20 mg,Once daily before breakfast,2025-04-14,2025-07-13,0
+2767,551,64,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-01-30,,10
+2768,95,169,Prednisolone,5 mg,"Once daily, reducing course",2024-07-27,,11
+2769,604,247,Cetirizine,10 mg,Once daily,2024-07-03,2024-07-17,0
+2770,314,211,Amlodipine,10 mg,Once daily,2025-05-01,2025-06-26,0
+2771,309,45,Paracetamol,500 mg,Up to four times daily,2025-05-19,,5
+2772,281,18,Atorvastatin,10 mg,Once daily at night,2025-02-25,2025-05-26,1
+2773,767,227,Levothyroxine,75 mcg,Once daily on an empty stomach,2025-06-07,2025-07-05,1
+2774,318,12,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-07-20,,7
+2775,356,128,Metformin,850 mg,Twice daily with meals,2024-05-28,2024-07-23,0
+2776,499,3,Metformin,850 mg,Twice daily with meals,2024-10-09,,11
+2777,232,237,Metformin,500 mg,Twice daily with meals,2024-05-13,,8
+2778,78,92,Levothyroxine,50 mcg,Once daily on an empty stomach,2025-05-29,2025-06-26,3
+2779,623,237,Cetirizine,10 mg,Once daily,2025-04-25,2025-06-20,2
+2780,121,19,Salbutamol,100 mcg/dose,Two puffs as required,2025-04-27,2025-05-25,2
+2781,690,105,Ramipril,5 mg,Once daily,2024-07-18,2024-07-25,0
+2782,288,115,Cetirizine,10 mg,Once daily,2025-05-11,,8
+2783,88,192,Atorvastatin,10 mg,Once daily at night,2024-09-26,,7
+2784,92,34,Amlodipine,10 mg,Once daily,2024-12-16,2025-02-10,1
+2785,121,139,Cetirizine,10 mg,Once daily,2025-03-16,,9
+2786,655,205,Furosemide,40 mg,Once daily in the morning,2024-08-10,2024-08-17,3
+2787,9,208,Salbutamol,100 mcg/dose,Two puffs as required,2024-09-21,,7
+2788,760,111,Ibuprofen,600 mg,Three times daily after food,2025-02-14,2025-02-28,1
+2789,344,191,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-05-19,2024-06-16,3
+2790,220,205,Metformin,850 mg,Twice daily with meals,2025-04-01,2025-04-29,3
+2791,94,39,Levothyroxine,100 mcg,Once daily on an empty stomach,2024-01-04,,10
+2792,284,131,Levothyroxine,50 mcg,Once daily on an empty stomach,2024-11-29,2025-02-27,2
+2793,378,224,Omeprazole,40 mg,Once daily before breakfast,2025-01-15,,5
+2794,280,124,Ibuprofen,400 mg,Three times daily after food,2025-03-22,2025-03-29,0
+2795,443,68,Amoxicillin,250 mg,Three times daily for 7 days,2024-05-21,2024-06-04,2
+2796,668,106,Amlodipine,10 mg,Once daily,2024-01-13,2024-04-12,3
+2797,766,42,Lisinopril,10 mg,Once daily,2023-04-24,2023-06-19,2
+2798,118,42,Levothyroxine,100 mcg,Once daily on an empty stomach,2025-03-28,2025-04-25,2
+2799,438,179,Gabapentin,300 mg,Three times daily,2025-01-26,2025-03-23,1
+2800,755,248,Metformin,500 mg,Twice daily with meals,2025-06-30,2025-09-28,2

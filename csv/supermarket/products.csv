@@ -1,0 +1,601 @@
+id,sku,ean13,name,category_id,supplier_id,brand,unit,unit_price,cost_price,vat_rate,active
+1,SKU-000001,8464084688516,Cuchillas de afeitar El Molinar pack 6,45,41,El Molinar,pack,12.99,11.50,0.21,true
+2,SKU-000002,8467189992984,Lavavajillas a mano Doña Elena,40,21,Doña Elena,ud,1.49,1.25,0.21,true
+3,SKU-000003,8413464255923,Frutos secos mezcla La Almazara,23,3,La Almazara,ud,2.95,2.53,0.10,true
+4,SKU-000004,8479360553693,Servilletas Sabor de Antaño pack 12,39,14,Sabor de Antaño,pack,1.49,1.19,0.21,true
+5,SKU-000005,8499968138818,Sal marina Vega Real 1kg,20,18,Vega Real,kg,0.99,0.75,0.10,true
+6,SKU-000006,8484710156806,Detergente líquido Puente Viejo,37,30,Puente Viejo,ud,6.99,5.96,0.21,true
+7,SKU-000007,8411991774610,Néctar de melocotón Monteclaro 1.5L,30,18,Monteclaro,L,2.50,2.03,0.21,true
+8,SKU-000008,8468487664054,Gel infantil Valdehermoso,50,5,Valdehermoso,ud,2.99,2.43,0.04,true
+9,SKU-000009,8426159901470,Fregasuelos Sabor de Antaño,38,19,Sabor de Antaño,ud,2.99,2.38,0.21,true
+10,SKU-000010,8472019319442,Bizcocho Sabor de Antaño,22,11,Sabor de Antaño,ud,2.99,2.39,0.10,true
+11,SKU-000011,8444558478713,Bombilla LED Casa Robles,56,33,Casa Robles,ud,4.95,3.91,0.21,true
+12,SKU-000012,8419256617726,Galletas María Tierra Nuestra,22,25,Tierra Nuestra,ud,1.50,1.21,0.10,true
+13,SKU-000013,8415374004752,Alimento para pájaros Buenamesa,53,33,Buenamesa,ud,4.75,4.05,0.21,true
+14,SKU-000014,8436252599771,Cápsulas de café Monteclaro pack 4,31,12,Monteclaro,pack,7.99,7.27,0.21,true
+15,SKU-000015,8442733767836,Detergente líquido Buenamesa,37,26,Buenamesa,ud,7.75,6.67,0.21,true
+16,SKU-000016,8425177339913,Cepillo de dientes Los Almendros,42,38,Los Almendros,ud,2.99,2.33,0.21,true
+17,SKU-000017,8446295994877,Menestra congelada Buenamesa,33,22,Buenamesa,ud,2.49,2.12,0.10,false
+18,SKU-000018,8467257646924,Refresco de cola Los Almendros pack 4,27,23,Los Almendros,pack,4.49,3.54,0.21,true
+19,SKU-000019,8426990478704,Vino blanco Rueda Doña Elena,29,14,Doña Elena,ud,8.99,7.71,0.21,true
+20,SKU-000020,8419615605227,Zanahoria Sabor de Antaño 500g,10,37,Sabor de Antaño,kg,1.99,1.79,0.04,true
+21,SKU-000021,8444575203411,Desodorante El Molinar,47,1,El Molinar,ud,2.49,1.93,0.21,true
+22,SKU-000022,8497985590268,Pastillas lavavajillas Ribera Alta pack 12,40,1,Ribera Alta,pack,8.49,7.16,0.21,true
+23,SKU-000023,8499739181241,Leche de continuación Origen,49,25,Origen,ud,13.99,11.52,0.04,true
+24,SKU-000024,8418543554126,Bombilla LED Puente Viejo,56,29,Puente Viejo,ud,7.50,6.07,0.21,true
+25,SKU-000025,8405605946807,Limpiacristales Valdehermoso,38,1,Valdehermoso,ud,2.49,2.02,0.21,true
+26,SKU-000026,8484324027844,Lavavajillas a mano Monteclaro,40,15,Monteclaro,ud,1.99,1.62,0.21,true
+27,SKU-000027,8452384934228,Pañales talla 3 El Molinar pack 6,48,28,El Molinar,pack,13.95,11.03,0.04,true
+28,SKU-000028,8429861685225,Café molido natural La Almazara,31,30,La Almazara,ud,6.99,5.56,0.21,true
+29,SKU-000029,8472794978872,Papel higiénico Casa Robles pack 4,39,18,Casa Robles,pack,3.50,2.74,0.21,true
+30,SKU-000030,8477287137576,Bolsas de basura Vega Real pack 4,55,3,Vega Real,pack,1.49,0.82,0.21,true
+31,SKU-000031,8469231880270,Cebolla El Molinar 500g,10,4,El Molinar,kg,1.99,1.68,0.04,true
+32,SKU-000032,8429660256558,Acondicionador Los Almendros,43,35,Los Almendros,ud,3.50,2.68,0.21,true
+33,SKU-000033,8469795343853,Bombilla LED Tierra Nuestra,56,9,Tierra Nuestra,ud,3.99,3.45,0.21,true
+34,SKU-000034,8494965401361,Zumo de naranja Selecta 1L,30,38,Selecta,L,2.99,2.51,0.21,true
+35,SKU-000035,8495146687536,Insecticida volador Valdehermoso,41,40,Valdehermoso,ud,3.99,3.32,0.21,true
+36,SKU-000036,8478444004380,Cereales de desayuno Monteclaro,21,31,Monteclaro,ud,2.95,2.28,0.10,true
+37,SKU-000037,8484188570159,Refresco de cola Monteclaro pack 4,27,5,Monteclaro,pack,5.99,4.93,0.21,true
+38,SKU-000038,8436946305466,Pienso para perro Campo Sur 1kg,51,10,Campo Sur,kg,3.99,3.27,0.21,true
+39,SKU-000039,8410215212532,Pilas AA Casa Robles pack 4,55,9,Casa Robles,pack,5.99,3.67,0.21,true
+40,SKU-000040,8490722555292,Café molido natural Monteclaro,31,12,Monteclaro,ud,3.99,3.50,0.21,true
+41,SKU-000041,8405869585545,Pizza congelada Monteclaro,36,39,Monteclaro,ud,4.75,3.63,0.10,true
+42,SKU-000042,8423668335383,Sartén antiadherente Doña Elena,54,27,Doña Elena,ud,14.99,9.74,0.21,true
+43,SKU-000043,8411998881397,Guisantes congelados Puente Viejo,33,36,Puente Viejo,ud,1.95,1.54,0.10,true
+44,SKU-000044,8430574820223,Gel de ducha Valdehermoso,44,8,Valdehermoso,ud,3.99,3.25,0.21,true
+45,SKU-000045,8415030229574,Refresco de cola Sabor de Antaño pack 4,27,28,Sabor de Antaño,pack,4.99,4.36,0.21,true
+46,SKU-000046,8409678230573,Filete de ternera Monteclaro 500g,11,11,Monteclaro,kg,15.99,14.30,0.04,true
+47,SKU-000047,8434276851455,Miel Buenamesa,25,13,Buenamesa,ud,5.99,4.56,0.10,false
+48,SKU-000048,8465498909044,Espuma de afeitar El Molinar,45,4,El Molinar,ud,1.95,1.75,0.21,true
+49,SKU-000049,8420338266220,Snacks para perro Sabor de Antaño,51,13,Sabor de Antaño,ud,3.99,3.32,0.21,true
+50,SKU-000050,8457095490841,Gel de ducha Ribera Alta,44,36,Ribera Alta,ud,2.25,1.85,0.21,false
+51,SKU-000051,8452610933889,Bolsas de basura Sabor de Antaño pack 12,55,50,Sabor de Antaño,pack,3.99,2.39,0.21,true
+52,SKU-000052,8459233870744,Huevos frescos M Los Almendros pack 12,16,49,Los Almendros,pack,2.95,2.43,0.04,true
+53,SKU-000053,8471822338800,Aceitunas rellenas Doña Elena,23,34,Doña Elena,ud,2.99,2.35,0.10,true
+54,SKU-000054,8440608145666,Insecticida volador Vega Real,41,21,Vega Real,ud,5.50,5.01,0.21,true
+55,SKU-000055,8467368240486,Jamón serrano lonchas Valdehermoso,13,21,Valdehermoso,ud,5.49,4.56,0.04,true
+56,SKU-000056,8431099459813,Espaguetis El Molinar,17,50,El Molinar,ud,1.95,1.68,0.10,true
+57,SKU-000057,8405885050089,Ginebra Valdehermoso,32,11,Valdehermoso,ud,18.00,14.35,0.21,true
+58,SKU-000058,8472160530666,Acondicionador Tierra Nuestra,43,9,Tierra Nuestra,ud,2.99,2.60,0.21,true
+59,SKU-000059,8466985563220,Menestra congelada Campo Sur,33,3,Campo Sur,ud,1.99,1.63,0.10,true
+60,SKU-000060,8423016132527,Protegeslips El Molinar pack 6,46,11,El Molinar,pack,1.99,1.44,0.21,true
+61,SKU-000061,8416317978857,Queso curado cuña El Molinar,13,26,El Molinar,ud,4.99,4.69,0.04,true
+62,SKU-000062,8433488042187,Tónica Monteclaro pack 6,27,32,Monteclaro,pack,5.99,5.24,0.21,true
+63,SKU-000063,8455781575087,Aceitunas rellenas Monteclaro,23,6,Monteclaro,ud,2.95,2.43,0.10,true
+64,SKU-000064,8478396218576,Insecticida volador Ribera Alta,41,11,Ribera Alta,ud,4.99,4.00,0.21,true
+65,SKU-000065,8467800465187,Leche de continuación La Almazara,49,26,La Almazara,ud,10.49,8.58,0.04,true
+66,SKU-000066,8469146708782,Azúcar blanco Buenamesa 1kg,25,25,Buenamesa,kg,0.99,0.77,0.10,true
+67,SKU-000067,8440977168471,Detergente líquido Puente Viejo 52,37,9,Puente Viejo,ud,5.99,4.89,0.21,true
+68,SKU-000068,8428418986075,Bombilla LED El Molinar,56,1,El Molinar,ud,3.49,3.08,0.21,true
+69,SKU-000069,8449212687555,Polos de hielo Puente Viejo pack 4,35,36,Puente Viejo,pack,4.99,4.39,0.10,true
+70,SKU-000070,8420715806711,Pasta de dientes Monteclaro,42,15,Monteclaro,ud,3.50,2.82,0.21,true
+71,SKU-000071,8482851641601,Bizcocho Ribera Alta,22,9,Ribera Alta,ud,2.99,2.47,0.10,true
+72,SKU-000072,8439713583395,Alimento para pájaros Selecta,53,38,Selecta,ud,4.95,3.70,0.21,true
+73,SKU-000073,8480923699765,Sal marina Buenamesa,20,36,Buenamesa,kg,0.99,0.76,0.10,true
+74,SKU-000074,8452025633411,Alimento para pájaros Ribera Alta,53,41,Ribera Alta,ud,3.99,3.18,0.21,true
+75,SKU-000075,8442027453490,Agua mineral Vega Real pack 12,26,29,Vega Real,pack,2.49,2.26,0.21,true
+76,SKU-000076,8492076906409,Nata para cocinar Monteclaro,15,22,Monteclaro,ud,1.99,1.59,0.04,true
+77,SKU-000077,8496090120544,Macarrones Sabor de Antaño,17,23,Sabor de Antaño,ud,1.00,0.83,0.10,true
+78,SKU-000078,8418472547510,Cuchillas de afeitar Ribera Alta pack 4,45,3,Ribera Alta,pack,9.99,7.76,0.21,true
+79,SKU-000079,8437319999152,Tomate frito Ribera Alta,20,35,Ribera Alta,ud,1.49,1.11,0.10,true
+80,SKU-000080,8475996503460,Polos de hielo Ribera Alta pack 6,35,19,Ribera Alta,pack,2.95,2.34,0.10,true
+81,SKU-000081,8409497446377,Queso curado cuña Valdehermoso,13,30,Valdehermoso,ud,7.99,6.48,0.04,true
+82,SKU-000082,8451311055135,Cerveza sin alcohol Puente Viejo pack 4,28,8,Puente Viejo,pack,5.95,4.88,0.21,true
+83,SKU-000083,8424868381736,Desodorante Monteclaro,47,50,Monteclaro,ud,4.99,3.32,0.21,true
+84,SKU-000084,8438577233279,Solomillo de cerdo Puente Viejo,11,39,Puente Viejo,kg,11.95,10.06,0.04,true
+85,SKU-000085,8459755011311,Pastillas lavavajillas Los Almendros pack 12,40,1,Los Almendros,pack,7.99,5.74,0.21,true
+86,SKU-000086,8422364991282,Bizcocho Campo Sur,22,10,Campo Sur,ud,3.99,3.41,0.10,true
+87,SKU-000087,8442779946110,Cereales de desayuno Origen,21,20,Origen,ud,2.99,2.28,0.10,true
+88,SKU-000088,8419364170953,Pizza congelada Buenamesa,36,3,Buenamesa,ud,5.99,4.74,0.10,true
+89,SKU-000089,8443647347244,Alimento para pájaros Campo Sur,53,8,Campo Sur,ud,2.99,2.57,0.21,true
+90,SKU-000090,8415832492015,Cuchillas de afeitar Sabor de Antaño pack 6,45,21,Sabor de Antaño,pack,6.49,5.25,0.21,true
+91,SKU-000091,8452781925850,Pienso para perro Vega Real 1kg,51,3,Vega Real,kg,3.49,3.19,0.21,true
+92,SKU-000092,8461818777973,Lavavajillas a mano Tierra Nuestra,40,36,Tierra Nuestra,ud,2.25,1.99,0.21,true
+93,SKU-000093,8488821947278,Merluza fresca Ribera Alta 500g,12,26,Ribera Alta,kg,13.99,11.57,0.04,true
+94,SKU-000094,8402085968091,Bolsas de basura Buenamesa pack 4,55,41,Buenamesa,pack,2.99,2.05,0.21,true
+95,SKU-000095,8465849461009,Guisantes congelados Valdehermoso,33,11,Valdehermoso,ud,1.99,1.67,0.10,true
+96,SKU-000096,8451590553780,Lejía Sabor de Antaño 1L,38,35,Sabor de Antaño,L,1.99,1.67,0.21,true
+97,SKU-000097,8485794874334,Arena para gato Selecta,52,3,Selecta,ud,4.95,3.99,0.21,true
+98,SKU-000098,8416769909638,Protegeslips Sabor de Antaño pack 12,46,30,Sabor de Antaño,pack,1.49,1.26,0.21,true
+99,SKU-000099,8445653843550,Ginebra Selecta,32,4,Selecta,ud,15.75,10.33,0.21,true
+100,SKU-000100,8428527773115,Refresco de cola El Molinar pack 12,27,14,El Molinar,pack,3.00,2.28,0.21,true
+101,SKU-000101,8473762930090,Yogur natural Los Almendros pack 12,15,31,Los Almendros,pack,2.99,2.68,0.04,true
+102,SKU-000102,8414956203446,Huevos camperos L Valdehermoso pack 12,16,43,Valdehermoso,pack,3.00,2.67,0.04,true
+103,SKU-000103,8453508743085,Agua con gas Casa Robles pack 6,26,27,Casa Robles,pack,2.99,2.45,0.21,true
+104,SKU-000104,8493156489805,Pan de molde integral Sabor de Antaño,14,6,Sabor de Antaño,ud,2.99,2.05,0.04,true
+105,SKU-000105,8465150850356,Bombilla LED Valdehermoso,56,30,Valdehermoso,ud,6.99,5.22,0.21,true
+106,SKU-000106,8414704875239,Vaso de cristal Casa Robles,54,29,Casa Robles,ud,3.49,1.72,0.21,true
+107,SKU-000107,8486180734911,Champú Casa Robles,43,30,Casa Robles,ud,5.99,4.14,0.21,true
+108,SKU-000108,8460709326993,Compresas Monteclaro pack 6,46,36,Monteclaro,pack,3.95,3.25,0.21,true
+109,SKU-000109,8414279179718,Barra de pan Valdehermoso,14,14,Valdehermoso,ud,0.99,0.60,0.04,true
+110,SKU-000110,8474209894784,Zumo de naranja Vega Real 2L,30,18,Vega Real,L,1.99,1.60,0.21,true
+111,SKU-000111,8460593277791,Aceite de oliva virgen extra Tierra Nuestra 1L,19,3,Tierra Nuestra,L,6.99,5.44,0.10,true
+112,SKU-000112,8423299411265,Helado de vainilla Tierra Nuestra,35,47,Tierra Nuestra,ud,3.99,3.36,0.10,true
+113,SKU-000113,8470769332391,Pavo en lonchas Sabor de Antaño,13,40,Sabor de Antaño,ud,2.99,2.45,0.04,true
+114,SKU-000114,8479573747735,Jamón serrano lonchas Los Almendros,13,30,Los Almendros,ud,5.95,4.37,0.04,true
+115,SKU-000115,8498592997570,Crema hidratante Tierra Nuestra,44,39,Tierra Nuestra,ud,6.99,5.97,0.21,true
+116,SKU-000116,8451994733405,Pechuga de pollo Buenamesa 1kg,11,40,Buenamesa,kg,6.49,5.47,0.04,true
+117,SKU-000117,8473283156016,Cepillo de dientes Los Almendros 60,42,39,Los Almendros,ud,2.99,2.27,0.21,true
+118,SKU-000118,8481716371660,Vino tinto Rioja Monteclaro,29,16,Monteclaro,ud,5.99,5.06,0.21,true
+119,SKU-000119,8457980619784,Papel higiénico Origen pack 12,39,10,Origen,pack,6.99,5.71,0.21,true
+120,SKU-000120,8428940206504,Bolsas de basura Sabor de Antaño pack 4,55,37,Sabor de Antaño,pack,2.49,1.57,0.21,true
+121,SKU-000121,8412324320887,Pan de molde integral La Almazara,14,49,La Almazara,ud,2.75,2.09,0.04,true
+122,SKU-000122,8417769387709,Gel infantil Origen,50,31,Origen,ud,2.95,2.18,0.04,true
+123,SKU-000123,8401059895043,Cereales de desayuno Casa Robles,21,36,Casa Robles,ud,2.50,2.12,0.10,true
+124,SKU-000124,8413907066680,Gel infantil Valdehermoso 34,50,4,Valdehermoso,ud,3.99,3.39,0.04,true
+125,SKU-000125,8487632741150,Arroz integral Valdehermoso,17,31,Valdehermoso,kg,2.00,1.74,0.10,true
+126,SKU-000126,8457548086881,Pienso para perro Los Almendros,51,11,Los Almendros,kg,2.50,2.09,0.21,true
+127,SKU-000127,8455582869927,Merluza congelada Ribera Alta,34,50,Ribera Alta,ud,6.99,5.60,0.10,true
+128,SKU-000128,8430879343045,Croquetas Tierra Nuestra,36,3,Tierra Nuestra,ud,3.99,3.52,0.10,true
+129,SKU-000129,8400474647336,Avena en copos Los Almendros,21,50,Los Almendros,ud,2.99,2.49,0.10,true
+130,SKU-000130,8478044945441,Bombilla LED Sabor de Antaño,56,1,Sabor de Antaño,ud,4.95,3.71,0.21,true
+131,SKU-000131,8477342295005,Sartén antiadherente Campo Sur,54,30,Campo Sur,ud,10.99,5.69,0.21,true
+132,SKU-000132,8457928927247,Bolsas de basura Puente Viejo pack 4,55,27,Puente Viejo,pack,2.95,1.90,0.21,false
+133,SKU-000133,8416726008978,Compresas Puente Viejo pack 6,46,10,Puente Viejo,pack,1.99,1.66,0.21,true
+134,SKU-000134,8439662998806,Pizza congelada Sabor de Antaño,36,33,Sabor de Antaño,ud,3.49,2.80,0.10,true
+135,SKU-000135,8421584802903,Arena para gato Los Almendros,52,27,Los Almendros,ud,7.49,6.34,0.21,true
+136,SKU-000136,8488963063843,Cuchillas de afeitar Ribera Alta pack 12,45,34,Ribera Alta,pack,7.95,6.66,0.21,true
+137,SKU-000137,8489561483644,Piña en almíbar El Molinar,18,10,El Molinar,ud,1.49,1.24,0.10,true
+138,SKU-000138,8435041228885,Fideos finos Valdehermoso,17,23,Valdehermoso,ud,1.75,1.44,0.10,true
+139,SKU-000139,8478551681658,Queso fresco batido Campo Sur,15,35,Campo Sur,ud,2.99,2.47,0.04,true
+140,SKU-000140,8417385489399,Fregasuelos Casa Robles,38,29,Casa Robles,ud,2.99,2.33,0.21,true
+141,SKU-000141,8464193698307,Pizza congelada La Almazara,36,12,La Almazara,ud,4.50,3.91,0.10,false
+142,SKU-000142,8450825096269,Muslo de pollo Buenamesa 1kg,11,1,Buenamesa,kg,4.49,3.79,0.04,true
+143,SKU-000143,8488203926211,Merluza fresca Casa Robles,12,19,Casa Robles,kg,9.95,8.50,0.04,true
+144,SKU-000144,8427752279324,Pilas AA Casa Robles pack 12,55,12,Casa Robles,pack,2.95,1.89,0.21,true
+145,SKU-000145,8493656672493,Pienso para perro Monteclaro 1kg,51,8,Monteclaro,kg,2.75,2.46,0.21,true
+146,SKU-000146,8439220255273,Lejía Sabor de Antaño 1.5L,38,27,Sabor de Antaño,L,1.49,1.15,0.21,true
+147,SKU-000147,8442955182394,Espaguetis Los Almendros,17,18,Los Almendros,ud,0.99,0.89,0.10,true
+148,SKU-000148,8416330003529,Berberechos Selecta,18,39,Selecta,ud,3.00,2.28,0.10,true
+149,SKU-000149,8476988941666,Galletas de chocolate Origen,22,13,Origen,ud,3.99,3.51,0.10,true
+150,SKU-000150,8486384040078,Infusión manzanilla Tierra Nuestra,31,35,Tierra Nuestra,ud,2.00,1.58,0.21,true
+151,SKU-000151,8430925420966,Nata para cocinar Monteclaro 75,15,18,Monteclaro,ud,1.95,1.59,0.04,true
+152,SKU-000152,8462004041595,Bizcocho Buenamesa,22,39,Buenamesa,ud,2.49,2.20,0.10,true
+153,SKU-000153,8431591922150,Avena en copos Origen,21,8,Origen,ud,2.99,2.38,0.10,true
+154,SKU-000154,8464026282864,Pienso para gato Vega Real 500g,52,19,Vega Real,kg,3.49,3.02,0.21,true
+155,SKU-000155,8457412408924,Alimento para pájaros La Almazara,53,36,La Almazara,ud,2.99,2.31,0.21,true
+156,SKU-000156,8425835421592,Cerveza sin alcohol Doña Elena pack 12,28,21,Doña Elena,pack,6.99,5.54,0.21,true
+157,SKU-000157,8445819305373,Champú El Molinar,43,49,El Molinar,ud,5.49,4.71,0.21,true
+158,SKU-000158,8495920291904,Cerveza sin alcohol Doña Elena pack 6,28,26,Doña Elena,pack,3.99,3.08,0.21,true
+159,SKU-000159,8411352031888,Ginebra Valdehermoso 5,32,15,Valdehermoso,ud,24.99,18.29,0.21,true
+160,SKU-000160,8470064260887,Sal marina Sabor de Antaño 500g,20,36,Sabor de Antaño,kg,0.50,0.43,0.10,true
+161,SKU-000161,8454610349370,Protegeslips La Almazara pack 6,46,13,La Almazara,pack,1.99,1.73,0.21,true
+162,SKU-000162,8408207424995,Fideos finos Vega Real,17,48,Vega Real,ud,1.49,1.16,0.10,true
+163,SKU-000163,8477258247136,Vaso de cristal Valdehermoso,54,1,Valdehermoso,ud,3.25,2.17,0.21,true
+164,SKU-000164,8488036159961,Champú Puente Viejo,43,22,Puente Viejo,ud,5.99,4.84,0.21,true
+165,SKU-000165,8482973900129,Gel infantil Selecta,50,40,Selecta,ud,3.99,3.14,0.04,true
+166,SKU-000166,8406476027145,Detergente líquido Vega Real,37,47,Vega Real,ud,8.25,6.65,0.21,true
+167,SKU-000167,8476301342545,Chuleta de cordero Origen 500g,11,47,Origen,kg,19.95,17.85,0.04,true
+168,SKU-000168,8416159178170,Cuchillas de afeitar Vega Real pack 6,45,30,Vega Real,pack,10.95,8.52,0.21,true
+169,SKU-000169,8474786991654,Queso curado cuña Puente Viejo,13,32,Puente Viejo,ud,4.50,4.01,0.04,true
+170,SKU-000170,8413768290729,Detergente líquido Valdehermoso,37,32,Valdehermoso,ud,7.99,6.73,0.21,true
+171,SKU-000171,8470787407309,Avena en copos El Molinar,21,19,El Molinar,ud,1.49,1.21,0.10,true
+172,SKU-000172,8419604280442,Sartén antiadherente Ribera Alta,54,16,Ribera Alta,ud,14.50,7.93,0.21,true
+173,SKU-000173,8482392702281,Pan de molde integral Vega Real,14,36,Vega Real,ud,1.95,1.63,0.04,true
+174,SKU-000174,8410793815644,Arena para gato Puente Viejo,52,23,Puente Viejo,ud,4.49,3.45,0.21,true
+175,SKU-000175,8416379421278,Compresas El Molinar pack 12,46,49,El Molinar,pack,2.95,2.52,0.21,true
+176,SKU-000176,8451507229388,Guisantes congelados Buenamesa,33,8,Buenamesa,ud,1.49,1.20,0.10,true
+177,SKU-000177,8493684953861,Limpiacristales Selecta,38,40,Selecta,ud,3.95,3.24,0.21,true
+178,SKU-000178,8409131548290,Merluza congelada Tierra Nuestra,34,25,Tierra Nuestra,ud,5.99,4.92,0.10,true
+179,SKU-000179,8492553729422,Pañales talla 3 Puente Viejo pack 4,48,8,Puente Viejo,pack,12.75,10.93,0.04,true
+180,SKU-000180,8454307899676,Fideos finos Campo Sur,17,1,Campo Sur,ud,0.99,0.81,0.10,false
+181,SKU-000181,8469726358192,Helado de vainilla Casa Robles,35,9,Casa Robles,ud,3.50,3.17,0.10,true
+182,SKU-000182,8482889143023,Pavo en lonchas Los Almendros,13,21,Los Almendros,ud,2.75,2.48,0.04,true
+183,SKU-000183,8480494525319,Leche entera Sabor de Antaño 2L,15,33,Sabor de Antaño,L,0.95,0.73,0.04,true
+184,SKU-000184,8422791276785,Bombilla LED Tierra Nuestra 47,56,40,Tierra Nuestra,ud,7.99,6.82,0.21,true
+185,SKU-000185,8467399838140,Patatas fritas Valdehermoso,23,40,Valdehermoso,ud,2.99,2.58,0.10,true
+186,SKU-000186,8407495876394,Suavizante La Almazara,37,16,La Almazara,ud,4.25,3.15,0.21,false
+187,SKU-000187,8465625935212,Patatas fritas Casa Robles,23,4,Casa Robles,ud,2.99,2.30,0.10,true
+188,SKU-000188,8409766754936,Merluza congelada Monteclaro,34,25,Monteclaro,ud,4.99,4.12,0.10,true
+189,SKU-000189,8464789653574,Croissant Campo Sur,14,13,Campo Sur,ud,1.50,0.85,0.04,true
+190,SKU-000190,8496895486760,Cerveza sin alcohol Puente Viejo pack 6,28,41,Puente Viejo,pack,3.95,3.34,0.21,false
+191,SKU-000191,8465925307979,Cepillo de dientes Doña Elena,42,39,Doña Elena,ud,3.50,2.97,0.21,true
+192,SKU-000192,8445231196924,Pañales talla 3 Sabor de Antaño pack 4,48,9,Sabor de Antaño,pack,14.99,12.04,0.04,true
+193,SKU-000193,8478407667430,Fideos finos La Almazara,17,4,La Almazara,ud,1.99,1.75,0.10,false
+194,SKU-000194,8470409094382,Mayonesa Ribera Alta,20,30,Ribera Alta,ud,2.95,2.31,0.10,true
+195,SKU-000195,8482300802195,Café molido natural Tierra Nuestra,31,16,Tierra Nuestra,ud,5.99,5.20,0.21,true
+196,SKU-000196,8474813119297,Gel infantil Campo Sur,50,23,Campo Sur,ud,4.95,4.09,0.04,true
+197,SKU-000197,8492163277580,Pienso para gato Casa Robles,52,25,Casa Robles,kg,5.95,4.90,0.21,true
+198,SKU-000198,8459423215515,Vinagre de Jerez Selecta,19,37,Selecta,ud,2.49,2.15,0.10,true
+199,SKU-000199,8466309187491,Fregasuelos Los Almendros,38,19,Los Almendros,ud,3.75,3.24,0.21,true
+200,SKU-000200,8469519026710,Cuchillas de afeitar El Molinar pack 4,45,4,El Molinar,pack,12.75,11.51,0.21,true
+201,SKU-000201,8490123816886,Huevos frescos M Los Almendros pack 12 94,16,39,Los Almendros,pack,2.99,2.51,0.04,true
+202,SKU-000202,8482614016707,Cerveza rubia El Molinar pack 4,28,5,El Molinar,pack,4.50,3.76,0.21,true
+203,SKU-000203,8452181115707,Aceite de girasol Vega Real 2L,19,41,Vega Real,L,2.75,2.31,0.10,true
+204,SKU-000204,8457450612550,Pastillas lavavajillas Sabor de Antaño pack 6,40,26,Sabor de Antaño,pack,8.49,6.81,0.21,true
+205,SKU-000205,8432757112378,Snacks para perro La Almazara,51,10,La Almazara,ud,4.99,4.00,0.21,true
+206,SKU-000206,8463824380352,Refresco de cola Puente Viejo pack 4,27,32,Puente Viejo,pack,2.99,2.40,0.21,true
+207,SKU-000207,8443641991344,Lavavajillas a mano Monteclaro 54,40,48,Monteclaro,ud,1.49,1.10,0.21,true
+208,SKU-000208,8439314660112,Ginebra Origen,32,25,Origen,ud,22.99,17.92,0.21,true
+209,SKU-000209,8445143004898,Cuchillas de afeitar Valdehermoso pack 6,45,21,Valdehermoso,pack,6.75,5.62,0.21,true
+210,SKU-000210,8419643632356,Cerveza rubia Monteclaro pack 4,28,39,Monteclaro,pack,4.99,3.98,0.21,true
+211,SKU-000211,8416278405928,Pienso para gato La Almazara 500g,52,31,La Almazara,kg,3.00,2.37,0.21,true
+212,SKU-000212,8433434257344,Leche de continuación Selecta,49,6,Selecta,ud,17.99,13.59,0.04,true
+213,SKU-000213,8491358450326,Bolsas de basura Doña Elena pack 4,55,1,Doña Elena,pack,2.99,1.77,0.21,true
+214,SKU-000214,8442317397510,Acondicionador El Molinar,43,48,El Molinar,ud,4.25,3.54,0.21,true
+215,SKU-000215,8406205466160,Detergente líquido Doña Elena,37,19,Doña Elena,ud,8.95,7.25,0.21,true
+216,SKU-000216,8476269614265,Alimento para pájaros Los Almendros,53,22,Los Almendros,ud,2.95,2.52,0.21,true
+217,SKU-000217,8463925653898,Bombilla LED Doña Elena,56,34,Doña Elena,ud,4.99,3.76,0.21,true
+218,SKU-000218,8438999300900,Menestra congelada Los Almendros,33,36,Los Almendros,ud,2.95,2.42,0.10,true
+219,SKU-000219,8452397295156,Desodorante Monteclaro 70,47,31,Monteclaro,ud,3.75,2.35,0.21,true
+220,SKU-000220,8403162032919,Pienso para perro Buenamesa,51,12,Buenamesa,kg,3.00,2.43,0.21,true
+221,SKU-000221,8430189203961,Pechuga de pollo Doña Elena 500g,11,32,Doña Elena,kg,5.95,5.38,0.04,true
+222,SKU-000222,8494800169067,Patatas fritas Casa Robles 27,23,14,Casa Robles,ud,2.75,2.25,0.10,true
+223,SKU-000223,8461955499523,Protegeslips Selecta pack 4,46,27,Selecta,pack,2.99,2.39,0.21,true
+224,SKU-000224,8401685043313,Gel infantil El Molinar,50,32,El Molinar,ud,2.99,2.41,0.04,true
+225,SKU-000225,8409204223918,Patata La Almazara,10,22,La Almazara,kg,1.95,1.73,0.04,true
+226,SKU-000226,8495564781700,Alubias blancas Doña Elena,24,48,Doña Elena,ud,1.99,1.74,0.10,true
+227,SKU-000227,8478218868415,Sartén antiadherente Casa Robles,54,8,Casa Robles,ud,13.49,7.57,0.21,true
+228,SKU-000228,8463984111933,Protegeslips Los Almendros pack 6,46,35,Los Almendros,pack,2.50,2.06,0.21,true
+229,SKU-000229,8426568124279,Avena en copos Sabor de Antaño,21,14,Sabor de Antaño,ud,2.75,2.22,0.10,true
+230,SKU-000230,8461411497728,Papel higiénico Valdehermoso pack 6,39,41,Valdehermoso,pack,7.99,6.30,0.21,true
+231,SKU-000231,8427062420102,Huevos camperos L Vega Real pack 12,16,41,Vega Real,pack,4.99,4.15,0.04,true
+232,SKU-000232,8485785838055,Gel de ducha El Molinar,44,48,El Molinar,ud,2.50,2.07,0.21,true
+233,SKU-000233,8477378108850,Vino blanco Rueda Buenamesa,29,36,Buenamesa,ud,5.99,5.46,0.21,true
+234,SKU-000234,8488168753198,Polos de hielo Valdehermoso pack 4,35,12,Valdehermoso,pack,4.00,2.85,0.10,true
+235,SKU-000235,8477698466555,Toallitas infantiles Doña Elena pack 6,48,11,Doña Elena,pack,2.49,2.20,0.04,false
+236,SKU-000236,8408029475434,Bolsas de basura Vega Real pack 6,55,47,Vega Real,pack,2.99,1.41,0.21,true
+237,SKU-000237,8421354804779,Leche de continuación Tierra Nuestra,49,30,Tierra Nuestra,ud,14.95,12.03,0.04,true
+238,SKU-000238,8452719693349,Champú Monteclaro,43,50,Monteclaro,ud,2.49,1.90,0.21,false
+239,SKU-000239,8414902211051,Papel higiénico Sabor de Antaño pack 6,39,23,Sabor de Antaño,pack,5.99,4.71,0.21,true
+240,SKU-000240,8445139135469,Piña en almíbar Origen,18,25,Origen,ud,1.95,1.54,0.10,true
+241,SKU-000241,8496055118463,Champú Monteclaro 5,43,50,Monteclaro,ud,5.95,4.24,0.21,true
+242,SKU-000242,8451937996386,Ginebra Selecta 22,32,13,Selecta,ud,22.99,13.00,0.21,true
+243,SKU-000243,8417132904762,Infusión manzanilla Casa Robles,31,37,Casa Robles,ud,1.49,1.36,0.21,true
+244,SKU-000244,8461932196797,Filete de ternera Selecta 1kg,11,22,Selecta,kg,11.95,10.59,0.04,true
+245,SKU-000245,8493407790254,Gel de ducha Selecta,44,5,Selecta,ud,3.95,3.31,0.21,true
+246,SKU-000246,8432928911649,Berberechos Sabor de Antaño,18,16,Sabor de Antaño,ud,4.50,3.91,0.10,true
+247,SKU-000247,8424081896499,Huevos camperos L Vega Real pack 4,16,35,Vega Real,pack,3.99,2.91,0.04,true
+248,SKU-000248,8495975869004,Champú Vega Real,43,20,Vega Real,ud,5.49,4.35,0.21,true
+249,SKU-000249,8485601325578,Agua mineral Origen pack 6,26,11,Origen,pack,3.99,3.40,0.21,true
+250,SKU-000250,8475717715158,Lavavajillas a mano Origen,40,27,Origen,ud,1.49,1.20,0.21,true
+251,SKU-000251,8429423412092,Insecticida volador El Molinar,41,28,El Molinar,ud,3.95,2.99,0.21,true
+252,SKU-000252,8470397992653,Croquetas Monteclaro,36,11,Monteclaro,ud,3.50,2.79,0.10,true
+253,SKU-000253,8491469918692,Alimento para pájaros Vega Real,53,27,Vega Real,ud,3.00,2.46,0.21,true
+254,SKU-000254,8414788086637,Macarrones Doña Elena,17,20,Doña Elena,ud,1.50,1.31,0.10,true
+255,SKU-000255,8494873496558,Ron añejo Sabor de Antaño,32,43,Sabor de Antaño,ud,16.99,10.26,0.21,true
+256,SKU-000256,8403593274377,Ron añejo Campo Sur,32,13,Campo Sur,ud,21.50,14.63,0.21,true
+257,SKU-000257,8477708228500,Cerveza sin alcohol Campo Sur pack 4,28,38,Campo Sur,pack,4.00,3.35,0.21,true
+258,SKU-000258,8464084713676,Refresco de cola Los Almendros pack 12,27,33,Los Almendros,pack,5.99,4.98,0.21,false
+259,SKU-000259,8483927756816,Toallitas infantiles Buenamesa pack 4,48,1,Buenamesa,pack,2.95,2.48,0.04,true
+260,SKU-000260,8418319617819,Barra de pan El Molinar,14,38,El Molinar,ud,1.99,1.35,0.04,true
+261,SKU-000261,8420377124291,Mayonesa Puente Viejo,20,4,Puente Viejo,ud,2.50,1.97,0.10,true
+262,SKU-000262,8491473709255,Leche de continuación Casa Robles,49,31,Casa Robles,ud,12.99,10.05,0.04,true
+263,SKU-000263,8481178363210,Huevos frescos M Selecta pack 12,16,14,Selecta,pack,2.49,1.96,0.04,true
+264,SKU-000264,8464103457598,Fideos finos Doña Elena,17,15,Doña Elena,ud,1.99,1.71,0.10,true
+265,SKU-000265,8453538478872,Protegeslips Sabor de Antaño pack 4,46,20,Sabor de Antaño,pack,2.95,2.44,0.21,false
+266,SKU-000266,8419573775703,Aceite de oliva virgen extra Sabor de Antaño 1.5L,19,15,Sabor de Antaño,L,11.49,9.40,0.10,true
+267,SKU-000267,8465793514585,Zanahoria Vega Real,10,15,Vega Real,kg,1.95,1.67,0.04,true
+268,SKU-000268,8494941253267,Guisantes congelados Vega Real,33,5,Vega Real,ud,1.95,1.48,0.10,true
+269,SKU-000269,8486924078745,Merluza congelada Campo Sur,34,41,Campo Sur,ud,6.99,5.86,0.10,true
+270,SKU-000270,8475129406408,Tomate triturado Tierra Nuestra,18,35,Tierra Nuestra,ud,1.99,1.74,0.10,true
+271,SKU-000271,8406448134147,Naranja de mesa Campo Sur 500g,10,5,Campo Sur,kg,1.99,1.73,0.04,true
+272,SKU-000272,8401707704185,Espuma de afeitar Valdehermoso,45,47,Valdehermoso,ud,2.95,2.44,0.21,false
+273,SKU-000273,8412123580543,Pienso para perro Tierra Nuestra 500g,51,15,Tierra Nuestra,kg,4.99,3.92,0.21,true
+274,SKU-000274,8482486172389,Bombilla LED Ribera Alta,56,3,Ribera Alta,ud,7.99,6.95,0.21,true
+275,SKU-000275,8445885768553,Gel infantil Tierra Nuestra,50,16,Tierra Nuestra,ud,5.95,4.71,0.04,true
+276,SKU-000276,8464215270337,Huevos camperos L La Almazara pack 6,16,19,La Almazara,pack,4.50,3.53,0.04,true
+277,SKU-000277,8430833831748,Croquetas La Almazara,36,23,La Almazara,ud,4.99,4.01,0.10,true
+278,SKU-000278,8448928729047,Alimento para pájaros Buenamesa 56,53,25,Buenamesa,ud,3.25,2.67,0.21,true
+279,SKU-000279,8405800296578,Cerveza rubia Ribera Alta pack 6,28,39,Ribera Alta,pack,7.99,6.76,0.21,true
+280,SKU-000280,8492460943508,Avena en copos Ribera Alta,21,36,Ribera Alta,ud,1.75,1.47,0.10,true
+281,SKU-000281,8494491456149,Fregasuelos Casa Robles 16,38,9,Casa Robles,ud,2.00,1.54,0.21,true
+282,SKU-000282,8469162104377,Alubias blancas La Almazara,24,25,La Almazara,ud,1.75,1.40,0.10,true
+283,SKU-000283,8404938072276,Pimentón dulce La Almazara,20,26,La Almazara,ud,1.95,1.60,0.10,true
+284,SKU-000284,8449259402241,Ginebra Casa Robles,32,20,Casa Robles,ud,21.50,13.74,0.21,true
+285,SKU-000285,8456268065725,Detergente líquido Puente Viejo 33,37,4,Puente Viejo,ud,9.99,7.76,0.21,true
+286,SKU-000286,8429331195544,Snacks para perro El Molinar,51,33,El Molinar,ud,3.25,2.62,0.21,true
+287,SKU-000287,8479289743533,Arroz redondo Buenamesa 1kg,17,1,Buenamesa,kg,1.99,1.40,0.10,true
+288,SKU-000288,8402154295523,Lavavajillas a mano Puente Viejo,40,1,Puente Viejo,ud,2.00,1.87,0.21,true
+289,SKU-000289,8487949055971,Atún claro en aceite Casa Robles pack 12,18,48,Casa Robles,pack,3.99,3.39,0.10,true
+290,SKU-000290,8490444050976,Insecticida volador Monteclaro,41,12,Monteclaro,ud,4.95,4.37,0.21,true
+291,SKU-000291,8481634798525,Lejía La Almazara 1.5L,38,16,La Almazara,L,0.99,0.76,0.21,true
+292,SKU-000292,8481709889462,Refresco de naranja Casa Robles pack 4,27,47,Casa Robles,pack,3.49,2.96,0.21,true
+293,SKU-000293,8422003475135,Gel infantil Los Almendros,50,11,Los Almendros,ud,5.49,4.34,0.04,true
+294,SKU-000294,8456797449072,Pan de molde integral Selecta,14,38,Selecta,ud,1.99,1.49,0.04,true
+295,SKU-000295,8455696913103,Zumo de naranja Casa Robles 1L,30,47,Casa Robles,L,1.99,1.59,0.21,true
+296,SKU-000296,8445709450602,Cerveza sin alcohol Puente Viejo pack 12,28,18,Puente Viejo,pack,5.49,4.46,0.21,false
+297,SKU-000297,8440350878461,Sartén antiadherente Selecta,54,26,Selecta,ud,10.95,5.08,0.21,true
+298,SKU-000298,8414353098010,Garbanzos cocidos Campo Sur,24,34,Campo Sur,ud,1.50,1.18,0.10,false
+299,SKU-000299,8449080892846,Chorizo ibérico Tierra Nuestra,13,11,Tierra Nuestra,ud,5.99,4.62,0.04,true
+300,SKU-000300,8482040092207,Snacks para perro La Almazara 59,51,47,La Almazara,ud,2.99,2.58,0.21,true
+301,SKU-000301,8455916981943,Aceite de oliva virgen extra Casa Robles 2L,19,41,Casa Robles,L,11.25,10.32,0.10,true
+302,SKU-000302,8432568707343,Alubias blancas Puente Viejo,24,13,Puente Viejo,ud,1.99,1.67,0.10,true
+303,SKU-000303,8410753370282,Lentejas Casa Robles,24,6,Casa Robles,kg,2.25,1.92,0.10,true
+304,SKU-000304,8413952886882,Tónica Buenamesa pack 4,27,13,Buenamesa,pack,4.95,4.22,0.21,true
+305,SKU-000305,8490182353957,Cereales de desayuno Campo Sur,21,27,Campo Sur,ud,3.99,3.00,0.10,true
+306,SKU-000306,8419858450639,Leche de continuación Casa Robles 35,49,26,Casa Robles,ud,8.95,7.07,0.04,true
+307,SKU-000307,8476635734191,Miel Selecta,25,5,Selecta,ud,5.25,4.36,0.10,true
+308,SKU-000308,8427778663428,Protector solar Selecta,47,25,Selecta,ud,9.99,5.68,0.21,true
+309,SKU-000309,8484691683346,Vino blanco Rueda El Molinar,29,16,El Molinar,ud,4.95,4.35,0.21,true
+310,SKU-000310,8420907580115,Zumo de naranja Doña Elena 1.5L,30,6,Doña Elena,L,1.99,1.67,0.21,true
+311,SKU-000311,8474550086234,Polos de hielo Casa Robles pack 4,35,20,Casa Robles,pack,3.49,2.62,0.10,true
+312,SKU-000312,8403142454700,Pañales talla 3 Sabor de Antaño pack 4 72,48,9,Sabor de Antaño,pack,10.99,8.80,0.04,true
+313,SKU-000313,8485641436265,Bizcocho Vega Real,22,28,Vega Real,ud,3.99,3.38,0.10,true
+314,SKU-000314,8483489836414,Leche entera Sabor de Antaño 2L 42,15,37,Sabor de Antaño,L,1.99,1.70,0.04,true
+315,SKU-000315,8444886194583,Polos de hielo Vega Real pack 6,35,41,Vega Real,pack,1.99,1.58,0.10,true
+316,SKU-000316,8460683679566,Fregasuelos Ribera Alta,38,12,Ribera Alta,ud,3.75,3.15,0.21,false
+317,SKU-000317,8415001072017,Acondicionador Origen,43,27,Origen,ud,4.50,3.71,0.21,true
+318,SKU-000318,8414426847071,Fregasuelos Sabor de Antaño 28,38,30,Sabor de Antaño,ud,2.49,2.03,0.21,true
+319,SKU-000319,8498291887691,Helado de vainilla El Molinar,35,37,El Molinar,ud,2.50,2.20,0.10,true
+320,SKU-000320,8450393914064,Vino rosado Navarra Sabor de Antaño,29,48,Sabor de Antaño,ud,5.99,5.26,0.21,true
+321,SKU-000321,8464307114952,Croquetas Campo Sur,36,4,Campo Sur,ud,2.99,2.46,0.10,true
+322,SKU-000322,8451174252139,Insecticida volador Casa Robles,41,47,Casa Robles,ud,4.49,4.00,0.21,true
+323,SKU-000323,8431627079025,Croquetas Sabor de Antaño,36,15,Sabor de Antaño,ud,4.95,4.21,0.10,true
+324,SKU-000324,8421619154663,Toallitas infantiles Buenamesa pack 12,48,5,Buenamesa,pack,2.95,2.14,0.04,true
+325,SKU-000325,8414778970298,Vaso de cristal El Molinar,54,1,El Molinar,ud,1.50,1.02,0.21,true
+326,SKU-000326,8460028740623,Gel de ducha Los Almendros,44,1,Los Almendros,ud,4.95,4.18,0.21,true
+327,SKU-000327,8468637503998,Tomate triturado Doña Elena,18,8,Doña Elena,ud,1.49,1.30,0.10,true
+328,SKU-000328,8481049622514,Mantequilla Monteclaro,15,6,Monteclaro,ud,2.99,2.43,0.04,true
+329,SKU-000329,8480161356260,Pizza congelada Sabor de Antaño 12,36,30,Sabor de Antaño,ud,3.99,3.47,0.10,true
+330,SKU-000330,8488022256209,Pañales talla 3 Buenamesa pack 6,48,15,Buenamesa,pack,11.75,9.61,0.04,true
+331,SKU-000331,8441151205722,Potito de frutas El Molinar,49,32,El Molinar,ud,1.99,1.70,0.04,true
+332,SKU-000332,8460741614362,Fideos finos Sabor de Antaño,17,48,Sabor de Antaño,ud,1.99,1.68,0.10,true
+333,SKU-000333,8461304651060,Cuchillas de afeitar Campo Sur pack 12,45,30,Campo Sur,pack,8.95,7.71,0.21,true
+334,SKU-000334,8418743192784,Macarrones El Molinar,17,8,El Molinar,ud,1.50,1.14,0.10,true
+335,SKU-000335,8408195360688,Infusión manzanilla Doña Elena,31,36,Doña Elena,ud,2.50,2.17,0.21,true
+336,SKU-000336,8408716856850,Tomate triturado La Almazara,18,32,La Almazara,ud,0.99,0.74,0.10,true
+337,SKU-000337,8492737337122,Vinagre de Jerez Casa Robles,19,36,Casa Robles,ud,2.99,2.43,0.10,true
+338,SKU-000338,8482916459844,Arena para gato Tierra Nuestra,52,4,Tierra Nuestra,ud,3.99,3.16,0.21,true
+339,SKU-000339,8497608157120,Lentejas Los Almendros,24,25,Los Almendros,kg,1.95,1.49,0.10,true
+340,SKU-000340,8457708205091,Langostinos congelados Puente Viejo,34,32,Puente Viejo,ud,11.00,8.64,0.10,true
+341,SKU-000341,8422911042764,Alubias blancas Campo Sur,24,48,Campo Sur,ud,1.99,1.59,0.10,true
+342,SKU-000342,8458275782152,Lavavajillas a mano Puente Viejo 97,40,49,Puente Viejo,ud,2.95,2.26,0.21,true
+343,SKU-000343,8471258294985,Suavizante Valdehermoso,37,13,Valdehermoso,ud,4.49,3.84,0.21,true
+344,SKU-000344,8489975348737,Langostinos congelados Buenamesa,34,15,Buenamesa,ud,11.99,9.39,0.10,true
+345,SKU-000345,8498728138464,Protector solar Selecta 73,47,34,Selecta,ud,7.50,3.61,0.21,true
+346,SKU-000346,8463635690992,Bombilla LED Doña Elena 57,56,12,Doña Elena,ud,6.99,5.76,0.21,true
+347,SKU-000347,8465408069684,Muslo de pollo Monteclaro 500g,11,39,Monteclaro,kg,5.99,4.92,0.04,false
+348,SKU-000348,8462927734437,Cepillo de dientes La Almazara,42,31,La Almazara,ud,3.00,2.35,0.21,true
+349,SKU-000349,8432674655231,Agua mineral Campo Sur pack 6,26,19,Campo Sur,pack,2.99,2.55,0.21,true
+350,SKU-000350,8452975020347,Espaguetis Monteclaro,17,30,Monteclaro,ud,1.99,1.50,0.10,true
+351,SKU-000351,8400068977344,Insecticida volador Ribera Alta 20,41,32,Ribera Alta,ud,5.99,5.01,0.21,true
+352,SKU-000352,8470445974235,Croquetas Valdehermoso,36,35,Valdehermoso,ud,2.50,2.03,0.10,true
+353,SKU-000353,8429774726770,Orégano Sabor de Antaño,20,39,Sabor de Antaño,ud,1.99,1.64,0.10,true
+354,SKU-000354,8456106514446,Cerveza sin alcohol Valdehermoso pack 6,28,31,Valdehermoso,pack,3.49,2.92,0.21,true
+355,SKU-000355,8435718464202,Pizza congelada Monteclaro 11,36,30,Monteclaro,ud,3.75,2.77,0.10,true
+356,SKU-000356,8453424627728,Cuchillas de afeitar Puente Viejo pack 12,45,1,Puente Viejo,pack,12.25,9.66,0.21,true
+357,SKU-000357,8433944251856,Galletas María Casa Robles,22,27,Casa Robles,ud,1.95,1.47,0.10,true
+358,SKU-000358,8424355561610,Espuma de afeitar Monteclaro,45,19,Monteclaro,ud,2.95,2.36,0.21,false
+359,SKU-000359,8479320336489,Huevos camperos L El Molinar pack 12,16,39,El Molinar,pack,3.99,3.31,0.04,true
+360,SKU-000360,8425314307034,Agua con gas Doña Elena pack 4,26,1,Doña Elena,pack,2.49,2.06,0.21,true
+361,SKU-000361,8457864132576,Pimiento rojo Los Almendros,10,50,Los Almendros,kg,2.49,2.12,0.04,true
+362,SKU-000362,8481687565280,Bolsas de basura Casa Robles pack 12,55,32,Casa Robles,pack,3.25,1.70,0.21,true
+363,SKU-000363,8464008172763,Cerveza rubia La Almazara pack 4,28,26,La Almazara,pack,4.50,3.60,0.21,true
+364,SKU-000364,8457889603747,Jamón serrano lonchas Vega Real,13,37,Vega Real,ud,5.00,4.21,0.04,true
+365,SKU-000365,8453120643602,Sartén antiadherente Doña Elena 71,54,22,Doña Elena,ud,17.99,8.39,0.21,true
+366,SKU-000366,8407409182894,Gel infantil Buenamesa,50,26,Buenamesa,ud,4.75,3.65,0.04,false
+367,SKU-000367,8417872739204,Aceite de oliva virgen extra Selecta 2L,19,10,Selecta,L,7.49,6.01,0.10,false
+368,SKU-000368,8480271720333,Menestra congelada Vega Real,33,25,Vega Real,ud,2.99,2.26,0.10,true
+369,SKU-000369,8456771640037,Merluza congelada Monteclaro 2,34,21,Monteclaro,ud,7.99,7.22,0.10,true
+370,SKU-000370,8412929874341,Vinagre de Jerez Ribera Alta,19,23,Ribera Alta,ud,2.95,2.12,0.10,true
+371,SKU-000371,8456396788664,Jamón serrano lonchas Tierra Nuestra,13,49,Tierra Nuestra,ud,5.75,5.03,0.04,true
+372,SKU-000372,8444196241809,Bombilla LED Selecta,56,30,Selecta,ud,3.95,2.87,0.21,true
+373,SKU-000373,8440780487530,Vino blanco Rueda Casa Robles,29,16,Casa Robles,ud,8.95,7.26,0.21,false
+374,SKU-000374,8446871430829,Guisantes congelados Origen,33,10,Origen,ud,2.00,1.64,0.10,true
+375,SKU-000375,8472568634973,Dorada Ribera Alta 500g,12,6,Ribera Alta,kg,11.99,10.76,0.04,true
+376,SKU-000376,8402732200147,Frutos secos mezcla Campo Sur,23,25,Campo Sur,ud,5.99,5.23,0.10,true
+377,SKU-000377,8471883554102,Bolsas de basura Casa Robles pack 4,55,28,Casa Robles,pack,2.99,1.30,0.21,true
+378,SKU-000378,8408105319201,Servilletas Valdehermoso pack 12,39,12,Valdehermoso,pack,0.99,0.71,0.21,true
+379,SKU-000379,8449282643161,Mayonesa Campo Sur,20,35,Campo Sur,ud,2.95,2.40,0.10,true
+380,SKU-000380,8464238295737,Champú Casa Robles 96,43,20,Casa Robles,ud,3.99,3.15,0.21,false
+381,SKU-000381,8476220570852,Muslo de pollo El Molinar 500g,11,37,El Molinar,kg,4.00,3.61,0.04,true
+382,SKU-000382,8487354496093,Refresco de cola Buenamesa pack 6,27,41,Buenamesa,pack,3.95,3.47,0.21,true
+383,SKU-000383,8471439968261,Bombilla LED Puente Viejo 21,56,1,Puente Viejo,ud,5.99,4.76,0.21,true
+384,SKU-000384,8477652513141,Detergente líquido Valdehermoso 48,37,30,Valdehermoso,ud,4.99,3.47,0.21,false
+385,SKU-000385,8428932119348,Agua con gas Puente Viejo pack 6,26,20,Puente Viejo,pack,2.75,2.32,0.21,true
+386,SKU-000386,8463781338366,Cuchillas de afeitar Ribera Alta pack 4 69,45,12,Ribera Alta,pack,9.95,8.53,0.21,true
+387,SKU-000387,8462994567310,Vaso de cristal Tierra Nuestra,54,47,Tierra Nuestra,ud,3.95,1.95,0.21,true
+388,SKU-000388,8449277066715,Lentejas Ribera Alta 500g,24,37,Ribera Alta,kg,1.99,1.60,0.10,true
+389,SKU-000389,8490674597784,Salmón fresco Selecta 1kg,12,3,Selecta,kg,11.95,9.89,0.04,true
+390,SKU-000390,8439632148118,Muslo de pollo Los Almendros,11,32,Los Almendros,kg,4.99,4.44,0.04,true
+391,SKU-000391,8430809880749,Huevos frescos M Tierra Nuestra pack 4,16,5,Tierra Nuestra,pack,2.99,2.54,0.04,true
+392,SKU-000392,8470631647592,Patata Puente Viejo 1kg,10,30,Puente Viejo,kg,1.49,1.29,0.04,false
+393,SKU-000393,8420663478756,Pechuga de pollo Tierra Nuestra,11,9,Tierra Nuestra,kg,5.50,5.02,0.04,true
+394,SKU-000394,8487335356019,Vino blanco Rueda Ribera Alta,29,21,Ribera Alta,ud,7.99,6.43,0.21,true
+395,SKU-000395,8493233136967,Miel Buenamesa 62,25,16,Buenamesa,ud,5.25,4.13,0.10,true
+396,SKU-000396,8465477651605,Lejía Buenamesa 2L,38,35,Buenamesa,L,0.99,0.87,0.21,true
+397,SKU-000397,8412834954633,Agua con gas Buenamesa pack 4,26,21,Buenamesa,pack,3.99,3.25,0.21,true
+398,SKU-000398,8439534838582,Pienso para perro Puente Viejo,51,33,Puente Viejo,kg,3.99,3.20,0.21,true
+399,SKU-000399,8473600407579,Avena en copos Monteclaro,21,48,Monteclaro,ud,1.99,1.48,0.10,true
+400,SKU-000400,8452619637474,Zumo de naranja Casa Robles 2L,30,8,Casa Robles,L,2.99,2.59,0.21,true
+401,SKU-000401,8404600382009,Miel Campo Sur,25,34,Campo Sur,ud,3.75,3.07,0.10,true
+402,SKU-000402,8466611314721,Vaso de cristal Selecta,54,32,Selecta,ud,2.99,1.46,0.21,false
+403,SKU-000403,8420255735694,Arena para gato La Almazara,52,23,La Almazara,ud,7.99,5.93,0.21,true
+404,SKU-000404,8482191113820,Frutos secos mezcla Casa Robles,23,47,Casa Robles,ud,4.99,4.53,0.10,false
+405,SKU-000405,8402221697281,Refresco de naranja Tierra Nuestra pack 6,27,34,Tierra Nuestra,pack,4.75,3.89,0.21,true
+406,SKU-000406,8432092388902,Merluza fresca Campo Sur 1kg,12,1,Campo Sur,kg,13.99,12.18,0.04,false
+407,SKU-000407,8455185521925,Bombilla LED Vega Real,56,14,Vega Real,ud,4.95,4.17,0.21,true
+408,SKU-000408,8499699005717,Tónica Campo Sur pack 6,27,5,Campo Sur,pack,4.00,3.45,0.21,true
+409,SKU-000409,8466611713432,Desodorante Ribera Alta,47,6,Ribera Alta,ud,3.99,2.29,0.21,true
+410,SKU-000410,8458747405398,Acondicionador Valdehermoso,43,20,Valdehermoso,ud,2.99,2.43,0.21,true
+411,SKU-000411,8469477803705,Arena para gato Doña Elena,52,8,Doña Elena,ud,3.99,3.32,0.21,true
+412,SKU-000412,8490055554894,Pasta de dientes Valdehermoso,42,20,Valdehermoso,ud,3.99,3.55,0.21,true
+413,SKU-000413,8409979992354,Sal marina Monteclaro 500g,20,20,Monteclaro,kg,1.95,1.61,0.10,true
+414,SKU-000414,8448478960273,Frutos secos mezcla Campo Sur 34,23,47,Campo Sur,ud,4.00,3.39,0.10,false
+415,SKU-000415,8431332676199,Vino blanco Rueda Los Almendros,29,14,Los Almendros,ud,9.50,8.00,0.21,true
+416,SKU-000416,8457342309742,Tónica Selecta pack 12,27,6,Selecta,pack,2.99,2.56,0.21,true
+417,SKU-000417,8415882866903,Agua con gas Monteclaro pack 4,26,6,Monteclaro,pack,1.99,1.80,0.21,true
+418,SKU-000418,8483312493746,Sartén antiadherente Los Almendros,54,37,Los Almendros,ud,10.99,6.90,0.21,true
+419,SKU-000419,8455795923256,Pastillas lavavajillas Buenamesa pack 6,40,25,Buenamesa,pack,8.99,7.01,0.21,true
+420,SKU-000420,8407020600005,Solomillo de cerdo Valdehermoso 500g,11,9,Valdehermoso,kg,13.99,11.93,0.04,true
+421,SKU-000421,8455977788505,Leche de continuación Buenamesa,49,35,Buenamesa,ud,10.49,9.45,0.04,true
+422,SKU-000422,8433956480497,Vino tinto Rioja Sabor de Antaño,29,20,Sabor de Antaño,ud,11.75,9.32,0.21,true
+423,SKU-000423,8488828469025,Champú El Molinar 71,43,34,El Molinar,ud,2.99,2.22,0.21,true
+424,SKU-000424,8431977525630,Maíz dulce Sabor de Antaño,18,9,Sabor de Antaño,ud,1.95,1.67,0.10,true
+425,SKU-000425,8467606196797,Pilas AA Vega Real pack 4,55,32,Vega Real,pack,3.99,2.53,0.21,true
+426,SKU-000426,8487988418133,Garbanzos cocidos Ribera Alta,24,27,Ribera Alta,ud,1.99,1.60,0.10,true
+427,SKU-000427,8462589971423,Vino rosado Navarra Tierra Nuestra,29,6,Tierra Nuestra,ud,6.95,6.04,0.21,true
+428,SKU-000428,8460170000781,Ginebra Campo Sur,32,4,Campo Sur,ud,12.99,8.83,0.21,true
+429,SKU-000429,8418739429962,Pienso para gato Selecta 500g,52,41,Selecta,kg,5.95,5.01,0.21,true
+430,SKU-000430,8409509689464,Suavizante Puente Viejo,37,6,Puente Viejo,ud,4.50,3.84,0.21,true
+431,SKU-000431,8484877499242,Zumo de naranja Casa Robles 2L 86,30,3,Casa Robles,L,2.49,2.12,0.21,true
+432,SKU-000432,8465459027497,Dorada Los Almendros 1kg,12,14,Los Almendros,kg,10.75,9.20,0.04,true
+433,SKU-000433,8406206277734,Huevos frescos M Monteclaro pack 6,16,31,Monteclaro,pack,3.99,2.91,0.04,true
+434,SKU-000434,8409254269775,Gel infantil Doña Elena,50,47,Doña Elena,ud,3.50,2.99,0.04,true
+435,SKU-000435,8418474757191,Refresco de cola Vega Real pack 12,27,20,Vega Real,pack,2.99,2.21,0.21,true
+436,SKU-000436,8465814236267,Huevos camperos L Los Almendros pack 12,16,28,Los Almendros,pack,4.99,3.75,0.04,true
+437,SKU-000437,8411433491457,Rollo de cocina Los Almendros pack 12,39,28,Los Almendros,pack,4.50,3.53,0.21,true
+438,SKU-000438,8499106519882,Bombilla LED Tierra Nuestra 35,56,11,Tierra Nuestra,ud,5.49,4.51,0.21,true
+439,SKU-000439,8432697540774,Suavizante Sabor de Antaño,37,1,Sabor de Antaño,ud,3.75,2.77,0.21,true
+440,SKU-000440,8468013195762,Azúcar blanco Selecta,25,21,Selecta,kg,1.99,1.72,0.10,true
+441,SKU-000441,8482668198473,Pilas AA Campo Sur pack 6,55,25,Campo Sur,pack,6.95,3.91,0.21,true
+442,SKU-000442,8469257125386,Pienso para gato Los Almendros 500g,52,26,Los Almendros,kg,3.00,2.24,0.21,true
+443,SKU-000443,8448065313307,Macarrones Valdehermoso,17,47,Valdehermoso,ud,0.99,0.72,0.10,true
+444,SKU-000444,8421259867077,Refresco de cola Casa Robles pack 12,27,41,Casa Robles,pack,3.99,3.42,0.21,true
+445,SKU-000445,8440294565748,Aceitunas rellenas Vega Real,23,4,Vega Real,ud,1.99,1.76,0.10,true
+446,SKU-000446,8476690220172,Potito de frutas Buenamesa,49,16,Buenamesa,ud,1.25,1.09,0.04,true
+447,SKU-000447,8428814302110,Pan de molde integral Casa Robles,14,31,Casa Robles,ud,2.95,1.97,0.04,false
+448,SKU-000448,8400014072819,Aceite de oliva virgen extra Tierra Nuestra 2L,19,32,Tierra Nuestra,L,6.75,6.20,0.10,true
+449,SKU-000449,8464916705961,Agua con gas El Molinar pack 6,26,26,El Molinar,pack,3.25,2.57,0.21,true
+450,SKU-000450,8474958483727,Rollo de cocina Selecta pack 12,39,31,Selecta,pack,3.99,3.25,0.21,true
+451,SKU-000451,8415111330939,Pizza congelada Monteclaro 86,36,28,Monteclaro,ud,4.99,4.29,0.10,true
+452,SKU-000452,8404452586525,Aceite de oliva virgen extra Los Almendros 2L,19,10,Los Almendros,L,7.95,6.99,0.10,true
+453,SKU-000453,8460356836555,Alimento para pájaros Valdehermoso,53,28,Valdehermoso,ud,4.49,3.41,0.21,true
+454,SKU-000454,8410066648115,Aceitunas rellenas Ribera Alta,23,14,Ribera Alta,ud,1.99,1.59,0.10,true
+455,SKU-000455,8407477800720,Mayonesa La Almazara,20,43,La Almazara,ud,1.99,1.60,0.10,true
+456,SKU-000456,8461907348534,Detergente líquido El Molinar,37,23,El Molinar,ud,8.99,6.75,0.21,true
+457,SKU-000457,8490344678775,Aceite de oliva virgen extra Tierra Nuestra 1.5L,19,18,Tierra Nuestra,L,10.99,8.28,0.10,true
+458,SKU-000458,8472443441016,Lavavajillas a mano Casa Robles,40,49,Casa Robles,ud,1.75,1.38,0.21,true
+459,SKU-000459,8459605779224,Espuma de afeitar Campo Sur,45,20,Campo Sur,ud,2.99,2.52,0.21,true
+460,SKU-000460,8473766566783,Vino rosado Navarra Los Almendros,29,50,Los Almendros,ud,7.99,6.57,0.21,true
+461,SKU-000461,8462174805027,Piña en almíbar Puente Viejo,18,9,Puente Viejo,ud,1.95,1.54,0.10,true
+462,SKU-000462,8438989506633,Vinagre de Jerez Vega Real,19,25,Vega Real,ud,2.49,2.13,0.10,true
+463,SKU-000463,8458013439676,Gel infantil Valdehermoso 78,50,47,Valdehermoso,ud,4.25,3.37,0.04,true
+464,SKU-000464,8454843108218,Compresas Ribera Alta pack 12,46,36,Ribera Alta,pack,2.50,2.01,0.21,true
+465,SKU-000465,8440629677573,Pimentón dulce Valdehermoso,20,12,Valdehermoso,ud,1.99,1.69,0.10,true
+466,SKU-000466,8412857684142,Vaso de cristal Tierra Nuestra 94,54,3,Tierra Nuestra,ud,2.95,1.56,0.21,true
+467,SKU-000467,8400659424592,Pienso para gato Sabor de Antaño 1kg,52,3,Sabor de Antaño,kg,3.25,2.71,0.21,true
+468,SKU-000468,8401155948087,Carne picada mixta Sabor de Antaño 1kg,11,39,Sabor de Antaño,kg,7.95,7.52,0.04,true
+469,SKU-000469,8417266810977,Papel higiénico Selecta pack 4,39,21,Selecta,pack,4.50,3.88,0.21,true
+470,SKU-000470,8498680681510,Vino rosado Navarra Valdehermoso,29,10,Valdehermoso,ud,6.25,5.39,0.21,true
+471,SKU-000471,8480979584077,Yogur natural Vega Real pack 4,15,50,Vega Real,pack,1.99,1.67,0.04,true
+472,SKU-000472,8403539084831,Fideos finos El Molinar,17,10,El Molinar,ud,0.99,0.83,0.10,true
+473,SKU-000473,8420457428943,Alubias blancas La Almazara 61,24,38,La Almazara,ud,1.25,1.07,0.10,true
+474,SKU-000474,8466790940681,Espuma de afeitar Campo Sur 86,45,26,Campo Sur,ud,2.99,2.36,0.21,true
+475,SKU-000475,8437413403951,Patatas fritas Los Almendros,23,47,Los Almendros,ud,2.99,2.30,0.10,true
+476,SKU-000476,8466897855932,Vino tinto Rioja Origen,29,1,Origen,ud,6.99,5.91,0.21,true
+477,SKU-000477,8414952294615,Champú Campo Sur,43,19,Campo Sur,ud,5.00,4.01,0.21,true
+478,SKU-000478,8419282635725,Protector solar Casa Robles,47,9,Casa Robles,ud,15.00,7.92,0.21,true
+479,SKU-000479,8439834228151,Helado de vainilla Campo Sur,35,40,Campo Sur,ud,3.75,3.36,0.10,true
+480,SKU-000480,8494624235658,Sartén antiadherente Monteclaro,54,8,Monteclaro,ud,22.50,13.91,0.21,true
+481,SKU-000481,8456217359950,Tomate pera Casa Robles 1kg,10,33,Casa Robles,kg,1.99,1.79,0.04,true
+482,SKU-000482,8497242968410,Gel infantil Los Almendros 95,50,28,Los Almendros,ud,4.50,3.20,0.04,true
+483,SKU-000483,8443014562485,Menestra congelada La Almazara,33,10,La Almazara,ud,2.99,2.42,0.10,true
+484,SKU-000484,8433394490928,Pan de molde integral Campo Sur,14,40,Campo Sur,ud,1.99,1.41,0.04,true
+485,SKU-000485,8452288343492,Gel infantil La Almazara,50,22,La Almazara,ud,2.99,2.40,0.04,true
+486,SKU-000486,8402642124298,Croissant Campo Sur 83,14,34,Campo Sur,ud,1.75,1.07,0.04,true
+487,SKU-000487,8471943962922,Merluza fresca El Molinar 1kg,12,15,El Molinar,kg,10.49,8.66,0.04,true
+488,SKU-000488,8484706230848,Rollo de cocina Vega Real pack 12,39,3,Vega Real,pack,2.49,2.09,0.21,true
+489,SKU-000489,8489879493915,Potito de frutas Valdehermoso,49,39,Valdehermoso,ud,1.00,0.77,0.04,true
+490,SKU-000490,8452535299954,Alimento para pájaros Tierra Nuestra,53,8,Tierra Nuestra,ud,4.99,3.90,0.21,true
+491,SKU-000491,8415871206062,Helado de vainilla Ribera Alta,35,39,Ribera Alta,ud,5.99,5.08,0.10,true
+492,SKU-000492,8430242143661,Desodorante Monteclaro 63,47,15,Monteclaro,ud,3.00,1.44,0.21,true
+493,SKU-000493,8444650215797,Cuchillas de afeitar Monteclaro pack 4,45,23,Monteclaro,pack,9.99,7.74,0.21,true
+494,SKU-000494,8457400898904,Protector solar Sabor de Antaño,47,16,Sabor de Antaño,ud,10.25,6.82,0.21,true
+495,SKU-000495,8414726755038,Protector solar Puente Viejo,47,5,Puente Viejo,ud,14.95,9.77,0.21,true
+496,SKU-000496,8423446202289,Vinagre de Jerez Sabor de Antaño,19,26,Sabor de Antaño,ud,3.50,2.93,0.10,true
+497,SKU-000497,8454139103460,Tomate triturado Vega Real,18,49,Vega Real,ud,1.99,1.78,0.10,true
+498,SKU-000498,8488951666254,Fregasuelos Los Almendros 4,38,9,Los Almendros,ud,2.99,2.60,0.21,true
+499,SKU-000499,8440704353125,Macarrones Vega Real,17,33,Vega Real,ud,1.99,1.53,0.10,true
+500,SKU-000500,8468322819649,Alubias blancas Buenamesa,24,34,Buenamesa,ud,1.95,1.53,0.10,true
+501,SKU-000501,8466848183763,Leche semidesnatada Origen 1L,15,30,Origen,L,0.99,0.83,0.04,true
+502,SKU-000502,8492956095841,Langostinos congelados Buenamesa 61,34,43,Buenamesa,ud,9.00,7.00,0.10,true
+503,SKU-000503,8455905015000,Cereales de desayuno Selecta,21,43,Selecta,ud,3.99,2.82,0.10,true
+504,SKU-000504,8434195731364,Avena en copos Ribera Alta 23,21,9,Ribera Alta,ud,2.49,2.06,0.10,true
+505,SKU-000505,8433891071071,Tónica Buenamesa pack 12,27,25,Buenamesa,pack,3.95,3.39,0.21,true
+506,SKU-000506,8468174789480,Lavavajillas a mano Origen 49,40,13,Origen,ud,2.99,2.43,0.21,true
+507,SKU-000507,8478987607819,Detergente líquido Origen,37,20,Origen,ud,8.95,7.67,0.21,true
+508,SKU-000508,8419418440858,Vino blanco Rueda Casa Robles 61,29,13,Casa Robles,ud,10.99,9.73,0.21,true
+509,SKU-000509,8430006618138,Toallitas infantiles La Almazara pack 4,48,29,La Almazara,pack,2.99,2.50,0.04,false
+510,SKU-000510,8417740904291,Desodorante La Almazara,47,34,La Almazara,ud,3.99,2.62,0.21,true
+511,SKU-000511,8425061861261,Guisantes congelados Doña Elena,33,9,Doña Elena,ud,1.99,1.89,0.10,true
+512,SKU-000512,8455939452994,Salchichón Los Almendros,13,27,Los Almendros,ud,2.49,2.05,0.04,true
+513,SKU-000513,8437523037343,Croissant Sabor de Antaño,14,16,Sabor de Antaño,ud,0.99,0.56,0.04,true
+514,SKU-000514,8446714970710,Cebolla Doña Elena 500g,10,40,Doña Elena,kg,1.99,1.70,0.04,true
+515,SKU-000515,8497460790343,Magdalenas Puente Viejo pack 6,14,37,Puente Viejo,pack,2.99,1.88,0.04,true
+516,SKU-000516,8478617551239,Tomate pera Puente Viejo 1kg,10,4,Puente Viejo,kg,1.99,1.81,0.04,true
+517,SKU-000517,8459382511420,Pienso para gato Los Almendros,52,34,Los Almendros,kg,3.99,3.19,0.21,true
+518,SKU-000518,8404342168268,Queso fresco batido Casa Robles,15,19,Casa Robles,ud,2.95,2.36,0.04,true
+519,SKU-000519,8497518644451,Patatas fritas Vega Real,23,9,Vega Real,ud,2.95,2.51,0.10,true
+520,SKU-000520,8480275994365,Aceite de girasol Los Almendros 1L,19,31,Los Almendros,L,2.99,2.74,0.10,true
+521,SKU-000521,8402156489319,Crema hidratante Monteclaro,44,36,Monteclaro,ud,5.99,4.76,0.21,true
+522,SKU-000522,8400009908604,Tónica Vega Real pack 6,27,8,Vega Real,pack,5.99,4.73,0.21,true
+523,SKU-000523,8407605456560,Polos de hielo Tierra Nuestra pack 4,35,38,Tierra Nuestra,pack,3.49,3.03,0.10,true
+524,SKU-000524,8460937725957,Pienso para perro Valdehermoso 1kg,51,40,Valdehermoso,kg,2.99,2.24,0.21,true
+525,SKU-000525,8437348485916,Huevos frescos M Casa Robles pack 6,16,28,Casa Robles,pack,2.99,2.23,0.04,true
+526,SKU-000526,8425080696523,Pienso para gato Selecta 500g 57,52,37,Selecta,kg,4.49,3.41,0.21,true
+527,SKU-000527,8463440038545,Desodorante Selecta,47,20,Selecta,ud,2.99,1.70,0.21,true
+528,SKU-000528,8435700216079,Pimentón dulce Puente Viejo,20,5,Puente Viejo,ud,2.99,2.43,0.10,true
+529,SKU-000529,8409289335155,Miel Origen,25,5,Origen,ud,5.49,3.83,0.10,true
+530,SKU-000530,8422944050149,Leche de continuación Casa Robles 78,49,36,Casa Robles,ud,11.95,9.31,0.04,true
+531,SKU-000531,8474539616179,Azúcar blanco Valdehermoso 500g,25,21,Valdehermoso,kg,1.99,1.71,0.10,true
+532,SKU-000532,8462122602494,Infusión manzanilla Casa Robles 76,31,50,Casa Robles,ud,2.95,2.27,0.21,true
+533,SKU-000533,8479947401027,Insecticida volador Valdehermoso 99,41,29,Valdehermoso,ud,6.75,5.10,0.21,true
+534,SKU-000534,8431659469665,Gambas cocidas Puente Viejo 1kg,12,27,Puente Viejo,kg,12.49,10.50,0.04,true
+535,SKU-000535,8457558840954,Helado de vainilla Vega Real,35,47,Vega Real,ud,4.50,3.72,0.10,true
+536,SKU-000536,8447668408342,Acondicionador Buenamesa,43,6,Buenamesa,ud,3.25,2.69,0.21,true
+537,SKU-000537,8417570823557,Champú Tierra Nuestra,43,49,Tierra Nuestra,ud,5.95,4.89,0.21,true
+538,SKU-000538,8465913832261,Agua mineral Monteclaro pack 6,26,47,Monteclaro,pack,2.00,1.61,0.21,true
+539,SKU-000539,8463501880922,Cerveza rubia Selecta pack 4,28,26,Selecta,pack,4.50,4.13,0.21,true
+540,SKU-000540,8464146694103,Cuchillas de afeitar Campo Sur pack 6,45,16,Campo Sur,pack,8.99,6.89,0.21,false
+541,SKU-000541,8452124482842,Detergente líquido Vega Real 53,37,34,Vega Real,ud,5.95,4.90,0.21,true
+542,SKU-000542,8432093395794,Detergente líquido Monteclaro,37,47,Monteclaro,ud,9.99,8.18,0.21,true
+543,SKU-000543,8477927834469,Snacks para perro Buenamesa,51,38,Buenamesa,ud,1.99,1.61,0.21,true
+544,SKU-000544,8434916336267,Bombilla LED Doña Elena 32,56,1,Doña Elena,ud,3.99,3.27,0.21,true
+545,SKU-000545,8430733188652,Insecticida volador Buenamesa,41,40,Buenamesa,ud,5.95,4.67,0.21,true
+546,SKU-000546,8485769206535,Jamón serrano lonchas Campo Sur,13,11,Campo Sur,ud,2.99,2.38,0.04,true
+547,SKU-000547,8476856591306,Jamón serrano lonchas Selecta,13,8,Selecta,ud,5.95,4.47,0.04,true
+548,SKU-000548,8459127629113,Agua con gas Sabor de Antaño pack 6,26,26,Sabor de Antaño,pack,3.49,2.91,0.21,false
+549,SKU-000549,8426668010687,Bombilla LED Casa Robles 10,56,15,Casa Robles,ud,6.99,6.40,0.21,true
+550,SKU-000550,8494215529227,Pavo en lonchas Los Almendros 54,13,35,Los Almendros,ud,3.95,3.13,0.04,true
+551,SKU-000551,8440364987043,Bombilla LED Valdehermoso 42,56,6,Valdehermoso,ud,3.50,2.91,0.21,true
+552,SKU-000552,8489838740616,Toallitas infantiles El Molinar pack 4,48,36,El Molinar,pack,2.50,2.01,0.04,true
+553,SKU-000553,8489452679347,Queso curado cuña Ribera Alta,13,50,Ribera Alta,ud,7.99,6.55,0.04,true
+554,SKU-000554,8422681852716,Insecticida volador Campo Sur,41,11,Campo Sur,ud,4.49,3.91,0.21,true
+555,SKU-000555,8427994235423,Magdalenas La Almazara pack 12,14,31,La Almazara,pack,1.99,1.12,0.04,true
+556,SKU-000556,8441986696597,Pizza congelada Vega Real,36,23,Vega Real,ud,2.95,2.59,0.10,true
+557,SKU-000557,8413950044130,Frutos secos mezcla Sabor de Antaño,23,49,Sabor de Antaño,ud,4.99,4.55,0.10,true
+558,SKU-000558,8485754100947,Aceite de girasol Campo Sur 2L,19,25,Campo Sur,L,2.49,2.23,0.10,true
+559,SKU-000559,8493009482656,Frutos secos mezcla Monteclaro,23,18,Monteclaro,ud,4.99,4.25,0.10,true
+560,SKU-000560,8426662078966,Vino rosado Navarra Los Almendros 73,29,3,Los Almendros,ud,7.95,6.27,0.21,true
+561,SKU-000561,8427758790953,Pienso para perro Selecta 500g,51,27,Selecta,kg,4.00,3.46,0.21,true
+562,SKU-000562,8433689797954,Suavizante La Almazara 17,37,49,La Almazara,ud,3.95,3.52,0.21,true
+563,SKU-000563,8451674739413,Bombilla LED El Molinar 17,56,1,El Molinar,ud,7.95,6.29,0.21,true
+564,SKU-000564,8452181976308,Leche de continuación Ribera Alta,49,36,Ribera Alta,ud,16.95,13.19,0.04,true
+565,SKU-000565,8424428569178,Ginebra Campo Sur 5,32,8,Campo Sur,ud,22.99,15.95,0.21,true
+566,SKU-000566,8437953083071,Toallitas infantiles Vega Real pack 4,48,43,Vega Real,pack,1.95,1.47,0.04,true
+567,SKU-000567,8407868752690,Pimentón dulce Selecta,20,31,Selecta,ud,1.49,1.32,0.10,true
+568,SKU-000568,8480511034114,Huevos frescos M Valdehermoso pack 4,16,29,Valdehermoso,pack,2.99,2.15,0.04,true
+569,SKU-000569,8450542929840,Cerveza sin alcohol Origen pack 4,28,25,Origen,pack,2.95,2.50,0.21,true
+570,SKU-000570,8452856825276,Pimentón dulce Valdehermoso 99,20,31,Valdehermoso,ud,1.99,1.69,0.10,true
+571,SKU-000571,8408847897715,Protector solar Origen,47,48,Origen,ud,11.99,7.29,0.21,true
+572,SKU-000572,8415077175902,Snacks para perro Selecta,51,31,Selecta,ud,2.49,2.01,0.21,true
+573,SKU-000573,8491478000685,Piña en almíbar Casa Robles,18,36,Casa Robles,ud,2.00,1.74,0.10,true
+574,SKU-000574,8435519108039,Ron añejo Sabor de Antaño 8,32,40,Sabor de Antaño,ud,10.00,5.43,0.21,true
+575,SKU-000575,8452074663285,Detergente líquido Buenamesa 5,37,4,Buenamesa,ud,8.99,6.88,0.21,true
+576,SKU-000576,8443542390222,Polos de hielo Casa Robles pack 6,35,48,Casa Robles,pack,2.99,2.17,0.10,true
+577,SKU-000577,8467051508558,Snacks para perro La Almazara 70,51,50,La Almazara,ud,2.50,2.18,0.21,false
+578,SKU-000578,8469975515599,Patatas fritas Buenamesa,23,26,Buenamesa,ud,1.99,1.81,0.10,true
+579,SKU-000579,8454165528985,Aceite de girasol Valdehermoso 1L,19,43,Valdehermoso,L,2.49,2.15,0.10,true
+580,SKU-000580,8465325794775,Aceite de oliva virgen extra Campo Sur 1L,19,10,Campo Sur,L,6.50,5.44,0.10,true
+581,SKU-000581,8422804000512,Langostinos congelados Los Almendros,34,11,Los Almendros,ud,7.99,6.94,0.10,true
+582,SKU-000582,8415289261394,Ginebra Valdehermoso 49,32,43,Valdehermoso,ud,22.99,15.36,0.21,true
+583,SKU-000583,8458656851323,Vaso de cristal Tierra Nuestra 52,54,39,Tierra Nuestra,ud,2.99,2.00,0.21,false
+584,SKU-000584,8402903188021,Ginebra La Almazara,32,3,La Almazara,ud,19.95,10.95,0.21,true
+585,SKU-000585,8403576347425,Pienso para perro Valdehermoso,51,20,Valdehermoso,kg,1.95,1.61,0.21,false
+586,SKU-000586,8466062139942,Vino tinto Rioja Sabor de Antaño 78,29,37,Sabor de Antaño,ud,6.00,4.65,0.21,true
+587,SKU-000587,8402507035479,Suavizante Valdehermoso 66,37,4,Valdehermoso,ud,3.99,3.12,0.21,true
+588,SKU-000588,8448926792586,Cerveza sin alcohol Los Almendros pack 6,28,5,Los Almendros,pack,5.25,4.41,0.21,true
+589,SKU-000589,8495452121168,Filete de ternera Sabor de Antaño,11,19,Sabor de Antaño,kg,11.99,10.41,0.04,true
+590,SKU-000590,8464377875340,Langostinos congelados Selecta,34,40,Selecta,ud,11.49,10.47,0.10,true
+591,SKU-000591,8496959973656,Alimento para pájaros Doña Elena,53,15,Doña Elena,ud,2.49,2.05,0.21,true
+592,SKU-000592,8420206651745,Chapata Valdehermoso,14,23,Valdehermoso,ud,1.50,0.98,0.04,true
+593,SKU-000593,8460594232720,Alimento para pájaros Sabor de Antaño,53,1,Sabor de Antaño,ud,4.25,3.29,0.21,true
+594,SKU-000594,8459914276438,Merluza fresca La Almazara 500g,12,9,La Almazara,kg,10.99,10.10,0.04,true
+595,SKU-000595,8421628204779,Mayonesa Origen,20,8,Origen,ud,2.49,1.95,0.10,true
+596,SKU-000596,8476363422216,Cerveza rubia Vega Real pack 12,28,12,Vega Real,pack,5.95,5.04,0.21,true
+597,SKU-000597,8456098949943,Refresco de cola Monteclaro pack 6,27,35,Monteclaro,pack,3.75,3.31,0.21,true
+598,SKU-000598,8446939477810,Sartén antiadherente Monteclaro 85,54,41,Monteclaro,ud,23.99,10.28,0.21,true
+599,SKU-000599,8401499930533,Aceite de oliva virgen extra Monteclaro 1L,19,19,Monteclaro,L,8.00,6.63,0.10,true
+600,SKU-000600,8425388757032,Bolsas de basura El Molinar pack 4,55,29,El Molinar,pack,2.00,0.92,0.21,true

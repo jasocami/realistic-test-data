@@ -1,0 +1,9 @@
+id,code,name,format,city,province,address,postal_code,phone,floor_area_sqm,opened_at
+1,STO-0001,Express El Molinar A Coruña,Express,A Coruña,A Coruña,"Calle de Rosalía de Castro, 149, 7º Dcha.",15041,+34 981 477 049,360,2006-07-16
+2,STO-0002,Express La Almazara Valencia,Express,Valencia,Valencia,"Carrer de Extremadura, 76, 3º D",46019,+34 962 551 415,378,2010-08-16
+3,STO-0003,Hipermercado Los Almendros Melilla,Hipermercado,Melilla,Melilla,"Calle Goya, 93",52013,+34 952 661 003,5192,2020-08-05
+4,STO-0004,Supermercado El Molinar Granada,Supermercado,Granada,Granada,"Paseo de las Flores, 158",18030,+34 958 243 049,1018,2018-08-27
+5,STO-0005,Express Origen Valladolid,Express,Valladolid,Valladolid,"Calle de Antonio Machado, 92",47024,+34 983 716 634,248,2021-06-20
+6,STO-0006,Supermercado Tierra Nuestra Madrid,Supermercado,Madrid,Madrid,"Calle Goya, 96, 7º B",28019,+34 915 195 855,1615,2003-03-03
+7,STO-0007,Supermercado La Almazara Palma,Supermercado,Palma,Baleares,"Calle de San Juan, 10, 1º D",07035,+34 971 113 299,1539,2021-12-18
+8,STO-0008,Express Los Almendros Girona,Express,Girona,Girona,"Carrer de la Constitución, 26, 9º Dcha.",17031,+34 972 601 333,375,2020-08-07
