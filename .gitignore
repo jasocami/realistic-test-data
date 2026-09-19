@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Environments.
+# This project uses pyenv (see .python-version), not a local virtualenv
+# directory -- but ignore the common ones anyway so a stray one never gets
+# committed by accident.
+.venv/
+venv/
+env/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Scratch space for anything you generate locally at a larger scale,
+# e.g. `python build.py --scale 100 --out scratch/`
+scratch/
+*.local.*
