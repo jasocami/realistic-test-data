@@ -1,0 +1,157 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/clinical/hospitals.schema.json",
+  "title": "clinical/hospitals",
+  "description": "One row per hospital site. The physical sites in this dataset. Everything else in the clinical topic ultimately hangs off a hospital: departments belong to one, doctors work at one, and appointments take place at one.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1. This is the column everything else joins against.",
+        "examples": [
+          1
+        ]
+      },
+      "name": {
+        "type": "string",
+        "description": "The hospital's name, following real Spanish naming conventions -- a religious dedication, the city it serves, or a role descriptor such as Universitario or Comarcal. The dedications are invented, so no row names an existing institution.",
+        "examples": [
+          "Hospital Universitario San Anselmo"
+        ]
+      },
+      "type": {
+        "type": "string",
+        "enum": [
+          "Children's",
+          "Community",
+          "General",
+          "Specialist",
+          "Teaching"
+        ],
+        "description": "What kind of hospital this is. Teaching hospitals are attached to a medical school and tend to be larger; Specialist sites cover a single discipline.",
+        "examples": [
+          "General"
+        ]
+      },
+      "city": {
+        "type": "string",
+        "description": "Spanish city the hospital is located in. These are real municipalities, weighted by population, so geocoding and mapping integrations work against them.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "province": {
+        "type": "string",
+        "enum": [
+          "A Coruña",
+          "Albacete",
+          "Alicante",
+          "Almería",
+          "Asturias",
+          "Badajoz",
+          "Baleares",
+          "Barcelona",
+          "Bizkaia",
+          "Burgos",
+          "Cantabria",
+          "Castellón",
+          "Ceuta",
+          "Ciudad Real",
+          "Cuenca",
+          "Cáceres",
+          "Cádiz",
+          "Córdoba",
+          "Gipuzkoa",
+          "Girona",
+          "Granada",
+          "Guadalajara",
+          "Huelva",
+          "Huesca",
+          "Jaén",
+          "La Rioja",
+          "Las Palmas",
+          "León",
+          "Lleida",
+          "Lugo",
+          "Madrid",
+          "Melilla",
+          "Murcia",
+          "Málaga",
+          "Navarra",
+          "Ourense",
+          "Palencia",
+          "Pontevedra",
+          "Salamanca",
+          "Santa Cruz de Tenerife",
+          "Segovia",
+          "Sevilla",
+          "Soria",
+          "Tarragona",
+          "Teruel",
+          "Toledo",
+          "Valencia",
+          "Valladolid",
+          "Zamora",
+          "Zaragoza",
+          "Álava",
+          "Ávila"
+        ],
+        "description": "The province the city belongs to. Always consistent with the first two digits of the postal code, since both are derived from the same choice of city.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "address": {
+        "type": "string",
+        "description": "Street address in Spanish format, with the number after the street name. Invented -- the street and number combination is not a real building.",
+        "examples": [
+          "Avenida de la Constitución, 47"
+        ]
+      },
+      "postal_code": {
+        "type": "string",
+        "pattern": "^\\d{5}$",
+        "description": "Spanish postal code. The first two digits are the province code (28 Madrid, 08 Barcelona, 41 Sevilla), so this always agrees with the province column.",
+        "examples": [
+          "41001"
+        ]
+      },
+      "phone": {
+        "type": "string",
+        "description": "Switchboard number in Spanish format. The dialling prefix matches the province -- 91 Madrid, 93 Barcelona, 954 Sevilla -- so the number agrees with the address beside it.",
+        "examples": [
+          "+34 954 21 08 33"
+        ]
+      },
+      "beds": {
+        "type": "integer",
+        "description": "Inpatient bed capacity, between 40 and 900 and correlated with hospital type -- teaching hospitals are the largest, community hospitals the smallest.",
+        "examples": [
+          420
+        ]
+      },
+      "founded": {
+        "type": "integer",
+        "description": "Calendar year the site first opened to patients, spread between 1890 and 2015. Older sites tend to be the larger General and Teaching hospitals.",
+        "examples": [
+          1962
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "type",
+      "city",
+      "province",
+      "address",
+      "postal_code",
+      "phone",
+      "beds",
+      "founded"
+    ],
+    "additionalProperties": false
+  }
+}

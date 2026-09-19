@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/education/grades.schema.json",
+  "title": "education/grades",
+  "description": "One row per assessment component of one enrolment. The individual marks that make up a final grade: exams, coursework, practicals and participation. The weights within one enrolment always sum to exactly 1.00.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "enrollment_id": {
+        "type": "integer",
+        "description": "Which enrolment this mark belongs to. Grouping by this column and summing score times weight reproduces the enrolment's final grade.",
+        "examples": [
+          42
+        ]
+      },
+      "assessment_type": {
+        "type": "string",
+        "enum": [
+          "coursework",
+          "exam",
+          "participation",
+          "practical"
+        ],
+        "description": "What was assessed. Exams carry the heaviest weight, participation the lightest, which is how a Spanish secondary course is typically structured.",
+        "examples": [
+          "exam"
+        ]
+      },
+      "title": {
+        "type": "string",
+        "description": "Name of the assessment as the pupil would see it, usually naming the term it belonged to -- Spanish courses run in three trimesters.",
+        "examples": [
+          "Examen 2º trimestre"
+        ]
+      },
+      "score": {
+        "type": "number",
+        "description": "Mark awarded on the Spanish 0-10 scale, to one decimal place, where 5 is a pass.",
+        "examples": [
+          7.8
+        ]
+      },
+      "weight": {
+        "type": "number",
+        "description": "How much this component contributes to the final grade. All the weights within one enrolment sum to exactly 1.00, which CI verifies.",
+        "examples": [
+          0.4
+        ]
+      },
+      "graded_on": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the mark was recorded, always during the academic year the course ran in.",
+        "examples": [
+          "2025-03-21"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "enrollment_id",
+      "assessment_type",
+      "title",
+      "score",
+      "weight",
+      "graded_on"
+    ],
+    "additionalProperties": false
+  }
+}

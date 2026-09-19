@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/clinical/departments.schema.json",
+  "title": "clinical/departments",
+  "description": "One row per clinical department within one hospital. Departments divide a hospital into clinical specialties. The same department name appears at many hospitals -- 'Cardiology' exists at most of them -- so a department is identified by the pair (hospital_id, name), not by name alone.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "hospital_id": {
+        "type": "integer",
+        "description": "The hospital this department belongs to. Every department belongs to exactly one site.",
+        "examples": [
+          1
+        ]
+      },
+      "name": {
+        "type": "string",
+        "enum": [
+          "Cardiology",
+          "Dermatology",
+          "Emergency",
+          "General Surgery",
+          "Internal Medicine",
+          "Neurology",
+          "Obstetrics & Gynaecology",
+          "Oncology",
+          "Orthopaedics",
+          "Paediatrics",
+          "Psychiatry",
+          "Radiology"
+        ],
+        "description": "Department name, drawn from a fixed list of twelve clinical specialties so that the same names recur across hospitals and can be grouped.",
+        "examples": [
+          "Cardiology"
+        ]
+      },
+      "floor": {
+        "type": "integer",
+        "description": "Which floor of the building the department occupies, from 0 (ground) to 8.",
+        "examples": [
+          3
+        ]
+      },
+      "phone_extension": {
+        "type": "string",
+        "description": "Internal four-digit extension. Not dialable from outside; this is the number staff would use.",
+        "examples": [
+          "4417"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "hospital_id",
+      "name",
+      "floor",
+      "phone_extension"
+    ],
+    "additionalProperties": false
+  }
+}

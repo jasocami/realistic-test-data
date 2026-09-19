@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/finance/transactions.schema.json",
+  "title": "finance/transactions",
+  "description": "One row per movement on one account. The account ledger, and the largest table in the topic. Every row carries the balance immediately after it, and those balances form an unbroken running total per account.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1 and ordered by time across the whole table.",
+        "examples": [
+          1
+        ]
+      },
+      "account_id": {
+        "type": "integer",
+        "description": "Which account moved. Ordering this table by account and then by timestamp reconstructs a statement.",
+        "examples": [
+          42
+        ]
+      },
+      "merchant_id": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "description": "Where the money went, for card payments. Empty for transfers, salary, fees and interest, which have no merchant -- about 48% of rows.",
+        "examples": [
+          17
+        ]
+      },
+      "type": {
+        "type": "string",
+        "enum": [
+          "atm_withdrawal",
+          "card_payment",
+          "direct_debit",
+          "fee",
+          "interest",
+          "salary",
+          "transfer_in",
+          "transfer_out"
+        ],
+        "description": "What kind of movement this is. Card payments dominate, as they do on a real current account, with direct debits and transfers behind them.",
+        "examples": [
+          "card_payment"
+        ]
+      },
+      "amount": {
+        "type": "number",
+        "description": "Value in euros, signed: negative for money leaving the account and positive for money arriving. Adding this to the previous balance gives balance_after exactly.",
+        "examples": [
+          -42.18
+        ]
+      },
+      "balance_after": {
+        "type": "number",
+        "description": "The account balance immediately after this movement settled. Walking an account's transactions in time order gives an unbroken running total -- asserted in CI rather than assumed.",
+        "examples": [
+          2418.77
+        ]
+      },
+      "description": {
+        "type": "string",
+        "description": "The narrative as it appears on a statement, in the upper-case shorthand Spanish banks really print.",
+        "examples": [
+          "COMPRA SUPERMERCADO LA PLAZA"
+        ]
+      },
+      "occurred_at": {
+        "type": "string",
+        "format": "date-time",
+        "description": "When the movement was recorded. Card payments cluster around lunchtime and the evening; salary and direct debits land on predictable days of the month.",
+        "examples": [
+          "2025-03-14T18:42:00"
+        ]
+      },
+      "is_foreign": {
+        "type": "boolean",
+        "description": "Whether the merchant was outside Spain, which is what triggers a currency-conversion fee in a real account. True for about 9% of card payments.",
+        "examples": [
+          false
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "account_id",
+      "type",
+      "amount",
+      "balance_after",
+      "description",
+      "occurred_at",
+      "is_foreign"
+    ],
+    "additionalProperties": false
+  }
+}

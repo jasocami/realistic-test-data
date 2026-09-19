@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/education/enrollments.schema.json",
+  "title": "education/enrollments",
+  "description": "One row per pupil enrolled on one course. Which pupils take which courses, and how they did. The final grade here is exactly the weighted sum of that enrolment's rows in the grades table.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "student_id": {
+        "type": "integer",
+        "description": "Who is enrolled. A pupil takes several courses in a year, so this column is far from unique.",
+        "examples": [
+          42
+        ]
+      },
+      "course_id": {
+        "type": "integer",
+        "description": "Which course. Always one at the pupil's own school and matching their stage and year level.",
+        "examples": [
+          7
+        ]
+      },
+      "enrolled_on": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the enrolment began, always in the September the academic year started.",
+        "examples": [
+          "2024-09-09"
+        ]
+      },
+      "status": {
+        "type": "string",
+        "enum": [
+          "completed",
+          "in_progress",
+          "repeated",
+          "withdrawn"
+        ],
+        "description": "How the enrolment ended. Withdrawn pupils left part way through; 'repeated' marks a pupil retaking a year, which Spanish schools do more often than most European systems.",
+        "examples": [
+          "completed"
+        ]
+      },
+      "final_grade": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "description": "Final mark on the Spanish 0-10 scale, where 5 is a pass. Exactly the weighted sum of this enrolment's assessment rows in the grades table, rounded to two decimals. Empty while a course is still in progress.",
+        "examples": [
+          7.4
+        ]
+      },
+      "grade_band": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "enum": [
+          "Suspenso",
+          "Aprobado",
+          "Bien",
+          "Notable",
+          "Sobresaliente"
+        ],
+        "description": "The named band the final grade falls into, as printed on a Spanish report card: Suspenso below 5, then Aprobado, Bien, Notable and Sobresaliente. Derived from final_grade, so the two always agree.",
+        "examples": [
+          "Notable"
+        ]
+      },
+      "attendance_rate": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "description": "Proportion of recorded sessions the pupil attended, computed from their rows in the attendance table. Empty where no attendance was recorded. This is the column that correlates with final_grade.",
+        "examples": [
+          0.92
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "student_id",
+      "course_id",
+      "enrolled_on",
+      "status"
+    ],
+    "additionalProperties": false
+  }
+}

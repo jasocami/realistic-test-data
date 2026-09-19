@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/clinical/diagnoses.schema.json",
+  "title": "clinical/diagnoses",
+  "description": "One row per diagnosis recorded at one completed appointment. Conditions recorded against a patient, coded with real ICD-10 codes. Only completed appointments produce diagnoses -- a cancelled visit cannot diagnose anything, which is a rule worth testing joins against.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "patient_id": {
+        "type": "integer",
+        "description": "The patient diagnosed. Denormalised from the appointment so you can count diagnoses per patient without a second join.",
+        "examples": [
+          42
+        ]
+      },
+      "appointment_id": {
+        "type": "integer",
+        "description": "The appointment at which this diagnosis was recorded. Always an appointment whose status is 'completed'.",
+        "examples": [
+          88
+        ]
+      },
+      "icd10_code": {
+        "type": "string",
+        "description": "The diagnosis code. These are genuine ICD-10 codes from the WHO's public classification, so you can look any of them up in an ICD browser and get the same description that appears in the next column.",
+        "examples": [
+          "E11.9"
+        ]
+      },
+      "description": {
+        "type": "string",
+        "description": "The official ICD-10 description for the code. Stored alongside rather than looked up, which is what most real clinical systems do so that a historical record keeps its original wording when the code set is revised.",
+        "examples": [
+          "Type 2 diabetes mellitus without complications"
+        ]
+      },
+      "severity": {
+        "type": "string",
+        "enum": [
+          "mild",
+          "moderate",
+          "severe"
+        ],
+        "description": "Clinical severity. Weighted towards mild and moderate, as a real outpatient caseload is.",
+        "examples": [
+          "moderate"
+        ]
+      },
+      "diagnosed_at": {
+        "type": "string",
+        "format": "date",
+        "description": "Date of diagnosis. Always the same date as the referenced appointment.",
+        "examples": [
+          "2024-06-14"
+        ]
+      },
+      "is_chronic": {
+        "type": "boolean",
+        "description": "Whether this is an ongoing condition rather than an acute episode. Derived from the code: diabetes and hypertension are chronic, a fracture is not.",
+        "examples": [
+          true
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "patient_id",
+      "appointment_id",
+      "icd10_code",
+      "description",
+      "severity",
+      "diagnosed_at",
+      "is_chronic"
+    ],
+    "additionalProperties": false
+  }
+}

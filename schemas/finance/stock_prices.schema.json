@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/finance/stock_prices.schema.json",
+  "title": "finance/stock_prices",
+  "description": "One row per ticker per trading day. Daily open-high-low-close price history for ten fictional listed companies. Prices follow a geometric random walk, so a chart of them has the texture of a real price series rather than of noise.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "ticker": {
+        "type": "string",
+        "description": "Exchange symbol for the company. All ten are invented, deliberately, so this cannot be mistaken for real market history.",
+        "examples": [
+          "MRDN"
+        ]
+      },
+      "company_name": {
+        "type": "string",
+        "description": "Full company name behind the ticker, stored alongside so the series is readable without a lookup.",
+        "examples": [
+          "Meridiano Industrial"
+        ]
+      },
+      "trade_date": {
+        "type": "string",
+        "format": "date",
+        "description": "The trading day. Weekends are excluded, because exchanges do not open on them -- which is exactly the gap a naive date axis gets wrong.",
+        "examples": [
+          "2025-03-14"
+        ]
+      },
+      "open_price": {
+        "type": "number",
+        "description": "Price at the opening bell, always the previous close plus a small overnight gap.",
+        "examples": [
+          42.5
+        ]
+      },
+      "high_price": {
+        "type": "number",
+        "description": "Highest price traded that day. Always greater than or equal to both the open and the close -- a rule that holds in every row and is asserted in CI.",
+        "examples": [
+          43.18
+        ]
+      },
+      "low_price": {
+        "type": "number",
+        "description": "Lowest price traded that day. Always less than or equal to both the open and the close.",
+        "examples": [
+          42.01
+        ]
+      },
+      "close_price": {
+        "type": "number",
+        "description": "Price at the closing bell, and the basis for the next day's open. This is the column to chart.",
+        "examples": [
+          42.94
+        ]
+      },
+      "volume": {
+        "type": "integer",
+        "description": "Shares traded that day. Spikes on days with large price moves, because volume and volatility really do go together.",
+        "examples": [
+          482150
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "ticker",
+      "company_name",
+      "trade_date",
+      "open_price",
+      "high_price",
+      "low_price",
+      "close_price",
+      "volume"
+    ],
+    "additionalProperties": false
+  }
+}

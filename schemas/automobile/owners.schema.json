@@ -1,0 +1,145 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/automobile/owners.schema.json",
+  "title": "automobile/owners",
+  "description": "One row per person who has owned a vehicle. Registered keepers. A person may own several vehicles over time and a vehicle passes through several owners, so the many-to-many relationship between them lives in ownership_history.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "full_name": {
+        "type": "string",
+        "description": "Spanish name carrying both surnames, the father's then the mother's, as they appear on a vehicle registration document.",
+        "examples": [
+          "Javier Moreno Ortega"
+        ]
+      },
+      "national_id": {
+        "type": "string",
+        "pattern": "^\\d{8}[A-Z]$",
+        "description": "Spanish DNI, eight digits plus a check letter derived modulo 23. Structurally valid so it passes a real validator, and registered to nobody.",
+        "examples": [
+          "12345678Z"
+        ]
+      },
+      "licence_number": {
+        "type": "string",
+        "pattern": "^ES-\\d{8}$",
+        "description": "Driving licence reference in an invented format that deliberately does not match the real Spanish DGT numbering scheme.",
+        "examples": [
+          "ES-00041273"
+        ]
+      },
+      "birth_date": {
+        "type": "string",
+        "format": "date",
+        "description": "Date of birth. Owners are between 18 and 88, since nobody younger can hold a licence.",
+        "examples": [
+          "1982-09-14"
+        ]
+      },
+      "city": {
+        "type": "string",
+        "description": "Spanish city of residence, which determines where the vehicle is usually registered.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "province": {
+        "type": "string",
+        "enum": [
+          "A Coruña",
+          "Albacete",
+          "Alicante",
+          "Almería",
+          "Asturias",
+          "Badajoz",
+          "Baleares",
+          "Barcelona",
+          "Bizkaia",
+          "Burgos",
+          "Cantabria",
+          "Castellón",
+          "Ceuta",
+          "Ciudad Real",
+          "Cuenca",
+          "Cáceres",
+          "Cádiz",
+          "Córdoba",
+          "Gipuzkoa",
+          "Girona",
+          "Granada",
+          "Guadalajara",
+          "Huelva",
+          "Huesca",
+          "Jaén",
+          "La Rioja",
+          "Las Palmas",
+          "León",
+          "Lleida",
+          "Lugo",
+          "Madrid",
+          "Melilla",
+          "Murcia",
+          "Málaga",
+          "Navarra",
+          "Ourense",
+          "Palencia",
+          "Pontevedra",
+          "Salamanca",
+          "Santa Cruz de Tenerife",
+          "Segovia",
+          "Sevilla",
+          "Soria",
+          "Tarragona",
+          "Teruel",
+          "Toledo",
+          "Valencia",
+          "Valladolid",
+          "Zamora",
+          "Zaragoza",
+          "Álava",
+          "Ávila"
+        ],
+        "description": "Province of residence, consistent with the postal code that follows.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "postal_code": {
+        "type": "string",
+        "pattern": "^\\d{5}$",
+        "description": "Spanish postal code whose leading pair is the province code, so address validation passes.",
+        "examples": [
+          "41009"
+        ]
+      },
+      "phone": {
+        "type": "string",
+        "description": "Contact number in Spanish mobile format, which is what a dealer or workshop would hold on file.",
+        "examples": [
+          "+34 612 34 56 78"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "full_name",
+      "national_id",
+      "licence_number",
+      "birth_date",
+      "city",
+      "province",
+      "postal_code",
+      "phone"
+    ],
+    "additionalProperties": false
+  }
+}

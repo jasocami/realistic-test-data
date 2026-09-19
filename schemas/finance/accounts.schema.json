@@ -1,0 +1,111 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/finance/accounts.schema.json",
+  "title": "finance/accounts",
+  "description": "One row per bank account. Current, savings, payroll and business accounts. Each belongs to one customer and was opened at one branch, and the balance shown here is exactly the closing balance of that account's transaction history.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "iban": {
+        "type": "string",
+        "pattern": "^ES\\d{22}$",
+        "description": "Spanish IBAN, 24 characters, passing the ISO 13616 mod-97 check. It encodes the bank code, the branch code, two domestic check digits and the account number -- exactly as a real one does.",
+        "examples": [
+          "ES9199990142001234567890"
+        ]
+      },
+      "customer_id": {
+        "type": "integer",
+        "description": "Who owns the account. A customer may hold several, which is why this column is not unique.",
+        "examples": [
+          42
+        ]
+      },
+      "branch_id": {
+        "type": "integer",
+        "description": "Where the account was opened. Matches the office code embedded in the IBAN, giving you a consistency rule to verify.",
+        "examples": [
+          7
+        ]
+      },
+      "account_type": {
+        "type": "string",
+        "enum": [
+          "business",
+          "checking",
+          "payroll",
+          "savings"
+        ],
+        "description": "Product type. Checking accounts dominate and carry nearly all the transaction activity; savings accounts pay interest and move rarely.",
+        "examples": [
+          "checking"
+        ]
+      },
+      "currency": {
+        "type": "string",
+        "enum": [
+          "EUR"
+        ],
+        "description": "Account currency. All accounts here are euro denominated, which is what a Spanish retail bank would offer; the exchange_rates table exists separately for conversion work.",
+        "examples": [
+          "EUR"
+        ]
+      },
+      "balance": {
+        "type": "number",
+        "description": "Current balance in euros, and exactly the balance_after of this account's most recent transaction. Verified in CI, so the two can never disagree.",
+        "examples": [
+          2418.77
+        ]
+      },
+      "overdraft_limit": {
+        "type": "number",
+        "description": "How far the account may go negative. Zero on savings accounts, and a few hundred euros on checking accounts depending on the customer's risk score.",
+        "examples": [
+          500.0
+        ]
+      },
+      "status": {
+        "type": "string",
+        "enum": [
+          "active",
+          "closed",
+          "dormant"
+        ],
+        "description": "Whether the account is in use. Dormant accounts have had no movement for months and closed ones none at all, so both are worth excluding from activity reports.",
+        "examples": [
+          "active"
+        ]
+      },
+      "opened_at": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the account was opened, always on or after the customer's relationship start date and on or after the branch opened.",
+        "examples": [
+          "2018-03-12"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "iban",
+      "customer_id",
+      "branch_id",
+      "account_type",
+      "currency",
+      "balance",
+      "overdraft_limit",
+      "status",
+      "opened_at"
+    ],
+    "additionalProperties": false
+  }
+}

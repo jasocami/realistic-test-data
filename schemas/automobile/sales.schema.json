@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/automobile/sales.schema.json",
+  "title": "automobile/sales",
+  "description": "One row per vehicle sold through a dealership. Dealer transactions. Not every ownership change is a dealer sale -- private sales exist too -- so this table is smaller than ownership_history and joins to only some of it.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "vehicle_id": {
+        "type": "integer",
+        "description": "Which car was sold. A vehicle can be sold more than once, first new and later as a used trade-in.",
+        "examples": [
+          42
+        ]
+      },
+      "dealership_id": {
+        "type": "integer",
+        "description": "Where the sale took place. For a new-car sale the dealership is always franchised for that vehicle's manufacturer.",
+        "examples": [
+          3
+        ]
+      },
+      "buyer_id": {
+        "type": "integer",
+        "description": "Who bought it. Always the person who appears as the next keeper in ownership_history.",
+        "examples": [
+          17
+        ]
+      },
+      "sale_date": {
+        "type": "string",
+        "format": "date",
+        "description": "Date of sale, always on or after the dealership opened and on or after the vehicle was registered.",
+        "examples": [
+          "2021-03-08"
+        ]
+      },
+      "sale_type": {
+        "type": "string",
+        "enum": [
+          "demo",
+          "new",
+          "used"
+        ],
+        "description": "Whether the car was new, used, or an ex-demonstrator. Used sales dominate, as they do in the real Spanish market by roughly two to one.",
+        "examples": [
+          "used"
+        ]
+      },
+      "sale_price": {
+        "type": "number",
+        "description": "Transaction price in euros. New sales sit near the model's list price; used sales follow the depreciation curve for the car's age and mileage.",
+        "examples": [
+          18400.0
+        ]
+      },
+      "financing": {
+        "type": "string",
+        "enum": [
+          "cash",
+          "leasing",
+          "loan",
+          "renting"
+        ],
+        "description": "How the purchase was funded. Loans dominate, with leasing and renting -- the Spanish term for a long-term all-inclusive rental -- behind them.",
+        "examples": [
+          "loan"
+        ]
+      },
+      "warranty_months": {
+        "type": "integer",
+        "description": "Warranty supplied with the sale. New cars carry the statutory three years; used cars carry the one-year minimum Spanish law requires of a dealer.",
+        "examples": [
+          24
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "vehicle_id",
+      "dealership_id",
+      "buyer_id",
+      "sale_date",
+      "sale_type",
+      "sale_price",
+      "financing",
+      "warranty_months"
+    ],
+    "additionalProperties": false
+  }
+}

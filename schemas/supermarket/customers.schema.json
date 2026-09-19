@@ -1,0 +1,173 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/supermarket/customers.schema.json",
+  "title": "supermarket/customers",
+  "description": "One row per loyalty-card holder. Registered customers. Only loyalty-card holders appear here, so many transactions have no customer at all -- which is realistic and makes this a natural LEFT JOIN test case.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "loyalty_card": {
+        "type": "string",
+        "pattern": "^LC-\\d{9}$",
+        "description": "The number printed on the physical loyalty card, which is what a cashier scans at the till.",
+        "examples": [
+          "LC-000004217"
+        ]
+      },
+      "full_name": {
+        "type": "string",
+        "description": "Spanish name with both surnames, as it would be captured on a loyalty application form.",
+        "examples": [
+          "Carmen Ibáñez Soler"
+        ]
+      },
+      "email": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Contact address on the reserved example.com domain, with accents transliterated away. Empty for about 15% of customers who never supplied one.",
+        "examples": [
+          "carmen.ibanez@example.com"
+        ]
+      },
+      "phone": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Mostly Spanish mobile numbers, since that is what people give a shop. Empty for around 9% of rows.",
+        "examples": [
+          "+34 622 41 07 93"
+        ]
+      },
+      "city": {
+        "type": "string",
+        "description": "Spanish city of residence, which is usually but not always the city of the store they shop at.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "province": {
+        "type": "string",
+        "enum": [
+          "A Coruña",
+          "Albacete",
+          "Alicante",
+          "Almería",
+          "Asturias",
+          "Badajoz",
+          "Baleares",
+          "Barcelona",
+          "Bizkaia",
+          "Burgos",
+          "Cantabria",
+          "Castellón",
+          "Ceuta",
+          "Ciudad Real",
+          "Cuenca",
+          "Cáceres",
+          "Cádiz",
+          "Córdoba",
+          "Gipuzkoa",
+          "Girona",
+          "Granada",
+          "Guadalajara",
+          "Huelva",
+          "Huesca",
+          "Jaén",
+          "La Rioja",
+          "Las Palmas",
+          "León",
+          "Lleida",
+          "Lugo",
+          "Madrid",
+          "Melilla",
+          "Murcia",
+          "Málaga",
+          "Navarra",
+          "Ourense",
+          "Palencia",
+          "Pontevedra",
+          "Salamanca",
+          "Santa Cruz de Tenerife",
+          "Segovia",
+          "Sevilla",
+          "Soria",
+          "Tarragona",
+          "Teruel",
+          "Toledo",
+          "Valencia",
+          "Valladolid",
+          "Zamora",
+          "Zaragoza",
+          "Álava",
+          "Ávila"
+        ],
+        "description": "Province of residence, consistent with the postal code in the next column.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "postal_code": {
+        "type": "string",
+        "pattern": "^\\d{5}$",
+        "description": "Spanish postal code whose first two digits are the province code, so address validation passes.",
+        "examples": [
+          "41009"
+        ]
+      },
+      "birth_date": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "format": "date",
+        "description": "Date of birth where the customer gave one, used for age-band marketing. Empty for about 20% of rows.",
+        "examples": [
+          "1986-04-22"
+        ]
+      },
+      "segment": {
+        "type": "string",
+        "enum": [
+          "new",
+          "occasional",
+          "premium",
+          "regular"
+        ],
+        "description": "Marketing segment derived from spend and visit frequency. Premium customers really do spend more per basket in this data, so the segmentation is worth plotting.",
+        "examples": [
+          "regular"
+        ]
+      },
+      "signed_up_at": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the loyalty card was issued. Always on or before that customer's first transaction.",
+        "examples": [
+          "2023-04-18"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "loyalty_card",
+      "full_name",
+      "city",
+      "province",
+      "postal_code",
+      "segment",
+      "signed_up_at"
+    ],
+    "additionalProperties": false
+  }
+}

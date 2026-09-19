@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/education/classrooms.schema.json",
+  "title": "education/classrooms",
+  "description": "One row per teaching room in one school. Physical rooms. Exams are scheduled into a classroom, which is what makes this table useful for testing timetabling and room-clash detection.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "school_id": {
+        "type": "integer",
+        "description": "Which school the room is in. Rooms are never shared between centres.",
+        "examples": [
+          1
+        ]
+      },
+      "room_code": {
+        "type": "string",
+        "description": "Room reference as it appears on a timetable: a building letter, then the floor and room number.",
+        "examples": [
+          "A-204"
+        ]
+      },
+      "building": {
+        "type": "string",
+        "description": "Which building on the site, in Spanish. Larger schools have several; small ones have only one.",
+        "examples": [
+          "Edificio A"
+        ]
+      },
+      "floor": {
+        "type": "integer",
+        "description": "Which floor the room is on, from 0 for the ground floor up to 3.",
+        "examples": [
+          2
+        ]
+      },
+      "capacity": {
+        "type": "integer",
+        "description": "How many students the room seats, typically between 15 for a specialist lab and 40 for a lecture room.",
+        "examples": [
+          30
+        ]
+      },
+      "room_type": {
+        "type": "string",
+        "enum": [
+          "standard",
+          "laboratory",
+          "computer_lab",
+          "workshop",
+          "gym",
+          "music"
+        ],
+        "description": "What the room is equipped for. Standard classrooms dominate; labs and workshops are attached to the subjects that need them.",
+        "examples": [
+          "standard"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "school_id",
+      "room_code",
+      "building",
+      "floor",
+      "capacity",
+      "room_type"
+    ],
+    "additionalProperties": false
+  }
+}

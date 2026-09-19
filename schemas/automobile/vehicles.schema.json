@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/automobile/vehicles.schema.json",
+  "title": "automobile/vehicles",
+  "description": "One row per individual physical vehicle. The cars themselves, identified by VIN. This is the anchor table of the topic: ownership, sales, servicing and inspections all point back at a vehicle.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1. Use this for joins rather than the VIN or the plate.",
+        "examples": [
+          1
+        ]
+      },
+      "vin": {
+        "type": "string",
+        "pattern": "^[A-HJ-NPR-Z0-9]{17}$",
+        "description": "Vehicle Identification Number: 17 characters with a correct ISO 3779 check digit at position 9 and a model-year letter at position 10 that matches the year column. The letters I, O and Q never appear, because the standard forbids them.",
+        "examples": [
+          "ZZAABC4DEXF004217"
+        ]
+      },
+      "plate": {
+        "type": "string",
+        "pattern": "^\\d{4} [BCDFGHJKLMNPRSTVWXYZ]{3}$",
+        "description": "Spanish registration in the post-2000 format: four digits then three consonants. Every vowel is excluded so a plate can never accidentally spell a word.",
+        "examples": [
+          "1087 FPC"
+        ]
+      },
+      "model_id": {
+        "type": "integer",
+        "description": "Which model this car is. Determines its segment, body style and the price it depreciates from.",
+        "examples": [
+          7
+        ]
+      },
+      "year": {
+        "type": "integer",
+        "description": "Model year, always within the production window of its model and always between 2010 and 2025.",
+        "examples": [
+          2019
+        ]
+      },
+      "colour": {
+        "type": "string",
+        "description": "Paint colour in Spanish. White, black and grey dominate, matching the real European colour mix where three quarters of cars are monochrome.",
+        "examples": [
+          "Blanco"
+        ]
+      },
+      "fuel_type": {
+        "type": "string",
+        "enum": [
+          "diesel",
+          "electric",
+          "hybrid",
+          "lpg",
+          "petrol",
+          "plug_in_hybrid"
+        ],
+        "description": "What it runs on. Diesel remains the largest share of the Spanish used fleet even as new sales shift away from it.",
+        "examples": [
+          "diesel"
+        ]
+      },
+      "transmission": {
+        "type": "string",
+        "enum": [
+          "automatic",
+          "manual"
+        ],
+        "description": "Gearbox type. Manual dominates at roughly two thirds, which is the European pattern and the opposite of the North American one.",
+        "examples": [
+          "manual"
+        ]
+      },
+      "engine_cc": {
+        "type": "integer",
+        "description": "Engine displacement in cubic centimetres, scaled to the segment. Always zero for battery electric vehicles, which have no displacement at all.",
+        "examples": [
+          1598
+        ]
+      },
+      "power_hp": {
+        "type": "integer",
+        "description": "Maximum power in metric horsepower, the unit Spanish registration documents use. Correlates with engine size and segment.",
+        "examples": [
+          115
+        ]
+      },
+      "mileage_km": {
+        "type": "integer",
+        "description": "Current odometer reading. Consistent with the vehicle's age at roughly 13,500 km a year, and never lower than the reading on its most recent service record.",
+        "examples": [
+          84300
+        ]
+      },
+      "registered_on": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the vehicle was first registered in Spain, which starts the clock for its ITV schedule.",
+        "examples": [
+          "2019-06-14"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "vin",
+      "plate",
+      "model_id",
+      "year",
+      "colour",
+      "fuel_type",
+      "transmission",
+      "engine_cc",
+      "power_hp",
+      "mileage_km",
+      "registered_on"
+    ],
+    "additionalProperties": false
+  }
+}

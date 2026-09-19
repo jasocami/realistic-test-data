@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/supermarket/employees.schema.json",
+  "title": "supermarket/employees",
+  "description": "One row per member of store staff. Shop-floor and management staff, each assigned to one store. Cashiers appear as the operator on till transactions, which is what links this table into the sales data.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "store_id": {
+        "type": "integer",
+        "description": "The store this person works at. Everybody is assigned to exactly one store in this dataset.",
+        "examples": [
+          1
+        ]
+      },
+      "employee_code": {
+        "type": "string",
+        "pattern": "^EMP-\\d{5}$",
+        "description": "Payroll reference, the number that appears on a rota and on the bottom of a till receipt.",
+        "examples": [
+          "EMP-00042"
+        ]
+      },
+      "full_name": {
+        "type": "string",
+        "description": "Spanish name with two surnames -- the father's followed by the mother's -- which is worth testing any name-splitting code against.",
+        "examples": [
+          "Javier Moreno Ortega"
+        ]
+      },
+      "national_id": {
+        "type": "string",
+        "pattern": "^\\d{8}[A-Z]$",
+        "description": "Spanish DNI, eight digits plus a check letter computed modulo 23. Structurally valid, so it passes a real DNI validator.",
+        "examples": [
+          "12345678Z"
+        ]
+      },
+      "role": {
+        "type": "string",
+        "enum": [
+          "Baker",
+          "Butcher",
+          "Cashier",
+          "Department manager",
+          "Fishmonger",
+          "Security",
+          "Shelf stacker",
+          "Store manager"
+        ],
+        "description": "Job title. Cashiers dominate, as they do in a real shop, and only they appear as transaction operators.",
+        "examples": [
+          "Cashier"
+        ]
+      },
+      "hired_at": {
+        "type": "string",
+        "format": "date",
+        "description": "Start date, always on or after the store's own opening date -- nobody was hired into a shop that did not exist.",
+        "examples": [
+          "2021-09-06"
+        ]
+      },
+      "hourly_rate": {
+        "type": "number",
+        "description": "Gross pay per hour in euros, from around the Spanish minimum wage for shop-floor roles up to about 25 for a store manager.",
+        "examples": [
+          11.4
+        ]
+      },
+      "active": {
+        "type": "boolean",
+        "description": "Whether the person still works here. Around 12% have left, which is a realistic retail turnover rate and gives you inactive rows to exclude.",
+        "examples": [
+          true
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "store_id",
+      "employee_code",
+      "full_name",
+      "national_id",
+      "role",
+      "hired_at",
+      "hourly_rate",
+      "active"
+    ],
+    "additionalProperties": false
+  }
+}

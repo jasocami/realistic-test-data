@@ -1,0 +1,122 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/education/teachers.schema.json",
+  "title": "education/teachers",
+  "description": "One row per member of teaching staff. Teachers, each attached to one school and one department. A teacher leads several courses, which is how this table connects to the rest of the topic.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "school_id": {
+        "type": "integer",
+        "description": "Which school employs this teacher. Everybody is attached to exactly one centre in this dataset.",
+        "examples": [
+          1
+        ]
+      },
+      "teacher_code": {
+        "type": "string",
+        "pattern": "^PRF-\\d{5}$",
+        "description": "Staff reference used on timetables and internal systems, quoted instead of the numeric id.",
+        "examples": [
+          "PRF-00042"
+        ]
+      },
+      "full_name": {
+        "type": "string",
+        "description": "Spanish name with two surnames, the father's then the mother's. A useful stress test for any code that assumes one surname.",
+        "examples": [
+          "Ana Belén Ortega Ruiz"
+        ]
+      },
+      "national_id": {
+        "type": "string",
+        "pattern": "^\\d{8}[A-Z]$",
+        "description": "Spanish DNI, eight digits and a check letter derived modulo 23, so it passes a real validator while belonging to nobody.",
+        "examples": [
+          "12345678Z"
+        ]
+      },
+      "department": {
+        "type": "string",
+        "enum": [
+          "Artes",
+          "Ciencias",
+          "Ciencias Sociales",
+          "Educación Física",
+          "Formación Profesional",
+          "Idiomas",
+          "Lengua y Literatura",
+          "Matemáticas",
+          "Orientación",
+          "Tecnología"
+        ],
+        "description": "Departmental grouping the teacher belongs to. Courses they lead are always in a subject that department covers.",
+        "examples": [
+          "Matemáticas"
+        ]
+      },
+      "email": {
+        "type": "string",
+        "description": "Work address on the reserved example.org domain, built from the name with accents transliterated away.",
+        "examples": [
+          "ana.ortega@example.org"
+        ]
+      },
+      "qualification": {
+        "type": "string",
+        "enum": [
+          "Doctorado",
+          "Grado + Máster en Formación del Profesorado",
+          "Grado en Educación Primaria",
+          "Licenciatura + CAP",
+          "Técnico Superior FP"
+        ],
+        "description": "Teaching credential. Spain requires a subject degree plus the Máster en Formación del Profesorado to teach secondary; primary teachers hold a dedicated Grado en Educación Primaria.",
+        "examples": [
+          "Grado + Máster en Formación del Profesorado"
+        ]
+      },
+      "contract_type": {
+        "type": "string",
+        "enum": [
+          "interim",
+          "permanent",
+          "temporary"
+        ],
+        "description": "Employment status. 'interim' covers the substantial share of Spanish teachers on year-to-year interim appointments rather than tenured posts.",
+        "examples": [
+          "permanent"
+        ]
+      },
+      "hired_at": {
+        "type": "string",
+        "format": "date",
+        "description": "Start date, always the first of September because Spanish teaching contracts begin with the academic year, and never before the school was founded.",
+        "examples": [
+          "2015-09-01"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "school_id",
+      "teacher_code",
+      "full_name",
+      "national_id",
+      "department",
+      "email",
+      "qualification",
+      "contract_type",
+      "hired_at"
+    ],
+    "additionalProperties": false
+  }
+}

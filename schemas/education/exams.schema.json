@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/education/exams.schema.json",
+  "title": "education/exams",
+  "description": "One row per scheduled examination sitting. Timetabled exams, each placed in a room at a time. Useful for testing scheduling features and room-clash detection, since the same room is used many times.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "course_id": {
+        "type": "integer",
+        "description": "Which course is being examined. A course typically has a midterm and a final, sometimes a resit.",
+        "examples": [
+          7
+        ]
+      },
+      "classroom_id": {
+        "type": "integer",
+        "description": "Where the exam takes place. Always a room at the same school as the course.",
+        "examples": [
+          12
+        ]
+      },
+      "exam_date": {
+        "type": "string",
+        "format": "date",
+        "description": "Date of the sitting, always a weekday during term time and within the course's academic year.",
+        "examples": [
+          "2025-06-05"
+        ]
+      },
+      "exam_type": {
+        "type": "string",
+        "enum": [
+          "final",
+          "midterm",
+          "mock",
+          "resit"
+        ],
+        "description": "Which kind of sitting: a midterm, the final, a practice mock, or a resit for pupils who failed first time.",
+        "examples": [
+          "final"
+        ]
+      },
+      "duration_minutes": {
+        "type": "integer",
+        "description": "How long pupils get, from 45 minutes for a short midterm to 180 for a Bachillerato final.",
+        "examples": [
+          90
+        ]
+      },
+      "max_score": {
+        "type": "number",
+        "description": "Marks available. Almost always 10, because the Spanish scale is 0 to 10, which makes the few exceptions worth handling.",
+        "examples": [
+          10.0
+        ]
+      },
+      "registered_students": {
+        "type": "integer",
+        "description": "How many pupils were entered for this sitting, never more than the capacity of the room it was scheduled into.",
+        "examples": [
+          28
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "course_id",
+      "classroom_id",
+      "exam_date",
+      "exam_type",
+      "duration_minutes",
+      "max_score",
+      "registered_students"
+    ],
+    "additionalProperties": false
+  }
+}

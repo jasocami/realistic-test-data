@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/clinical/prescriptions.schema.json",
+  "title": "clinical/prescriptions",
+  "description": "One row per medication prescribed to one patient by one doctor. Medicines prescribed during the period. Drug names are generic (non-brand) international nonproprietary names, which is what appears on a real prescription and carries no trademark.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "patient_id": {
+        "type": "integer",
+        "description": "The patient the medication is for. A patient may hold several concurrent prescriptions.",
+        "examples": [
+          42
+        ]
+      },
+      "doctor_id": {
+        "type": "integer",
+        "description": "The doctor who issued the prescription. Not necessarily one the patient has an appointment with.",
+        "examples": [
+          17
+        ]
+      },
+      "medication": {
+        "type": "string",
+        "description": "Generic drug name. Eighteen common medications, weighted so that the drugs prescribed most often in reality appear most often here.",
+        "examples": [
+          "Metformin"
+        ]
+      },
+      "dosage": {
+        "type": "string",
+        "description": "Strength per dose, always one that the medication is genuinely dispensed in -- you will not find a 37 mg Metformin tablet.",
+        "examples": [
+          "500 mg"
+        ]
+      },
+      "frequency": {
+        "type": "string",
+        "description": "Dosing instruction as it would be written on the label, matched to the medication.",
+        "examples": [
+          "Twice daily with meals"
+        ]
+      },
+      "start_date": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the course begins. Always on or after the patient's registration date.",
+        "examples": [
+          "2024-06-14"
+        ]
+      },
+      "end_date": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "format": "date",
+        "description": "Date the course ends. Empty for repeat prescriptions of chronic medication, which is about 45% of rows -- an open-ended course is the normal case for something like a blood pressure tablet.",
+        "examples": [
+          "2024-07-14"
+        ]
+      },
+      "refills_allowed": {
+        "type": "integer",
+        "description": "How many times the prescription can be re-dispensed without a new consultation, from 0 to 11.",
+        "examples": [
+          3
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "patient_id",
+      "doctor_id",
+      "medication",
+      "dosage",
+      "frequency",
+      "start_date",
+      "refills_allowed"
+    ],
+    "additionalProperties": false
+  }
+}

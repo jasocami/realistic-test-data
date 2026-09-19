@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/supermarket/suppliers.schema.json",
+  "title": "supermarket/suppliers",
+  "description": "One row per company that supplies products to the chain. Wholesalers and producers. Every product is bought from exactly one supplier, so this is the table to join through when answering questions about sourcing or lead times.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "name": {
+        "type": "string",
+        "description": "Company name in Spanish commercial form, ending in S.L. or S.A. -- the Spanish equivalents of Ltd and PLC. All invented.",
+        "examples": [
+          "Campo Sur Distribuciones S.L."
+        ]
+      },
+      "tax_id": {
+        "type": "string",
+        "pattern": "^[A-Z]\\d{8}$",
+        "description": "Spanish CIF, the company tax identifier. The leading letter encodes the company type -- B for S.L., A for S.A. Invented and not registered to anybody.",
+        "examples": [
+          "B12345678"
+        ]
+      },
+      "city": {
+        "type": "string",
+        "description": "Spanish city the supplier operates from, which is often where the produce itself originates.",
+        "examples": [
+          "Valencia"
+        ]
+      },
+      "province": {
+        "type": "string",
+        "enum": [
+          "A Coruña",
+          "Albacete",
+          "Alicante",
+          "Almería",
+          "Asturias",
+          "Badajoz",
+          "Baleares",
+          "Barcelona",
+          "Bizkaia",
+          "Burgos",
+          "Cantabria",
+          "Castellón",
+          "Ceuta",
+          "Ciudad Real",
+          "Cuenca",
+          "Cáceres",
+          "Cádiz",
+          "Córdoba",
+          "Gipuzkoa",
+          "Girona",
+          "Granada",
+          "Guadalajara",
+          "Huelva",
+          "Huesca",
+          "Jaén",
+          "La Rioja",
+          "Las Palmas",
+          "León",
+          "Lleida",
+          "Lugo",
+          "Madrid",
+          "Melilla",
+          "Murcia",
+          "Málaga",
+          "Navarra",
+          "Ourense",
+          "Palencia",
+          "Pontevedra",
+          "Salamanca",
+          "Santa Cruz de Tenerife",
+          "Segovia",
+          "Sevilla",
+          "Soria",
+          "Tarragona",
+          "Teruel",
+          "Toledo",
+          "Valencia",
+          "Valladolid",
+          "Zamora",
+          "Zaragoza",
+          "Álava",
+          "Ávila"
+        ],
+        "description": "Province of the supplier's registered address, consistent with its postal code.",
+        "examples": [
+          "Valencia"
+        ]
+      },
+      "phone": {
+        "type": "string",
+        "description": "Commercial contact number, with a dialling prefix matching the supplier's own province.",
+        "examples": [
+          "+34 963 55 12 04"
+        ]
+      },
+      "email": {
+        "type": "string",
+        "description": "Orders inbox on the reserved example.com domain, so nothing sent here could reach a real business.",
+        "examples": [
+          "pedidos@campo-sur.example.com"
+        ]
+      },
+      "lead_time_days": {
+        "type": "integer",
+        "description": "Working days between placing an order and receiving it, from 1 for local fresh produce to 21 for imported goods.",
+        "examples": [
+          3
+        ]
+      },
+      "active": {
+        "type": "boolean",
+        "description": "Whether the chain still buys from this supplier. About 8% are dormant, which gives you rows that should be filtered out of an ordering screen.",
+        "examples": [
+          true
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "tax_id",
+      "city",
+      "province",
+      "phone",
+      "email",
+      "lead_time_days",
+      "active"
+    ],
+    "additionalProperties": false
+  }
+}

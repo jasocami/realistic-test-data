@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/education/courses.schema.json",
+  "title": "education/courses",
+  "description": "One row per course taught in one academic year. A subject taught at a particular year-group level by a particular teacher in a particular academic year. The same subject at the same level in two different years is two rows, because the enrolments and grades differ.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "school_id": {
+        "type": "integer",
+        "description": "Which school runs the course. Always the same school as the teacher who leads it.",
+        "examples": [
+          1
+        ]
+      },
+      "teacher_id": {
+        "type": "integer",
+        "description": "Who teaches it. Always someone whose department covers this subject and who works at this school.",
+        "examples": [
+          7
+        ]
+      },
+      "code": {
+        "type": "string",
+        "pattern": "^[A-Z]{3}-\\d{5}$",
+        "description": "Course code, three letters from the subject plus a sequence -- the format that appears on a timetable and a report card.",
+        "examples": [
+          "MAT-00142"
+        ]
+      },
+      "title": {
+        "type": "string",
+        "description": "Subject name in Spanish, drawn from the real curriculum for the stage the course belongs to.",
+        "examples": [
+          "Matemáticas II"
+        ]
+      },
+      "stage": {
+        "type": "string",
+        "enum": [
+          "Bachillerato",
+          "ESO",
+          "FP",
+          "Primaria"
+        ],
+        "description": "Educational stage: Primaria for ages 6-12, ESO for compulsory secondary, Bachillerato for pre-university, FP for vocational training.",
+        "examples": [
+          "Bachillerato"
+        ]
+      },
+      "year_level": {
+        "type": "integer",
+        "description": "Which year within the stage, numbered from 1. Primaria runs 1 to 6, ESO 1 to 4, Bachillerato and FP 1 to 2, exactly as the Spanish system does.",
+        "examples": [
+          2
+        ]
+      },
+      "academic_year": {
+        "type": "string",
+        "enum": [
+          "2022/2023",
+          "2023/2024",
+          "2024/2025"
+        ],
+        "description": "The school year the course ran in, written the Spanish way as a span from September to June.",
+        "examples": [
+          "2024/2025"
+        ]
+      },
+      "hours_per_week": {
+        "type": "integer",
+        "description": "Timetabled contact hours per week, from 1 for a minor subject to 5 for a core one like Matemáticas or Lengua.",
+        "examples": [
+          4
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "school_id",
+      "teacher_id",
+      "code",
+      "title",
+      "stage",
+      "year_level",
+      "academic_year",
+      "hours_per_week"
+    ],
+    "additionalProperties": false
+  }
+}

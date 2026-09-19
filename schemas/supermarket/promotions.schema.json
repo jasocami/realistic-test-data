@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/supermarket/promotions.schema.json",
+  "title": "supermarket/promotions",
+  "description": "One row per promotional offer on one product. Time-limited offers. A promotion covers a single product over a date range, so checking whether a given sale was discounted means comparing the transaction date against this table.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "product_id": {
+        "type": "integer",
+        "description": "The product on offer. A product can have several promotions over time, but they never overlap.",
+        "examples": [
+          42
+        ]
+      },
+      "type": {
+        "type": "string",
+        "enum": [
+          "fixed_discount",
+          "percentage",
+          "second_unit_half_price",
+          "three_for_two"
+        ],
+        "description": "Mechanic of the offer: a straight percentage off, second unit at half price, three for the price of two, or a fixed cash reduction.",
+        "examples": [
+          "percentage"
+        ]
+      },
+      "discount_percent": {
+        "type": "number",
+        "description": "Headline reduction as a percentage, between 5 and 50. For non-percentage mechanics this records the effective equivalent saving.",
+        "examples": [
+          25.0
+        ]
+      },
+      "starts_on": {
+        "type": "string",
+        "format": "date",
+        "description": "First day the offer is live, inclusive. Compare a sale date against this and ends_on to decide whether a line was discounted.",
+        "examples": [
+          "2025-03-01"
+        ]
+      },
+      "ends_on": {
+        "type": "string",
+        "format": "date",
+        "description": "Last day the offer is live, inclusive. Always after starts_on, typically by one to six weeks.",
+        "examples": [
+          "2025-03-31"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "product_id",
+      "type",
+      "discount_percent",
+      "starts_on",
+      "ends_on"
+    ],
+    "additionalProperties": false
+  }
+}

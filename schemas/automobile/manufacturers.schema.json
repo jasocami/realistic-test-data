@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/automobile/manufacturers.schema.json",
+  "title": "automobile/manufacturers",
+  "description": "One row per vehicle manufacturer. The carmakers whose vehicles appear in this dataset. All twelve are invented, which is also why their World Manufacturer Identifier prefixes can be made up without colliding with a real one.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1. Models and dealerships both join against this.",
+        "examples": [
+          1
+        ]
+      },
+      "name": {
+        "type": "string",
+        "description": "Manufacturer trading name. Entirely invented, so no real carmaker is described anywhere in this topic.",
+        "examples": [
+          "Altaria Motors"
+        ]
+      },
+      "country": {
+        "type": "string",
+        "description": "Country the manufacturer is headquartered in, spread across the European motor industry.",
+        "examples": [
+          "Spain"
+        ]
+      },
+      "founded": {
+        "type": "integer",
+        "description": "Year the company was founded, between 1919 and 2004, following the real shape of European motor industry history.",
+        "examples": [
+          1962
+        ]
+      },
+      "wmi": {
+        "type": "string",
+        "pattern": "^[A-Z]{3}$",
+        "description": "World Manufacturer Identifier, the first three characters of every VIN this maker issues. These are deliberately invented codes that no real manufacturer has been assigned.",
+        "examples": [
+          "ZZA"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "country",
+      "founded",
+      "wmi"
+    ],
+    "additionalProperties": false
+  }
+}

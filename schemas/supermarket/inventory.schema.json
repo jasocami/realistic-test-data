@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/supermarket/inventory.schema.json",
+  "title": "supermarket/inventory",
+  "description": "One row per product held at one store. Current stock levels, one row per store-and-product combination. Not every store carries every product -- Express shops carry a fraction of the range -- so this table is much smaller than stores multiplied by products.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "store_id": {
+        "type": "integer",
+        "description": "Which store holds this stock. Stock is counted per store, never centrally, so the same product appears once for every shop that lists it.",
+        "examples": [
+          1
+        ]
+      },
+      "product_id": {
+        "type": "integer",
+        "description": "Which product is being counted. Only active product lines are stocked, so discontinued items have no inventory row anywhere.",
+        "examples": [
+          42
+        ]
+      },
+      "quantity_on_hand": {
+        "type": "integer",
+        "description": "Units currently on the shelf and in the back room. Can be zero, and about 4% of rows are -- an out-of-stock line you should be able to surface.",
+        "examples": [
+          48
+        ]
+      },
+      "reorder_level": {
+        "type": "integer",
+        "description": "The threshold at which the system should raise a replenishment order. Comparing this with quantity_on_hand gives you a ready-made 'needs reordering' query.",
+        "examples": [
+          20
+        ]
+      },
+      "last_restocked_at": {
+        "type": "string",
+        "format": "date",
+        "description": "Date of the most recent delivery for this line at this store. Fast-moving fresh goods are restocked far more recently than bazar items.",
+        "examples": [
+          "2025-06-12"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "store_id",
+      "product_id",
+      "quantity_on_hand",
+      "reorder_level",
+      "last_restocked_at"
+    ],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/clinical/lab_results.schema.json",
+  "title": "clinical/lab_results",
+  "description": "One row per individual laboratory measurement. Blood and urine test results, coded with real LOINC codes. This is the largest table in the topic and the most useful one for charting, because the values are generated from age-adjusted distributions rather than at random.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "patient_id": {
+        "type": "integer",
+        "description": "The patient the sample was taken from. Their age drives the value in the `value` column.",
+        "examples": [
+          42
+        ]
+      },
+      "loinc_code": {
+        "type": "string",
+        "description": "The LOINC code identifying which test this is. LOINC is the international standard for naming laboratory observations, and these are genuine codes.",
+        "examples": [
+          "4548-4"
+        ]
+      },
+      "test_name": {
+        "type": "string",
+        "description": "Plain-language name of the assay, matching the LOINC code in the previous column. Stored alongside so a reader can interpret a result without consulting a terminology server.",
+        "examples": [
+          "Haemoglobin A1c"
+        ]
+      },
+      "value": {
+        "type": "number",
+        "description": "The measured result, to two decimal places. Generated from a distribution whose mean shifts with the patient's age, so older patients really do show higher HbA1c and creatinine.",
+        "examples": [
+          7.4
+        ]
+      },
+      "unit": {
+        "type": "string",
+        "description": "Unit of measurement for the value. Always the unit the LOINC code specifies -- never assume, read this column.",
+        "examples": [
+          "%"
+        ]
+      },
+      "reference_low": {
+        "type": "number",
+        "description": "Lower bound of the normal range for this test. Below this the result is flagged LOW.",
+        "examples": [
+          4.0
+        ]
+      },
+      "reference_high": {
+        "type": "number",
+        "description": "Upper bound of the normal range. Above this the result is flagged HIGH.",
+        "examples": [
+          5.7
+        ]
+      },
+      "flag": {
+        "type": "string",
+        "enum": [
+          "LOW",
+          "NORMAL",
+          "HIGH"
+        ],
+        "description": "Where the value sits relative to the reference range. Computed from value, reference_low and reference_high, so it is always consistent with them -- which makes it a good column for verifying your own derived-field logic against.",
+        "examples": [
+          "HIGH"
+        ]
+      },
+      "collected_at": {
+        "type": "string",
+        "format": "date-time",
+        "description": "When the sample was taken. Phlebotomy rounds happen early, so these cluster between 07:00 and 10:00.",
+        "examples": [
+          "2024-06-14T08:15:00"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "patient_id",
+      "loinc_code",
+      "test_name",
+      "value",
+      "unit",
+      "reference_low",
+      "reference_high",
+      "flag",
+      "collected_at"
+    ],
+    "additionalProperties": false
+  }
+}

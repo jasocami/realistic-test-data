@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/automobile/parts.schema.json",
+  "title": "automobile/parts",
+  "description": "One row per part in the spares catalogue. The parts catalogue a workshop orders from. Not linked to service records in this dataset -- it is a standalone reference table, which makes it a useful small catalogue for testing search and filtering.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "oem_code": {
+        "type": "string",
+        "pattern": "^[A-Z]{2}\\d{6}$",
+        "description": "Manufacturer part number in an invented format: two letters for the category and six digits. Does not match any real catalogue numbering.",
+        "examples": [
+          "BR004217"
+        ]
+      },
+      "name": {
+        "type": "string",
+        "description": "What the part is, in plain English, as it would appear on a workshop invoice line.",
+        "examples": [
+          "Brake pad set"
+        ]
+      },
+      "category": {
+        "type": "string",
+        "enum": [
+          "Body",
+          "Brakes",
+          "Electrical",
+          "Engine",
+          "Filters",
+          "Suspension",
+          "Transmission",
+          "Tyres"
+        ],
+        "description": "Which system the part belongs to, from Brakes and Filters through to Tyres. Useful for testing faceted search.",
+        "examples": [
+          "Brakes"
+        ]
+      },
+      "unit_price": {
+        "type": "number",
+        "description": "Trade price per unit in euros, scaled to the category -- a filter costs a few euros, a turbocharger several hundred.",
+        "examples": [
+          48.9
+        ]
+      },
+      "stock_quantity": {
+        "type": "integer",
+        "description": "Units currently held. About 6% of lines are out of stock at zero, which is a case any ordering screen has to handle.",
+        "examples": [
+          24
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "oem_code",
+      "name",
+      "category",
+      "unit_price",
+      "stock_quantity"
+    ],
+    "additionalProperties": false
+  }
+}

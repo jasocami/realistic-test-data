@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/clinical/appointments.schema.json",
+  "title": "clinical/appointments",
+  "description": "One row per booked appointment between a patient and a doctor. The central activity table. Every appointment links a patient to a doctor at a hospital on a date. Appointments before 2025-06-30 have already happened and carry a final status; later ones are still scheduled.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "patient_id": {
+        "type": "integer",
+        "description": "The patient the appointment is for. Never earlier than that patient's registered_at date.",
+        "examples": [
+          42
+        ]
+      },
+      "doctor_id": {
+        "type": "integer",
+        "description": "Which clinician the patient is booked to see. Determines the hospital column below, since an appointment always takes place where that clinician works.",
+        "examples": [
+          17
+        ]
+      },
+      "hospital_id": {
+        "type": "integer",
+        "description": "Where the appointment takes place. Always the hospital the doctor works at -- a consistency rule the test suite checks explicitly.",
+        "examples": [
+          1
+        ]
+      },
+      "scheduled_at": {
+        "type": "string",
+        "format": "date-time",
+        "description": "Appointment date and time. Always on a weekday, between 08:00 and 17:30, on a 15-minute boundary -- because that is how clinic slots actually work.",
+        "examples": [
+          "2024-06-14T09:30:00"
+        ]
+      },
+      "duration_minutes": {
+        "type": "integer",
+        "description": "Slot length: 15, 20, 30, 45 or 60 minutes. New referrals get longer slots than follow-ups.",
+        "examples": [
+          30
+        ]
+      },
+      "status": {
+        "type": "string",
+        "enum": [
+          "scheduled",
+          "completed",
+          "cancelled",
+          "no_show"
+        ],
+        "description": "Outcome. Past appointments are about 78% completed, 10% cancelled and 7% no-shows; future ones are always 'scheduled'. The no-show rate is deliberately realistic -- it is a real operational problem and a common thing to build a dashboard about.",
+        "examples": [
+          "completed"
+        ]
+      },
+      "reason": {
+        "type": "string",
+        "enum": [
+          "Acute symptoms",
+          "Annual screening",
+          "Follow-up consultation",
+          "Medication review",
+          "New referral",
+          "Post-operative review",
+          "Pre-operative assessment",
+          "Routine check-up",
+          "Second opinion",
+          "Test results discussion"
+        ],
+        "description": "Why the appointment was booked, drawn from the ten reasons that dominate real outpatient scheduling.",
+        "examples": [
+          "Follow-up consultation"
+        ]
+      },
+      "notes": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Free-text clinical note. Present on about 60% of completed appointments and never on cancellations, which makes this a good column for testing nullable text handling and full-text search.",
+        "examples": [
+          "Patient reports improvement since last review."
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "patient_id",
+      "doctor_id",
+      "hospital_id",
+      "scheduled_at",
+      "duration_minutes",
+      "status",
+      "reason"
+    ],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/finance/customers.schema.json",
+  "title": "finance/customers",
+  "description": "One row per banking customer. Individuals who hold accounts. Accounts, cards and loans all point back here, so this is the table to start from when exploring the topic.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1. Use this for joins rather than the national identifier.",
+        "examples": [
+          1
+        ]
+      },
+      "customer_number": {
+        "type": "string",
+        "pattern": "^CLI-\\d{7}$",
+        "description": "The bank's own reference for this person, quoted on correspondence and in the branch.",
+        "examples": [
+          "CLI-0000042"
+        ]
+      },
+      "full_name": {
+        "type": "string",
+        "description": "Spanish name carrying both surnames, the father's followed by the mother's. Worth testing any name-parsing code against.",
+        "examples": [
+          "María Fernández Ruiz"
+        ]
+      },
+      "national_id": {
+        "type": "string",
+        "pattern": "^\\d{8}[A-Z]$",
+        "description": "Spanish DNI: eight digits and a check letter derived modulo 23. Structurally valid, so it passes a real DNI validator, but registered to nobody.",
+        "examples": [
+          "12345678Z"
+        ]
+      },
+      "birth_date": {
+        "type": "string",
+        "format": "date",
+        "description": "Date of birth. Customers are between 18 and 92, following a realistic adult population shape rather than a flat spread.",
+        "examples": [
+          "1986-04-22"
+        ]
+      },
+      "email": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Contact address on the reserved example.com domain, with accents transliterated. Empty for about 7% of customers.",
+        "examples": [
+          "maria.fernandez@example.com"
+        ]
+      },
+      "phone": {
+        "type": "string",
+        "description": "Mobile number in Spanish format. Banks require a contact number for two-factor authentication, so unlike email this column is never empty.",
+        "examples": [
+          "+34 612 34 56 78"
+        ]
+      },
+      "city": {
+        "type": "string",
+        "description": "Spanish city of residence, usually but not always the city of the branch where the account was opened.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "province": {
+        "type": "string",
+        "enum": [
+          "A Coruña",
+          "Albacete",
+          "Alicante",
+          "Almería",
+          "Asturias",
+          "Badajoz",
+          "Baleares",
+          "Barcelona",
+          "Bizkaia",
+          "Burgos",
+          "Cantabria",
+          "Castellón",
+          "Ceuta",
+          "Ciudad Real",
+          "Cuenca",
+          "Cáceres",
+          "Cádiz",
+          "Córdoba",
+          "Gipuzkoa",
+          "Girona",
+          "Granada",
+          "Guadalajara",
+          "Huelva",
+          "Huesca",
+          "Jaén",
+          "La Rioja",
+          "Las Palmas",
+          "León",
+          "Lleida",
+          "Lugo",
+          "Madrid",
+          "Melilla",
+          "Murcia",
+          "Málaga",
+          "Navarra",
+          "Ourense",
+          "Palencia",
+          "Pontevedra",
+          "Salamanca",
+          "Santa Cruz de Tenerife",
+          "Segovia",
+          "Sevilla",
+          "Soria",
+          "Tarragona",
+          "Teruel",
+          "Toledo",
+          "Valencia",
+          "Valladolid",
+          "Zamora",
+          "Zaragoza",
+          "Álava",
+          "Ávila"
+        ],
+        "description": "Province of residence, consistent with the postal code that follows it.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "postal_code": {
+        "type": "string",
+        "pattern": "^\\d{5}$",
+        "description": "Spanish postal code whose first two digits are the province code, so the two columns always agree.",
+        "examples": [
+          "41009"
+        ]
+      },
+      "kyc_status": {
+        "type": "string",
+        "enum": [
+          "expired",
+          "pending",
+          "verified"
+        ],
+        "description": "Know Your Customer verification state. Regulators require banks to confirm identity; the 14% who are pending or expired are the rows a compliance screen should surface.",
+        "examples": [
+          "verified"
+        ]
+      },
+      "risk_score": {
+        "type": "integer",
+        "description": "Internal credit and fraud risk rating from 1 to 100, where higher is riskier. Correlates inversely with income, so a scatter plot of the two slopes downward.",
+        "examples": [
+          23
+        ]
+      },
+      "annual_income": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "description": "Declared gross annual income in euros, following a lognormal distribution -- most customers cluster near the median with a long tail above it, as real incomes do. Empty for about 18% who never declared one.",
+        "examples": [
+          31400.0
+        ]
+      },
+      "customer_since": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the relationship began, always on or before the opening date of their earliest account.",
+        "examples": [
+          "2016-11-03"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "customer_number",
+      "full_name",
+      "national_id",
+      "birth_date",
+      "phone",
+      "city",
+      "province",
+      "postal_code",
+      "kyc_status",
+      "risk_score",
+      "customer_since"
+    ],
+    "additionalProperties": false
+  }
+}

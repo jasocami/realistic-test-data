@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/clinical/insurance_policies.schema.json",
+  "title": "clinical/insurance_policies",
+  "description": "One row per insurance policy held by one patient. Health insurance cover. Roughly 90% of patients hold exactly one policy and the remainder hold none, so this table is a natural test case for LEFT JOIN behaviour and for code that assumes every patient is insured.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "patient_id": {
+        "type": "integer",
+        "description": "The patient this policy covers. Unique, because in this dataset a patient holds at most one policy.",
+        "examples": [
+          42
+        ]
+      },
+      "provider": {
+        "type": "string",
+        "enum": [
+          "Arcadia Health Plan",
+          "Blue Harbour Cover",
+          "Caldera Care",
+          "Lakeview Assurance",
+          "Meridian Mutual",
+          "Northwind Health",
+          "Pinefield Medical",
+          "Stonebridge Health"
+        ],
+        "description": "Insurer name. All eight are invented companies; none corresponds to a real insurance business.",
+        "examples": [
+          "Northwind Health"
+        ]
+      },
+      "policy_number": {
+        "type": "string",
+        "pattern": "^POL-\\d{8}$",
+        "description": "The insurer's reference for this policy, as it would be quoted on a claim.",
+        "examples": [
+          "POL-00004217"
+        ]
+      },
+      "coverage_level": {
+        "type": "string",
+        "enum": [
+          "Basic",
+          "Comprehensive",
+          "Premium",
+          "Standard"
+        ],
+        "description": "Tier of cover, from Basic to Comprehensive. Weighted towards the cheaper tiers, as real policy mixes are.",
+        "examples": [
+          "Standard"
+        ]
+      },
+      "annual_premium": {
+        "type": "number",
+        "description": "What the policy costs per year. Correlates with coverage level and with the patient's age, so a scatter plot of premium against age slopes upward.",
+        "examples": [
+          2480.0
+        ]
+      },
+      "valid_from": {
+        "type": "string",
+        "format": "date",
+        "description": "Date cover began. Always on or after the start of the dataset period, 2023-01-01.",
+        "examples": [
+          "2023-01-01"
+        ]
+      },
+      "valid_until": {
+        "type": "string",
+        "format": "date",
+        "description": "Date cover expires. Always after valid_from, typically by one to three years.",
+        "examples": [
+          "2026-01-01"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "patient_id",
+      "provider",
+      "policy_number",
+      "coverage_level",
+      "annual_premium",
+      "valid_from",
+      "valid_until"
+    ],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/supermarket/stores.schema.json",
+  "title": "supermarket/stores",
+  "description": "One row per physical store in the chain. The shops themselves. Everything operational hangs off a store: staff work at one, stock is counted per store, and every till transaction happens at one.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1. This is what every other table joins against.",
+        "examples": [
+          1
+        ]
+      },
+      "code": {
+        "type": "string",
+        "pattern": "^STO-\\d{4}$",
+        "description": "Internal store code as it appears on receipts and delivery notes. Humans quote this rather than the numeric id.",
+        "examples": [
+          "STO-0001"
+        ]
+      },
+      "name": {
+        "type": "string",
+        "description": "Trading name, combining the store format with a brand and the city it serves. Invented -- no real retail chain is named here.",
+        "examples": [
+          "Supermercado Vega Real Sevilla"
+        ]
+      },
+      "format": {
+        "type": "string",
+        "enum": [
+          "Express",
+          "Hipermercado",
+          "Supermercado"
+        ],
+        "description": "Store size band. Hipermercados carry the full range and the most staff; Express shops are small city-centre outlets with a reduced assortment.",
+        "examples": [
+          "Supermercado"
+        ]
+      },
+      "city": {
+        "type": "string",
+        "description": "Spanish city the store is located in, drawn from real municipalities weighted by population.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "province": {
+        "type": "string",
+        "enum": [
+          "A Coruña",
+          "Albacete",
+          "Alicante",
+          "Almería",
+          "Asturias",
+          "Badajoz",
+          "Baleares",
+          "Barcelona",
+          "Bizkaia",
+          "Burgos",
+          "Cantabria",
+          "Castellón",
+          "Ceuta",
+          "Ciudad Real",
+          "Cuenca",
+          "Cáceres",
+          "Cádiz",
+          "Córdoba",
+          "Gipuzkoa",
+          "Girona",
+          "Granada",
+          "Guadalajara",
+          "Huelva",
+          "Huesca",
+          "Jaén",
+          "La Rioja",
+          "Las Palmas",
+          "León",
+          "Lleida",
+          "Lugo",
+          "Madrid",
+          "Melilla",
+          "Murcia",
+          "Málaga",
+          "Navarra",
+          "Ourense",
+          "Palencia",
+          "Pontevedra",
+          "Salamanca",
+          "Santa Cruz de Tenerife",
+          "Segovia",
+          "Sevilla",
+          "Soria",
+          "Tarragona",
+          "Teruel",
+          "Toledo",
+          "Valencia",
+          "Valladolid",
+          "Zamora",
+          "Zaragoza",
+          "Álava",
+          "Ávila"
+        ],
+        "description": "Province the city belongs to. Always agrees with the first two digits of the postal code, since both derive from the same choice of city.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "address": {
+        "type": "string",
+        "description": "Street address in Spanish format, with the number following the street name. Invented.",
+        "examples": [
+          "Avenida de Andalucía, 118"
+        ]
+      },
+      "postal_code": {
+        "type": "string",
+        "pattern": "^\\d{5}$",
+        "description": "Spanish postal code whose leading pair is the province code, so it always matches the province column beside it.",
+        "examples": [
+          "41009"
+        ]
+      },
+      "phone": {
+        "type": "string",
+        "description": "Store telephone. The dialling prefix matches the province, exactly as a real Spanish landline does.",
+        "examples": [
+          "+34 954 21 08 33"
+        ]
+      },
+      "floor_area_sqm": {
+        "type": "integer",
+        "description": "Sales floor area in square metres, correlated with the store format -- Express shops run about 300 m², Hipermercados several thousand.",
+        "examples": [
+          1450
+        ]
+      },
+      "opened_at": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the store first opened for trade, spread across the twenty years before the dataset period.",
+        "examples": [
+          "2014-03-17"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "code",
+      "name",
+      "format",
+      "city",
+      "province",
+      "address",
+      "postal_code",
+      "phone",
+      "floor_area_sqm",
+      "opened_at"
+    ],
+    "additionalProperties": false
+  }
+}

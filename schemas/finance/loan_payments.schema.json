@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/finance/loan_payments.schema.json",
+  "title": "finance/loan_payments",
+  "description": "One row per scheduled instalment on one loan. The amortisation schedule. Each row splits one payment into the part that covers interest and the part that reduces the debt, and carries the balance left afterwards.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "loan_id": {
+        "type": "integer",
+        "description": "Which loan this instalment belongs to. Grouping by this column and ordering by instalment number gives the full schedule.",
+        "examples": [
+          1
+        ]
+      },
+      "instalment_number": {
+        "type": "integer",
+        "description": "Position in the schedule, from 1 up to the loan's term_months. Together with loan_id this uniquely identifies a payment.",
+        "examples": [
+          1
+        ]
+      },
+      "due_date": {
+        "type": "string",
+        "format": "date",
+        "description": "When the instalment was due, always the first of a month and exactly one month after the previous one.",
+        "examples": [
+          "2023-06-01"
+        ]
+      },
+      "paid_date": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "format": "date",
+        "description": "When it was actually paid. Around 11% are a few days late, and instalments that were never paid are empty -- which is what a defaulted loan looks like.",
+        "examples": [
+          "2023-06-01"
+        ]
+      },
+      "payment_amount": {
+        "type": "number",
+        "description": "Total instalment, the same constant figure every month, equal to interest_amount plus principal_amount.",
+        "examples": [
+          284.52
+        ]
+      },
+      "interest_amount": {
+        "type": "number",
+        "description": "Portion covering interest, calculated on the outstanding balance. It shrinks every month as the debt falls -- the defining shape of amortisation.",
+        "examples": [
+          64.5
+        ]
+      },
+      "principal_amount": {
+        "type": "number",
+        "description": "Portion reducing the debt. It grows every month, mirroring the falling interest, so the two always sum to the same payment.",
+        "examples": [
+          220.02
+        ]
+      },
+      "balance_after": {
+        "type": "number",
+        "description": "Outstanding debt after this instalment. Reaches exactly zero at the final payment of a fully amortised loan, which CI verifies.",
+        "examples": [
+          11779.98
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "loan_id",
+      "instalment_number",
+      "due_date",
+      "payment_amount",
+      "interest_amount",
+      "principal_amount",
+      "balance_after"
+    ],
+    "additionalProperties": false
+  }
+}

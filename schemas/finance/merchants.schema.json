@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/finance/merchants.schema.json",
+  "title": "finance/merchants",
+  "description": "One row per business that accepts card payments. Where cardholders spend. Each merchant carries a real ISO 18245 Merchant Category Code, which is the standard every card network uses to classify what a business sells -- and what spending-analysis features categorise on.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "name": {
+        "type": "string",
+        "description": "Trading name in Spanish, built from the patterns real high-street businesses use. Entirely invented.",
+        "examples": [
+          "Supermercado La Plaza"
+        ]
+      },
+      "mcc": {
+        "type": "string",
+        "pattern": "^\\d{4}$",
+        "description": "Merchant Category Code, a genuine four-digit ISO 18245 code. You can look any of them up and get the same description as the next column.",
+        "examples": [
+          "5411"
+        ]
+      },
+      "category": {
+        "type": "string",
+        "description": "The official description of the MCC, stored alongside so a reader can interpret a transaction without a lookup table.",
+        "examples": [
+          "Grocery Stores, Supermarkets"
+        ]
+      },
+      "city": {
+        "type": "string",
+        "description": "Spanish city the business trades in, so spending can be mapped geographically.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "country": {
+        "type": "string",
+        "enum": [
+          "ES",
+          "FR",
+          "PT",
+          "IT",
+          "DE",
+          "GB"
+        ],
+        "description": "Country of the merchant. Most are Spanish, with a minority abroad -- which is what makes foreign transaction fees appear in the data.",
+        "examples": [
+          "ES"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "mcc",
+      "category",
+      "city",
+      "country"
+    ],
+    "additionalProperties": false
+  }
+}

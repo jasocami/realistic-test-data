@@ -1,0 +1,89 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/automobile/inspections.schema.json",
+  "title": "automobile/inspections",
+  "description": "One row per ITV roadworthiness inspection of one vehicle. Spanish ITV history. ITV is the compulsory periodic roadworthiness test: a car is first inspected at four years old, then every two years until it turns ten, and annually after that. The inspection dates in this table follow that schedule.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "vehicle_id": {
+        "type": "integer",
+        "description": "Which car was inspected. Cars under four years old have no rows here at all, because the law does not require a test yet.",
+        "examples": [
+          42
+        ]
+      },
+      "inspection_date": {
+        "type": "string",
+        "format": "date",
+        "description": "Date of the test, following the statutory interval for the vehicle's age rather than a random spacing.",
+        "examples": [
+          "2023-06-20"
+        ]
+      },
+      "result": {
+        "type": "string",
+        "enum": [
+          "favourable",
+          "negative",
+          "unfavourable"
+        ],
+        "description": "Outcome. 'favourable' passes; 'unfavourable' means defects that must be fixed and retested within two months; 'negative' means the car is unsafe and may not be driven away.",
+        "examples": [
+          "favourable"
+        ]
+      },
+      "defects": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "What was found, for tests that did not pass outright. Empty on a favourable result, which is about 78% of rows.",
+        "examples": [
+          "Worn front tyre below 1.6mm"
+        ]
+      },
+      "mileage_km": {
+        "type": "integer",
+        "description": "Odometer reading recorded at the station. ITV centres log this, which is why a car's ITV history is used to detect odometer tampering.",
+        "examples": [
+          71800
+        ]
+      },
+      "next_due": {
+        "type": "string",
+        "format": "date",
+        "description": "When the next test falls due, computed from the vehicle's age at inspection: two years if under ten, one year if over.",
+        "examples": [
+          "2025-06-20"
+        ]
+      },
+      "station_code": {
+        "type": "string",
+        "pattern": "^ITV-\\d{4}$",
+        "description": "Reference of the testing station. Invented format that does not correspond to the real Spanish station registry.",
+        "examples": [
+          "ITV-0412"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "vehicle_id",
+      "inspection_date",
+      "result",
+      "mileage_km",
+      "next_due",
+      "station_code"
+    ],
+    "additionalProperties": false
+  }
+}

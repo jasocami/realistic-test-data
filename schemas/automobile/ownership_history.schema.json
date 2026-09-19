@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/automobile/ownership_history.schema.json",
+  "title": "automobile/ownership_history",
+  "description": "One row per period during which one owner held one vehicle. The chain of custody. Each row is one owner's tenure, so a vehicle with three previous keepers has four rows. Only the most recent has an empty end date.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "vehicle_id": {
+        "type": "integer",
+        "description": "Which car changed hands. Ordering this table by vehicle and start date reconstructs the full ownership chain.",
+        "examples": [
+          42
+        ]
+      },
+      "owner_id": {
+        "type": "integer",
+        "description": "Who held it during this period. The same person can appear against several vehicles.",
+        "examples": [
+          17
+        ]
+      },
+      "owned_from": {
+        "type": "string",
+        "format": "date",
+        "description": "Date this keeper took possession. For the first owner this equals the vehicle's registration date.",
+        "examples": [
+          "2021-03-08"
+        ]
+      },
+      "owned_until": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "format": "date",
+        "description": "Date they sold it on, or empty for the current keeper. Exactly one row per vehicle has this empty, which makes it the way to find who owns a car now.",
+        "examples": [
+          "2024-05-19"
+        ]
+      },
+      "purchase_price": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "description": "What this keeper paid, in euros, reflecting the vehicle's depreciated value at the time. Empty for about 15% of transfers where no price was recorded, such as an inheritance or a family transfer.",
+        "examples": [
+          14200.0
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "vehicle_id",
+      "owner_id",
+      "owned_from"
+    ],
+    "additionalProperties": false
+  }
+}

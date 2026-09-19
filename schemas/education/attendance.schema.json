@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/education/attendance.schema.json",
+  "title": "education/attendance",
+  "description": "One row per pupil per recorded teaching session. Session-by-session attendance. This is a sample of sessions rather than every one of them, which keeps the table a sensible size while still supporting a meaningful attendance rate per enrolment.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "enrollment_id": {
+        "type": "integer",
+        "description": "Which pupil-on-which-course this record is for. Counting present rows against total rows per enrolment gives that enrolment's attendance rate.",
+        "examples": [
+          42
+        ]
+      },
+      "session_date": {
+        "type": "string",
+        "format": "date",
+        "description": "Date of the session. Always a weekday during term time -- Spanish schools do not teach at weekends or through July and August.",
+        "examples": [
+          "2025-02-11"
+        ]
+      },
+      "status": {
+        "type": "string",
+        "enum": [
+          "absent",
+          "excused",
+          "late",
+          "present"
+        ],
+        "description": "Whether the pupil attended. 'excused' covers an absence the school accepted in advance, which is counted separately from an unexplained one in Spanish attendance reporting.",
+        "examples": [
+          "present"
+        ]
+      },
+      "minutes_late": {
+        "type": "integer",
+        "description": "How late the pupil arrived, zero unless the status is 'late'. Typically between 5 and 35 minutes when it is not.",
+        "examples": [
+          0
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "enrollment_id",
+      "session_date",
+      "status",
+      "minutes_late"
+    ],
+    "additionalProperties": false
+  }
+}

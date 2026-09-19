@@ -1,0 +1,165 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/education/schools.schema.json",
+  "title": "education/schools",
+  "description": "One row per school centre in the network. The institutions themselves. Teachers, classrooms, courses and students all belong to exactly one school, so this is the root of the whole topic.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1. Every other table in this topic joins against it.",
+        "examples": [
+          1
+        ]
+      },
+      "code": {
+        "type": "string",
+        "pattern": "^\\d{8}$",
+        "description": "Centre code in the format Spanish education authorities use: two digits for the province, then six identifying the centre. Invented, but structurally correct.",
+        "examples": [
+          "41000123"
+        ]
+      },
+      "name": {
+        "type": "string",
+        "description": "School name, following real Spanish conventions -- the centre type followed by a person or place name. All invented.",
+        "examples": [
+          "IES Miguel de Unamuno"
+        ]
+      },
+      "type": {
+        "type": "string",
+        "enum": [
+          "CEIP",
+          "Concertado",
+          "IES",
+          "Privado"
+        ],
+        "description": "Centre type. CEIP is state primary, IES state secondary, Concertado privately run but state funded, and Privado fully independent. The type determines which stages the school teaches.",
+        "examples": [
+          "IES"
+        ]
+      },
+      "city": {
+        "type": "string",
+        "description": "Spanish city the school is in, drawn from real municipalities weighted by population.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "province": {
+        "type": "string",
+        "enum": [
+          "A Coruña",
+          "Albacete",
+          "Alicante",
+          "Almería",
+          "Asturias",
+          "Badajoz",
+          "Baleares",
+          "Barcelona",
+          "Bizkaia",
+          "Burgos",
+          "Cantabria",
+          "Castellón",
+          "Ceuta",
+          "Ciudad Real",
+          "Cuenca",
+          "Cáceres",
+          "Cádiz",
+          "Córdoba",
+          "Gipuzkoa",
+          "Girona",
+          "Granada",
+          "Guadalajara",
+          "Huelva",
+          "Huesca",
+          "Jaén",
+          "La Rioja",
+          "Las Palmas",
+          "León",
+          "Lleida",
+          "Lugo",
+          "Madrid",
+          "Melilla",
+          "Murcia",
+          "Málaga",
+          "Navarra",
+          "Ourense",
+          "Palencia",
+          "Pontevedra",
+          "Salamanca",
+          "Santa Cruz de Tenerife",
+          "Segovia",
+          "Sevilla",
+          "Soria",
+          "Tarragona",
+          "Teruel",
+          "Toledo",
+          "Valencia",
+          "Valladolid",
+          "Zamora",
+          "Zaragoza",
+          "Álava",
+          "Ávila"
+        ],
+        "description": "Province the school sits in, always consistent with the first two digits of its postal code.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "address": {
+        "type": "string",
+        "description": "Street address in Spanish format, with the number after the street name. Invented.",
+        "examples": [
+          "Calle de la Constitución, 24"
+        ]
+      },
+      "postal_code": {
+        "type": "string",
+        "pattern": "^\\d{5}$",
+        "description": "Spanish postal code whose leading pair encodes the province, so the two columns always agree.",
+        "examples": [
+          "41004"
+        ]
+      },
+      "phone": {
+        "type": "string",
+        "description": "School office number, carrying the dialling prefix of the province it is in.",
+        "examples": [
+          "+34 954 22 41 08"
+        ]
+      },
+      "student_capacity": {
+        "type": "integer",
+        "description": "How many pupils the site can hold, correlated with centre type -- a CEIP is far smaller than an IES.",
+        "examples": [
+          850
+        ]
+      },
+      "founded": {
+        "type": "integer",
+        "description": "Calendar year the centre first admitted pupils, spread between 1900 and 2018. No teacher in this dataset was hired before their own school existed.",
+        "examples": [
+          1974
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "code",
+      "name",
+      "type",
+      "city",
+      "province",
+      "address",
+      "postal_code",
+      "phone",
+      "student_capacity",
+      "founded"
+    ],
+    "additionalProperties": false
+  }
+}

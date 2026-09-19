@@ -1,0 +1,143 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/automobile/dealerships.schema.json",
+  "title": "automobile/dealerships",
+  "description": "One row per dealership location. Franchised dealers, each representing one manufacturer. Sales happen at a dealership, so this is the table to join through for territory and performance analysis.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "name": {
+        "type": "string",
+        "description": "Dealership trading name, the manufacturer plus the city it serves. Invented throughout.",
+        "examples": [
+          "Altaria Motors Sevilla"
+        ]
+      },
+      "manufacturer_id": {
+        "type": "integer",
+        "description": "Which marque this dealer is franchised for. A dealership sells one manufacturer's new cars, as franchise agreements require.",
+        "examples": [
+          1
+        ]
+      },
+      "city": {
+        "type": "string",
+        "description": "Spanish city the dealership operates in, drawn from real municipalities weighted by population.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "province": {
+        "type": "string",
+        "enum": [
+          "A Coruña",
+          "Albacete",
+          "Alicante",
+          "Almería",
+          "Asturias",
+          "Badajoz",
+          "Baleares",
+          "Barcelona",
+          "Bizkaia",
+          "Burgos",
+          "Cantabria",
+          "Castellón",
+          "Ceuta",
+          "Ciudad Real",
+          "Cuenca",
+          "Cáceres",
+          "Cádiz",
+          "Córdoba",
+          "Gipuzkoa",
+          "Girona",
+          "Granada",
+          "Guadalajara",
+          "Huelva",
+          "Huesca",
+          "Jaén",
+          "La Rioja",
+          "Las Palmas",
+          "León",
+          "Lleida",
+          "Lugo",
+          "Madrid",
+          "Melilla",
+          "Murcia",
+          "Málaga",
+          "Navarra",
+          "Ourense",
+          "Palencia",
+          "Pontevedra",
+          "Salamanca",
+          "Santa Cruz de Tenerife",
+          "Segovia",
+          "Sevilla",
+          "Soria",
+          "Tarragona",
+          "Teruel",
+          "Toledo",
+          "Valencia",
+          "Valladolid",
+          "Zamora",
+          "Zaragoza",
+          "Álava",
+          "Ávila"
+        ],
+        "description": "Province the dealership sits in, always consistent with the leading pair of its postal code.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "address": {
+        "type": "string",
+        "description": "Street address in Spanish format. Dealerships cluster on industrial estates, as they do in reality. Invented.",
+        "examples": [
+          "Polígono Industrial Norte, 14"
+        ]
+      },
+      "postal_code": {
+        "type": "string",
+        "pattern": "^\\d{5}$",
+        "description": "Spanish postal code whose first two digits encode the province, so the two columns always agree.",
+        "examples": [
+          "41007"
+        ]
+      },
+      "phone": {
+        "type": "string",
+        "description": "Dealership telephone, carrying the dialling prefix of the province it trades in.",
+        "examples": [
+          "+34 954 31 22 07"
+        ]
+      },
+      "opened_at": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the dealership opened. No sale in this dataset predates its own dealership's opening.",
+        "examples": [
+          "2011-04-05"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "manufacturer_id",
+      "city",
+      "province",
+      "address",
+      "postal_code",
+      "phone",
+      "opened_at"
+    ],
+    "additionalProperties": false
+  }
+}

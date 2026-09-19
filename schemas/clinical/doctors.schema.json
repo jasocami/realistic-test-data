@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/clinical/doctors.schema.json",
+  "title": "clinical/doctors",
+  "description": "One row per doctor practising at one hospital. Clinicians who see patients. Each doctor is attached to exactly one department at one hospital, and their specialty is always consistent with that department -- you will not find a paediatrician filed under Cardiology.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "hospital_id": {
+        "type": "integer",
+        "description": "The hospital this doctor works at. Denormalised alongside department_id on purpose, so you can filter doctors by site without a second join -- and so there is something to test a consistency check against.",
+        "examples": [
+          1
+        ]
+      },
+      "department_id": {
+        "type": "integer",
+        "description": "The department this doctor works in. Always belongs to the same hospital as hospital_id.",
+        "examples": [
+          1
+        ]
+      },
+      "full_name": {
+        "type": "string",
+        "description": "Display name including the Spanish title, which is gendered: Dr. for men and Dra. for women. Spanish people carry two surnames -- the father's then the mother's -- which is worth testing any name parser against.",
+        "examples": [
+          "Dra. Lucía Fernández Ruiz"
+        ]
+      },
+      "specialty": {
+        "type": "string",
+        "description": "The doctor's sub-specialty. Always one that belongs to their department -- see the DEPARTMENTS table at the top of generators/topics/clinical.py.",
+        "examples": [
+          "Interventional Cardiology"
+        ]
+      },
+      "license_number": {
+        "type": "string",
+        "pattern": "^LIC-\\d{7}$",
+        "description": "Professional registration number. Invented format that deliberately does not match any real medical board's numbering scheme.",
+        "examples": [
+          "LIC-0000042"
+        ]
+      },
+      "email": {
+        "type": "string",
+        "description": "Work email address, derived from the first name and the first surname with accents transliterated away (María becomes maria). Always on example.org, a domain reserved by the IETF for documentation, so nothing sent here could reach a real inbox.",
+        "examples": [
+          "lucia.fernandez@example.org"
+        ]
+      },
+      "hired_at": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the doctor joined this hospital. Always at least 25 years after their notional date of birth, so no doctor in this dataset qualified as a child.",
+        "examples": [
+          "2016-09-01"
+        ]
+      },
+      "qualification": {
+        "type": "string",
+        "enum": [
+          "Lic. Medicina",
+          "Grado en Medicina",
+          "Dr. en Medicina",
+          "Lic. Medicina, Esp. vía MIR",
+          "Grado en Medicina, Esp. vía MIR",
+          "Dr. en Medicina, Esp. vía MIR"
+        ],
+        "description": "Spanish medical credentials, consistent with the hire date: Licenciatura for doctors who qualified before the Bologna reform and Grado only for those hired from 2016 onward, since the degree did not exist before then. 'Esp. vía MIR' marks the competitive specialty residency.",
+        "examples": [
+          "Lic. Medicina, Esp. vía MIR"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "hospital_id",
+      "department_id",
+      "full_name",
+      "specialty",
+      "license_number",
+      "email",
+      "hired_at",
+      "qualification"
+    ],
+    "additionalProperties": false
+  }
+}

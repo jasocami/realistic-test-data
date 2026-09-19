@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/supermarket/categories.schema.json",
+  "title": "supermarket/categories",
+  "description": "One row per product category, at any level of the hierarchy. A two-level product taxonomy stored as a self-referencing tree. Top level rows are the aisles ('Frescos', 'Bebidas') and have no parent; the rest are the shelves within them and point back at their aisle. This is the table to use when testing recursive queries, breadcrumb rendering or tree-shaped UI components.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1. Parents always have a lower id than their children, so a simple ordered insert works.",
+        "examples": [
+          1
+        ]
+      },
+      "name": {
+        "type": "string",
+        "description": "Category name in Spanish, as it would appear on the aisle sign. Names are unique within a parent but not globally, which is realistic and worth testing.",
+        "examples": [
+          "Frutas y verduras"
+        ]
+      },
+      "parent_id": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "description": "The aisle this shelf belongs to, or empty for the nine top-level aisles. This is the self-reference that makes the table a tree.",
+        "examples": [
+          1
+        ]
+      },
+      "level": {
+        "type": "integer",
+        "description": "Depth in the tree: 1 for an aisle, 2 for a shelf within it. Stored so you can filter to one level without walking the hierarchy.",
+        "examples": [
+          2
+        ]
+      },
+      "vat_rate": {
+        "type": "number",
+        "description": "The Spanish VAT band products in this category attract: 0.04 superreducido for staples, 0.10 reducido for most food, 0.21 general for non-food. Inherited from the parent aisle.",
+        "examples": [
+          0.04
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "level",
+      "vat_rate"
+    ],
+    "additionalProperties": false
+  }
+}

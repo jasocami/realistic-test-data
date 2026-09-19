@@ -1,0 +1,113 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/supermarket/transactions.schema.json",
+  "title": "supermarket/transactions",
+  "description": "One row per completed till transaction. The basket header: who bought, where, when, how they paid and what it came to. The individual products are in transaction_items, and the totals here are guaranteed to equal the sum of those lines.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1 and ordered by time, so a higher id is always a later sale.",
+        "examples": [
+          1
+        ]
+      },
+      "receipt_number": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{8}$",
+        "description": "The number printed on the receipt: store code, then a sequence. This is what a customer quotes when returning something.",
+        "examples": [
+          "0001-00004217"
+        ]
+      },
+      "store_id": {
+        "type": "integer",
+        "description": "Which shop rang up the sale. Always a store that had already opened on the transaction date, and the store the cashier works at.",
+        "examples": [
+          1
+        ]
+      },
+      "customer_id": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "description": "The loyalty-card holder, or empty for an anonymous sale. About 45% of transactions have no customer, which is realistic and makes this the table's main LEFT JOIN case.",
+        "examples": [
+          42
+        ]
+      },
+      "cashier_id": {
+        "type": "integer",
+        "description": "The employee who operated the till. Always someone whose role is Cashier and who works at this store.",
+        "examples": [
+          7
+        ]
+      },
+      "occurred_at": {
+        "type": "string",
+        "format": "date-time",
+        "description": "Date and time of the sale. Trading hours are 09:00 to 21:30, with the familiar lunchtime and early evening peaks and a much busier Saturday.",
+        "examples": [
+          "2025-03-14T18:42:00"
+        ]
+      },
+      "payment_method": {
+        "type": "string",
+        "enum": [
+          "card",
+          "cash",
+          "mobile",
+          "voucher"
+        ],
+        "description": "How the basket was paid for. Card dominates, as it now does in Spain, with cash still meaningful and mobile payment growing.",
+        "examples": [
+          "card"
+        ]
+      },
+      "item_count": {
+        "type": "integer",
+        "description": "Number of distinct product lines in the basket, matching the row count in transaction_items. Most baskets are small; a weekly shop is much larger.",
+        "examples": [
+          7
+        ]
+      },
+      "subtotal": {
+        "type": "number",
+        "description": "Total before VAT, in euros. Equals the sum of the line totals minus the VAT those lines carry.",
+        "examples": [
+          41.32
+        ]
+      },
+      "vat_amount": {
+        "type": "number",
+        "description": "Total VAT across the basket. Because products attract different rates, this is not a fixed percentage of the subtotal -- which is precisely what makes it worth testing against.",
+        "examples": [
+          4.94
+        ]
+      },
+      "total": {
+        "type": "number",
+        "description": "What the customer actually paid. Always exactly equal to the sum of the line totals in transaction_items, verified to the cent in CI.",
+        "examples": [
+          46.26
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "receipt_number",
+      "store_id",
+      "cashier_id",
+      "occurred_at",
+      "payment_method",
+      "item_count",
+      "subtotal",
+      "vat_amount",
+      "total"
+    ],
+    "additionalProperties": false
+  }
+}

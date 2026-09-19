@@ -1,0 +1,144 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/finance/branches.schema.json",
+  "title": "finance/branches",
+  "description": "One row per physical bank branch. The bank's offices. Every account is opened at a branch, so this is the table to join through for any question about regional performance or customer distribution.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1. Every other table joins against this.",
+        "examples": [
+          1
+        ]
+      },
+      "branch_code": {
+        "type": "string",
+        "pattern": "^\\d{4}$",
+        "description": "Four-digit office code, the same one that appears inside every IBAN opened at this branch. Spanish account numbers really do encode the office.",
+        "examples": [
+          "0142"
+        ]
+      },
+      "name": {
+        "type": "string",
+        "description": "Branch name, combining the bank with the city and the district it serves. Entirely invented.",
+        "examples": [
+          "Banco Meridiano Sevilla Centro"
+        ]
+      },
+      "city": {
+        "type": "string",
+        "description": "Spanish city the branch operates in, drawn from real municipalities weighted by population.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "province": {
+        "type": "string",
+        "enum": [
+          "A Coruña",
+          "Albacete",
+          "Alicante",
+          "Almería",
+          "Asturias",
+          "Badajoz",
+          "Baleares",
+          "Barcelona",
+          "Bizkaia",
+          "Burgos",
+          "Cantabria",
+          "Castellón",
+          "Ceuta",
+          "Ciudad Real",
+          "Cuenca",
+          "Cáceres",
+          "Cádiz",
+          "Córdoba",
+          "Gipuzkoa",
+          "Girona",
+          "Granada",
+          "Guadalajara",
+          "Huelva",
+          "Huesca",
+          "Jaén",
+          "La Rioja",
+          "Las Palmas",
+          "León",
+          "Lleida",
+          "Lugo",
+          "Madrid",
+          "Melilla",
+          "Murcia",
+          "Málaga",
+          "Navarra",
+          "Ourense",
+          "Palencia",
+          "Pontevedra",
+          "Salamanca",
+          "Santa Cruz de Tenerife",
+          "Segovia",
+          "Sevilla",
+          "Soria",
+          "Tarragona",
+          "Teruel",
+          "Toledo",
+          "Valencia",
+          "Valladolid",
+          "Zamora",
+          "Zaragoza",
+          "Álava",
+          "Ávila"
+        ],
+        "description": "Province the branch sits in, always consistent with the first two digits of its postal code.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "address": {
+        "type": "string",
+        "description": "Street address in Spanish format, with the number after the street name. Invented.",
+        "examples": [
+          "Avenida de la Constitución, 24"
+        ]
+      },
+      "postal_code": {
+        "type": "string",
+        "pattern": "^\\d{5}$",
+        "description": "Spanish postal code whose leading pair encodes the province, so address validation passes on it.",
+        "examples": [
+          "41004"
+        ]
+      },
+      "phone": {
+        "type": "string",
+        "description": "Branch telephone, with a dialling prefix that matches the province it is in.",
+        "examples": [
+          "+34 954 22 18 90"
+        ]
+      },
+      "opened_at": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the branch began trading, spread across the four decades before the dataset period.",
+        "examples": [
+          "1998-06-15"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "branch_code",
+      "name",
+      "city",
+      "province",
+      "address",
+      "postal_code",
+      "phone",
+      "opened_at"
+    ],
+    "additionalProperties": false
+  }
+}

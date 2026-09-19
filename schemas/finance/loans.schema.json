@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/finance/loans.schema.json",
+  "title": "finance/loans",
+  "description": "One row per loan granted to one customer. Personal loans, car finance, mortgages and student loans. Every loan uses the French amortisation system -- a constant monthly payment -- which is what Spanish lenders actually use.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "loan_number": {
+        "type": "string",
+        "pattern": "^PRE-\\d{7}$",
+        "description": "The lender's reference for this loan, quoted on statements and correspondence.",
+        "examples": [
+          "PRE-0000042"
+        ]
+      },
+      "customer_id": {
+        "type": "integer",
+        "description": "Who borrowed the money. A customer may hold more than one loan at a time.",
+        "examples": [
+          42
+        ]
+      },
+      "loan_type": {
+        "type": "string",
+        "enum": [
+          "auto",
+          "mortgage",
+          "personal",
+          "student"
+        ],
+        "description": "What the loan is for. Type drives everything else: mortgages are large, long and cheap, personal loans small, short and expensive.",
+        "examples": [
+          "personal"
+        ]
+      },
+      "principal": {
+        "type": "number",
+        "description": "Amount originally borrowed in euros. Ranges from a few thousand for a personal loan to several hundred thousand for a mortgage.",
+        "examples": [
+          12000.0
+        ]
+      },
+      "annual_rate": {
+        "type": "number",
+        "description": "Nominal annual interest rate. Mortgages sit near 3%, car finance around 7%, and personal loans closer to 10% -- the real spread between secured and unsecured lending.",
+        "examples": [
+          6.45
+        ]
+      },
+      "term_months": {
+        "type": "integer",
+        "description": "Length of the loan in monthly instalments, from 12 for a small personal loan to 360 for a thirty-year mortgage.",
+        "examples": [
+          48
+        ]
+      },
+      "monthly_payment": {
+        "type": "number",
+        "description": "The constant instalment under the French system, computed from principal, rate and term. Walk the schedule with this figure and the balance reaches exactly zero.",
+        "examples": [
+          284.52
+        ]
+      },
+      "started_on": {
+        "type": "string",
+        "format": "date",
+        "description": "Date of the first instalment. Always on or after the customer joined the bank.",
+        "examples": [
+          "2023-05-01"
+        ]
+      },
+      "status": {
+        "type": "string",
+        "enum": [
+          "active",
+          "defaulted",
+          "paid_off"
+        ],
+        "description": "Where the loan stands. Paid-off loans have their full schedule recorded; defaulted ones stop part way through, which is what makes them worth having.",
+        "examples": [
+          "active"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "loan_number",
+      "customer_id",
+      "loan_type",
+      "principal",
+      "annual_rate",
+      "term_months",
+      "monthly_payment",
+      "started_on",
+      "status"
+    ],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/supermarket/transaction_items.schema.json",
+  "title": "supermarket/transaction_items",
+  "description": "One row per product scanned at the till within one transaction. The basket lines -- by far the largest table in this topic and the one to use when you need volume. Each row is one product, its quantity, and what it came to after any discount.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "transaction_id": {
+        "type": "integer",
+        "description": "The basket this line belongs to. Grouping by this column reconstructs the receipt.",
+        "examples": [
+          1
+        ]
+      },
+      "line_number": {
+        "type": "integer",
+        "description": "Position of this line on the printed receipt, starting at 1 within each transaction.",
+        "examples": [
+          1
+        ]
+      },
+      "product_id": {
+        "type": "integer",
+        "description": "What was scanned. The same product can appear only once per transaction, as a till would merge duplicates into one line.",
+        "examples": [
+          42
+        ]
+      },
+      "quantity": {
+        "type": "number",
+        "description": "How many were bought. Whole numbers for items sold by the unit, and fractional for anything priced by the kilo -- 0.84 kg of tomatoes is a real line.",
+        "examples": [
+          2.0
+        ]
+      },
+      "unit_price": {
+        "type": "number",
+        "description": "Price per unit at the moment of sale, copied from the product. Stored rather than looked up, because a receipt must keep the price that was charged even after the shelf price changes.",
+        "examples": [
+          7.99
+        ]
+      },
+      "discount_percent": {
+        "type": "number",
+        "description": "Reduction applied to this line, from an active promotion. Zero on about 88% of lines.",
+        "examples": [
+          0.0
+        ]
+      },
+      "vat_rate": {
+        "type": "number",
+        "description": "VAT band for this line, copied from the product at the time of sale for the same historical-accuracy reason as unit_price.",
+        "examples": [
+          0.1
+        ]
+      },
+      "line_total": {
+        "type": "number",
+        "description": "Quantity times unit price, less the discount, rounded to the cent. Summing this column within a transaction gives exactly that transaction's total.",
+        "examples": [
+          15.98
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "transaction_id",
+      "line_number",
+      "product_id",
+      "quantity",
+      "unit_price",
+      "discount_percent",
+      "vat_rate",
+      "line_total"
+    ],
+    "additionalProperties": false
+  }
+}

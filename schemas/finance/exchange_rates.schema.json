@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/finance/exchange_rates.schema.json",
+  "title": "finance/exchange_rates",
+  "description": "One row per currency pair per day. Daily reference rates quoted against the euro. Useful for testing currency conversion, and for joining against foreign transactions to work out what they cost in euros.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "base_currency": {
+        "type": "string",
+        "enum": [
+          "EUR"
+        ],
+        "description": "The currency being priced, always the euro here, matching how the European Central Bank publishes its own reference rates.",
+        "examples": [
+          "EUR"
+        ]
+      },
+      "quote_currency": {
+        "type": "string",
+        "enum": [
+          "USD",
+          "GBP",
+          "CHF",
+          "JPY",
+          "MXN"
+        ],
+        "description": "The currency it is priced in. Five pairs are covered, spanning very different orders of magnitude so that formatting code gets a proper workout.",
+        "examples": [
+          "USD"
+        ]
+      },
+      "rate_date": {
+        "type": "string",
+        "format": "date",
+        "description": "The day the rate applies to. Weekends are excluded, since currency markets publish no reference rate then.",
+        "examples": [
+          "2025-03-14"
+        ]
+      },
+      "rate": {
+        "type": "number",
+        "description": "How many units of the quote currency one euro buys. Moves as a slow random walk around a realistic central value for each pair.",
+        "examples": [
+          1.0852
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "base_currency",
+      "quote_currency",
+      "rate_date",
+      "rate"
+    ],
+    "additionalProperties": false
+  }
+}

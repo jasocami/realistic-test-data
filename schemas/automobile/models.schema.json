@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/automobile/models.schema.json",
+  "title": "automobile/models",
+  "description": "One row per model produced by one manufacturer. The model range. A model defines the segment, body style and engine envelope; individual cars in the vehicles table inherit those characteristics and vary within them.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "manufacturer_id": {
+        "type": "integer",
+        "description": "Who makes this model. Every model belongs to exactly one manufacturer.",
+        "examples": [
+          1
+        ]
+      },
+      "name": {
+        "type": "string",
+        "description": "Full model name, manufacturer plus model line, as it would appear in a brochure or a listing.",
+        "examples": [
+          "Altaria Mistral"
+        ]
+      },
+      "segment": {
+        "type": "string",
+        "enum": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "MPV",
+          "SUV",
+          "Van"
+        ],
+        "description": "European vehicle segment, the classification the industry itself uses: A is a city car, C a family hatchback, E an executive saloon, plus SUV, MPV and Van as body-led categories.",
+        "examples": [
+          "C"
+        ]
+      },
+      "body_type": {
+        "type": "string",
+        "enum": [
+          "hatchback",
+          "saloon",
+          "estate",
+          "SUV",
+          "coupe",
+          "MPV",
+          "van"
+        ],
+        "description": "Body style, always one that is plausible for the segment -- you will not find an A-segment estate car, because nobody builds one.",
+        "examples": [
+          "hatchback"
+        ]
+      },
+      "year_from": {
+        "type": "integer",
+        "description": "First model year this version was produced. Vehicles in this dataset are never older than their model's launch.",
+        "examples": [
+          2016
+        ]
+      },
+      "year_to": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "description": "Last model year produced, or empty if the model is still in production -- which is the case for about 40% of rows.",
+        "examples": [
+          2023
+        ]
+      },
+      "base_price": {
+        "type": "number",
+        "description": "List price when new, in euros, scaled to the segment. This is the figure depreciation is applied to when valuing a used example.",
+        "examples": [
+          24900.0
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "manufacturer_id",
+      "name",
+      "segment",
+      "body_type",
+      "year_from",
+      "base_price"
+    ],
+    "additionalProperties": false
+  }
+}

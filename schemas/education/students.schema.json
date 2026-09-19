@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/education/students.schema.json",
+  "title": "education/students",
+  "description": "One row per enrolled pupil. The pupils. Enrolments, grades and attendance all point back here, and the guardian contact details are what a parent portal would use.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1. Use this for joins rather than the student code.",
+        "examples": [
+          1
+        ]
+      },
+      "school_id": {
+        "type": "integer",
+        "description": "Which school the pupil attends. Always a school that teaches a stage appropriate to their age.",
+        "examples": [
+          1
+        ]
+      },
+      "student_code": {
+        "type": "string",
+        "pattern": "^ALU-\\d{6}$",
+        "description": "The pupil's reference at the centre, printed on a student card and used on every internal list.",
+        "examples": [
+          "ALU-000042"
+        ]
+      },
+      "full_name": {
+        "type": "string",
+        "description": "Spanish name with both surnames, as it appears on the school register.",
+        "examples": [
+          "Lucía Serrano Gil"
+        ]
+      },
+      "birth_date": {
+        "type": "string",
+        "format": "date",
+        "description": "Date of birth. Always consistent with the stage the pupil is enrolled in -- a Bachillerato student is 16 to 18, a Primaria pupil 6 to 12.",
+        "examples": [
+          "2010-04-22"
+        ]
+      },
+      "sex": {
+        "type": "string",
+        "enum": [
+          "F",
+          "M"
+        ],
+        "description": "Recorded sex, split close to evenly. Present because official Spanish education statistics are reported broken down by it.",
+        "examples": [
+          "F"
+        ]
+      },
+      "stage": {
+        "type": "string",
+        "enum": [
+          "Bachillerato",
+          "ESO",
+          "FP",
+          "Primaria"
+        ],
+        "description": "Which educational stage the pupil is currently in, derived from their age and consistent with the courses they are enrolled in.",
+        "examples": [
+          "ESO"
+        ]
+      },
+      "year_level": {
+        "type": "integer",
+        "description": "Year within the stage, numbered from 1 and matching the pupil's age within that stage.",
+        "examples": [
+          3
+        ]
+      },
+      "guardian_name": {
+        "type": "string",
+        "description": "Parent or guardian, usually sharing one of the pupil's surnames -- which is exactly what Spanish naming produces and what a family-matching feature should be tested against.",
+        "examples": [
+          "Manuel Serrano Ortiz"
+        ]
+      },
+      "guardian_phone": {
+        "type": "string",
+        "description": "Guardian's mobile number in Spanish format. Never empty, because a school cannot enrol a minor without a contact number.",
+        "examples": [
+          "+34 612 34 56 78"
+        ]
+      },
+      "guardian_email": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Guardian's email on the reserved example.com domain. Empty for about 14% of families, which is the gap any parent-portal rollout runs into.",
+        "examples": [
+          "manuel.serrano@example.com"
+        ]
+      },
+      "enrolled_on": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the pupil joined the school, always the start of an academic year.",
+        "examples": [
+          "2022-09-12"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "school_id",
+      "student_code",
+      "full_name",
+      "birth_date",
+      "sex",
+      "stage",
+      "year_level",
+      "guardian_name",
+      "guardian_phone",
+      "enrolled_on"
+    ],
+    "additionalProperties": false
+  }
+}

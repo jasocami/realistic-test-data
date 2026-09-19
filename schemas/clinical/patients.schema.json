@@ -1,0 +1,195 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/clinical/patients.schema.json",
+  "title": "clinical/patients",
+  "description": "One row per person registered in this dataset. The anchor table of the clinical topic. Appointments, diagnoses, prescriptions, lab results and insurance policies all point back here. If you are exploring this topic for the first time, start with this table and follow the foreign keys outward.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1. Use this for joins.",
+        "examples": [
+          42
+        ]
+      },
+      "mrn": {
+        "type": "string",
+        "pattern": "^MRN-\\d{7}$",
+        "description": "Medical Record Number -- the hospital's own permanent identifier for a patient, and the number printed on a wristband. Real hospitals identify patients by MRN rather than by name, because names are ambiguous, change, and are frequently misspelled.",
+        "examples": [
+          "MRN-0000042"
+        ]
+      },
+      "full_name": {
+        "type": "string",
+        "description": "The patient's full name: given name, father's surname, mother's surname, as Spanish names are constructed. Invented; any resemblance to a real person is coincidental and unavoidable given finite name lists.",
+        "examples": [
+          "María Fernández Ruiz"
+        ]
+      },
+      "date_of_birth": {
+        "type": "string",
+        "format": "date",
+        "description": "Date of birth in ISO-8601 format. Ages as of 2025-06-30 span 0 to 98 and follow a realistic population pyramid, so there are many more 40-year-olds than 95-year-olds.",
+        "examples": [
+          "1974-03-11"
+        ]
+      },
+      "sex": {
+        "type": "string",
+        "enum": [
+          "F",
+          "M"
+        ],
+        "description": "Recorded biological sex, used here only because several laboratory reference ranges differ by it. Split roughly evenly.",
+        "examples": [
+          "F"
+        ]
+      },
+      "blood_type": {
+        "type": "string",
+        "enum": [
+          "A+",
+          "A-",
+          "AB+",
+          "AB-",
+          "B+",
+          "B-",
+          "O+",
+          "O-"
+        ],
+        "description": "ABO and Rh blood group, distributed by real-world frequency: O+ is about 37% of rows and AB- under 1%. A histogram of this column looks like a real one.",
+        "examples": [
+          "O+"
+        ]
+      },
+      "phone": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Contact telephone in Spanish format. About three quarters are mobiles (6xx or 7xx, which carry no geographic meaning); the rest are landlines whose prefix matches the patient's province. Empty for about 5% of patients, because real registration data has gaps.",
+        "examples": [
+          "+34 612 34 56 78"
+        ]
+      },
+      "email": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Contact email on the reserved example.com domain, built from the given name and first surname with accents stripped. Empty for about 12% of patients -- older patients are noticeably more likely to have none, as in reality.",
+        "examples": [
+          "maria.fernandez@example.com"
+        ]
+      },
+      "address": {
+        "type": "string",
+        "description": "Street address in Spanish format: street name first, then the number, then an optional floor and door for flats. Invented -- not a real dwelling.",
+        "examples": [
+          "Calle Mayor, 47, 3º B"
+        ]
+      },
+      "city": {
+        "type": "string",
+        "description": "Spanish city of residence, weighted by real population. Not necessarily the same city as the hospital the patient attends.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "province": {
+        "type": "string",
+        "enum": [
+          "A Coruña",
+          "Albacete",
+          "Alicante",
+          "Almería",
+          "Asturias",
+          "Badajoz",
+          "Baleares",
+          "Barcelona",
+          "Bizkaia",
+          "Burgos",
+          "Cantabria",
+          "Castellón",
+          "Ceuta",
+          "Ciudad Real",
+          "Cuenca",
+          "Cáceres",
+          "Cádiz",
+          "Córdoba",
+          "Gipuzkoa",
+          "Girona",
+          "Granada",
+          "Guadalajara",
+          "Huelva",
+          "Huesca",
+          "Jaén",
+          "La Rioja",
+          "Las Palmas",
+          "León",
+          "Lleida",
+          "Lugo",
+          "Madrid",
+          "Melilla",
+          "Murcia",
+          "Málaga",
+          "Navarra",
+          "Ourense",
+          "Palencia",
+          "Pontevedra",
+          "Salamanca",
+          "Santa Cruz de Tenerife",
+          "Segovia",
+          "Sevilla",
+          "Soria",
+          "Tarragona",
+          "Teruel",
+          "Toledo",
+          "Valencia",
+          "Valladolid",
+          "Zamora",
+          "Zaragoza",
+          "Álava",
+          "Ávila"
+        ],
+        "description": "Province of residence. Always matches the first two digits of the postal code, so address validation that cross-checks the two will pass on this data.",
+        "examples": [
+          "Sevilla"
+        ]
+      },
+      "postal_code": {
+        "type": "string",
+        "pattern": "^\\d{5}$",
+        "description": "Spanish postal code, five digits. The leading pair is the province code and runs from 01 (Álava) to 52 (Melilla) -- codes like 00123 or 53001 do not exist and are only found in the _edge-cases folders.",
+        "examples": [
+          "41001"
+        ]
+      },
+      "registered_at": {
+        "type": "string",
+        "format": "date",
+        "description": "Date the patient was first registered at any hospital in the dataset. Always on or before their first appointment.",
+        "examples": [
+          "2023-02-17"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "mrn",
+      "full_name",
+      "date_of_birth",
+      "sex",
+      "blood_type",
+      "address",
+      "city",
+      "province",
+      "postal_code",
+      "registered_at"
+    ],
+    "additionalProperties": false
+  }
+}

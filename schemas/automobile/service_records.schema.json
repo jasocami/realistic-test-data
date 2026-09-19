@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/automobile/service_records.schema.json",
+  "title": "automobile/service_records",
+  "description": "One row per workshop visit by one vehicle. Maintenance history, and the largest table in the topic. Each row records what was done, at what odometer reading, and what it cost in parts and labour.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1.",
+        "examples": [
+          1
+        ]
+      },
+      "vehicle_id": {
+        "type": "integer",
+        "description": "Which car was worked on. Ordering by vehicle and date gives its maintenance timeline.",
+        "examples": [
+          42
+        ]
+      },
+      "dealership_id": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "description": "The franchised workshop that did the work, or empty for about 35% of visits carried out by an independent garage -- which is what happens once a car is out of warranty.",
+        "examples": [
+          3
+        ]
+      },
+      "service_date": {
+        "type": "string",
+        "format": "date",
+        "description": "Date of the visit, always after the vehicle was registered and in strictly increasing order within a vehicle's history.",
+        "examples": [
+          "2023-09-12"
+        ]
+      },
+      "mileage_km": {
+        "type": "integer",
+        "description": "Odometer reading at the time of the visit. Never lower than the previous service for the same vehicle, because odometers do not run backwards -- a rule CI enforces.",
+        "examples": [
+          62400
+        ]
+      },
+      "service_type": {
+        "type": "string",
+        "enum": [
+          "Air conditioning service",
+          "Battery replacement",
+          "Bodywork repair",
+          "Brake replacement",
+          "Clutch repair",
+          "Oil and filter change",
+          "Routine service",
+          "Suspension repair",
+          "Timing belt replacement",
+          "Tyre replacement"
+        ],
+        "description": "What was carried out. Routine servicing and oil changes dominate, with expensive work like timing belts appearing only at the mileages where it is actually due.",
+        "examples": [
+          "Routine service"
+        ]
+      },
+      "parts_cost": {
+        "type": "number",
+        "description": "Cost of parts fitted, in euros. Zero for a purely diagnostic visit, and several hundred for a clutch or timing belt.",
+        "examples": [
+          142.6
+        ]
+      },
+      "labour_cost": {
+        "type": "number",
+        "description": "Labour charged, in euros, computed from the hours the job takes and a realistic Spanish workshop rate.",
+        "examples": [
+          210.0
+        ]
+      },
+      "total_cost": {
+        "type": "number",
+        "description": "Invoice total, exactly parts_cost plus labour_cost. Stored rather than derived because that is what an invoice does, and it gives you a sum to verify.",
+        "examples": [
+          352.6
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "vehicle_id",
+      "service_date",
+      "mileage_km",
+      "service_type",
+      "parts_cost",
+      "labour_cost",
+      "total_cost"
+    ],
+    "additionalProperties": false
+  }
+}

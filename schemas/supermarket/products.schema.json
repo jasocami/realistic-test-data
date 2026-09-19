@@ -1,0 +1,119 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/jasocami/realistic-test-data@v0.1.0/schemas/supermarket/products.schema.json",
+  "title": "supermarket/products",
+  "description": "One row per distinct product line carried by the chain. The catalogue. Every product has a scannable EAN-13 barcode, a category, a supplier and a shelf price. This is the anchor table for anything to do with what the shop sells.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Surrogate primary key, sequential from 1. Use this for joins rather than the SKU or the barcode.",
+        "examples": [
+          1
+        ]
+      },
+      "sku": {
+        "type": "string",
+        "pattern": "^SKU-\\d{6}$",
+        "description": "Internal stock-keeping unit. The chain's own reference, used on shelf labels and in ordering.",
+        "examples": [
+          "SKU-001337"
+        ]
+      },
+      "ean13": {
+        "type": "string",
+        "pattern": "^\\d{13}$",
+        "description": "The printed barcode, thirteen digits with a correct check digit -- so a barcode library will actually decode it instead of rejecting it. The leading 84 is the GS1 country prefix for Spain.",
+        "examples": [
+          "8412345678905"
+        ]
+      },
+      "name": {
+        "type": "string",
+        "description": "Shelf name in Spanish: what the product is, the brand, and the pack size, exactly as a price label would read.",
+        "examples": [
+          "Aceite de oliva virgen extra Campo Sur 1L"
+        ]
+      },
+      "category_id": {
+        "type": "integer",
+        "description": "The shelf this product sits on. Always a level-2 category, never a top-level aisle.",
+        "examples": [
+          12
+        ]
+      },
+      "supplier_id": {
+        "type": "integer",
+        "description": "Who the chain buys this product from. One supplier per product line.",
+        "examples": [
+          7
+        ]
+      },
+      "brand": {
+        "type": "string",
+        "description": "Own-brand or supplier brand name. All sixteen are invented and none corresponds to a real grocery brand.",
+        "examples": [
+          "Campo Sur"
+        ]
+      },
+      "unit": {
+        "type": "string",
+        "enum": [
+          "ud",
+          "kg",
+          "L",
+          "pack"
+        ],
+        "description": "How the product is sold: by the item (ud), by weight (kg), by volume (L) or as a multipack. This determines whether a quantity can be fractional.",
+        "examples": [
+          "L"
+        ]
+      },
+      "unit_price": {
+        "type": "number",
+        "description": "Shelf price including VAT, in euros. Prices end in .99, .95 or .49 far more often than chance, because retailers really do price that way.",
+        "examples": [
+          7.99
+        ]
+      },
+      "cost_price": {
+        "type": "number",
+        "description": "What the chain pays the supplier per unit. Always below unit_price, giving a gross margin between about 12% and 45% depending on category.",
+        "examples": [
+          5.6
+        ]
+      },
+      "vat_rate": {
+        "type": "number",
+        "description": "Spanish VAT band applied at the till, inherited from the product's category. One of 0.04, 0.10 or 0.21.",
+        "examples": [
+          0.1
+        ]
+      },
+      "active": {
+        "type": "boolean",
+        "description": "Whether the line is still listed. Roughly 7% are discontinued but retained for historical sales, which is exactly why old transactions can still reference them.",
+        "examples": [
+          true
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "sku",
+      "ean13",
+      "name",
+      "category_id",
+      "supplier_id",
+      "brand",
+      "unit",
+      "unit_price",
+      "cost_price",
+      "vat_rate",
+      "active"
+    ],
+    "additionalProperties": false
+  }
+}
